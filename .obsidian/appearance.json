@@ -1,0 +1,9 @@
+{
+  "enabledCssSnippets": [
+    "centeredFolder"
+  ],
+  "accentColor": "#008a10",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "theme": "obsidian"
+}

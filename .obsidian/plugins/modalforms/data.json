@@ -1,0 +1,173 @@
+{
+  "editorPosition": "right",
+  "attachShortcutToGlobalWindow": false,
+  "globalNamespace": "MF",
+  "formDefinitions": [
+    {
+      "title": "📘 Neues Modul erstellen",
+      "name": "module_creation",
+      "fields": [
+        {
+          "name": "course",
+          "label": "Modul",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "short",
+          "label": "Kürzel",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "professor",
+          "label": "Dozent",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "ects",
+          "label": "ECTS",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "number",
+            "hidden": false
+          }
+        },
+        {
+          "name": "verification",
+          "label": "Leistungsbewertung",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "description",
+          "label": "Modul Beschrieb",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "textarea",
+            "hidden": false
+          }
+        },
+        {
+          "name": "learning_objectives",
+          "label": "Lernziele",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "textarea",
+            "hidden": false
+          }
+        },
+        {
+          "name": "weekday",
+          "label": "Wochentag",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "select",
+            "source": "fixed",
+            "options": [
+              {
+                "value": "Montag",
+                "label": "Montag"
+              },
+              {
+                "value": "Dienstag",
+                "label": "Dienstag"
+              },
+              {
+                "value": "Mittwoch",
+                "label": "Mittwoch"
+              },
+              {
+                "value": "Donnerstag",
+                "label": "Donnerstag"
+              },
+              {
+                "value": "Freitag",
+                "label": "Freitag"
+              }
+            ]
+          }
+        },
+        {
+          "name": "time_from",
+          "label": "Zeit Von",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "time",
+            "hidden": false
+          }
+        },
+        {
+          "name": "time_to",
+          "label": "Zeit bis",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "time",
+            "hidden": false
+          }
+        },
+        {
+          "name": "tags",
+          "label": "Tags",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "🗓️ Neues Semester erstellen",
+      "name": "semester_creation",
+      "fields": [
+        {
+          "name": "semester",
+          "label": "Semester",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "semester_short",
+          "label": "Kürzel",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        }
+      ],
+      "version": "1"
+    }
+  ]
+}
