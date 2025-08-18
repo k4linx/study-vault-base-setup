@@ -127,7 +127,12 @@ x+1=3 & \  \mathbb{L} = \{2\}
 $$
 - Schritt 2 auf 3 ist keine Äquivalenzumformung, Nun muss man kontrollieren ob keine Lösungen entstanden sind ($1*0 = 0$). Das nennt man Scheinlösungen.
 - Von Schritt 6 auf 7 ist nun eine Lösung verloren gegangen.
-
+$$
+\begin{gather}
+\underbrace{(x+1)(4x-3)=2(x+1)(2x+3)} \\
+\arrow \text{ist } x=-1 \text{ eine Lösung}\to \text{Ja}
+\end{gather}
+$$
 ## Wichtig für alles:
 
 
