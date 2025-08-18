@@ -39,17 +39,18 @@ Faktorisieren bedeutet den Term in möglichst viele einfache Faktoren zu zerlege
 ### Bsp 2 mit Binom Faktorisiert:$$ 9x^{2}-16 == (3x+4)(3x-4)$$
 ### Bsp 3 Zweiklammeransatz: $$ x^{2}+4x-5=(x+\dots)(x+\dots)$$
 $$ x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)$$
-## Allgemeine binomische Formel:
-
-$$(a+b)^{2}= 1a^{2}+2ab+1b^{2}$$
-Die Allgemeine Binomische Formel kann mit dem Pascallschen 3-eck abgeleitet werden:
+## Allgemeine binomische Formel & Pascallsches Dreieck:
 $$\begin{array}{c}
 (a+b)^{0} &  \ 1 \\
 (a+b)^{1}  & \ 1 \ 1 \\
 (a+b)^{2}  & \ 1 \ 2 \ 1 \\
 (a+b)^{3} & \ 1 \ 3 \ 3 \ 1 \\
 \end{array}$$
-Im pascallschen dreieck werden die 2 diagonal darüber stehenden 
+Im Pascallschen Dreieck werden die 2 rechts & link darüber stehenden summen addiert.
+um nun eine Formel $(a+b)^3$ zu erhalten muss nun die Basis $(a+b)^2$ mit $(a+b)$ multipliziert werden
+$$(a+b)^{3}= (1a^{2}+2ab+1b^{2})(a+b)$$
+
+
 ## Brüche:
 Brüche sind eine andere Schreibweise für die Division:
 $$\frac{a}{b} =a : b$$

@@ -1,0 +1,10 @@
+{
+  "quick-latex:addInlineMath": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}
