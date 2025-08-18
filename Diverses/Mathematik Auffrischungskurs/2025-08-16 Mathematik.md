@@ -2,7 +2,9 @@
 - [ ] Was ist das Assoziativgesetz?
 - [ ] Wie vereinfache ich Doppelbrüche am besten?
 - [ ] Was ist eine Gleichung?
-- [ ] Was ist eine/keine Äquivalenzumformung?
+- [ ] Was ist eine Äquivalenzumformung?
+- [ ] Was ist keine Äquivalenzumformung
+- [ ] 
 ---
 ## 💡 Wichtige Begriffe
 - Kommutativgesetz
