@@ -52,8 +52,10 @@ $$\frac{a}{b}*\frac{c}{d} = \frac{ac}{bd} $$
 
 ### Brüche Addieren:$$\frac{a}{b} +\frac{c}{d}=\frac{a+c}{b}$$
 $$(a+c)*\frac{1}{b}=a:b+ac:b$$
-### Doppelbrüche:$$\frac{\frac{a}{b}}{\frac{c}{d}} =\frac{a}{b}*\frac{d}{c}$$
-Bei Doppelbrüchen kann der Bruch mit dem Kehrert des Nenners multipliziert werden
+### Doppelbrüche:
+Doppelbrüche bestehen aus einem Bruch im Zähler(oben) und einem Bruch im Nenner()unten:
+$$\frac{\frac{a}{b}}{\frac{c}{d}} =\frac{a}{b}*\frac{d}{c}$$
+Bei Doppelbrüchen kann der Bruch mit dem Kehrwert des Nenners multipliziert werden
 
 ## Wichtig für alles:
 
@@ -66,9 +68,11 @@ Bei Doppelbrüchen kann der Bruch mit dem Kehrert des Nenners multipliziert werd
 	- [ ] Was muss ich beachten
 - [ ] Detailierte Beispiele mit realen Termen beschreiben Pro Thema
 - [ ] Wichtige Begriffe in 2 Sätzen erklären pro Begriff
+
 ---
 ## 📕 Quellen
 ![[AuffrischungskursAufgabenHS25.pdf#page=3]] 
 
+## Lösungen
 - [[1Rechenregeln.pdf]] - Lösungen zu Kapitel 1
 - [[2GleichungenUndFunktionenTeil1.pdf]] - Lösungen Kapitel 2, Teil 1
