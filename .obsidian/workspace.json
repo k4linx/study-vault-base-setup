@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +205,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Diverses/Mathematik Auffrischungskurs/AuffrischungskursAufgabenHS25.pdf",
-    "Home.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
+    "Home.md",
     "Diverses/Modultabelle EIT v3 Word ab 24HS.pdf",
     "Diverses/Mathematik Auffrischungskurs",
     "Diverses/gesamt_vz_ES.pdf",
