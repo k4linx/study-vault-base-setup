@@ -64,4 +64,7 @@ Bei Doppelbrüchen kann der Bruch mit dem Kehrert des Nenners multipliziert werd
 - [ ] Wichtige Begriffe in 2 Sätzen erklären pro Begriff
 ---
 ## 📕 Quellen
-- ![[AuffrischungskursAufgabenHS25.pdf#page=3]] 
+![[AuffrischungskursAufgabenHS25.pdf#page=3]] 
+
+- [[1Rechenregeln.pdf]] - Lösungen zu Kapitel 1
+- 
