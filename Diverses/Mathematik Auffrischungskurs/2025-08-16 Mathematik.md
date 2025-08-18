@@ -62,12 +62,13 @@ Bei Doppelbrüchen kann der Bruch mit dem Kehrwert des Nenners multipliziert wer
 
 ---
 ## ✅ ToDo
-- [ ] Allgemeine Binomische Formel & Pascallsches 3-eck ausführen
-- [ ] Gleichungen & Funktionen Zusammenfassen
+- [ ] #task Allgemeine Binomische Formel & Pascallsches 3-eck ausführen
+- [ ] #task Gleichungen & Funktionen Zusammenfassen
 	- [ ] Äquivalenzumformungen beschreiben
 	- [ ] Was muss ich beachten
-- [ ] Detailierte Beispiele mit realen Termen beschreiben Pro Thema
-- [ ] Wichtige Begriffe in 2 Sätzen erklären pro Begriff
+- [ ] #task Detailierte Beispiele mit realen Termen beschreiben Pro Thema
+- [ ] #task Wichtige Begriffe in 2 Sätzen erklären pro Begriff
+- [ ] #task Allgemein wichtiges aufschreiben und Definieren
 
 ---
 ## 📕 Quellen
