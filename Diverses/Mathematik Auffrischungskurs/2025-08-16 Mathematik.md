@@ -67,4 +67,4 @@ Bei Doppelbrüchen kann der Bruch mit dem Kehrert des Nenners multipliziert werd
 ![[AuffrischungskursAufgabenHS25.pdf#page=3]] 
 
 - [[1Rechenregeln.pdf]] - Lösungen zu Kapitel 1
-- 
+- [[2GleichungenUndFunktionenTeil1.pdf]] - Lösungen Kapitel 2, Teil 1
