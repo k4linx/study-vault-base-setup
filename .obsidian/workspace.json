@@ -11,15 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Diverses/Modultabelle EIT v3 Word ab 24HS.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-file-text",
+              "title": "Modultabelle EIT v3 Word ab 24HS"
             }
           }
         ]
@@ -201,12 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "390d0ece70ce5c34",
   "lastOpenFiles": [
+    "Diverses/gesamt_vz_ES.pdf",
+    "Diverses/Allgemeine Infos.md",
     "Home.md",
     "A_Inbox/Info Elektro- & Informationstechnik HS 2025.md",
-    "Diverses/Allgemeine Infos.md",
-    "Diverses/gesamt_vz_ES.pdf",
     "Diverses/Modultabelle EIT v3 Word ab 24HS.pdf",
     "templates/semester/semester_template.md",
     "templates/module/module_template.md",
