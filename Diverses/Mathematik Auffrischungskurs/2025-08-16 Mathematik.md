@@ -4,27 +4,28 @@
 - [ ] Was ist eine Gleichung?
 - [ ] Was ist eine Äquivalenzumformung?
 - [ ] Was ist keine Äquivalenzumformung
-- [ ] 
+
 ---
 ## 💡 Wichtige Begriffe
-- Kommutativgesetz
-- Assoziativgesetz
-- Distributivgesetz
-- Binomische Formeln
-- Faktorisieren
-- Äquivalenzumformung
+- Kommutativgesetz -
+- Assoziativgesetz -
+- Distributivgesetz -
+- Binomische Formeln -
+- Faktorisieren -
+- Äquivalenzumformung -
+
 ---
 ## 📄 Zusammenfassung
-Wir haben die Grundrechenregeln angeschaut das bedeutet Adition, Multiplikation & Subtraktion:
+Wir haben die Grundrechenregeln angeschaut das bedeutet Addition, Multiplikation & Subtraktion:
 
 ## 3 Rechengesetze:
-Kommutativgesetz: $$ a+b = b+a$$
+### Kommutativgesetz: $$ a+b = b+a$$
 $$
 a*b=b*a
 $$
-Assoziativgesetz: $$a+(b+c) = a+b+c = (a+b)+c $$
+### Assoziativgesetz: $$a+(b+c) = a+b+c = (a+b)+c $$
 $$ a*(b*c) =a*b*c = (a*b)*c$$
-Distributivgesetz: $$a*(b+c)= a*b+a*c = ab+ac $$
+### Distributivgesetz: $$a*(b+c)= a*b+a*c = ab+ac $$
 	Subtraktion: $$a-b = a+(-1)*b$$
 **Wichtig:** beim Distributivgesetz ist immer Punkt vor Strich operieren.
 
