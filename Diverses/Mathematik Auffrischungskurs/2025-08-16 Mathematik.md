@@ -44,12 +44,12 @@ $$ x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)$$
 $$(a+b)^{2}= 1a^{2}+2ab+1b^{2}$$
 Die Allgemeine Binomische Formel kann mit dem Pascallschen 3-eck abgeleitet werden:
 $$\begin{array}{c}
-(a+b)^{0} \ 1 \\
-(a+b)^{1} \ 1 \ 1 \\
-1 \ 2 \ 1 \\
-1 \ 3 \ 3 \ 1 \\
+(a+b)^{0} &  \ 1 \\
+(a+b)^{1}  & \ 1 \ 1 \\
+(a+b)^{2}  & \ 1 \ 2 \ 1 \\
+(a+b)^{3} & \ 1 \ 3 \ 3 \ 1 \\
 \end{array}$$
-
+Im pascallschen dreieck werden die 2 diagonal darüber stehenden 
 ## Brüche:
 Brüche sind eine andere Schreibweise für die Division:
 $$\frac{a}{b} =a : b$$
