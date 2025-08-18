@@ -11,12 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Diverses/Modultabelle EIT v3 Word ab 24HS.pdf"
+                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Modultabelle EIT v3 Word ab 24HS"
+              "icon": "lucide-file",
+              "title": "2025-08-16 Mathematik"
             }
           }
         ]
@@ -198,13 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "390d0ece70ce5c34",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Diverses/Modultabelle EIT v3 Word ab 24HS.pdf",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
+    "Diverses/Mathematik Auffrischungskurs",
     "Diverses/gesamt_vz_ES.pdf",
     "Diverses/Allgemeine Infos.md",
     "Home.md",
     "A_Inbox/Info Elektro- & Informationstechnik HS 2025.md",
-    "Diverses/Modultabelle EIT v3 Word ab 24HS.pdf",
     "templates/semester/semester_template.md",
     "templates/module/module_template.md",
     "Untitled Kanban.md",
@@ -232,8 +237,6 @@
     "HS25/Module/lalg1 - Lineare Algebra 1/2025-05-29 - Vektoren",
     "HS25/HS25 - Herbst 2025.md",
     "HS25/Module/lalg1 - Lineare Algebra 1",
-    "HS25/Module",
-    "FS2026/Module/dsf - lineare /2025-05-28 - vektoren/vektoren - 2025-05-28.md.md",
-    "FS2026/Module/dsf - lineare /dsf - lineare .md"
+    "FS2026/Module/dsf - lineare /2025-05-28 - vektoren/vektoren - 2025-05-28.md.md"
   ]
 }
