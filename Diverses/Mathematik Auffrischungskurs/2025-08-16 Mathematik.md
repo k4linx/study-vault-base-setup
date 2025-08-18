@@ -54,7 +54,7 @@ $$\begin{array}{c}
 \end{array}$$
 Im Pascallschen Dreieck werden die 2 rechts & links darüber stehenden Summanden addiert. Um nun einen Term für die Formel $(a+b)^3$ zu erhalten muss der Term der Formel $(a+b)^2$ mit $(a+b)$ multipliziert werden:
 $$\begin{gather}
-(a+b)^{2} = & \ (1a^{2}+2ab+1b^{2})(a+b) \to\\
+(a+b)^{2} = & \ (1a^{2}+2ab+1b^{2})(a+b) \to \\
 (a+b)^{3} = & \ (1a^{3}+ 3a^{2}b +3ab^{2}+b^{3})(a+b) \to \\
 (a+b)^{4} = & \ (1a^{4}+4a^{3}b +6a^{2}b^{2}+4ab^{3}+b^4)(a+b) \\
 \dots \\
@@ -108,13 +108,30 @@ $$\begin{gather}
 x+14=4x-x & \ \text{Zusammenfassen}\\
 x+14=3x & \ | -x \\
 14=2x & \ | :2 \\
-7=x & \ 
+7=x \Rightarrow & \ \mathbb{L}=\{7\}
 \end{gather}$$
+### Theorie:
+Äquivalenzumformung: 
+- Addition/Subtraktion derselben Zahl/Term auf jeder Seite
+- Multiplikation/Division derselben Zahl/Term $\ne 0$ 
+Bsp:$$
+\begin{gather}
+x=1 & \ \mathbb{L} = \{1\} & \ |+2 \\
+x+2 = 3 & \ \mathbb{L} = \{1\} & \ | * (x-2) \\
+(x+2)(x-2)=3(x-2) & \  \mathbb{L} = \{1;2\}  \\
+x^{2}-4 =3x-6 & \ & \ |+3  \\
+x^{2}-1 = 3x-3  \\
+(x+1)(x-1) =3(x-1) & \  \mathbb{L} = \{1;2\} & \ |:(x-1) \\
+x+1=3 & \  \mathbb{L} = \{2\} 
+\end{gather}
+$$
+- Schritt 2 auf 3 ist keine Äquivalenzumformung, Nun muss man kontrollieren ob keine Lösungen entstanden sind ($1*0 = 0$). Das nennt man Scheinlösungen.
+- Von Schritt 6 auf 7 ist nun eine Lösung verloren gegangen.
 
 ## Wichtig für alles:
 
 
----
+
 ## ✅ ToDo
 - [x] #task Allgemeine Binomische Formel & Pascallsches 3-eck ausführen ✅ 2025-08-18
 - [ ] #task Gleichungen & Funktionen Zusammenfassen
