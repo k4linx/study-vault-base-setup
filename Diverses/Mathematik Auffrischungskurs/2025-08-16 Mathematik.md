@@ -1,9 +1,9 @@
 ## ⁉️ Fragen
-- [ ] Was ist das Assoziativgesetz?
-- [ ] Wie vereinfache ich Doppelbrüche am besten?
-- [ ] Was ist eine Gleichung?
-- [ ] Was ist eine Äquivalenzumformung?
-- [ ] Was ist keine Äquivalenzumformung
+- [x] Was ist das Assoziativgesetz?
+- [x] Wie vereinfache ich Doppelbrüche am besten?
+- [x] Was ist eine Gleichung?
+- [x] Was ist eine Äquivalenzumformung?
+- [x] Was ist keine Äquivalenzumformung?
 
 ---
 ## 💡 Wichtige Begriffe
@@ -136,17 +136,18 @@ $$
 \end{gather}
 $$
 ## Wichtig für alles:
-
-
-
+- Bei der Multiplikation Vorzeichen **nicht** vergessen.
+- Bei einer Bruchgleichung wird der Ganze Term multipliziert z.B.
+$$
+\frac{45}{2y-9} -2 = \frac{27}{2y-9} \to 45-2(2y-9)=27(2y-9) $$
 ## ✅ ToDo
 - [x] #task Allgemeine Binomische Formel & Pascallsches 3-eck ausführen ✅ 2025-08-18
-- [ ] #task Gleichungen & Funktionen Zusammenfassen
-	- [ ] Äquivalenzumformungen beschreiben
-	- [ ] Was muss ich beachten
+- [x] #task Gleichungen & Funktionen Zusammenfassen ✅ 2025-08-18
+	- [x] Äquivalenzumformungen beschreiben
+	- [x] Was muss ich beachten
 - [-] #task Detailierte Beispiele mit realen Termen beschreiben Pro Thema, in Lösungsheft & Lösungen vorhanden
-- [ ] #task Wichtige Begriffe in 2 Sätzen erklären pro Begriff
-- [ ] #task Allgemein wichtiges aufschreiben und Definieren
+- [ ] #task Wichtige Begriffe in 2 Sätzen erklären pro Begriff 📅 2025-08-19 
+- [x] #task Allgemein wichtiges aufschreiben und Definieren ✅ 2025-08-18
 
 ---
 ## 📕 Quellen
