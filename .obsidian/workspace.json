@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-16 Mathematik"
+              "title": "Home"
             }
           }
         ]
@@ -204,16 +204,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Diverses/Modultabelle EIT v3 Word ab 24HS.pdf",
-    "Diverses/gesamt_vz_ES.pdf",
+    "Diverses/Organisatorisch/Allgemeine Infos.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
+    "Diverses/Organisatorisch",
+    "Diverses/Organisatorisch/Modultabelle EIT v3 Word ab 24HS.pdf",
+    "Diverses/Organisatorisch/gesamt_vz_ES.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/1Rechenregeln.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil1.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
     "Home.md",
     "Diverses/Mathematik Auffrischungskurs",
-    "Diverses/Allgemeine Infos.md",
     "A_Inbox/Info Elektro- & Informationstechnik HS 2025.md",
     "templates/semester/semester_template.md",
     "templates/module/module_template.md",
@@ -232,7 +233,6 @@
     "ASDFASDFASDFQWEFASDFAS/ASDFASDFASDFQWEFASDFAS - ASDFASDFA.md",
     "ASDFASDFASDFQWEFASDFAS",
     "ASDFASDFASFD/ASDFASDFASFD - sfADAS.md",
-    "ASDFASDFASFD",
     "skalarprodukt.md",
     "FS26/FS26 - Frühling 2026.md",
     "HS25/Module/lalg1 - Lineare Algebra 1/2025-05-29 - Vektoren/Vektoren - 2025-05-29.md.md",
