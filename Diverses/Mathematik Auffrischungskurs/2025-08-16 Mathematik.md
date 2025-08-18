@@ -65,6 +65,7 @@ Wie gezeigt kann das einfach so weitergeführt werden wobei jeder term multipliz
 ## Brüche:
 Brüche sind eine andere Schreibweise für die Division:
 $$\frac{a}{b} =a : b$$
+Der Nenner, in diesem fall $b$ darf nicht $0$ sein ansonsten dividiert man durch null welches nicht definiert ist.
 ### Brüche Multiplizieren:
 $$\frac{a}{b}*\frac{c}{d} = \frac{ac}{bd} $$
 Brüche dürfen einfach so Zähler mal Zähler & Nenner mal Nenner gerechnet werden
@@ -99,6 +100,16 @@ Doppelbrüche bestehen aus einem Bruch im Zähler(oben) und einem Bruch im Nenne
 $$\frac{\frac{a}{b}}{\frac{c}{d}} =\frac{a}{b}*\frac{d}{c}$$
 Bei Doppelbrüchen kann der Bruch mit dem Kehrwert des Nenners multipliziert werden
 
+## Gleichungen
+
+Gleichungen ganz einfach z.B. $1+2=3$ ist eine Gleichung.
+
+$$\begin{gather}
+x+14=4x-x & \ \text{Zusammenfassen}\\
+x+14=3x & \ | -x \\
+14=2x & \ | :2 \\
+7=x & \ 
+\end{gather}$$
 
 ## Wichtig für alles:
 
@@ -109,7 +120,7 @@ Bei Doppelbrüchen kann der Bruch mit dem Kehrwert des Nenners multipliziert wer
 - [ ] #task Gleichungen & Funktionen Zusammenfassen
 	- [ ] Äquivalenzumformungen beschreiben
 	- [ ] Was muss ich beachten
-- [ ] #task Detailierte Beispiele mit realen Termen beschreiben Pro Thema
+- [-] #task Detailierte Beispiele mit realen Termen beschreiben Pro Thema, in Lösungsheft & Lösungen vorhanden
 - [ ] #task Wichtige Begriffe in 2 Sätzen erklären pro Begriff
 - [ ] #task Allgemein wichtiges aufschreiben und Definieren
 
