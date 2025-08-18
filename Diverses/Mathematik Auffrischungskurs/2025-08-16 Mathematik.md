@@ -39,9 +39,10 @@ Faktorisieren bedeutet den Term in möglichst viele einfache Faktoren zu zerlege
 ### Bsp 2 mit Binom Faktorisiert:$$ 9x^{2}-16 == (3x+4)(3x-4)$$
 ### Bsp 3 Zweiklammeransatz: $$ x^{2}+4x-5=(x+\dots)(x+\dots)$$
 $$ x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)$$
-## Allgemeine binomische Formel (TODO):
+## Allgemeine binomische Formel:
 
 $$(a+b)^{2}= 1a^{2}+2ab+1b^{2}$$
+Die Allgemeine Binomische Formel besagt 
 
 ## Brüche:
 Brüche sind eine andere Schreibweise für die Division:
