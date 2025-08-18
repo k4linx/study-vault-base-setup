@@ -129,8 +129,10 @@ $$
 - Von Schritt 6 auf 7 ist nun eine Lösung verloren gegangen.
 $$
 \begin{gather}
-\underbrace{(x+1)(4x-3)=2(x+1)(2x+3)} \\
-\arrow \text{ist } x=-1 \text{ eine Lösung}\to \text{Ja}
+\underbrace{(x+1)(4x-3)=2(x+1)(2x+3)} & \ |:x+1 \\
+\text{ist } x=-1 \text{ eine Lösung}\to \text{Ja } \to \symbb{L} = \{-1\} & \ \downarrow \\
+4x-3 = 2(2x+3) & \ \leftarrow \\
+4x-3 = 4x+6 & \ | -4x 
 \end{gather}
 $$
 ## Wichtig für alles:
