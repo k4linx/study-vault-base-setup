@@ -26,9 +26,11 @@ $$
 ### Assoziativgesetz: $$a+(b+c) = a+b+c = (a+b)+c $$
 $$ a*(b*c) =a*b*c = (a*b)*c$$
 ### Distributivgesetz: $$a*(b+c)= a*b+a*c = ab+ac $$
-	Subtraktion: $$a-b = a+(-1)*b$$
-**Wichtig:** beim Distributivgesetz ist immer Punkt vor Strich operieren.
-
+**Wichtig:** beim Distributivgesetz ist immer [[2025-08-16 Mathematik#Punkt vor Strich|Punkt vor Strich]] operieren.
+## Weitere Regeln:
+### Punkt vor Strich: 
+$$a*b+c = (a*b)+c$$
+Subtraktion:$$a-b = a+(-1)*b$$
 ## Binomische Formeln
 ### 1. Binomische Formel: $$(a+b)^{2} = (a+b)(a+)=a^{2} + 2ab +b^{2}$$
 ### 2. Binomische Formel: $$(a-b)^{2}=(a-b)(a-b)= a^2-2ab+b^2$$
@@ -36,41 +38,74 @@ $$ a*(b*c) =a*b*c = (a*b)*c$$
 ## Faktorisieren:
 Faktorisieren bedeutet den Term in möglichst viele einfache Faktoren zu zerlegen.
 ### Bsp Faktorisiert mit Distributivgesetz: $$20y^{2}+8y=4y(5y+2)$$
-### Bsp 2 mit Binom Faktorisiert:$$ 9x^{2}-16 == (3x+4)(3x-4)$$
-### Bsp 3 Zweiklammeransatz: $$ x^{2}+4x-5=(x+\dots)(x+\dots)$$
-$$ x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)$$
+Um von links nach rechts zu kommen wird das distributivgesetz angewendet.
+
+### Bsp 2 mit Binom Faktorisiert:
+$$ 9x^{2}-16 == (3x+4)(3x-4)$$
+### Bsp 3 Zweiklammeransatz: $$ x^{2}+4x-5=(x+\dots)(x+\dots)$$$$ x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)$$
 ## Allgemeine binomische Formel & Pascallsches Dreieck:
 $$\begin{array}{c}
 (a+b)^{0} &  \ 1 \\
 (a+b)^{1}  & \ 1 \ 1 \\
 (a+b)^{2}  & \ 1 \ 2 \ 1 \\
 (a+b)^{3} & \ 1 \ 3 \ 3 \ 1 \\
+\dots & \dots \\
+(a+b)^{n} & \text{n+1 Anzahl an Termen}
 \end{array}$$
-Im Pascallschen Dreieck werden die 2 rechts & link darüber stehenden summen addiert.
-um nun eine Formel $(a+b)^3$ zu erhalten muss nun die Basis $(a+b)^2$ mit $(a+b)$ multipliziert werden
-$$(a+b)^{3}= (1a^{2}+2ab+1b^{2})(a+b)$$
-
+Im Pascallschen Dreieck werden die 2 rechts & links darüber stehenden Summanden addiert. Um nun einen Term für die Formel $(a+b)^3$ zu erhalten muss der Term der Formel $(a+b)^2$ mit $(a+b)$ multipliziert werden:
+$$\begin{gather}
+(a+b)^{2} = & \ (1a^{2}+2ab+1b^{2})(a+b) \to\\
+(a+b)^{3} = & \ (1a^{3}+ 3a^{2}b +3ab^{2}+b^{3})(a+b) \to \\
+(a+b)^{4} = & \ (1a^{4}+4a^{3}b +6a^{2}b^{2}+4ab^{3}+b^4)(a+b) \\
+\dots \\
+(a+b)^{n}= & \ (1a^{n}+xa^{n-1}b^{n-3}+ \dots + za^{n-3}b^{n-1} +b^{n}) \\
+\end{gather}$$
+Wie gezeigt kann das einfach so weitergeführt werden wobei jeder term multipliziert werden muss. Die Zahl die vorne dran steht muss mann aus dem Pascallschen dreieck herauslesen.
 
 ## Brüche:
 Brüche sind eine andere Schreibweise für die Division:
 $$\frac{a}{b} =a : b$$
 ### Brüche Multiplizieren:
 $$\frac{a}{b}*\frac{c}{d} = \frac{ac}{bd} $$
-### Brüche kürzen: $$ \frac{a*c}{b*c}=\frac{\frac{a}{b}*c}{c} = \frac{a}{b}, \frac{c}{c} = 1 $$
-
-### Brüche Addieren:$$\frac{a}{b} +\frac{c}{d}=\frac{a+c}{b}$$
+Brüche dürfen einfach so Zähler mal Zähler & Nenner mal Nenner gerechnet werden
+### Brüche kürzen: $$ \frac{a*c}{b*c}=\frac{a}{b}*\frac{c}{c} = \frac{a}{b}, \frac{c}{c} = 1 $$
+beim Kürzen muss der Nenner und der Zähler genau den gleichen Wert enthalten.
+### Brüche Addieren:$$\frac{a}{b} +\frac{c}{b}=\frac{a+c}{b}$$
+Wenn der Nenner gleich ist dürfen Brüche zusammen Addiert/Subtrahiert werden. Ansonsten muss gleichnamig gemacht werden:
+$$\begin{gather} \\
+\frac{2}{39} - \frac{1}{65} \\
+\frac{2}{3*13} - \frac{1}{5*13}
+\end{gather}
+$$
+Erweitern um gemeinsamen Nenner zu erhalten & ausrechnen:
+$$
+\begin{gather}
+\frac{2*5}{3*5*13} - \frac{1*3}{5*3*13} \\
+ \\
+2*5 = 10  \\
+1*3 = 3 \\
+3*5*13 = 195  \\
+ \\
+\end{gather}$$
+Einsetzen:
+$$
+\begin{gather}
+\frac{10-3}{195} = \frac{7}{195} \\
+\end{gather}
+$$
 $$(a+c)*\frac{1}{b}=a:b+ac:b$$
 ### Doppelbrüche:
-Doppelbrüche bestehen aus einem Bruch im Zähler(oben) und einem Bruch im Nenner()unten:
+Doppelbrüche bestehen aus einem Bruch im Zähler(oben) und einem Bruch im Nenner(unten):
 $$\frac{\frac{a}{b}}{\frac{c}{d}} =\frac{a}{b}*\frac{d}{c}$$
 Bei Doppelbrüchen kann der Bruch mit dem Kehrwert des Nenners multipliziert werden
+
 
 ## Wichtig für alles:
 
 
 ---
 ## ✅ ToDo
-- [ ] #task Allgemeine Binomische Formel & Pascallsches 3-eck ausführen
+- [x] #task Allgemeine Binomische Formel & Pascallsches 3-eck ausführen ✅ 2025-08-18
 - [ ] #task Gleichungen & Funktionen Zusammenfassen
 	- [ ] Äquivalenzumformungen beschreiben
 	- [ ] Was muss ich beachten

@@ -23,6 +23,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "29c41e1dc685f263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f9a345ea9f34946",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/1Rechenregeln.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1Rechenregeln"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,13 +222,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/1Rechenregeln.pdf",
     "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
+    "Home.md",
     "Diverses/Organisatorisch/Allgemeine Infos.md",
     "Diverses/Organisatorisch",
     "Diverses/Organisatorisch/Modultabelle EIT v3 Word ab 24HS.pdf",
     "Diverses/Organisatorisch/gesamt_vz_ES.pdf",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/1Rechenregeln.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil1.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
