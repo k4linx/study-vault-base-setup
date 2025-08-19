@@ -86,6 +86,8 @@ TODO: Diagramm zeichnen
 Mit der Normalparabel können folgende Operationen ausgeführt werden:
 - Verschiebung an $x$ und $y$ Achse
 - Streckung zur $x$-Achse
+- Spiegelung an $x$-Achse
+- Spiegelung an $y$-Achse
 
 ---
 ## ✅ ToDo
