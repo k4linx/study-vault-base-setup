@@ -30,7 +30,7 @@ Quadratische Gleichungen können mit der [[2025-08-17 Mathematik Auffrischungsku
 #### Mitternachtsformel
 Die grundform der Mitternachtsformel sieht folgend aus:
 $$
-x_2
+x_{1,2} = -b 
 $$
 
 ---
