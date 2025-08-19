@@ -67,6 +67,7 @@ In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung einges
 ### Lineare Funktionen
 Lineare Funktionen verlaufen immer linear in eine Koordinatensystem:
 
+### Wich
 
 ---
 ## ✅ ToDo
