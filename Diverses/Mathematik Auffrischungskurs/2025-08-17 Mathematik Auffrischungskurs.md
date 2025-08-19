@@ -34,7 +34,7 @@ Legende:
 #### Steigung
 Die Steigung kann mittels dem Delta 2er Punkte berechnet werden:
 $$\begin{gather}
-
+m = \frac{\Updelta y}{\Updelta x} = y_{q}
 \end{gather}$$
 ### Quadratische Gleichung
 Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalten. die grundform sieht folgend aus:
