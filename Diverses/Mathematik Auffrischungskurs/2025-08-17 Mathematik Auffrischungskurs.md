@@ -19,8 +19,8 @@ $$
 580=116z \\
 5 = z \to \mathbb{L} \lbrace \rbrace
 \end{gather}$$
-**Wichtig:** Äquivalenzumformung beachten
-
+**Wichtig:** [[2025-08-16 Mathematik#Theorie|Äquivalenzumforung]] beachten
+### Quadratische Gleichung
 
 ---
 ## ✅ ToDo
