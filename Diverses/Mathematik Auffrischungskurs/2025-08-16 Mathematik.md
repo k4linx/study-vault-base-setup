@@ -9,8 +9,8 @@
 ## 💡 Wichtige Begriffe
 - Kommutativgesetz - 
 - Assoziativgesetz -
-- Distributivgesetz - wenn man a* die ganze Klammer rechnet ist es das gleiche wie $a*b +a*c$
-- Binomische Formeln - Terme der form $(a\mathbb{}b)^{2}$
+- Distributivgesetz - wenn man $a * ()$ die ganze Klammer rechnet ist es das gleiche wie $a*b+a*c$ 
+- Binomische Formeln - Terme der form $(a \pm b)^{n}$ oder $(a+b)(a-b)$
 - Faktorisieren - komplizierte Terme in möglichst viele einfache kleine Terme umformen.
 - Äquivalenzumformung - Wenn man auf beiden Seiten der Gleichung dasselbe macht ohne die Lösungsmenge zu verändern.
 
@@ -125,7 +125,7 @@ x^{2}-1 = 3x-3  \\
 x+1=3 & \  \mathbb{L} = \{2\} 
 \end{gather}
 $$
-- Schritt 2 auf 3 ist keine Äquivalenzumformung, Nun muss man kontrollieren ob keine Lösungen entstanden sind ($1*0 = 0$). Das nennt man Scheinlösungen.
+- Schritt 2 auf 3 ist **keine** ÄquivalenzumformungEs muss kontrolliert werden ob keine Lösungen entstanden sind ($1*0 = 0$). Dies wären dann Scheinlösungen.
 - Von Schritt 6 auf 7 ist nun eine Lösung verloren gegangen.
 $$
 \begin{gather}
@@ -146,7 +146,7 @@ $$
 	- [x] Äquivalenzumformungen beschreiben
 	- [x] Was muss ich beachten
 - [-] #task Detailierte Beispiele mit realen Termen beschreiben Pro Thema, in Lösungsheft & Lösungen vorhanden
-- [ ] #task Wichtige Begriffe in 2 Sätzen erklären pro Begriff 📅 2025-08-19 
+- [x] #task Wichtige Begriffe in 2 Sätzen erklären pro Begriff 📅 2025-08-19 ✅ 2025-08-19
 - [x] #task Allgemein wichtiges aufschreiben und Definieren ✅ 2025-08-18
 
 ---

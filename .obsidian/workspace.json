@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "f707da874ad7685d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "fb1b8d65e8ca37e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,16 +202,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fb1b8d65e8ca37e9",
   "lastOpenFiles": [
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/1Rechenregeln.pdf",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
     "Home.md",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil1.pdf",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/1Rechenregeln.pdf",
     "Diverses/Organisatorisch/Allgemeine Infos.md",
     "Diverses/Organisatorisch",
     "Diverses/Organisatorisch/Modultabelle EIT v3 Word ab 24HS.pdf",
     "Diverses/Organisatorisch/gesamt_vz_ES.pdf",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil1.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
     "Diverses/Mathematik Auffrischungskurs",
