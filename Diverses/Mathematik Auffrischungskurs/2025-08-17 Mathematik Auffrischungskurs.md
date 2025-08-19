@@ -67,6 +67,7 @@ In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung einges
 
 ### Lineare Funktionen
 Lineare Funktionen verlaufen immer linear in eine Koordinatensystem:
+TODO: Diagramm zeichnen
 
 #### Schnittpunkt von 2 Geraden
 Um den Schnittpunkt von 2 Geraden herauszufinden werden die beiden Geraden gleichgesetzt:
@@ -84,10 +85,13 @@ Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wir
 Die Normalparabel ist: $y = x^2$
 TODO: Diagramm zeichnen
 Mit der Normalparabel können folgende Operationen ausgeführt werden:
-- Verschiebung an $x$ und $y$ Achse
+- Verschiebung an $x$-Achse
+- Verschiebung an $y$-Achse
 - Streckung zur $x$-Achse
+- Streckung zur $y$-Achse
 - Spiegelung an $x$-Achse
 - Spiegelung an $y$-Achse
+
 
 ---
 ## ✅ ToDo
