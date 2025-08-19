@@ -98,7 +98,8 @@ Mit der Normalparabel können folgende Operationen ausgeführt werden:
 
 ---
 ## ✅ ToDo
-- [ ] Wichtige Frag
+- [ ] Verständnissfragen
+- [ ] Wichtige Begriffe - 2 Sätze pro Begriff
 - [ ] Lineare Gleichungen fertig machen
 	- [ ] Grafik
 	- [ ] Bsp
