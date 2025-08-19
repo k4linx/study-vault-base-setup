@@ -75,9 +75,10 @@ $$
 y_{1}=m_{1}*x_{1}+c_{1} \\
 y_{2}=m_{2}*x_{2}+c_2 \\
 \text{Gleichsetzen} \\
-m_{1}*x_{1}+c_{1}=m_{2}*x_{2}+c_{2}
+m_{1}*x_{1}+c_{1}=m_{2}*x_{2}+c_{2} \\
 \end{gather}
 $$
+Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten 
 
 ---
 ## ✅ ToDo
