@@ -85,7 +85,9 @@ Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wir
 - [ ] Quadratische Gleichungen fertig machen
 - [ ] Stückweise definierte Lineare Funktionen Zusammenfassen
 - [ ] Quadratische Funktionen zusammenfassen
-	- [ ] Verschiebung & Spiegelung 
+	- [ ] Verschiebung, Streckung & Spiegelung zusammenfassen
+	- [ ] Scheitelpunktform, Standardform & Produktform Zusammenfassen
+	- [ ] 
 ---
 ## 📕 Quellen
 ![[AuffrischungskursAufgabenHS25.pdf#page=5]]
