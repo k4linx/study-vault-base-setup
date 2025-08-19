@@ -72,7 +72,10 @@ Lineare Funktionen verlaufen immer linear in eine Koordinatensystem:
 Um den Schnittpunkt von 2 Geraden herauszufinden werden die beiden Geraden gleichgesetzt:
 $$
 \begin{gather}
-y_{1}=m_1*x_1+c_
+y_{1}=m_{1}*x_{1}+c_{1} \\
+y_{2}=m_{2}*x_{2}+c_2 \\
+\text{Gleichsetzen} \\
+m_{1}*x_{1}+c_{1}=m_{2}*x_{2}+c_{2}
 \end{gather}
 $$
 
