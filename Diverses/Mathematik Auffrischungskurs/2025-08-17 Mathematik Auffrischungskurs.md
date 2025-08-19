@@ -81,7 +81,8 @@ $$
 Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wird $x_{s}$ in eine der beiden Gleichungen eingesetzt und diese Gleichung wird aufgelöst.
 
 ### Quadratische Funktionen
-Die Normalparabel ist 
+Die Normalparabel ist: $y = x^2$
+Mit der Normalparabel können folgende Operationen ausgeführt wer
 
 ---
 ## ✅ ToDo
