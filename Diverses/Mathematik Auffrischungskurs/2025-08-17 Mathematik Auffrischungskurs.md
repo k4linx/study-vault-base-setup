@@ -42,8 +42,8 @@ $$
 \begin{gather}
 y=\frac{-3}{5}x+c \\
 1=-\frac{3}{5}(1)+c \\
-1=-\frac{3}{5} +c &\ \frac{|+3}{5}\\
-
+1=-\frac{3}{5} +c & \ |+ \frac{3}{5}\\
+\frac{8}{5}=c \\
 \end{gather}
 $$
 
@@ -65,7 +65,8 @@ $$
 In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung eingesetzt werden.
 
 ### Lineare Funktionen
-Lineare Funktionen verlaufen immer linear zu einer
+Lineare Funktionen verlaufen immer linear in eine Koordinatensystem:
+
 
 ---
 ## ✅ ToDo
