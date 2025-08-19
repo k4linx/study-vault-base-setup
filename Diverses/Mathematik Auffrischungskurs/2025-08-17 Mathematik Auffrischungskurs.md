@@ -82,7 +82,10 @@ Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wir
 
 ### Quadratische Funktionen
 Die Normalparabel ist: $y = x^2$
-Mit der Normalparabel können folgende Operationen ausgeführt wer
+TODO: Diagramm zeichnen
+Mit der Normalparabel können folgende Operationen ausgeführt werden:
+- Verschiebung an $x$ und $y$ Achse
+- Streckung zur $x$-Achse
 
 ---
 ## ✅ ToDo
