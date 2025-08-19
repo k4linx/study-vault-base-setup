@@ -19,8 +19,13 @@ $$
 580=116z \\
 5 = z \to \mathbb{L} \lbrace \rbrace
 \end{gather}$$
-**Wichtig:** [[2025-08-16 Mathematik#Theorie|Äquivalenzumforung]] beachten
+**Wichtig:** [[2025-08-16 Mathematik#Theorie|Äquivalenzumforung]] beachten!!!
 ### Quadratische Gleichung
+Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalten
+$$\begin{gather}
+
+\end{gather}$$
+
 
 ---
 ## ✅ ToDo
