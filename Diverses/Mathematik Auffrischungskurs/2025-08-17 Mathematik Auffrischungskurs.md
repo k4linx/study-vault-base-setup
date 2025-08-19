@@ -57,6 +57,7 @@ ax^{2}+bx+c = 0
 Um Quadratische Gleichungen zu lösen gibt es 2 Möglichkeiten:
 1. Quadratische Gleichungen können mit der [[2025-08-17 Mathematik Auffrischungskurs#Mitternachtsformel|Mitternachtsformel (MNF)]] gelöst werden.
 2. Quadratische Gleichungen können teils [[2025-08-16 Mathematik#Faktorisieren|Faktorisiert]] werden.
+
 #### Mitternachtsformel
 Die grundform der Mitternachtsformel sieht so aus:
 $$
@@ -67,7 +68,8 @@ In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung einges
 ### Lineare Funktionen
 Lineare Funktionen verlaufen immer linear in eine Koordinatensystem:
 
-### Wich
+#### Schnittpunkt von 2 Geraden
+Um d Schnittpunkte von 2 Gera
 
 ---
 ## ✅ ToDo
