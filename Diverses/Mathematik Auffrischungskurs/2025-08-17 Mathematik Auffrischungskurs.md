@@ -83,7 +83,9 @@ Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wir
 ---
 ## ✅ ToDo
 - [ ] Quadratische Gleichungen fertig machen
-- [ ] Stückweise
+- [ ] Stückweise definierte Lineare Funktionen Zusammenfassen
+- [ ] Quadratische Funktionen zusammenfassen
+	- [ ] Verschiebung & Spiegelung 
 ---
 ## 📕 Quellen
 ![[AuffrischungskursAufgabenHS25.pdf#page=5]]
