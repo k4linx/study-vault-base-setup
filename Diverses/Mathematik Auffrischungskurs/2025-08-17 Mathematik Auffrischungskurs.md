@@ -78,11 +78,12 @@ y_{2}=m_{2}*x_{2}+c_2 \\
 m_{1}*x_{1}+c_{1}=m_{2}*x_{2}+c_{2} \\
 \end{gather}
 $$
-Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten 
+Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wird $x_{s}$ in eine der beiden Gleichungen eingesetzt und diese Gleichung wird aufgelöst.
 
 ---
 ## ✅ ToDo
-
+- [ ] Quadratische Gleichungen fertig machen
+- [ ] Stückweise
 ---
 ## 📕 Quellen
 ![[AuffrischungskursAufgabenHS25.pdf#page=5]]
