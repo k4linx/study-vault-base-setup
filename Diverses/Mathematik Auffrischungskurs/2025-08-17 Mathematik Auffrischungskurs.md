@@ -21,9 +21,10 @@ $$
 \end{gather}$$
 **Wichtig:** [[2025-08-16 Mathematik#Theorie|Äquivalenzumforung]] beachten!!!
 ### Quadratische Gleichung
-Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalten
-$$\begin{gather}
+Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalten. die grundform sieht folgend aus:
 
+$$\begin{gather}
+ax^{2}+bx+c = 0
 \end{gather}$$
 
 
