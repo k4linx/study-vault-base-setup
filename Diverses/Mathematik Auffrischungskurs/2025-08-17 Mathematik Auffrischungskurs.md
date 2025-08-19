@@ -17,8 +17,11 @@ $$
  \\
 2z+3+6z-43=124z-620 & \ | -8z+620 \\
 580=116z \\
-5 = z \to \mathbb{L} lbr
+5 = z \to \mathbb{L} \lbrace \rbrace
 \end{gather}$$
+**Wichtig:** Äquivalenzumformung beachten
+
+
 ---
 ## ✅ ToDo
 
