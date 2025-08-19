@@ -26,11 +26,12 @@ Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalte
 $$\begin{gather}
 ax^{2}+bx+c = 0
 \end{gather}$$
-Quadratische Gleichungen können mit der [[2025-08-17 Mathematik Auffrischungskurs#Mitternachtsformel|Mitternachtsformel (MNF)]] gelöst werden.
+1. Quadratische Gleichungen können mit der [[2025-08-17 Mathematik Auffrischungskurs#Mitternachtsformel|Mitternachtsformel (MNF)]] gelöst werden.
+2. Quadratische Gleichu
 #### Mitternachtsformel
 Die grundform der Mitternachtsformel sieht folgend aus:
 $$
-x_{1,2} = -b 
+x_{1,2} = \frac{-b +- \sqrt{b^2-4*a*c}}{2*a}
 $$
 
 ---
