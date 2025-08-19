@@ -84,6 +84,8 @@ m_{1}*x_{1}+c_{1}=m_{2}*x_{2}+c_{2} \\
 $$
 Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wird $x_{s}$ in eine der beiden Gleichungen eingesetzt und diese Gleichung wird aufgelöst.
 
+#### Geradengleichsetzung:
+
 ### Quadratische Funktionen
 Die Normalparabel ist: $y = x^2$
 TODO: Diagramm zeichnen
@@ -95,27 +97,34 @@ Mit der Normalparabel können folgende Operationen ausgeführt werden:
 - Spiegelung an $x$-Achse
 - Spiegelung an $y$-Achse
 
+### Wichtig:
+
 
 ---
 ## ✅ ToDo
-- [ ] Verständnissfragen
-- [ ] Wichtige Begriffe - 2 Sätze pro Begriff
-- [ ] Lineare Gleichungen fertig machen
+- [ ] #task Verständnissfragen
+- [ ] #task Wichtige Begriffe - 2 Sätze pro Begriff
+- [ ] #task Lineare Gleichungen fertig machen
 	- [ ] Grafik
 	- [ ] Bsp
-- [ ] Quadratische Gleichungen fertig machen
+	- [ ] Geradengleichsetzung
+		- [ ] How To
+		- [ ] Bsp
+- [ ] #task Quadratische Gleichungen fertig machen
 	- [ ] Legende
 	- [ ] Grafik
 	- [ ] Bsp
-- [ ] Stückweise definierte Lineare Funktionen zusammenfassen
+- [ ] #task Stückweise definierte Lineare Funktionen zusammenfassen
 	- [ ] Syntax
 	- [ ] Grafik
 	- [ ] Legende
 	- [ ] Bsp
-- [ ] Quadratische Funktionen zusammenfassen
+- [ ] #task Quadratische Funktionen zusammenfassen
 	- [ ] Verschiebung, Streckung & Spiegelung 
 	- [ ] Scheitelpunktform, Standardform & Produktform 
-- [ ] Lösungen & Unterlagen verlinken
+- [ ]  #task Lösungen & Unterlagen verlinken
+- [ ] Allgemein Wichtiges/zu beachten Zusammenfassen
+
 ---
 ## 📕 Quellen
 ![[AuffrischungskursAufgabenHS25.pdf#page=5]]
