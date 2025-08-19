@@ -26,6 +26,8 @@ Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalte
 $$\begin{gather}
 ax^{2}+bx+c = 0
 \end{gather}$$
+Quadratische Gleichungen können mit der [[2025-08-17 Mathematik Auffrischungskurs#Mitternachtsformel|]]
+#### Mitternachtsformel
 
 
 ---
