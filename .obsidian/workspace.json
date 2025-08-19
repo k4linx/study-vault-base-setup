@@ -23,24 +23,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "29c41e1dc685f263",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0f9a345ea9f34946",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/1Rechenregeln.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1Rechenregeln"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

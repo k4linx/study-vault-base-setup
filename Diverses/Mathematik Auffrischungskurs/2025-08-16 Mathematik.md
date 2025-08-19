@@ -7,12 +7,12 @@
 
 ---
 ## 💡 Wichtige Begriffe
-- Kommutativgesetz -
+- Kommutativgesetz - 
 - Assoziativgesetz -
-- Distributivgesetz -
-- Binomische Formeln -
-- Faktorisieren -
-- Äquivalenzumformung -
+- Distributivgesetz - wenn man a* die ganze Klammer rechnet ist es das gleiche wie $a*b +a*c$
+- Binomische Formeln - Terme der form $(a\mathbb{}b)^{2}$
+- Faktorisieren - komplizierte Terme in möglichst viele einfache kleine Terme umformen.
+- Äquivalenzumformung - Wenn man auf beiden Seiten der Gleichung dasselbe macht ohne die Lösungsmenge zu verändern.
 
 ---
 ## 📄 Zusammenfassung
