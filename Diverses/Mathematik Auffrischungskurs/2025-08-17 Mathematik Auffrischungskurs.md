@@ -15,7 +15,9 @@ $$
 \frac{(2z+3)+(6z-43)}{z-5} = 124 & \ \text{falls } z \neq 5 & \ |*(z-5) \\
 \mathbb{D} = \mathbb{R} \backslash \lbrace5\rbrace  \\
  \\
-2z+3+6z-43=124z-620 & \ -8z+620
+2z+3+6z-43=124z-620 & \ | -8z+620 \\
+580=116z \\
+5 = z \to \mathbb{L} lbr
 \end{gather}$$
 ---
 ## ✅ ToDo
