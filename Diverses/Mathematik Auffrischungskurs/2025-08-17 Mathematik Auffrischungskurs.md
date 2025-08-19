@@ -98,6 +98,7 @@ Mit der Normalparabel können folgende Operationen ausgeführt werden:
 
 ---
 ## ✅ ToDo
+- [ ] Wichtige Frag
 - [ ] Lineare Gleichungen fertig machen
 	- [ ] Grafik
 	- [ ] Bsp
@@ -105,14 +106,15 @@ Mit der Normalparabel können folgende Operationen ausgeführt werden:
 	- [ ] Legende
 	- [ ] Grafik
 	- [ ] Bsp
-- [ ] Stückweise definierte Lineare Funktionen Zusammenfassen
+- [ ] Stückweise definierte Lineare Funktionen zusammenfassen
 	- [ ] Syntax
 	- [ ] Grafik
 	- [ ] Legende
 	- [ ] Bsp
 - [ ] Quadratische Funktionen zusammenfassen
-	- [ ] Verschiebung, Streckung & Spiegelung zusammenfassen
-	- [ ] Scheitelpunktform, Standardform & Produktform Zusammenfassen
+	- [ ] Verschiebung, Streckung & Spiegelung 
+	- [ ] Scheitelpunktform, Standardform & Produktform 
+- [ ] Lösungen & Unterlagen verlinken
 ---
 ## 📕 Quellen
 ![[AuffrischungskursAufgabenHS25.pdf#page=5]]
