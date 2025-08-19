@@ -80,6 +80,9 @@ m_{1}*x_{1}+c_{1}=m_{2}*x_{2}+c_{2} \\
 $$
 Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wird $x_{s}$ in eine der beiden Gleichungen eingesetzt und diese Gleichung wird aufgelöst.
 
+### Quadratische Funktionen
+Die Normalparabel ist 
+
 ---
 ## ✅ ToDo
 - [ ] Quadratische Gleichungen fertig machen
@@ -87,7 +90,6 @@ Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wir
 - [ ] Quadratische Funktionen zusammenfassen
 	- [ ] Verschiebung, Streckung & Spiegelung zusammenfassen
 	- [ ] Scheitelpunktform, Standardform & Produktform Zusammenfassen
-	- [ ] 
 ---
 ## 📕 Quellen
 ![[AuffrischungskursAufgabenHS25.pdf#page=5]]
