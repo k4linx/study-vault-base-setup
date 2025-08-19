@@ -7,8 +7,8 @@
 
 ---
 ## 💡 Wichtige Begriffe
-- Kommutativgesetz - 
-- Assoziativgesetz
+- Kommutativgesetz - Rechengesetz, egal ob $a+b$ oder $b+a$ ees ergibt das gleiche. 
+- Assoziativgesetz - Wenn 3 Terme a
 - Distributivgesetz - wenn man $a * ()$ die ganze Klammer rechnet ist es das gleiche wie $a*b+a*c$ 
 - Binomische Formeln - Terme der form $(a \pm b)^{n}$ oder $(a+b)(a-b)$
 - Faktorisieren - komplizierte Terme in möglichst viele einfache kleine Terme umformen.
