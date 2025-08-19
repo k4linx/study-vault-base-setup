@@ -16,21 +16,26 @@
 
 ---
 ## 📄 Zusammenfassung
-Wir haben die Grundrechenregeln angeschaut das bedeutet Addition, Multiplikation & Subtraktion:
-
 ## 3 Rechengesetze:
-### Kommutativgesetz: $$ a+b = b+a$$
-$$
+### Kommutativgesetz: $$
+\begin{gather}
+ a+b = b+a \\
 a*b=b*a
+\end{gather}
 $$
-### Assoziativgesetz: $$a+(b+c) = a+b+c = (a+b)+c $$
-$$ a*(b*c) =a*b*c = (a*b)*c$$
+### Assoziativgesetz:
+$$\begin{gather}
+a+(b+c) = a+b+c = (a+b)+c \\
+ a*(b*c) =a*b*c = (a*b)*c \\
+\end{gather}$$
+
 ### Distributivgesetz: $$a*(b+c)= a*b+a*c = ab+ac $$
 **Wichtig:** beim Distributivgesetz ist immer [[2025-08-16 Mathematik#Punkt vor Strich|Punkt vor Strich]] operieren.
 ## Weitere Regeln:
 ### Punkt vor Strich: 
 $$a*b+c = (a*b)+c$$
-Subtraktion:$$a-b = a+(-1)*b$$
+### Subtraktion:
+$$a-b = a+(-1)*b$$
 ## Binomische Formeln
 ### 1. Binomische Formel: $$(a+b)^{2} = (a+b)(a+)=a^{2} + 2ab +b^{2}$$
 ### 2. Binomische Formel: $$(a-b)^{2}=(a-b)(a-b)= a^2-2ab+b^2$$
@@ -42,7 +47,11 @@ Um von links nach rechts zu kommen wird das distributivgesetz angewendet.
 
 ### Bsp 2 mit Binom Faktorisiert:
 $$ 9x^{2}-16 == (3x+4)(3x-4)$$
-### Bsp 3 Zweiklammeransatz: $$ x^{2}+4x-5=(x+\dots)(x+\dots)$$$$ x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)$$
+### Bsp 3 Zweiklammeransatz: 
+$$\begin{gather}
+ x^{2}+4x-5=(x+\dots)(x+\dots) \\
+ x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)
+\end{gather}$$
 ## Allgemeine binomische Formel & Pascallsches Dreieck:
 $$\begin{array}{c}
 (a+b)^{0} &  \ 1 \\
