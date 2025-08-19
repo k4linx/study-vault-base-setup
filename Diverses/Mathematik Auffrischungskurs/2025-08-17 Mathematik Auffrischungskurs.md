@@ -27,9 +27,15 @@ $$
 y = m*x+c
 $$
 Legende:
-- m = Steigung
-- x = x wert der Gleichung
-- c = y-Achsenabschnitt (Schnittpunkt mit der y-Achse)
+- $m$ = Steigung
+- $x$ = $x$ wert der Gleichung
+- $c$ = $y$-Achsenabschnitt (Schnittpunkt mit der $y$-Achse)
+
+#### Steigung
+Die Steigung kann mittels dem Delta 2er Punkte berechnet werden:
+$$\begin{gather}
+
+\end{gather}$$
 ### Quadratische Gleichung
 Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalten. die grundform sieht folgend aus:
 
