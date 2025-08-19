@@ -69,7 +69,12 @@ In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung einges
 Lineare Funktionen verlaufen immer linear in eine Koordinatensystem:
 
 #### Schnittpunkt von 2 Geraden
-Um d Schnittpunkte von 2 Gera
+Um den Schnittpunkt von 2 Geraden herauszufinden werden die beiden Geraden gleichgesetzt:
+$$
+\begin{gather}
+y_{1}=m_1*x_1+c_
+\end{gather}
+$$
 
 ---
 ## ✅ ToDo
