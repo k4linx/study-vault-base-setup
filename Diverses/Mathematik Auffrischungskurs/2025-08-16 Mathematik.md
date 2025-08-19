@@ -8,7 +8,7 @@
 ---
 ## 💡 Wichtige Begriffe
 - Kommutativgesetz - 
-- Assoziativgesetz -
+- Assoziativgesetz
 - Distributivgesetz - wenn man $a * ()$ die ganze Klammer rechnet ist es das gleiche wie $a*b+a*c$ 
 - Binomische Formeln - Terme der form $(a \pm b)^{n}$ oder $(a+b)(a-b)$
 - Faktorisieren - komplizierte Terme in möglichst viele einfache kleine Terme umformen.
