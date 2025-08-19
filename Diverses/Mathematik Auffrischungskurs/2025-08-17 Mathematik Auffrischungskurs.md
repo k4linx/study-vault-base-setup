@@ -20,6 +20,10 @@ $$
 5 = z \to \mathbb{L} \lbrace \rbrace
 \end{gather}$$
 **Wichtig:** [[2025-08-16 Mathematik#Theorie|Äquivalenzumforung]] beachten!!!
+
+### Lineare Gleichung
+Eine Lineare Gleichung hat für jeden $x$ Wert einen Eindeutigen $y$ Wert:
+
 ### Quadratische Gleichung
 Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalten. die grundform sieht folgend aus:
 
@@ -38,7 +42,7 @@ $$
 In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung eingesetzt werden.
 
 ### Lineare Funktionen
-Lineare Funktionen verlaufen immer l
+Lineare Funktionen verlaufen immer linear zu einer
 
 ---
 ## ✅ ToDo
