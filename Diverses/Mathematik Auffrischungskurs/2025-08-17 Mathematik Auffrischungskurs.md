@@ -40,7 +40,10 @@ m = \frac{\Updelta y}{\Updelta x} = \frac{y_{q}-y_p}{x_{q}-x_{p}} = \frac{y_{p}-
 Um den $y$-Achsenabschnitt herauszufinden wird ein Punkt (P) auf der Geraden eingesetz und die Gleichung gelöst:
 $$
 \begin{gather}
-y=\frac{-3}{5}x+c
+y=\frac{-3}{5}x+c \\
+1=-\frac{3}{5}(1)+c \\
+1=-\frac{3}{5} +c &\ \frac{|+3}{5}\\
+
 \end{gather}
 $$
 
