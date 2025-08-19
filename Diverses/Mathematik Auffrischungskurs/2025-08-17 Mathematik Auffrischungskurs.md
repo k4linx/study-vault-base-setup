@@ -23,7 +23,13 @@ $$
 
 ### Lineare Gleichung
 Eine Lineare Gleichung hat für jeden $x$ Wert einen Eindeutigen $y$ Wert:
-
+$$
+y = m*x+c
+$$
+Legende:
+- m = Steigung
+- x = x wert der Gleichung
+- c = y-Achsenabschnitt (Schnittpunkt mit der y-Achse)
 ### Quadratische Gleichung
 Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalten. die grundform sieht folgend aus:
 
