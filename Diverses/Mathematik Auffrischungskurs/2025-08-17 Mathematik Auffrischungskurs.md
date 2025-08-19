@@ -56,7 +56,8 @@ Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalte
 $$\begin{gather}
 ax^{2}+bx+c = 0
 \end{gather}$$
-
+Legende:
+- 
 Um Quadratische Gleichungen zu lösen gibt es 2 Möglichkeiten:
 1. Quadratische Gleichungen können mit der [[2025-08-17 Mathematik Auffrischungskurs#Mitternachtsformel|Mitternachtsformel (MNF)]] gelöst werden.
 2. Quadratische Gleichungen können teils [[2025-08-16 Mathematik#Faktorisieren|Faktorisiert]] werden.
@@ -98,6 +99,9 @@ Mit der Normalparabel können folgende Operationen ausgeführt werden:
 ---
 ## ✅ ToDo
 - [ ] Quadratische Gleichungen fertig machen
+	- [ ] Legende
+	- [ ] Grafik
+	- [ ] Bsp
 - [ ] Stückweise definierte Lineare Funktionen Zusammenfassen
 - [ ] Quadratische Funktionen zusammenfassen
 	- [ ] Verschiebung, Streckung & Spiegelung zusammenfassen
