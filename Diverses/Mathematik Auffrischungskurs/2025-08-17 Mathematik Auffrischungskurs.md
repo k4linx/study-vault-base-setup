@@ -35,6 +35,10 @@ Die grundform der Mitternachtsformel sieht so aus:
 $$
 x_{1,2} = \frac{-b +- \sqrt{b^2-4*a*c}}{2*a}
 $$
+In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung eingesetzt werden.
+
+### Lineare Funktionen
+Lineare Funktionen verlaufen immer l
 
 ---
 ## ✅ ToDo
