@@ -98,11 +98,18 @@ Mit der Normalparabel können folgende Operationen ausgeführt werden:
 
 ---
 ## ✅ ToDo
+- [ ] Lineare Gleichungen fertig machen
+	- [ ] Grafik
+	- [ ] Bsp
 - [ ] Quadratische Gleichungen fertig machen
 	- [ ] Legende
 	- [ ] Grafik
 	- [ ] Bsp
 - [ ] Stückweise definierte Lineare Funktionen Zusammenfassen
+	- [ ] Syntax
+	- [ ] Grafik
+	- [ ] Legende
+	- [ ] Bsp
 - [ ] Quadratische Funktionen zusammenfassen
 	- [ ] Verschiebung, Streckung & Spiegelung zusammenfassen
 	- [ ] Scheitelpunktform, Standardform & Produktform Zusammenfassen
