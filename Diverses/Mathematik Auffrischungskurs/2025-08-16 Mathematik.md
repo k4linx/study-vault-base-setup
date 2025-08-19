@@ -7,7 +7,7 @@
 
 ---
 ## 💡 Wichtige Begriffe
-- **Kommutativgesetz** - Rechengesetz, egal ob $a+b$ oder $b+a$ es ergibt das gleiche. Terme können vertauscht werden.
+- **Kommutativgesetz** - Rechengesetz, egal ob $a+b$ oder $b+a$ es ergibt das gleiche. Terme können vertauscht werden. Gilt nur b
 - **Assoziativgesetz** - Wenn 3 Terme addiert werden ist es egal ob zuerst zwei Terme addiert werden und anschliessend der 3. Term dazu oder alle 3 Terme gleichzeitig addiert werden. Das Resultat ist das Gleiche.
 - **Distributivgesetz** - wenn man $a * ()$ die ganze Klammer rechnet ist es das gleiche wie $a*b+a*c$ 
 - **Binomische Formeln** - Terme der form $(a \pm b)^{n}$ oder $(a+b)(a-b)$
