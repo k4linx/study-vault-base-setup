@@ -44,8 +44,9 @@ m = \frac{\Updelta y}{\Updelta x} = \frac{y_{q}-y_p}{x_{q}-x_{p}} = \frac{y_{p}-
 $$\begin{gathered}
 P(3|2) \qquad Q(5|6) \\
 \\
-m =\frac{y_{q}-y_{p}}{x_{q}-x_{p}}=\frac{6-2}{5-3}=\frac{3}{2}=1.5
+m =\frac{y_{q}-y_{p}}{x_{q}-x_{p}}=\frac{6-2}{5-3}=\frac{4}{2}= 2
 \end{gathered}$$
+Im Beispiel oben ist die Steigung 2 das bedeutet jeder $y$ Wert ist $2*x$. 
 #### $y$-Achsenabschnitt
 Der $y$-Achsen Abschnitt ist der Punkt an dem sich die Gerade mit der $y$-Achse Schneidet.
 Um den $y$-Achsenabschnitt herauszufinden wird ein Punkt (P) auf der Geraden eingesetz und die Gleichung gelöst:
@@ -59,7 +60,52 @@ y=\frac{-3}{5}x+c \\
 $$
 ---
 ### Stückweise definierte Funktionen
-TODO
+stückweise definierte Funktionen sind Funktionsdefinitionen die nur für ein bestimmtes intervall gelten.
+**Beispiel:**
+$$
+  y = \left\{
+ \begin{array}{ll}
+	0 \ \text{für} \ 0 \leq x \leq 30 \\
+    \frac{4}{15}x-8 \ \text{für} \ 30 < x \leq 60 \\
+    8 \ \text{für} \ 60 < x \leq 100 \\
+    \frac{1}{25}x+4 \ \text{für} \ 100 < x \leq 200  \\
+    12 \ \text{für} \ 200 < x
+ \end{array}\right. .
+$$
+Der Graph dieser Funktion sieht so aus:
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    ymax=12,
+	ymin=-1,
+    xtick distance=50,
+	ytick distance=2,
+	
+    enlargelimits=true,clip=true]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+	\addplot[color=red, domain=0:30] {0};
+	\addplot[color=red, domain=30:60] {(4/15)*x-8};
+	\addplot[color=red, domain=60:100] {8};
+	\addplot[color=red, domain=100:200] {(1/25)*x+4};
+	\addplot[color=red, domain=200:210] {12};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+
 
 ---
 ### Quadratische Gleichung
