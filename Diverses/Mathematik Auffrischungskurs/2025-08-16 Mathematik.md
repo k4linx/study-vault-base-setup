@@ -16,43 +16,51 @@
 
 ---
 ## 📄 Zusammenfassung
-## 3 Rechengesetze:
-### Kommutativgesetz: $$
+### 3 Rechengesetze:
+#### Kommutativgesetz: 
+$$
 \begin{gather}
  a+b = b+a \\
 a*b=b*a
 \end{gather}
 $$
-### Assoziativgesetz:
+#### Assoziativgesetz:
 $$\begin{gather}
 a+(b+c) = a+b+c = (a+b)+c \\
  a*(b*c) =a*b*c = (a*b)*c \\
 \end{gather}$$
 
-### Distributivgesetz: $$a*(b+c)= a*b+a*c = ab+ac $$
+#### Distributivgesetz: 
+$$a*(b+c)= a*b+a*c = ab+ac $$
 **Wichtig:** beim Distributivgesetz ist immer [[2025-08-16 Mathematik#Punkt vor Strich|Punkt vor Strich]] operieren.
-## Weitere Regeln:
-### Punkt vor Strich: 
+### Weitere Regeln:
+#### Punkt vor Strich: 
 $$a*b+c = (a*b)+c$$
-### Subtraktion:
+#### Subtraktion:
 $$a-b = a+(-1)*b$$
-## Binomische Formeln
-### 1. Binomische Formel: $$(a+b)^{2} = (a+b)(a+)=a^{2} + 2ab +b^{2}$$
-### 2. Binomische Formel: $$(a-b)^{2}=(a-b)(a-b)= a^2-2ab+b^2$$
-### 3. Binomische Formel:$$(a+b)(a-b)= a^2-b^2$$
-## Faktorisieren:
+---
+### Binomische Formeln
+#### 1. Binomische Formel: 
+$$(a+b)^{2} = (a+b)(a+)=a^{2} + 2ab +b^{2}$$
+#### 2. Binomische Formel: 
+$$(a-b)^{2}=(a-b)(a-b)= a^2-2ab+b^2$$
+#### 3. Binomische Formel:
+$$(a+b)(a-b)= a^2-b^2$$
+---
+### Faktorisieren:
 Faktorisieren bedeutet den Term in möglichst viele einfache Faktoren zu zerlegen.
-### Bsp Faktorisiert mit Distributivgesetz: $$20y^{2}+8y=4y(5y+2)$$
+Bsp Faktorisiert mit Distributivgesetz: $$20y^{2}+8y=4y(5y+2)$$
 Um von links nach rechts zu kommen wird das distributivgesetz angewendet.
 
-### Bsp 2 mit Binom Faktorisiert:
+Bsp 2 mit Binom Faktorisiert:
 $$ 9x^{2}-16 == (3x+4)(3x-4)$$
-### Bsp 3 Zweiklammeransatz: 
+Bsp 3 Zweiklammeransatz: 
 $$\begin{gather}
  x^{2}+4x-5=(x+\dots)(x+\dots) \\
  x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)
 \end{gather}$$
-## Allgemeine binomische Formel & Pascallsches Dreieck:
+---
+### Allgemeine binomische Formel & Pascallsches Dreieck:
 $$\begin{array}{c}
 (a+b)^{0} &  \ 1 \\
 (a+b)^{1}  & \ 1 \ 1 \\
@@ -71,16 +79,18 @@ $$\begin{gather}
 \end{gather}$$
 Wie gezeigt kann das einfach so weitergeführt werden wobei jeder term multipliziert werden muss. Die Zahl die vorne dran steht muss mann aus dem Pascallschen dreieck herauslesen.
 
-## Brüche:
+---
+### Brüche:
 Brüche sind eine andere Schreibweise für die Division:
 $$\frac{a}{b} =a : b$$
 Der Nenner, in diesem fall $b$ darf nicht $0$ sein ansonsten dividiert man durch null welches nicht definiert ist.
-### Brüche Multiplizieren:
+#### Brüche Multiplizieren:
 $$\frac{a}{b}*\frac{c}{d} = \frac{ac}{bd} $$
 Brüche dürfen einfach so Zähler mal Zähler & Nenner mal Nenner gerechnet werden
-### Brüche kürzen: $$ \frac{a*c}{b*c}=\frac{a}{b}*\frac{c}{c} = \frac{a}{b}, \frac{c}{c} = 1 $$
+#### Brüche kürzen: 
+$$ \frac{a*c}{b*c}=\frac{a}{b}*\frac{c}{c} = \frac{a}{b}, \frac{c}{c} = 1 $$
 beim Kürzen muss der Nenner und der Zähler genau den gleichen Wert enthalten.
-### Brüche Addieren:$$\frac{a}{b} +\frac{c}{b}=\frac{a+c}{b}$$
+#### Brüche Addieren:$$\frac{a}{b} +\frac{c}{b}=\frac{a+c}{b}$$
 Wenn der Nenner gleich ist dürfen Brüche zusammen Addiert/Subtrahiert werden. Ansonsten muss gleichnamig gemacht werden:
 $$\begin{gather} \\
 \frac{2}{39} - \frac{1}{65} \\
@@ -104,12 +114,12 @@ $$
 \end{gather}
 $$
 $$(a+c)*\frac{1}{b}=a:b+ac:b$$
-### Doppelbrüche:
+#### Doppelbrüche:
 Doppelbrüche bestehen aus einem Bruch im Zähler(oben) und einem Bruch im Nenner(unten):
 $$\frac{\frac{a}{b}}{\frac{c}{d}} =\frac{a}{b}*\frac{d}{c}$$
 Bei Doppelbrüchen kann der Bruch mit dem Kehrwert des Nenners multipliziert werden
 
-## Gleichungen
+### Gleichungen
 
 Gleichungen ganz einfach z.B. $1+2=3$ ist eine Gleichung.
 
@@ -119,7 +129,7 @@ x+14=3x & \ | -x \\
 14=2x & \ | :2 \\
 7=x \Rightarrow & \ \mathbb{L}=\{7\}
 \end{gather}$$
-### Theorie:
+#### Theorie:
 Äquivalenzumformung: 
 - Addition/Subtraktion derselben Zahl/Term auf jeder Seite
 - Multiplikation/Division derselben Zahl/Term $\ne 0$ 
@@ -144,7 +154,7 @@ $$
 4x-3 = 4x+6 & \ | -4x 
 \end{gather}
 $$
-## Wichtig für alles:
+### Wichtig für alles:
 - Bei der Multiplikation Vorzeichen **nicht** vergessen.
 - Bei einer Bruchgleichung wird der Ganze Term multipliziert z.B.
 $$
