@@ -50,7 +50,7 @@ $$(a+b)(a-b)= a^2-b^2$$
 ### Faktorisieren:
 Faktorisieren bedeutet den Term in möglichst viele einfache Faktoren zu zerlegen.
 Bsp Faktorisiert mit Distributivgesetz: $$20y^{2}+8y=4y(5y+2)$$
-Um von links nach rechts zu kommen wird das distributivgesetz angewendet.
+**Note:** Um von links nach rechts zu kommen wird das Distributivgesetz angewendet.
 
 Bsp 2 mit Binom Faktorisiert:
 $$ 9x^{2}-16 == (3x+4)(3x-4)$$
