@@ -11,10 +11,8 @@
 	axis line style = thick,
 	xtick={-6,-5,...,6},
     ytick={-6,-5,...,6},
-	xmin=-5,
-    ymin=-5,
-    xmax=5,
-    ymax=5,
+	xmin=-5, xmax=5,
+    ymin=-5, ymax=5,
     xlabel=$x$,
     ylabel=$y$]
     % code/plots here
