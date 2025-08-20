@@ -9,6 +9,8 @@
 	axis equal,
 	axis lines=center,
 	axis line style = thick,
+	xtick={-6,-5,...,6},
+    ytick={-6,-5,...,6},
 	xmin=-5,
     ymin=-5,
     xmax=5,
