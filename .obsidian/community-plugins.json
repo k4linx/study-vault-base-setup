@@ -10,8 +10,8 @@
   "dataview",
   "obsidian-reminder-plugin",
   "obsidian-git",
-  "obsidian-minimal-settings",
   "quick-latex",
   "obsidian-completr",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "obsidian-style-settings"
 ]
