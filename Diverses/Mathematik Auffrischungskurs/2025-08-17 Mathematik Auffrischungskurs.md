@@ -1,9 +1,16 @@
 ## ⁉️ Fragen
 - [ ] Wie sieht die Grundform einer linearen Gleichung aus
 - [ ] Wie sieht die Normalparabel aus?
+- [ ] Was ist die Mitternachtsformel?
 - [ ] 
 ---
 ## 💡 Wichtige Begriffe
+- Lineare Funktion - Eine Lineare Funktion ist eine Gerade Strecke die für jede Koordinate x eine bestimmte Koordinate y hat
+- Quadratische Funktion - Eine Quadratische Funktion beschreibt ein "U" die sogenannte Parabel - der Wert der y Koordinate ist das Quadrat der x Koordinate
+- Scheitelpunktform - Die Scheitelpunktform zeigt die Koordinaten des Scheitelpunktes einer Parabel
+- Standardform - Die Standardform ist die ausmultiplizierte Scheitelpunktform
+- Nullstellenform - Wenn eine Parabel Nullstellen hat kann die Nullstellenform nützlich sein um die x Koordinate zu finden bei der y=0 ist.
+- 
 
 ---
 ## 📄 Zusammenfassung
@@ -226,10 +233,84 @@ Die Normalparabel ist: $y = x^2$
 \end{document}
 ```
 
-Mit der Normalparabel können folgende Operationen ausgeführt werden:
+Es gibt verschieden Schreibweisen für quadratische Funktionen:
+
+#### Scheitelpunktform
+Die Scheitelpunktform ist praktisch um den Scheitelpunkt der geraden herauslesen zu können.
+$$y = a(x-x_{s})^{2}+y_{s}$$
+Legende:
+$a$ = Öffnung der Parabel (positiv: nach oben, negativ: nach unten)
+$x_{s}$ = $x$ Koordinate des Scheitelpunktes
+$y_s$ = $y$ Koordinate des Scheitelpunktes
+
+**Beispiel:**
+$$
+y=2(x-1)^{2}-8
+$$
+#### Standardform:
+Die Standardform ist die ausmultiplizierte & zusammengefasste Form der Scheitelpunktform.
+Beispiel:
+$$
+\begin{align} \\
+y&=2(x-1)^2-8 \\
+&=2(x^{2}-2x+1)-8 \\
+y&=2x^{2}-4x-6 \\
+\end{align}
+$$
+#### Nullstellenform
+Die Nullstellenform gibt es nur dann wenn die Parabel Nullstellen hat, also wenn sich die Parabel mit der $x$ Achse schneidet und $y=0$ ist. Die Nullstellenform ist praktisch weil man auf einen Blick die Nullstellen ablesen kann, Man findet also die $x$ Koordinaten bei denen $y=0$ ist.
+
+aus der Standardform kann die Nullstellenform wie folgt abgeleitet werden.
+
+$$
+\begin{align}
+y&=2x^2-4x-6 \\
+&=2(x^{2}-2x-3) \\
+y&=2(x-3)(x+1)
+\end{align}
+$$
+**Wichtig:** Nullstellenform geht nur dann wenn die Parabel auch wirklich die $x$-Achse schneidet.
+
+---
+Es können verschiedene Operationen durchgeführt werden um eine Parabel zu verändern.
 #### Verschiebung an $x$-Achse
 
 Um die Parabel an der $x$-Achse zu verschieben wird die normalparabel $y=x^2$ mit $\pm s$ erweitert so wird aus $y=x^{2}$, $y=(x \pm s)^2$
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=false,clip=false]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+    \addplot[color=green, domain=-2:2] {x^2};
+	\addplot[color=red, domain=1:5] {(x-3)^2} node[pos=1.05, anchor=west] {$y=(x-3)^2$};
+	\addplot[color=blue, domain=-5:-1] {(x+3)^2} node[pos=1.05, anchor=west] {$y=(x+3)^2$};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+**Achtung:** um in die positive $x$ richtung zu verschieben muss $s$ negativ sein. Um negativ zu verschieben muss $s$ positiv sein.
+
+#### Verschiebung an $y$-Achse
+TODO
+#### Streckung/Stauchung zur $x$-Achse
+Um eine Parabel zu Strecken Stauchen wird ein Faktor vor die $x$ variable geschrieben. 
+so zum beispiel $y = f*x^2$
 ```tikz
 \usepackage{pgfplots}
 
@@ -251,19 +332,54 @@ Um die Parabel an der $x$-Achse zu verschieben wird die normalparabel $y=x^2$ mi
     % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
-    \addplot[color=white, domain=-2:2] {x^2};
-	\addplot[color=red, domain=-2:2] {(x-3)^2} node[pos=1.05, anchor=west] {$y=2x+1$};
+	\addplot[color=green, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
+	\addplot[color=red, domain=-2:2] {2*x^2} node[pos=1, anchor=west] {$y=2x^2$};
+	\addplot[color=blue, domain=-2:2] {0.5*x^2} node[pos=1.05, anchor=west] {$y=0.5x^2$};
 	\end{axis}
   \end{tikzpicture}
 \end{document}
 ```
+Wenn der Faktor $f<1$ dann verläuft die Parabel flächer
+Wenn der Faktor $f > 1$ dann verläuft die Parabel steiler
 
-
-#### Verschiebung an $y$-Achse
-#### Streckung zur $x$-Achse
 #### Streckung zur $y$-Achse
+TODO
 #### Spiegelung an $x$-Achse
+Um eine Parabel an der $x$ Achse zu spiegeln wird die variable $x$ inklusive Faktor $f$ negativ gemacht: $y= -x^2$
+
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+	\addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
+	\addplot[color=green, domain=-2:2] {-x^2} node[pos=1.05, anchor=west] {$y=-x^2$};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+Um die Öffnung nach oben zu haben muss der Term mit der Variable $x$ positiv sein
+Um die Öffnung nach unten zu erhalten muss der Term mit der Variable $x$ negativ sein
+
 #### Spiegelung an $y$-Achse
+TODO
+
 
 ### Wichtig:
 
@@ -272,35 +388,32 @@ Um die Parabel an der $x$-Achse zu verschieben wird die normalparabel $y=x^2$ mi
 ## ✅ ToDo
 - [ ] #task Verständnissfragen
 - [ ] #task Wichtige Begriffe - 2 Sätze pro Begriff
-- [ ] #task Lineare Gleichungen fertig machen
+- [x] #task Lineare Gleichungen fertig machen
 	- [x] Grafik
 	- [x] Bsp
 	- [x] Geradengleichsetzung
 		- [x] How To
 		- [x] Bsp
-- [ ] #task Quadratische Gleichungen fertig machen
+- [x] #task Quadratische Gleichungen fertig machen
 	- [x] Legende
 	- [x] Grafik
 	- [x] Bsp
-- [ ] #task Stückweise definierte Lineare Funktionen zusammenfassen
-	- [ ] Syntax
-	- [ ] Grafik
-	- [ ] Legende
-	- [ ] Bsp
-- [ ] #task Quadratische Funktionen zusammenfassen
-	- [ ] Verschiebung, Streckung & Spiegelung 
-	- [ ] Scheitelpunktform, Standardform & Produktform 
-- [ ]  #task Lösungen & Unterlagen verlinken
-- [ ] Allgemein Wichtiges/zu beachten Zusammenfassen
+- [x] #task Stückweise definierte Lineare Funktionen zusammenfassen
+	- [x] Syntax
+	- [x] Grafik
+	- [x] Legende
+	- [x] Bsp
+- [x] #task Quadratische Funktionen zusammenfassen ✅ 2025-08-20
+	- [x] Verschiebung, Streckung & Spiegelung 
+	- [x] Scheitelpunktform, Standardform & Produktform 
+- [x] #task Lösungen & Unterlagen verlinken ✅ 2025-08-20
+- [x] Allgemein Wichtiges/zu beachten Zusammenfassen
 
 ---
 ## 📕 Quellen
 ![[AuffrischungskursAufgabenHS25.pdf#page=5]]
 
 
-# test
-## test
-### test
-#### test
-##### test
-###### test
+### Lösungen
+- [[2GleichungenUndFunktionenTeil1.pdf]]
+- [[2GleichungenUndFunktionenTeil2.pdf]]

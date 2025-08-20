@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 452.5
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -220,8 +220,11 @@
   },
   "active": "fb1b8d65e8ca37e9",
   "lastOpenFiles": [
-    "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil2.pdf",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil1.pdf",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionen.pdf",
     "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
     "templates/math/tikz_2d_coordinate_system.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
@@ -239,9 +242,6 @@
     "copilot-custom-prompts",
     "templates/math",
     "templates/Untitled.md",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil1.pdf",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil2.pdf",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionen.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/1Rechenregeln.pdf",
     "Home.md",
@@ -254,7 +254,6 @@
     "templates/module/module_template.md",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
-    "Untitled Kanban 3.md",
-    "Untitled Kanban 2.md"
+    "Untitled Kanban 3.md"
   ]
 }
