@@ -1,5 +1,7 @@
 ## ⁉️ Fragen
-
+- [ ] Wie sieht die Grundform einer linearen Gleichung aus
+- [ ] Wie sieht die Normalparabel aus?
+- [ ] 
 ---
 ## 💡 Wichtige Begriffe
 
@@ -85,6 +87,8 @@ $$
 Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wird $x_{s}$ in eine der beiden Gleichungen eingesetzt und diese Gleichung wird aufgelöst.
 
 #### Geradengleichsetzung:
+bei der Geradengleichsetzung werden zwei Lineare Funktionen die nach y aufgelöst werden sollen gleichgesetzt. Es wird eine neue Gleichung aus den Beiden Funktionsgleichungen erstellt. Danach wird die Gleichung nach $x$ aufgelöst, somit erhält man $x_{s}$, die $x$ Koordinate des Schnittpunktes 2er Geraden.
+
 
 ### Quadratische Funktionen
 Die Normalparabel ist: $y = x^2$
