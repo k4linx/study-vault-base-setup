@@ -366,15 +366,14 @@ Um eine Parabel an der $x$ Achse zu spiegeln wird die variable $x$ inklusive Fak
     % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
-	\addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
-	\addplot[color=green, domain=-2:2] {-x^2} node[pos=1.05, anchor=west] {$y=-x^2$};
+	\addplot[color=green, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
+	\addplot[color=red, domain=-2:2] {-x^2} node[pos=1.05, anchor=west] {$y=-x^2$};
 	\end{axis}
   \end{tikzpicture}
 \end{document}
 ```
 Um die Öffnung nach oben zu haben muss der Term mit der Variable $x$ positiv sein
 Um die Öffnung nach unten zu erhalten muss der Term mit der Variable $x$ negativ sein
-
 
 ### Wichtig:
 

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Cheatsheets/LaTex Cheatsheet.md",
+                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LaTex Cheatsheet"
+              "title": "2025-08-17 Mathematik Auffrischungskurs"
             }
           }
         ],
@@ -246,15 +246,15 @@
   },
   "active": "efec24a0a0836aec",
   "lastOpenFiles": [
-    "Diverses/Cheatsheets/TikZ cheatsheet.md",
-    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
+    "templates/math/tikz_2d_coordinate_system.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
+    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
+    "Diverses/Cheatsheets/TikZ cheatsheet.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
     "Diverses/Cheatsheets",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil2.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil1.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionen.pdf",
-    "templates/math/tikz_2d_coordinate_system.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
