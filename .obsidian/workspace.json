@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Cheatsheets/TikZ cheatsheet.md",
+                "file": "Diverses/Cheatsheets/LaTex Cheatsheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TikZ cheatsheet"
+              "title": "LaTex Cheatsheet"
             }
           }
         ],
@@ -246,8 +246,8 @@
   },
   "active": "efec24a0a0836aec",
   "lastOpenFiles": [
-    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Cheatsheets/TikZ cheatsheet.md",
+    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
     "Diverses/Cheatsheets",

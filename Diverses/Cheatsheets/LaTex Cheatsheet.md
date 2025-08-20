@@ -12,10 +12,10 @@
 
 | Symbol | Code       |
 | ------ | ---------- |
-| <      | \lt        |
-| >      | \gt        |
-| ≤      | \le        |
-| ≤      | \leq       |
+| $\lt$  | \lt        |
+| $\gt$  | \gt        |
+| $\le$  | \le        |
+| $\leq$ | \leq       |
 | ≦      | \leqq      |
 | ⩽      | \leqslant  |
 | ≥      | \ge        |
