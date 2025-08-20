@@ -16,8 +16,9 @@
 	ytick distance=1,
     enlargelimits=true,clip=true]
     % code/plots here
-    % eg. \addplot[color=red] {0.2*x^2} ;
-    \addplot[color=red, domain=-2:2] {x^2}  ;
+    % eg. \addplot[color=red, domain=-2:2] {x^2};
+    % domain=x-axis from:to
+
 	\end{axis}
   \end{tikzpicture}
 \end{document}

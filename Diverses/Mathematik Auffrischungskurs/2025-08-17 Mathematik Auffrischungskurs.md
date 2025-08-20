@@ -73,6 +73,32 @@ In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung einges
 
 ### Lineare Funktionen
 Lineare Funktionen verlaufen immer linear in eine Koordinatensystem:
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2};
+    % domain=x-axis from:to
+    
+	\addplot[color=red, domain=-2:2] {2*x+1};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
 
 #### Schnittpunkt von 2 Geraden
 Um den Schnittpunkt von 2 Geraden herauszufinden werden die beiden Geraden gleichgesetzt:
