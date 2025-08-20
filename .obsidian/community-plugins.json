@@ -4,7 +4,6 @@
   "cmdr",
   "obsidian-meta-bind-plugin",
   "modalforms",
-  "obsidian-latex-suite",
   "homepage",
   "calctex",
   "dataview",
@@ -14,5 +13,5 @@
   "obsidian-completr",
   "obsidian-tikzjax",
   "obsidian-style-settings",
-  "copilot"
+  "obsidian-latex-environments"
 ]

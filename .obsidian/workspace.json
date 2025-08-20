@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +204,8 @@
   },
   "active": "fb1b8d65e8ca37e9",
   "lastOpenFiles": [
+    "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
+    "templates/math/tikz_2d_coordinate_system.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -219,8 +220,6 @@
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
-    "templates/math/tikz_2d_coordinate_system.md",
     "templates/math",
     "templates/Untitled.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil1.pdf",
