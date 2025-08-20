@@ -42,8 +42,9 @@ m = \frac{\Updelta y}{\Updelta x} = \frac{y_{q}-y_p}{x_{q}-x_{p}} = \frac{y_{p}-
 \end{gather}$$
 **Beispiel:**
 $$\begin{gathered}
-P(3|2) \ Q(5|4) \\
-m =\frac{y_{q}-y_{p}}{x_{q}-x_{p}}=\frac{4-2}{5-3}=\frac{2}{2}=1
+P(3|2) \qquad Q(5|6) \\
+\\
+m =\frac{y_{q}-y_{p}}{x_{q}-x_{p}}=\frac{6-2}{5-3}=\frac{3}{2}=1.5
 \end{gathered}$$
 #### $y$-Achsenabschnitt
 Der $y$-Achsen Abschnitt ist der Punkt an dem sich die Gerade mit der $y$-Achse Schneidet.
