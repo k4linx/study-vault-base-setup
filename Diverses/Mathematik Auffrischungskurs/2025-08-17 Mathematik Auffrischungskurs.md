@@ -80,7 +80,8 @@ $$
     8 \ \text{für} \ 60 < x \leq 100 \\
     \frac{1}{25}x+4 \ \text{für} \ 100 < x \leq 200  \\
     12 \ \text{für} \ 200 < x
- \end{array}\right. .
+ \end{array}
+ \right .
 $$
 Der Graph dieser Funktion sieht so aus:
 ```tikz
