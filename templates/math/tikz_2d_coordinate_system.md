@@ -1,5 +1,12 @@
 ```tikz
 \usepackage{pgfplots}
+
+\def\min{-5}
+\def\max{5}
+\def\ymin{-5}
+\def\ymax{5}
+\def\tickmin{-5}
+\def\tickmax{5}
 \begin{document}
   \begin{tikzpicture}
 	\begin{axis}[
