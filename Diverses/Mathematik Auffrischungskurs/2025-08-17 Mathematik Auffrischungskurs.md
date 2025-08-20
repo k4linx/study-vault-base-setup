@@ -3,7 +3,8 @@
 - [ ] Wie sieht die Normalparabel aus?
 - [ ] Was ist die Mitternachtsformel?
 - [ ] Was ist eine Nullstelle
-- [ ] 
+- [ ] Was ist eine Stückweise definierte Funktion
+- [ ] Welche Operationen kann ich mit einer 
 ---
 ## 💡 Wichtige Begriffe
 - Lineare Funktion - Eine Lineare Funktion ist eine Gerade Strecke die für jede Koordinate x eine bestimmte Koordinate y hat
