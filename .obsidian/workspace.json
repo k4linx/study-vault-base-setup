@@ -52,7 +52,8 @@
               "title": "LaTex Cheatsheet"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,10 +234,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fb1b8d65e8ca37e9",
+  "active": "efec24a0a0836aec",
   "lastOpenFiles": [
-    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
+    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
     "Diverses/Cheatsheets",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil2.pdf",
