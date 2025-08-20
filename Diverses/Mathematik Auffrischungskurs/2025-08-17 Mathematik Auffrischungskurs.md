@@ -4,7 +4,7 @@
 - [ ] Was ist die Mitternachtsformel?
 - [ ] Was ist eine Nullstelle
 - [ ] Was ist eine Stückweise definierte Funktion
-- [ ] Welche Operationen kann ich mit einer 
+- [ ] Welche Operationen kann ich mit einer Parabel machen?
 ---
 ## 💡 Wichtige Begriffe
 - Lineare Funktion - Eine Lineare Funktion ist eine Gerade Strecke die für jede Koordinate x eine bestimmte Koordinate y hat
@@ -271,7 +271,7 @@ y&=2x^2-4x-6 \\
 y&=2(x-3)(x+1)
 \end{align}
 $$
-**Wichtig:** Nullstellenform geht nur dann wenn die Parabel auch wirklich die $x$-Achse schneidet.
+**Wichtig:** Die Nullstellenform gibts nur dann wenn die Parabel auch wirklich die $x$-Achse schneidet.
 
 ---
 Es können verschiedene Operationen durchgeführt werden um eine Parabel zu verändern.
@@ -308,8 +308,6 @@ Um die Parabel an der $x$-Achse zu verschieben wird die normalparabel $y=x^2$ mi
 ```
 **Achtung:** um in die positive $x$ richtung zu verschieben muss $s$ negativ sein. Um negativ zu verschieben muss $s$ positiv sein.
 
-#### Verschiebung an $y$-Achse
-TODO
 #### Streckung/Stauchung zur $x$-Achse
 Um eine Parabel zu Strecken Stauchen wird ein Faktor vor die $x$ variable geschrieben. 
 so zum beispiel $y = f*x^2$
@@ -343,9 +341,6 @@ so zum beispiel $y = f*x^2$
 ```
 Wenn der Faktor $f<1$ dann verläuft die Parabel flächer
 Wenn der Faktor $f > 1$ dann verläuft die Parabel steiler
-
-#### Streckung zur $y$-Achse
-TODO
 #### Spiegelung an $x$-Achse
 Um eine Parabel an der $x$ Achse zu spiegeln wird die variable $x$ inklusive Faktor $f$ negativ gemacht: $y= -x^2$
 
@@ -379,17 +374,14 @@ Um eine Parabel an der $x$ Achse zu spiegeln wird die variable $x$ inklusive Fak
 Um die Öffnung nach oben zu haben muss der Term mit der Variable $x$ positiv sein
 Um die Öffnung nach unten zu erhalten muss der Term mit der Variable $x$ negativ sein
 
-#### Spiegelung an $y$-Achse
-TODO
-
 
 ### Wichtig:
 
 
 ---
 ## ✅ ToDo
-- [ ] #task Verständnissfragen
-- [ ] #task Wichtige Begriffe - 2 Sätze pro Begriff
+- [x] #task Verständnissfragen ✅ 2025-08-20
+- [x] #task Wichtige Begriffe - 2 Sätze pro Begriff ✅ 2025-08-20
 - [x] #task Lineare Gleichungen fertig machen
 	- [x] Grafik
 	- [x] Bsp

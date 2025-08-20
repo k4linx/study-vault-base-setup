@@ -37,7 +37,8 @@
               "title": "2025-08-16 Mathematik"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,12 +219,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fb1b8d65e8ca37e9",
+  "active": "ee128c55679e5ba0",
   "lastOpenFiles": [
+    "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil2.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil1.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionen.pdf",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
     "templates/math/tikz_2d_coordinate_system.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
