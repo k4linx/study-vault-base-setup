@@ -73,7 +73,7 @@ In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung einges
 
 ### Lineare Funktionen
 Lineare Funktionen verlaufen immer linear in eine Koordinatensystem:
-TODO: Diagramm zeichnen
+
 #### Schnittpunkt von 2 Geraden
 Um den Schnittpunkt von 2 Geraden herauszufinden werden die beiden Geraden gleichgesetzt:
 $$
