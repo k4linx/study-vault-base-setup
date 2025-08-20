@@ -8,7 +8,7 @@
 \end{array}
 ```
 
-## Logical symbols
+## Logische Symbole
 
 | Symbol | Code       |
 | ------ | ---------- |
@@ -42,7 +42,7 @@
 | ⊲      | \lhd       |
 | ∴      | \therefore |
 
-## Operators:
+## Operatoren:
 | Symbol | Code    |
 | ------ | ------- |
 | ×      | \times  |
@@ -73,23 +73,17 @@
 
 ## Arrows
 
-|Symbol|Code|
-|---|---|
-|→|\to|
-|→|\rightarrow|
-|←|\leftarrow|
-|⇒|\Rightarrow|
-|⇐|\Leftarrow|
-|⇔|\Leftrightarrow|
-|↦|\mapsto|
+| Symbol | Code            |
+| ------ | --------------- |
+| →      | \to             |
+| →      | \rightarrow     |
+| ←      | \leftarrow      |
+| ⇒      | \Rightarrow     |
+| ⇐      | \Leftarrow      |
+| ⇔      | \Leftrightarrow |
+| ↦      | \mapsto         |
 
-## Styling
 
-| Symbol             | latex syntax          | Description                                   |
-| ------------------ | --------------------- | --------------------------------------------- |
-| $\cancel{}$        | `\cancel{}`           | strikes out the term in the curly braces      |
-| $\underbrace{}$    | `\underbrace{}`       | Underbraces term                              |
-| $\left\{ \right .$ | `\left\{...\right\ .` | Adds a left brace to a term, can be multiline |
 
 ## Parentheses
 unscaled (1 line)
@@ -116,3 +110,30 @@ scaled (multiline)
 | ⟨...⟩   | \left\langle ... \right\rangle |
 | ⌈...⌉   | \left\lceil ... \right\rceil   |
 | ⌊...⌋   | \left\lfloor ... \right\rfloor |
+
+## Spaces
+
+| Symbol      | Code                |
+| ----------- | ------------------- |
+| Thin space  | Thin \ space        |
+| Normalspace | Normal \; space     |
+| Bigspace    | Big \quad space     |
+| Biggerspace | Bigger \qquad space |
+
+## Mengen Buchstaben
+
+| Symbol       | Code       |
+| ------------ | ---------- |
+| ℕ            | \mathbb{N} |
+| ℤ            | \mathbb{Z} |
+| ℚ            | \mathbb{Q} |
+| 𝕀           | \mathbb{I} |
+| ℝ            | \mathbb{R} |
+| ℂ            | \mathbb{C} |
+| $\mathbb{L}$ | \mathbb{L} |
+## Styling
+
+| Symbol          | latex syntax    | Description                              |
+| --------------- | --------------- | ---------------------------------------- |
+| $\cancel{}$     | `\cancel{}`     | strikes out the term in the curly braces |
+| $\underbrace{}$ | `\underbrace{}` | Underbraces term                         |
