@@ -42,7 +42,6 @@
 | ⊲      | \lhd       |
 | ∴      | \therefore |
 
-## Operatoren:
 | Symbol | Code    |
 | ------ | ------- |
 | ×      | \times  |
@@ -71,7 +70,7 @@
 | ∅      | \emptyset   |
 | ∅      | \varnothing |
 
-## Arrows
+## Pfeile
 
 | Symbol | Code            |
 | ------ | --------------- |
@@ -83,25 +82,19 @@
 | ⇔      | \Leftrightarrow |
 | ↦      | \mapsto         |
 
-
-
-## Parentheses
-unscaled (1 line)
-
-| Symbol  | Code                |
-| ------- | ------------------- |
-| (...)   | (...)               |
-| [...]   | [...]               |
-| {...}   | { ... }             |
-| \|...\| | \vert ... \vert     |
-| ‖...‖   | \Vert ... \Vert     |
-| ⟨...⟩   | \langle ... \rangle |
-| ⌈...⌉   | \lceil ... \rceil   |
-| ⌊...⌋   | \lfloor ... \rfloor |
-scaled (multiline)
+## Klammern
 
 | Symbol  | Code                           |
 | ------- | ------------------------------ |
+| (...)   | (...)                          |
+| [...]   | [...]                          |
+| {...}   | { ... }                        |
+| \|...\| | \vert ... \vert                |
+| ‖...‖   | \Vert ... \Vert                |
+| ⟨...⟩   | \langle ... \rangle            |
+| ⌈...⌉   | \lceil ... \rceil              |
+| ⌊...⌋   | \lfloor ... \rfloor            |
+| Symbol  | Code (Skalierbar)              |
 | (...)   | \left( ... \right)             |
 | [...]   | \left[ ... \right]             |
 | {...}   | \left{ ... \right}             |
@@ -111,7 +104,54 @@ scaled (multiline)
 | ⌈...⌉   | \left\lceil ... \right\rceil   |
 | ⌊...⌋   | \left\lfloor ... \right\rfloor |
 
-## Spaces
+
+## Griechische Symbole
+
+| Symbol | Code              |
+| ------ | ----------------- |
+| α      | \alpha            |
+| β      | \beta             |
+| γ      | \gamma            |
+| δ      | \delta            |
+| ϵ      | \epsilon          |
+| ε      | \varepsilon       |
+| ζ      | \zeta             |
+| η      | \eta              |
+| θ      | \theta            |
+| ϑ      | \vartheta         |
+| ι      | \iota             |
+| κ      | \kappa            |
+| λ      | \lambda           |
+| μ      | \mu               |
+| ν      | \nu               |
+| ξ      | \xi               |
+| ο      | \omicron          |
+| π      | \pi               |
+| ϖ      | \varpi            |
+| ρ      | \rho              |
+| ϱ      | \varrho           |
+| σ      | \sigma            |
+| ς      | \varsigma         |
+| τ      | \tau              |
+| υ      | \upsilon          |
+| ϕ      | \phi              |
+| φ      | \varphi           |
+| χ      | \chi              |
+| ψ      | \psi              |
+| ω      | \omega            |
+| Symbol | Code (Hochformat) |
+| Γ      | \Gamma            |
+| Δ      | \Delta            |
+| Θ      | \Theta            |
+| Λ      | \Lambda           |
+| Ξ      | \Xi               |
+| Π      | \Pi               |
+| Σ      | \Sigma            |
+| Υ      | \Upsilon          |
+| Ψ      | \Psi              |
+| Ω      | \Omega            |
+
+## Abstände
 
 | Symbol      | Code                |
 | ----------- | ------------------- |
