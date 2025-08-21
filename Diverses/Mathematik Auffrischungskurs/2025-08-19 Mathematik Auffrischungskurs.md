@@ -5,7 +5,25 @@
 
 ---
 ## 📄 Zusammenfassung
-### Gleichungssysteme
+Gleichungssysteme bis potenzen
+### Lineare Gleichungssysteme
+Lineare Gleichungssysteme sind zwei oder mehr gleichungen mit zwei oder mehr unbekannten die Linear verlaufen.
+$$
+\left\vert \begin{align}
+\ 2x+y &= 2 \\
+ x + y &= \frac{3}{2} \ 
+\end{align}\right\vert
+
+$$
+Um ein Lineares Gleichungssystem zu lösenmuss man nach einer variable auflösen und diesen Term anstelle der Variable im andere Gleichungssystem einsetzen.
+
+Man erhält eine Gleichung mit nur einer unbekannten:
+
+Diese kann einfach gelöst werden und das Resultat in der ersten Gleichung eingesetzt werden.
+
+Dann kann man die erste Gleichung lösen und hat beide Resultate:
+
+### Nichtlineare Gleichungssysteme
 
 ---
 ## ✅ ToDo
@@ -38,7 +56,7 @@
     
     \addplot[color=red, domain=-3:3] {x} node[ anchor=north] {$y=x$};
 
-    \addplot[color=blue, domain=-4:4] {|x|} node[ anchor=north] {$y=|x|$};
+    \addplot[color=blue, domain=-4:4] {abs(x)} node[ anchor=north] {$y=|x|$};
 
 	\end{axis}
   \end{tikzpicture}
