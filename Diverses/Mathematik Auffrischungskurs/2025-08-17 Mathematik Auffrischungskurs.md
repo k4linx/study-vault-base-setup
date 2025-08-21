@@ -31,7 +31,7 @@ $$
 580&=116z \\
 5 &= z \to \mathbb{L} \lbrace \rbrace
 \end{align}$$
-**Wichtig:** [[2025-08-16 Mathematik#Theorie|Äquivalenzumforung]] beachten!!!
+**Wichtig:** [[2025-08-16 Mathematik Auffrischungskurs#Theorie|Äquivalenzumforung]] beachten!!!
 
 ---
 ### Lineare Gleichung
@@ -136,7 +136,7 @@ Eine Quadratische Gleichung ohne Definitionsmenge hat immer 2 Lösungen ausser a
 
 Um Quadratische Gleichungen zu lösen gibt es 2 Möglichkeiten:
 1. Quadratische Gleichungen können mit der [[2025-08-17 Mathematik Auffrischungskurs#Mitternachtsformel|Mitternachtsformel (MNF)]] gelöst werden.
-2. Quadratische Gleichungen können teils [[2025-08-16 Mathematik#Faktorisieren|Faktorisiert]] werden.
+2. Quadratische Gleichungen können teils [[2025-08-16 Mathematik Auffrischungskurs#Faktorisieren|Faktorisiert]] werden.
 
 #### Mitternachtsformel
 Die grundform der Mitternachtsformel sieht so aus:
@@ -239,7 +239,7 @@ Die Normalparabel ist: $y = x^2$
 Es gibt verschieden Schreibweisen für quadratische Funktionen:
 
 #### Scheitelpunktform
-Die Scheitelpunktform ist praktisch um den Scheitelpunkt der geraden herauslesen zu können.
+Die Scheitelpunktform ist praktisch um den Scheitelpunkt der geraden herauslesen zu können. Die Scheitelpunktform ist am besten wenn der Scheitelpunkt bekannt ist.
 $$y = a(x-x_{s})^{2}+y_{s}$$
 Legende:
 $a$ = Öffnung der Parabel (positiv: nach oben, negativ: nach unten)
@@ -261,7 +261,7 @@ y&=2x^{2}-4x-6 \\
 \end{align}
 $$
 #### Nullstellenform
-Die Nullstellenform gibt es nur dann wenn die Parabel Nullstellen hat, also wenn sich die Parabel mit der $x$ Achse schneidet und $y=0$ ist. Die Nullstellenform ist praktisch weil man auf einen Blick die Nullstellen ablesen kann, Man findet also die $x$ Koordinaten bei denen $y=0$ ist.
+Die Nullstellenform gibt es nur dann wenn die Parabel Nullstellen hat, also wenn sich die Parabel mit der $x$ Achse schneidet und $y=0$ ist. Die Nullstellenform ist praktisch weil man auf einen Blick die Nullstellen ablesen kann, Man findet also die $x$ Koordinaten bei denen $y=0$ ist. Diese Form ist am besten wenn man die Nullstellen kennt.
 
 aus der Standardform kann die Nullstellenform wie folgt abgeleitet werden.
 
@@ -368,6 +368,7 @@ Um eine Parabel an der $x$ Achse zu spiegeln wird die variable $x$ inklusive Fak
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
 	\addplot[color=green, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
 	\addplot[color=red, domain=-2:2] {-x^2} node[pos=1.05, anchor=west] {$y=-x^2$};
+	\addplot[color=red, domain=-2:2] {$x^{2}$} node[pos=1.05, anchor=west] {$y=-x^2$};
 	\end{axis}
   \end{tikzpicture}
 \end{document}

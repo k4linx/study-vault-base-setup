@@ -1,4 +1,8 @@
-
+<%*
+  const modalForm = app.plugins.plugins.modalforms.api;
+  const result = await modalForm.openForm("function_visualization");
+  
+-%>
 ```tikz
 \usepackage{pgfplots}
 
@@ -20,7 +24,7 @@
     % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
-    
+    \addplot[color=<% result.get("plot_color") %>, domain=<% result.get("plot_domain") %>] {<% result.get("math_function") %>} node[pos=1.05, anchor=west] {$<% result.get("latex_function") %>$};
 	\end{axis}
   \end{tikzpicture}
 \end{document}

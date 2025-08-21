@@ -16,6 +16,7 @@ else if(count > 1){
 ```tasks
 filter by function task.file.folder.includes( query.file.folder)
 group by function task.file.folder.slice(0,-1).split('/').pop()
+not done
 ```
 
 ---

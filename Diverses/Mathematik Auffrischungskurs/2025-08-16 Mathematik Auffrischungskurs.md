@@ -32,7 +32,7 @@ a+(b+c) = a+b+c = (a+b)+c \\
 
 #### Distributivgesetz: 
 $$a*(b+c)= a*b+a*c = ab+ac $$
-**Wichtig:** beim Distributivgesetz ist immer [[2025-08-16 Mathematik#Punkt vor Strich|Punkt vor Strich]] operieren.
+**Wichtig:** beim Distributivgesetz ist immer [[2025-08-16 Mathematik Auffrischungskurs#Punkt vor Strich|Punkt vor Strich]] operieren.
 ### Weitere Regeln:
 #### Punkt vor Strich: 
 $$a*b+c = (a*b)+c$$

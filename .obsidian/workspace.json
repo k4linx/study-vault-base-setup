@@ -4,56 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f707da874ad7685d",
+        "id": "fc6befd76a19dec4",
         "type": "tabs",
         "children": [
           {
-            "id": "fb1b8d65e8ca37e9",
+            "id": "545efcc4b8e21542",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2025-08-17 Mathematik Auffrischungskurs"
-            }
-          },
-          {
-            "id": "ee128c55679e5ba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-16 Mathematik"
-            }
-          },
-          {
-            "id": "efec24a0a0836aec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-17 Mathematik Auffrischungskurs"
+              "icon": "lucide-file-text",
+              "title": "AuffrischungskursAufgabenHS25"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +153,8 @@
             "state": {
               "type": "modal-form-manage-forms-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "documents",
+              "title": "Manage forms"
             }
           },
           {
@@ -220,13 +186,74 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "a966b35a2e5b535c",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-template-builder-view",
+              "state": {
+                "title": "Visualisere deine Funktionen",
+                "name": "function_visualization",
+                "version": "1",
+                "fields": [
+                  {
+                    "name": "latex_function",
+                    "label": "LaTex Funktion",
+                    "description": "Funktion in LaTex",
+                    "input": {
+                      "type": "text",
+                      "allowUnknownValues": false,
+                      "hidden": false
+                    },
+                    "isRequired": true
+                  },
+                  {
+                    "name": "math_function",
+                    "label": "Math Funktion",
+                    "description": "",
+                    "input": {
+                      "type": "text",
+                      "allowUnknownValues": false,
+                      "hidden": false
+                    },
+                    "isRequired": true
+                  },
+                  {
+                    "name": "plot_color",
+                    "label": "Farbe",
+                    "description": "",
+                    "input": {
+                      "type": "text",
+                      "allowUnknownValues": false,
+                      "hidden": false
+                    },
+                    "isRequired": false
+                  },
+                  {
+                    "name": "plot_domain",
+                    "label": "Anfang bis ende",
+                    "description": "Anfangswert:endwert",
+                    "input": {
+                      "type": "text",
+                      "allowUnknownValues": false,
+                      "hidden": false
+                    },
+                    "isRequired": true
+                  }
+                ]
+              },
+              "icon": "lucide-file",
+              "title": "Template Builder"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 615.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,13 +271,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efec24a0a0836aec",
+  "active": "545efcc4b8e21542",
   "lastOpenFiles": [
-    "templates/math/tikz_2d_coordinate_system.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
+    "templates/math/pgf_plot.md",
+    "templates/math/tikz_2d_coordinate_system.md",
+    "templates/semester/semester_template.md",
+    "A_Inbox/Info Elektro- & Informationstechnik HS 2025.md",
+    "Home.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik Auffrischungskurs.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Cheatsheets/TikZ cheatsheet.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik.md",
     "Diverses/Cheatsheets",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil2.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/2GleichungenUndFunktionenTeil1.pdf",
@@ -271,16 +304,9 @@
     "copilot-custom-prompts",
     "templates/math",
     "templates/Untitled.md",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/1Rechenregeln.pdf",
-    "Home.md",
     "Diverses/Organisatorisch/Allgemeine Infos.md",
     "Diverses/Organisatorisch",
-    "Diverses/Organisatorisch/Modultabelle EIT v3 Word ab 24HS.pdf",
-    "A_Inbox/Info Elektro- & Informationstechnik HS 2025.md",
-    "templates/semester/semester_template.md",
-    "templates/module/module_template.md",
-    "Untitled Kanban.md",
-    "Untitled Kanban 1.md"
+    "Diverses/Organisatorisch/Modultabelle EIT v3 Word ab 24HS.pdf"
   ]
 }
