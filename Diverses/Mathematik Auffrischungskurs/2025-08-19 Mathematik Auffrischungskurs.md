@@ -74,7 +74,7 @@ c&=-1-a-b \\
 5&=3a+b \\
 9&=15a+3b \quad |:3 
 \end{align}
-\right\v 2zert
+\right\vert
 $$
 $$
 \left\vert
@@ -169,19 +169,45 @@ x_{2}&=- \frac{5}{2}\left( \sqrt{\frac{6}{5}} \right) \\
 y_2&=-\sqrt{\frac{6}{5}}
 \end{align}
 $$
+**Wichtig:** Bei nicht Linearen Gleichungssystemen wird immer eine Wurzel gezogen um die Potenz zu entfernen.
+
+### Ungleichungen
+Ungleichungen erkennt man an $< \ > \ \le \ \ge$. Sie werden gleich wie lineare und nichtlineare Gleichungssysteme gelöst.
+**Bsp 1:**
+$$
+\begin{align}
+4x-3>x+2 \\
+3x-3>2 \\
+3x>5 \\
+\frac{x>5}{3} \\
+\mathbb{L}= ]\frac{5}{3};-\infty[
+\end{align}
+$$
+**Bsp 2:**
+$$
+\begin{align}
+6x+2 \geq 10x+1 \\
+6x \geq 10x-1 \\ \\
+-4x \geq -1 \\
+x \leq \frac{1}{4} \\
+\mathbb{L}= ]-\infty; \frac{1}{4}]
+\end{align}
+$$
+
+**Wichtig:** Wenn eine Ungleichung mit einer Negativen Zahl multipliziert oder dividiert wird muss das Ungleich zeichen gedreht werden.
 
 
 
 ---
 ## ✅ ToDo
-- [ ] Lineare Gleichungssysteme
-	- [ ] Allgemeine Form
-	- [ ] Bsp
-	- [ ] 3 Gleichungen mit 3 Unbekannten
-- [ ] Nichtlineare Gleichungssysteme
-	- [ ] Theorie
-	- [ ] Allgemeine Form
-	- [ ] Bsp
+- [x] Lineare Gleichungssysteme
+	- [x] Allgemeine Form
+	- [x] Bsp
+	- [x] 3 Gleichungen mit 3 Unbekannten
+- [x] Nichtlineare Gleichungssysteme
+	- [x] Theorie
+	- [x] Allgemeine Form
+	- [x] Bsp
 - [ ] Ungleichungen
 	- [ ] Theorie
 	- [ ] Allgemeine Form
