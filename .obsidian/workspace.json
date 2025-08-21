@@ -35,24 +35,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "820d4bd2c76653a9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df138a55140ce082",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/3GleichungssystemeUngleichungenBetrag.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3GleichungssystemeUngleichungenBetrag"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

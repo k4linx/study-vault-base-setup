@@ -196,7 +196,39 @@ $$
 
 **Wichtig:** Wenn eine Ungleichung mit einer Negativen Zahl multipliziert oder dividiert wird muss das Ungleich zeichen gedreht werden.
 
-
+**Bsp 3:**
+$$
+\begin{align}
+\frac{1}{3-x} < 1 \\
+\end{align}
+$$
+Wenn man nun $*(3-x)$ Rechnen würde müsste man sofort eine Fallunterscheidung machen.
+$$
+\begin{align}
+1.\ Fall\ & 3-x > 0 \\
+1&<3-x \\
+x&<2 \\
+&...
+\end{align}
+$$
+$$
+\begin{align}
+2.\ Fall\ & 3-x < 0 \\
+1&>3-x \\
+x&>2 \\
+&...
+\end{align}
+$$
+Ein anderer Weg ist folgender:
+$$
+\begin{align}
+\frac{1}{3-x}-1<0 \\
+\frac{1}{3-x}- \frac{3-x}{3-x}<0 \\
+\frac{1-(3-x)}{3-x}<0 \\
+\frac{x-2}{3-x}<0
+\end{align}
+$$
+Jetzt in einer Tabelle die Werte wo $x=0$ ist eintragen und schauen wann $x$ positiv und wann negativ ist.
 
 ---
 ## ✅ ToDo
@@ -208,10 +240,10 @@ $$
 	- [x] Theorie
 	- [x] Allgemeine Form
 	- [x] Bsp
-- [ ] Ungleichungen
-	- [ ] Theorie
-	- [ ] Allgemeine Form
-	- [ ] Bsp
+- [x] Ungleichungen
+	- [x] Theorie
+	- [x] Allgemeine Form
+	- [x] Bsp
 - [ ] Betrag
 	- [ ] Theorie
 	- [ ] Allgemeine Form
