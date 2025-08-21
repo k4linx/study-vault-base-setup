@@ -8,6 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "16d822ec44c3b605",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d162f3019c57fa9",
+        "type": "tabs",
+        "children": [
+          {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
@@ -20,18 +38,6 @@
               },
               "icon": "lucide-file",
               "title": "2025-08-19 Mathematik Auffrischungskurs"
-            }
-          },
-          {
-            "id": "16d822ec44c3b605",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
             }
           }
         ]
@@ -288,12 +294,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/3GleichungssystemeUngleichungenBetrag.pdf",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik Auffrischungskurs.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Cheatsheets/TikZ cheatsheet.md",
     "Diverses/Cheatsheets/Math cheatsheet.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
     "templates/math/pgf_plot_fn_include_csy.md",
     "templates/math/pgf_plot_fn.md",
     "templates/semester/semester_template.md",
@@ -318,11 +325,9 @@
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
     "templates/math",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/1Rechenregeln.pdf",
-    "Diverses/Organisatorisch",
-    "Diverses/Organisatorisch/Modultabelle EIT v3 Word ab 24HS.pdf"
+    "Diverses/Organisatorisch"
   ]
 }
