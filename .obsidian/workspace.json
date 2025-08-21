@@ -11,12 +11,15 @@
             "id": "545efcc4b8e21542",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf"
+                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "AuffrischungskursAufgabenHS25"
+              "icon": "lucide-file",
+              "title": "2025-08-19 Mathematik Auffrischungskurs"
             }
           }
         ]
@@ -246,14 +249,69 @@
               "icon": "lucide-file",
               "title": "Template Builder"
             }
+          },
+          {
+            "id": "e128000c36c63432",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-edit-form-view",
+              "state": {
+                "title": "Visualisere deine Funktionen",
+                "name": "function_visualization",
+                "fields": [
+                  {
+                    "name": "latex_function",
+                    "label": "LaTex Funktion",
+                    "description": "Funktion in LaTex",
+                    "isRequired": true,
+                    "input": {
+                      "type": "text",
+                      "hidden": false
+                    }
+                  },
+                  {
+                    "name": "math_function",
+                    "label": "Math Funktion",
+                    "description": "",
+                    "isRequired": true,
+                    "input": {
+                      "type": "text",
+                      "hidden": false
+                    }
+                  },
+                  {
+                    "name": "plot_color",
+                    "label": "Farbe",
+                    "description": "",
+                    "isRequired": false,
+                    "input": {
+                      "type": "text",
+                      "hidden": false
+                    }
+                  },
+                  {
+                    "name": "plot_domain",
+                    "label": "Anfang bis ende",
+                    "description": "Anfangswert:endwert",
+                    "isRequired": true,
+                    "input": {
+                      "type": "text",
+                      "hidden": false
+                    }
+                  }
+                ],
+                "version": "1"
+              },
+              "icon": "note-glyph",
+              "title": "Edit form"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 615.5,
-    "collapsed": true
+    "width": 615.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,10 +329,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "545efcc4b8e21542",
+  "active": "e128000c36c63432",
   "lastOpenFiles": [
-    "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
     "templates/math/pgf_plot.md",
     "templates/math/tikz_2d_coordinate_system.md",

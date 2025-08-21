@@ -8,7 +8,7 @@
     }
   ],
   "workspace:undo-close-pane": [],
-  "insert-template": [
+  "templater-obsidian:insert-templater": [
     {
       "modifiers": [
         "Mod",
