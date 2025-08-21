@@ -52,52 +52,124 @@ Im Grunde ist es der Gleiche Mechanismus wie beim System mit 2 Unbekannten
 $$
 \left\vert
 \begin{align}
-\ x+y+z&=11 \ \\
-\ 2x+y+3z&= 4 \ \\
-\ x-y+z&=1
+\ a+b+c&=-1 \ \\
+\ 4a+2b+c&= 4 \ \\
+\ 16a+4b+c&=18
 \end{align}
 \right\vert
 $$
-Dann eine Gleichung nach einer Variable auflösen und in die anderen einsetzen:
+Dann eine Gleichung nach einer Variable auflösen und in die anderen einsetzen (Bsp: nach $c$ in der ersten Gleichung):
 $$
 \begin{align}
-x&=-y-z+11 \\
-2(-y-z+11)+y+3z &=4 \\
-(-y-z+11)-y+z&=1
+c&=-1-a-b \\
+4&= 44a+2b-1-a-b \\
+8&=16a+4b-1-a-b
 \end{align}
 $$
-Auflösen und eine der beiden nach einer Variable auflösen:
+Nun erhält man 2 Gleichungen mit 2 Variablen. Eine der beiden nach einer Variable auflösen und in der dritten Gleichung einsetzen (Bsp: nach $b$ in der zweiten Gleichung):
 $$
+\left\vert
 \begin{align}
-x&=-y-z+11 \\
--y+2z+11 &=4 \\
-y&=-5
+c&=-1-a-b \\
+5&=3a+b \\
+9&=15a+3b \quad |:3 
 \end{align}
+\right\v 2zert
 $$
-Einsetzen:
-$$\begin{align}
-x&=-y-z+11 \\
-2z&=-12 \\
-y&=-5
-\end{align}$$
+$$
+\left\vert
+\begin{align}
+c&=-1-a-(5-3a) \\
+b&=5-3a \\
+3&=5a+5-3a
+\end{align}
+\right\vert$$
+Nach $a$ auflösen und in die zweite Gleichungen einsetzen:
+$$
+\left\vert
+\begin{align}
+c&=-1-a-b \\
+b&=5-3a \\
+-2&=2a
+\end{align}
+\right\vert$$
+$$
+\left\vert
+\begin{align}
+c&=-1-(-1)-b \\
+b&=5-3(-1) \\
+a&=-1
+\end{align}
+\right\vert
+$$
 Jetzt die beiden Werte der Aufgelösten Variablen in die 1. Gleichung einsetzen
 $$
 \begin{align}
-x=5+6+11 \\
-y=-5 \\
-z=-6 \\
+c&=-1+1-b \\
+b&=8 \\
+a&=-1 \\
 \end{align}
 $$
-Resultate für dieses System sind nun:
 $$
 \begin{align}
-x=22 \\
-y=-5 \\
-z=-6
+c&=-8 \\
+b&=8 \\
+a&=-1
 \end{align}
 $$
 ### Nichtlineare Gleichungssysteme
 Nichtlineare Gleichungssysteme sind Gleichungssysteme mit 2 oder mehr Unbekannten die aber im Gegensatz zu Linearen Gleichungssystemen nicht linear sind. Das bedeutet Potenzen können dabei sein.
+**Beispiel:**
+$$\begin{align}
+2x-5y&=0 \\
+x*y&=3
+\end{align}$$
+Erste Gleichung nach einer Unbekannten auflösen:
+$$
+\begin{align}
+x=\frac{5}{2}y \\
+x*y=3
+\end{align}
+$$
+Einsetzen
+$$
+\left\vert
+\begin{align}
+x&=\frac{5}{2}y \\
+\frac{5}{2}y*y&=3
+\end{align}
+\right\vert
+$$
+$$
+\begin{align}
+x=\frac{5}{2}y \\
+\frac{5}{2}y^{2}=3
+\end{align}
+$$
+Bruch auflösen
+$$
+\begin{align}
+x=\frac{5}{2}y \\
+5y^{2}=6
+\end{align}
+$$
+Faktor bei der Unbekannten entfernen
+$$
+\begin{align}
+x&=\frac{5}{2}y \\
+y^{2}&=\frac{6}{5}
+\end{align}
+$$
+Wurzel ziehen
+$$
+\begin{align}
+x_{1}&=\frac{5}{2}\left( \sqrt{\frac{6}{5}} \right) \\
+y_1&=\sqrt{\frac{6}{5}} \\
+x_{2}&=- \frac{5}{2}\left( \sqrt{\frac{6}{5}} \right) \\
+y_2&=-\sqrt{\frac{6}{5}}
+\end{align}
+$$
+
 
 
 ---

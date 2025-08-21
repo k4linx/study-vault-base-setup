@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "16d822ec44c3b605",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
-          }
-        ]
-      },
-      {
         "id": "5d162f3019c57fa9",
         "type": "tabs",
         "children": [
@@ -38,6 +20,36 @@
               },
               "icon": "lucide-file",
               "title": "2025-08-19 Mathematik Auffrischungskurs"
+            }
+          },
+          {
+            "id": "16d822ec44c3b605",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          }
+        ]
+      },
+      {
+        "id": "820d4bd2c76653a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df138a55140ce082",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/3GleichungssystemeUngleichungenBetrag.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3GleichungssystemeUngleichungenBetrag"
             }
           }
         ]
