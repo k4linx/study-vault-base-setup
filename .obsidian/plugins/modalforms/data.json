@@ -172,53 +172,49 @@
     {
       "title": "Visualisere deine Funktionen",
       "name": "function_visualization",
-      "version": "1",
       "fields": [
         {
           "name": "latex_function",
           "label": "LaTex Funktion",
           "description": "Funktion in LaTex",
+          "isRequired": true,
           "input": {
             "type": "text",
-            "allowUnknownValues": false,
             "hidden": false
-          },
-          "isRequired": true
+          }
         },
         {
           "name": "math_function",
           "label": "Math Funktion",
           "description": "",
+          "isRequired": true,
           "input": {
             "type": "text",
-            "allowUnknownValues": false,
             "hidden": false
-          },
-          "isRequired": true
+          }
         },
         {
           "name": "plot_color",
           "label": "Farbe",
           "description": "",
+          "isRequired": false,
           "input": {
             "type": "text",
-            "allowUnknownValues": false,
             "hidden": false
-          },
-          "isRequired": false
+          }
         },
         {
           "name": "plot_domain",
           "label": "Anfang bis ende",
           "description": "Anfangswert:endwert",
+          "isRequired": true,
           "input": {
             "type": "text",
-            "allowUnknownValues": false,
             "hidden": false
-          },
-          "isRequired": true
+          }
         }
-      ]
+      ],
+      "version": "1"
     }
   ]
 }
