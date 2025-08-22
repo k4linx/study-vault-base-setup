@@ -43,8 +43,9 @@ $$
 Der logarithmus berechnet den Exponent einer Potenz
 Beispiel:
 $$\log_2(16)=x$$
-Folgender Merksatz hilft beim Vertändnis: 
-
+Folgender Merksatz hilft beim Vertändnis des Beispiels: 
+>2 hoch wieviel ist 16?
+ode
 $$b^{x}= a \qquad b>0$$
 
 #### Logarithmus abschätzen
