@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5,
-    "collapsed": true
+    "width": 452.5
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -277,13 +276,13 @@
   },
   "active": "29fd2d7a34a316f2",
   "lastOpenFiles": [
-    "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
+    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-22 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
     "Home.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
-    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/3GleichungssystemeUngleichungenBetrag.pdf",
     "Diverses/Cheatsheets/TikZ cheatsheet.md",
     "Diverses/Cheatsheets/Math cheatsheet.md",
