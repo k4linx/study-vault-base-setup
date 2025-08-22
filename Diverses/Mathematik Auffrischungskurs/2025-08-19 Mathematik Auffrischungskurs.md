@@ -229,7 +229,77 @@ $$
 \end{align}
 $$
 Jetzt in einer Tabelle die Werte wo $x=0$ ist eintragen und schauen wann $x$ positiv und wann negativ ist.
+### Betrag
+Das Betragszeichen entfernt das $-$ bei einem negativen term.
+$$|-2| = 2$$ Die funktion mit einem Betrag macht immer ein V:
+```tikz
+\usepackage{pgfplots}
 
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    \addplot[color=red, domain=-4:4] {abs(x)} node[ anchor=north] {$y=|x|$};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+
+
+### Betragsgleichungen
+Betragsgleichungen enthalten einen Term in Betragsform in der Gleichung, somit gibt es immer 2 Fälle die gelöst und überprüft werden müssen.
+
+
+### Potenzen
+eine Potenz, auch Hochzahl genannt, gibt an wie oft die Basis mal sich selber multipliziert wird.
+$$
+\begin{align}
+a^{n}=&\underbrace{a*a...a} \\
+ &\text{n mal mit Faktor a multipliziert}
+\end{align}
+$$
+Legende:
+$a$ = Basis
+$n$ = Exponent(Hochzahl)
+
+
+#### Definitionen
+
+$a^0=1$
+Begründung:
+$$
+\begin{align}
+a^{0}=1: \quad \left( \frac{2^{4}}{2^{4}} = 1 = 2^{4-4}= 2^{0} \right)
+\end{align}
+$$
+#### Potenzgesetze
+$$
+\begin{align}
+\text{PG1:} &\quad a^{n}*a^{m}=a^{n+m} \\
+\text{PG2:} &\quad \frac{a^{n}}{a^{m}}=a^{n-m} \\
+\text{PG3:} &\quad a^{n}*b^{n}=(a*b)^n\\
+\text{PG4:} &\quad \frac{a^{n}}{b^{n}}=\left( \frac{a}{b} \right)^n\\
+\text{PG5:} &\quad (a^{n})^{m}=a^{nm}
+\end{align}
+$$
+
+**Beispiel**
+$$
+\begin{align} \\
+
+\frac{2^{7}*15^{3}}{6^{3}} & \xrightarrow{P3} \frac{(2*15)^{3}}{6^{3}} &\xrightarrow{P4} \left( \frac{2*15}{6} \right)^{3} &\xrightarrow{vereinfachen}5^{3}=125
+\end{align}
+$$
 ---
 ## ✅ ToDo
 - [x] Lineare Gleichungssysteme
@@ -244,10 +314,10 @@ Jetzt in einer Tabelle die Werte wo $x=0$ ist eintragen und schauen wann $x$ pos
 	- [x] Theorie
 	- [x] Allgemeine Form
 	- [x] Bsp
-- [ ] Betrag
-	- [ ] Theorie
-	- [ ] Allgemeine Form
-	- [ ] Bsp
+- [x] Betrag
+	- [x] Theorie
+	- [x] Allgemeine Form
+	- [x] Bsp
 - [ ] Betragsgleichungen
 	- [ ] Theorie
 	- [ ] Allgemeine Form
