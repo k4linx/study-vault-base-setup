@@ -44,9 +44,11 @@ Der logarithmus berechnet den Exponent einer Potenz
 Beispiel:
 $$
 \begin{align}
-\log_2(16)=x$$
+\log_{2}(16)&=x \\
+2^x&=16 \\
+\log_{2}(16)
 \end{align}
-
+$$
 Folgender Merksatz hilft beim Vertändnis des Beispiels: 
 
 >2 hoch wieviel ist 16?
