@@ -65,9 +65,12 @@ x=\log_b(a)
 $$
 $$b^{x}= a \qquad b>0$$
 Legende:
-- $b$ = Basis der Potenz 
-#### Logarithmus abschätzen
+- $b$ = Basis der Potenz
+- $x$ = gesuchter Exponent
+- $a$ = $b^x$ 
+ #### Logarithmus abschätzen
 
+Folgen weitere Beispiele mit anderen Fällen:
 #### Logarithmengesetze
 
 #### Exponentialgleichung
