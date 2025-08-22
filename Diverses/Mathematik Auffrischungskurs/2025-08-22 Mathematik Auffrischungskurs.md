@@ -34,7 +34,11 @@ x &= 7^{\frac{2}{5}}
 $$
 **Wichtig:** um $x^1$ zu erhalten wird die Gleichung mit dem Kehrwert der Potenz multipliziert.
 ### Wurzelgleichungen
-Wurzelgleichungen enthalten 1 oder mehrere Terme unter der Wurzel. Wenn diese Terme Quadriert werden Kann es vorkommen dass Scheinlösungen entstehen. Deshalb ist es wichtig die erhaltenen Resultate in
+Wurzelgleichungen enthalten 1 oder mehrere Terme unter der Wurzel. Wenn diese Terme Quadriert werden Kann es vorkommen dass Scheinlösungen entstehen. Deshalb ist es wichtig die erhaltenen Resultate in der Gleichung einzusetzen und zu kontrollieren.
+
+$$
+\sqrt{x+4} = \sqrt{5x} - 2
+$$
 ### Logarithmen & Exponentialfunktionen
 
 #### Logarithmus abschätzen
