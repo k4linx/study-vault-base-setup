@@ -330,6 +330,10 @@ $$
 a^{0}=1: \quad \left( \frac{2^{4}}{2^{4}} = 1 = 2^{4-4}= 2^{0} \right)
 \end{align}
 $$
+
+$$
+a^{-n}=\frac{1}{a^n}
+$$
 #### Potenzgesetze
 $$
 \begin{align}
