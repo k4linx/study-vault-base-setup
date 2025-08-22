@@ -1,389 +1,414 @@
 ## ⁉️ Fragen
-
+- [ ] Wie sieht die Grundform einer linearen Gleichung aus
+- [ ] Wie sieht die Normalparabel aus?
+- [ ] Was ist die Mitternachtsformel?
+- [ ] Was ist eine Nullstelle
+- [ ] Was ist eine Stückweise definierte Funktion
+- [ ] Welche Operationen kann ich mit einer Parabel machen?
 ---
 ## 💡 Wichtige Begriffe
+- Lineare Funktion - Eine Lineare Funktion ist eine Gerade Strecke die für jede Koordinate x eine bestimmte Koordinate y hat
+- Quadratische Funktion - Eine Quadratische Funktion beschreibt ein "U" die sogenannte Parabel - der Wert der $y$ Koordinate ist das Quadrat der $x$ Koordinate
+- Scheitelpunktform - Die Scheitelpunktform zeigt die Koordinaten des Scheitelpunktes einer Parabel
+- Standardform - Die Standardform ist die ausmultiplizierte Scheitelpunktform
+- Nullstellenform - Wenn eine Parabel Nullstellen hat kann die Nullstellenform nützlich sein um die $x$ Koordinate zu finden bei der $y=0$ ist.
+- Nullstelle - Die Stelle an der die $y$ Koordinate $y=0$
 
 ---
 ## 📄 Zusammenfassung
-Gleichungssysteme bis potenzen
-### Lineare Gleichungssysteme
-Lineare Gleichungssysteme sind zwei oder mehr gleichungen mit zwei oder mehr unbekannten die Linear verlaufen. Im Beispiel sind zwei unbekannte $x,y$:
-$$
-\left\vert \begin{align}
-\ 2x+y &= 2 \\
- x + y &= \frac{3}{2} \ 
-\end{align}\right\vert
-
-$$
-Um ein Lineares Gleichungssystem zu lösen muss man nach einer variable auflösen und diesen Term anstelle der Variable im andere Gleichungssystem einsetzen.
-$$
-\begin{align}
-x+y&=\frac{3}{2} \\
-x&=\frac{3}{2}-y
-\end{align}
-$$
-Man erhält eine Gleichung mit nur einer unbekannten:
-$$
-\begin{align}
-2\left( \frac{3}{2}-y \right)+y =2 \\
-3-2y+y=2 \\
-3-y=2 \\
-1=y \\
-y=1
-\end{align}
-$$
-Diese kann einfach gelöst werden und das Resultat in der ersten Gleichung eingesetzt werden.
-$$
-\begin{align}
-x+1=\frac{3}{2} \\
-x=\frac{1}{2}
-\end{align}
-$$
-Dann kann man die erste Gleichung lösen und hat beide Resultate:
-$$
-\begin{align}
-x=\frac{1}{2} \\
-y=1
-\end{align}
-$$
-#### Gleichungssysteme mit 3 und mehr unbekannten
-Im Grunde ist es der Gleiche Mechanismus wie beim System mit 2 Unbekannten
-
-$$
-\left\vert
-\begin{align}
-\ a+b+c&=-1 \ \\
-\ 4a+2b+c&= 4 \ \\
-\ 16a+4b+c&=18
-\end{align}
-\right\vert
-$$
-Dann eine Gleichung nach einer Variable auflösen und in die anderen einsetzen (Bsp: nach $c$ in der ersten Gleichung):
-$$
-\begin{align}
-c&=-1-a-b \\
-4&= 44a+2b-1-a-b \\
-8&=16a+4b-1-a-b
-\end{align}
-$$
-Nun erhält man 2 Gleichungen mit 2 Variablen. Eine der beiden nach einer Variable auflösen und in der dritten Gleichung einsetzen (Bsp: nach $b$ in der zweiten Gleichung):
-$$
-\left\vert
-\begin{align}
-c&=-1-a-b \\
-5&=3a+b \\
-9&=15a+3b \quad |:3 
-\end{align}
-\right\vert
-$$
-$$
-\left\vert
-\begin{align}
-c&=-1-a-(5-3a) \\
-b&=5-3a \\
-3&=5a+5-3a
-\end{align}
-\right\vert$$
-Nach $a$ auflösen und in die zweite Gleichungen einsetzen:
-$$
-\left\vert
-\begin{align}
-c&=-1-a-b \\
-b&=5-3a \\
--2&=2a
-\end{align}
-\right\vert$$
-$$
-\left\vert
-\begin{align}
-c&=-1-(-1)-b \\
-b&=5-3(-1) \\
-a&=-1
-\end{align}
-\right\vert
-$$
-Jetzt die beiden Werte der Aufgelösten Variablen in die 1. Gleichung einsetzen
-$$
-\begin{align}
-c&=-1+1-b \\
-b&=8 \\
-a&=-1 \\
-\end{align}
-$$
-$$
-\begin{align}
-c&=-8 \\
-b&=8 \\
-a&=-1
-\end{align}
-$$
-### Nichtlineare Gleichungssysteme
-Nichtlineare Gleichungssysteme sind Gleichungssysteme mit 2 oder mehr Unbekannten die aber im Gegensatz zu Linearen Gleichungssystemen nicht linear sind. Das bedeutet Potenzen können dabei sein.
-**Beispiel:**
-$$\begin{align}
-2x-5y&=0 \\
-x*y&=3
-\end{align}$$
-Erste Gleichung nach einer Unbekannten auflösen:
-$$
-\begin{align}
-x=\frac{5}{2}y \\
-x*y=3
-\end{align}
-$$
-Einsetzen
-$$
-\left\vert
-\begin{align}
-x&=\frac{5}{2}y \\
-\frac{5}{2}y*y&=3
-\end{align}
-\right\vert
-$$
-$$
-\begin{align}
-x=\frac{5}{2}y \\
-\frac{5}{2}y^{2}=3
-\end{align}
-$$
-Bruch auflösen
-$$
-\begin{align}
-x=\frac{5}{2}y \\
-5y^{2}=6
-\end{align}
-$$
-Faktor bei der Unbekannten entfernen
-$$
-\begin{align}
-x&=\frac{5}{2}y \\
-y^{2}&=\frac{6}{5}
-\end{align}
-$$
-Wurzel ziehen
-$$
-\begin{align}
-x_{1}&=\frac{5}{2}\left( \sqrt{\frac{6}{5}} \right) \\
-y_1&=\sqrt{\frac{6}{5}} \\
-x_{2}&=- \frac{5}{2}\left( \sqrt{\frac{6}{5}} \right) \\
-y_2&=-\sqrt{\frac{6}{5}}
-\end{align}
-$$
-**Wichtig:** Bei nicht Linearen Gleichungssystemen wird immer eine Wurzel gezogen um die Potenz zu entfernen.
-
-### Ungleichungen
-Ungleichungen erkennt man an $< \ > \ \le \ \ge$. Sie werden gleich wie lineare und nichtlineare Gleichungssysteme gelöst.
-**Bsp 1:**
-$$
-\begin{align}
-4x-3>x+2 \\
-3x-3>2 \\
-3x>5 \\
-\frac{x>5}{3} \\
-\mathbb{L}= ]\frac{5}{3};-\infty[
-\end{align}
-$$
-**Bsp 2:**
-$$
-\begin{align}
-6x+2 \geq 10x+1 \\
-6x \geq 10x-1 \\ \\
--4x \geq -1 \\
-x \leq \frac{1}{4} \\
-\mathbb{L}= ]-\infty; \frac{1}{4}]
-\end{align}
-$$
-
-**Wichtig:** Wenn eine Ungleichung mit einer Negativen Zahl multipliziert oder dividiert wird muss das Ungleich zeichen gedreht werden.
-
-**Bsp 3:**
-$$
-\begin{align}
-\frac{1}{3-x} < 1 \\
-\end{align}
-$$
-Wenn man nun $*(3-x)$ Rechnen würde müsste man sofort eine Fallunterscheidung machen.
-$$
-\begin{align}
-1.\ Fall\ & 3-x > 0 \\
-1&<3-x \\
-x&<2 \\
-&...
-\end{align}
-$$
-$$
-\begin{align}
-2.\ Fall\ & 3-x < 0 \\
-1&>3-x \\
-x&>2 \\
-&...
-\end{align}
-$$
-Ein anderer Weg ist folgender:
-$$
-\begin{align}
-\frac{1}{3-x}-1<0 \\
-\frac{1}{3-x}- \frac{3-x}{3-x}<0 \\
-\frac{1-(3-x)}{3-x}<0 \\
-\frac{x-2}{3-x}<0
-\end{align}
-$$
-Jetzt in einer Tabelle die Werte wo $x=0$ ist eintragen und schauen wann $x$ positiv und wann negativ ist.
-### Betrag
-Das Betragszeichen entfernt das $-$ bei einem negativen term.
-$$|-2| = 2$$ Die funktion mit einem Betrag macht immer ein V:
-```tikz
-\usepackage{pgfplots}
-
-\begin{document}
-  \begin{tikzpicture}
-	\begin{axis}[
-	no markers,
-	grid=both,
-	grid style={gray},
-	axis equal,
-	axis lines=center,
-	axis line style={-latex, thick},
-    xlabel=$x$,
-    ylabel=$y$,
-    xtick distance=1,
-	ytick distance=1,
-    enlargelimits=true,clip=true]
-    \addplot[color=red, domain=-4:4] {abs(x)} node[ anchor=north] {$y=|x|$};
-	\end{axis}
-  \end{tikzpicture}
-\end{document}
-```
-
-
-### Betragsgleichungen
-Betragsgleichungen enthalten einen Term in Betragsform in der Gleichung, somit gibt es immer 2 Fälle die gelöst und überprüft werden müssen.
-Bsp:
-$$
-|x-2|=7
-$$
-```tikz
-\usepackage{pgfplots}
-
-\begin{document}
-  \begin{tikzpicture}
-	\begin{axis}[
-	no markers,
-	grid=both,
-	grid style={gray},
-	axis equal,
-	axis lines=center,
-	axis line style={-latex, thick},
-    xlabel=$x$,
-    ylabel=$y$,
-    xtick distance=1,
-	ytick distance=1,
-    enlargelimits=true,clip=true]
-    \addplot[color=red, domain=-6:10] {abs(x-2)} node[ anchor=east] {$y=|x-2|$};
-    
-    \addplot[color=green, domain=-8:10] {7} node[ anchor=north] {$y=7$};
-
-	\end{axis}
-  \end{tikzpicture}
-\end{document}
-```
-Grafisch kann man ablesen:
-$x_{1}=-5$
-$x_{2}=9$
-
-Rechnerisch muss man eine Fallunterscheidung machen um das Resultat zu erhalten
-$$
-\begin{align}
-\text{1. Fall} \quad x \ge 2 \\
-x-2=7 \\
-x=9
-\end{align}
-$$
-$$
-\begin{align}
-\text{2. Fall} \quad x &< 2 \\
--(x-2)&=7 \\
--x+2&=7 \\
-x&=-5
-\end{align}
-$$
-
-### Potenzen
-eine Potenz, auch Hochzahl genannt, gibt an wie oft die Basis mal sich selber multipliziert wird.
-$$
-\begin{align}
-a^{n}=&\underbrace{a*a...a} \\
- &\text{n mal mit Faktor a multipliziert}
-\end{align}
-$$
-Legende:
-$a$ = Basis
-$n$ = Exponent(Hochzahl)
-
-
-#### Definitionen
-
-$a^0=1$
-Begründung:
-$$
-\begin{align}
-a^{0}=1: \quad \left( \frac{2^{4}}{2^{4}} = 1 = 2^{4-4}= 2^{0} \right)
-\end{align}
-$$
-
-$$
-a^{-n}=\frac{1}{a^n}
-$$
-#### Potenzgesetze
-$$
-\begin{align}
-\text{PG1:} &\quad a^{n}*a^{m}=a^{n+m} \\
-\text{PG2:} &\quad \frac{a^{n}}{a^{m}}=a^{n-m} \\
-\text{PG3:} &\quad a^{n}*b^{n}=(a*b)^n\\
-\text{PG4:} &\quad \frac{a^{n}}{b^{n}}=\left( \frac{a}{b} \right)^n\\
-\text{PG5:} &\quad (a^{n})^{m}=a^{nm}
-\end{align}
-$$
-
-**Beispiel**
+### Bruchgleichungen
+Bruchgleichungen sind Gleichungen mit Brüchen:
 $$
 \begin{align} \\
+\frac{4z+6}{2z-10} - \frac{6z-43}{5-z} &= 124 \\
+\text{Ausklammern (Faktorisieren)} und Kürzen \\
+\frac{\cancel{2}(2z+3)}{\cancel{2}(z-5)} + \frac{6z-43}{z-5} &= 124 \\
+\frac{(2z+3)+(6z-43)}{z-5} &= 124 & \text{falls } z  \neq 5 \ |*(z-5) \\ \\
 
-\frac{2^{7}*15^{3}}{6^{3}} & \xrightarrow{P3} \frac{(2*15)^{3}}{6^{3}} &\xrightarrow{P4} \left( \frac{2*15}{6} \right)^{3} &\xrightarrow{vereinfachen}5^{3}=125
+\mathbb{D} = \mathbb{R} \backslash \lbrace5\rbrace  \\
+ \\
+2z+3+6z-43&=124z-620 & \ | -8z+620 \\
+580&=116z \\
+5 &= z \to \mathbb{L} \lbrace \rbrace
+\end{align}$$
+**Wichtig:** [[2025-08-18 Mathematik Auffrischungskurs#Theorie|Äquivalenzumforung]] beachten!!!
+
+---
+### Lineare Gleichung
+Eine Lineare Gleichung hat für jeden $x$ Wert einen Eindeutigen $y$ Wert:
+$$
+y = m*x+c
+$$
+Legende:
+- $m$ = Steigung
+- $x$ = $x$ wert der Gleichung
+- $c$ = $y$-Achsenabschnitt (Schnittpunkt mit der $y$-Achse)
+
+#### Steigung
+Die Steigung zeigt an wie stark der Graph einer Linearen Funktion nach oben geht.
+Die Steigung kann mittels dem Delta 2er Punkte berechnet werden:
+$$\begin{gather}
+m = \frac{\Updelta y}{\Updelta x} = \frac{y_{q}-y_p}{x_{q}-x_{p}} = \frac{y_{p}-y_q}{x_{p}-x_q}
+\end{gather}$$
+**Beispiel:**
+$$\begin{gathered}
+P(3|2) \qquad Q(5|6) \\
+\\
+m =\frac{y_{q}-y_{p}}{x_{q}-x_{p}}=\frac{6-2}{5-3}=\frac{4}{2}= 2
+\end{gathered}$$
+Im Beispiel oben ist die Steigung 2 das bedeutet jeder $y$ Wert ist $2*x$. 
+#### $y$-Achsenabschnitt
+Der $y$-Achsen Abschnitt ist der Punkt an dem sich die Gerade mit der $y$-Achse Schneidet.
+Um den $y$-Achsenabschnitt herauszufinden wird ein Punkt (P) auf der Geraden eingesetz und die Gleichung gelöst:
+$$
+\begin{align}
+y&=\frac{-3}{5}x+c \\
+1&=-\frac{3}{5}(1)+c \\
+1&=-\frac{3}{5} +c & \ |+ \frac{3}{5}\\
+\frac{8}{5}&=c \\
 \end{align}
 $$
 ---
+### Stückweise definierte Funktionen
+stückweise definierte Funktionen sind Funktionsdefinitionen die nur für ein bestimmtes intervall gelten.
+**Beispiel:**
+$$
+  y = \left\{
+ \begin{array}{ll}
+	0 \ \text{für} \ 0 \leq x \leq 30 \\
+    \frac{4}{15}x-8 \ \text{für} \ 30 < x \leq 60 \\
+    8 \ \text{für} \ 60 < x \leq 100 \\
+    \frac{1}{25}x+4 \ \text{für} \ 100 < x \leq 200  \\
+    12 \ \text{für} \ 200 < x
+ \end{array}
+ \right .
+$$
+Der Graph dieser Funktion sieht so aus:
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    ymax=12,
+	ymin=-1,
+    xtick distance=50,
+	ytick distance=2,
+	
+    enlargelimits=true,clip=true]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+	\addplot[color=red, domain=0:30] {0};
+	\addplot[color=red, domain=30:60] {(4/15)*x-8};
+	\addplot[color=red, domain=60:100] {8};
+	\addplot[color=red, domain=100:200] {(1/25)*x+4};
+	\addplot[color=red, domain=200:210] {12};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+
+
+---
+### Quadratische Gleichung
+Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalten. die grundform sieht folgend aus:
+
+$$\begin{gather}
+ax^{2}+bx+c = 0
+\end{gather}$$
+
+Beispiel:
+$$
+\begin{align}
+x^{2}-6x-16&=0 \\
+\end{align}
+$$
+Eine Quadratische Gleichung ohne Definitionsmenge hat immer 2 Lösungen ausser am Scheitelpunkt.
+
+Um Quadratische Gleichungen zu lösen gibt es 2 Möglichkeiten:
+1. Quadratische Gleichungen können mit der [[2025-08-19 Mathematik Auffrischungskurs#Mitternachtsformel|Mitternachtsformel (MNF)]] gelöst werden.
+2. Quadratische Gleichungen können teils [[2025-08-18 Mathematik Auffrischungskurs#Faktorisieren|Faktorisiert]] werden.
+
+#### Mitternachtsformel
+Die grundform der Mitternachtsformel sieht so aus:
+$$
+x_{1,2} = \frac{-b +- \sqrt{b^2-4*a*c}}{2*a}
+$$
+In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung eingesetzt werden.
+**Beispiel mit Gleichung von Oben:**
+$$
+\begin{align}
+x_{1,2} &= \frac{6 \pm \sqrt{36-4*1*(-16)}}{2*1} \\
+&= \frac{6 \pm \sqrt{36-4*(-16)}}{2*1} \\
+&=\frac{6 \pm \sqrt{36+64}}{2*1} \\
+&=\frac{6 \pm \sqrt{100}}{2} \\
+x_{1}&=\frac{16}{2} \\
+x_{2}&=\frac{-4}{2}
+\end{align}
+$$
+
+---
+### Lineare Funktionen
+Lineare Funktionen verlaufen immer linear in eine Koordinatensystem:
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+	\addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+
+#### Schnittpunkt von 2 Geraden
+Um den Schnittpunkt von 2 Geraden herauszufinden werden die beiden Geraden [[2025-08-19 Mathematik Auffrischungskurs#Geradengleichsetzung|gleichgesetzt]].
+Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wird $x_{s}$ in eine der beiden Gleichungen eingesetzt und diese Gleichung wird aufgelöst.
+
+#### Geradengleichsetzung:
+bei der Geradengleichsetzung werden zwei Lineare Funktionen die nach y aufgelöst werden sollen gleichgesetzt. Es wird eine neue Gleichung aus den Beiden Funktionsgleichungen erstellt. Danach wird die Gleichung nach $x$ aufgelöst, somit erhält man $x_{s}$, die $x$ Koordinate des Schnittpunktes der beiden Geraden.
+$$
+\begin{align}
+y_{1}&=m_{1}*x_{1}+c_{1} \\
+y_{2}&=m_{2}*x_{2}+c_2 \\
+m_{1}*x_{1}+c_{1}&=m_{2}*x_{2}+c_{2} \\
+\end{align}
+$$
+**Beispiel**
+$$\begin{align}
+    y &=3x+2 \\
+    y &= 2x+3 \\
+    3x+2 &= 2x+3 \\
+    x &=1
+\end{align}$$
+
+---
+### Quadratische Funktionen
+Die Normalparabel ist: $y = x^2$
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    % code/plots here
+    % eg. \addplot[color=red, domain=-2:2] {x^2};
+    % domain=x-axis from:to
+	\addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=north] {$y=x^2$};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+
+Es gibt verschieden Schreibweisen für quadratische Funktionen:
+
+#### Scheitelpunktform
+Die Scheitelpunktform ist praktisch um den Scheitelpunkt der geraden herauslesen zu können. Die Scheitelpunktform ist am besten wenn der Scheitelpunkt bekannt ist.
+$$y = a(x-x_{s})^{2}+y_{s}$$
+Legende:
+$a$ = Öffnung der Parabel (positiv: nach oben, negativ: nach unten)
+$x_{s}$ = $x$ Koordinate des Scheitelpunktes
+$y_s$ = $y$ Koordinate des Scheitelpunktes
+
+**Beispiel:**
+$$
+y=2(x-1)^{2}-8
+$$
+#### Standardform:
+Die Standardform ist die ausmultiplizierte & zusammengefasste Form der Scheitelpunktform.
+Beispiel:
+$$
+\begin{align} \\
+y&=2(x-1)^2-8 \\
+&=2(x^{2}-2x+1)-8 \\
+y&=2x^{2}-4x-6 \\
+\end{align}
+$$
+#### Nullstellenform
+Die Nullstellenform gibt es nur dann wenn die Parabel Nullstellen hat, also wenn sich die Parabel mit der $x$ Achse schneidet und $y=0$ ist. Die Nullstellenform ist praktisch weil man auf einen Blick die Nullstellen ablesen kann, Man findet also die $x$ Koordinaten bei denen $y=0$ ist. Diese Form ist am besten wenn man die Nullstellen kennt.
+
+aus der Standardform kann die Nullstellenform wie folgt abgeleitet werden.
+
+$$
+\begin{align}
+y&=2x^2-4x-6 \\
+&=2(x^{2}-2x-3) \\
+y&=2(x-3)(x+1)
+\end{align}
+$$
+**Wichtig:** Die Nullstellenform gibts nur dann wenn die Parabel auch wirklich die $x$-Achse schneidet.
+
+---
+Es können verschiedene Operationen durchgeführt werden um eine Parabel zu verändern.
+#### Verschiebung an $x$-Achse
+
+Um die Parabel an der $x$-Achse zu verschieben wird die normalparabel $y=x^2$ mit $\pm s$ erweitert so wird aus $y=x^{2}$, $y=(x \pm s)^2$
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=false,clip=false]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+    \addplot[color=green, domain=-2:2] {x^2};
+	\addplot[color=red, domain=1:5] {(x-3)^2} node[pos=1.05, anchor=west] {$y=(x-3)^2$};
+	\addplot[color=blue, domain=-5:-1] {(x+3)^2} node[pos=1.05, anchor=west] {$y=(x+3)^2$};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+**Achtung:** um in die positive $x$ richtung zu verschieben muss $s$ negativ sein. Um negativ zu verschieben muss $s$ positiv sein.
+
+#### Streckung/Stauchung zur $x$-Achse
+Um eine Parabel zu Strecken Stauchen wird ein Faktor vor die $x$ variable geschrieben. 
+so zum beispiel $y = f*x^2$
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+	\addplot[color=green, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
+	\addplot[color=red, domain=-2:2] {2*x^2} node[pos=1, anchor=west] {$y=2x^2$};
+	\addplot[color=blue, domain=-2:2] {0.5*x^2} node[pos=1.05, anchor=west] {$y=0.5x^2$};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+Wenn der Faktor $f<1$ dann verläuft die Parabel flächer
+Wenn der Faktor $f > 1$ dann verläuft die Parabel steiler
+#### Spiegelung an $x$-Achse
+Um eine Parabel an der $x$ Achse zu spiegeln wird die variable $x$ inklusive Faktor $f$ negativ gemacht: $y= -x^2$
+
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+	\addplot[color=green, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
+	\addplot[color=red, domain=-2:2] {-x^2} node[pos=1.05, anchor=west] {$y=-x^2$};
+	\addplot[color=red, domain=-2:2] {$x^{2}$} node[pos=1.05, anchor=west] {$y=-x^2$};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+Um die Öffnung nach oben zu haben muss der Term mit der Variable $x$ positiv sein
+Um die Öffnung nach unten zu erhalten muss der Term mit der Variable $x$ negativ sein
+
+### Wichtig:
+
+
+---
 ## ✅ ToDo
-- [x] Lineare Gleichungssysteme
-	- [x] Allgemeine Form
+- [x] #task Verständnissfragen ✅ 2025-08-20
+- [x] #task Wichtige Begriffe - 2 Sätze pro Begriff ✅ 2025-08-20
+- [x] #task Lineare Gleichungen fertig machen
+	- [x] Grafik
 	- [x] Bsp
-	- [x] 3 Gleichungen mit 3 Unbekannten
-- [x] Nichtlineare Gleichungssysteme
-	- [x] Theorie
-	- [x] Allgemeine Form
+	- [x] Geradengleichsetzung
+		- [x] How To
+		- [x] Bsp
+- [x] #task Quadratische Gleichungen fertig machen
+	- [x] Legende
+	- [x] Grafik
 	- [x] Bsp
-- [x] Ungleichungen
-	- [x] Theorie
-	- [x] Allgemeine Form
+- [x] #task Stückweise definierte Lineare Funktionen zusammenfassen
+	- [x] Syntax
+	- [x] Grafik
+	- [x] Legende
 	- [x] Bsp
-- [x] Betrag
-	- [x] Theorie
-	- [x] Allgemeine Form
-	- [x] Bsp
-- [x] Betragsgleichungen
-	- [x] Theorie
-	- [x] Allgemeine Form
-	- [x] Bsp
-- [x] Potenzen
-	- [x] Theorie
-		- [x] Potenzgesetze
-		- [x] Definitionen
-	- [x] Allgemein
-	- [x] Bsp
+- [x] #task Quadratische Funktionen zusammenfassen ✅ 2025-08-20
+	- [x] Verschiebung, Streckung & Spiegelung 
+	- [x] Scheitelpunktform, Standardform & Produktform 
+- [x] #task Lösungen & Unterlagen verlinken ✅ 2025-08-20
+- [x] Allgemein Wichtiges/zu beachten Zusammenfassen
 
 ---
 ## 📕 Quellen
+![[AuffrischungskursAufgabenHS25.pdf#page=5]]
 
-![[AuffrischungskursAufgabenHS25.pdf#page=9]]
+
 ### Lösungen
-[[3GleichungssystemeUngleichungenBetrag.pdf| Lösungen Teil 3]]
+- [[2GleichungenUndFunktionenTeil1.pdf]]
+- [[2GleichungenUndFunktionenTeil2.pdf]]

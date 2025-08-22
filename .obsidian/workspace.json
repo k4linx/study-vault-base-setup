@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "23239034352d068d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "29fd2d7a34a316f2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf"
+                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-22 Mathematik Auffrischungskurs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "AuffrischungskursAufgabenHS25"
+              "icon": "lucide-file",
+              "title": "2025-08-22 Mathematik Auffrischungskurs"
             }
           }
         ]
@@ -76,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 452.5,
+    "collapsed": true
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -271,15 +275,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "29fd2d7a34a316f2",
   "lastOpenFiles": [
     "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-22 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
     "Home.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/3GleichungssystemeUngleichungenBetrag.pdf",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-17 Mathematik Auffrischungskurs.md",
     "Diverses/Cheatsheets/TikZ cheatsheet.md",
     "Diverses/Cheatsheets/Math cheatsheet.md",
     "templates/math/pgf_plot_fn_include_csy.md",
