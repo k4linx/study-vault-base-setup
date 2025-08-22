@@ -2,7 +2,7 @@
 
 ---
 ## 💡 Wichtige Begriffe
-- Wurzel - $y = \root{n}{y}$ n-te Wurzel von a
+- Wurzel - $y = \sqrt[n]{a}$  :  $n$-te Wurzel von $a$, wobei immer $a>0$. Die positive zahl für die $y^{n}=a$ gilt.
 - Logarithmus
 - 
 ---
