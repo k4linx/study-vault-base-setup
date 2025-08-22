@@ -78,6 +78,12 @@ $$
 \log_{4}\left( \frac{1}{16} \right) =\log_{4}\left( \frac{1}{4^{2}} \right) = \log_{4}(4^{-2}) &=-2
 \end{align}
 $$
+$$
+\begin{align}
+\log_{125}(5) = x \qquad 125^{x}=5
+\end{align}
+
+$$
 #### Logarithmengesetze
 
 #### Exponentialgleichung
