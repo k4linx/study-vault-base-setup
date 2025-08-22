@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5d162f3019c57fa9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
@@ -20,18 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "2025-08-19 Mathematik Auffrischungskurs"
-            }
-          },
-          {
-            "id": "16d822ec44c3b605",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
             }
           }
         ]
@@ -288,6 +276,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
@@ -300,7 +289,6 @@
     "templates/math/pgf_plot_fn.md",
     "templates/semester/semester_template.md",
     "templates/semester/semester_content_template.md",
-    "Home.md",
     "templates/math/tikz_2d_coordinate_system.md",
     "A_Inbox/Info Elektro- & Informationstechnik HS 2025.md",
     "Diverses/Cheatsheets",

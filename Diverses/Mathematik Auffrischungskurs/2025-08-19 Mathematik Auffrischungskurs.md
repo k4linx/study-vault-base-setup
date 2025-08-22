@@ -258,7 +258,44 @@ $$|-2| = 2$$ Die funktion mit einem Betrag macht immer ein V:
 
 ### Betragsgleichungen
 Betragsgleichungen enthalten einen Term in Betragsform in der Gleichung, somit gibt es immer 2 Fälle die gelöst und überprüft werden müssen.
+Bsp:
+$$
+|x-2|=7
+$$
+```tikz
+\usepackage{pgfplots}
 
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=2,
+	ytick distance=2,
+    enlargelimits=true,clip=true]
+    \addplot[color=red, domain=-10:14] {abs(x-2)} node[ anchor=north] {$y=|x-2|$};
+    
+    \addplot[color=green, domain=-10:12] {7} node[ anchor=north] {$y=7$};
+
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+
+$$
+\begin{align}
+\text{1. Fall} \quad x \ge 2 & \text{2. Fall x < 2} \\
+x-2=7 & -(x-2)=7 \\
+x=9
+\end{align}
+
+$$
 
 ### Potenzen
 eine Potenz, auch Hochzahl genannt, gibt an wie oft die Basis mal sich selber multipliziert wird.
