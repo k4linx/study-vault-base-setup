@@ -3,7 +3,7 @@
 ---
 ## 💡 Wichtige Begriffe
 - Wurzel - $y = \sqrt[n]{a}$  :  $n$-te Wurzel von $a$, wobei immer $a>0$. Die positive zahl für die $y^{n}=a$ gilt.
-- Logarithmus
+- Logarithmus - $x= \log[b]{a}$  hoch wieviel ist
 - 
 ---
 ## 📄 Zusammenfassung
