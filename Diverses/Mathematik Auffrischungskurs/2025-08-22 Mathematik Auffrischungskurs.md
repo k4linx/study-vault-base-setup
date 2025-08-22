@@ -42,7 +42,11 @@ $$
 ### Logarithmen & Exponentialfunktionen
 Der logarithmus berechnet den Exponent einer Potenz
 Beispiel:
-$$\log_2(16)=x$$
+$$
+\begin{align}
+\log_2(16)=x$$
+\end{align}
+
 Folgender Merksatz hilft beim Vertändnis des Beispiels: 
 
 >2 hoch wieviel ist 16?
@@ -51,7 +55,6 @@ Oder:
 
 > wie lässt sich 16 als 2er Potenz schreiben?
 
-Im beispiel oben wäre $\log{2}(16)=}$
 Die Allgemeine Form des Logarithmus ist:
 $$
 x=\log_b(a)
