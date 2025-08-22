@@ -40,7 +40,7 @@ $$
 \sqrt{x+4} = \sqrt{5x} - 2
 $$
 ### Logarithmen & Exponentialfunktionen
-Der logarithmus basiert auf den Potenzen, man kann sich an Folgendem Satz mit Beispiel merken was gesucht ist. "2 hoch wie viel ist 16"
+Der logarithmus basiert auf den Potenzen, man kann sich an Folgendem Satz mit Beispiel merken was gesucht ist. "b hoch wieviel ist "hoch wieviel ist 
 Beispiel:
 $$\log_2(16)=x$$
 $$b^{x}= a \qquad b>0$$
