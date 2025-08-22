@@ -276,25 +276,36 @@ $$
 	axis line style={-latex, thick},
     xlabel=$x$,
     ylabel=$y$,
-    xtick distance=2,
-	ytick distance=2,
+    xtick distance=1,
+	ytick distance=1,
     enlargelimits=true,clip=true]
-    \addplot[color=red, domain=-10:14] {abs(x-2)} node[ anchor=north] {$y=|x-2|$};
+    \addplot[color=red, domain=-6:10] {abs(x-2)} node[ anchor=east] {$y=|x-2|$};
     
-    \addplot[color=green, domain=-10:12] {7} node[ anchor=north] {$y=7$};
+    \addplot[color=green, domain=-8:10] {7} node[ anchor=north] {$y=7$};
 
 	\end{axis}
   \end{tikzpicture}
 \end{document}
 ```
+Grafisch kann man ablesen:
+$x_{1}=-5$
+$x_{2}=9$
 
+Rechnerisch muss man eine Fallunterscheidung machen um das Resultat zu erhalten
 $$
 \begin{align}
-\text{1. Fall} \quad x \ge 2 & \text{2. Fall x < 2} \\
-x-2=7 & -(x-2)=7 \\
+\text{1. Fall} \quad x \ge 2 \\
+x-2=7 \\
 x=9
 \end{align}
-
+$$
+$$
+\begin{align}
+\text{2. Fall} \quad x &< 2 \\
+-(x-2)&=7 \\
+-x+2&=7 \\
+x&=-5
+\end{align}
 $$
 
 ### Potenzen
@@ -355,50 +366,20 @@ $$
 	- [x] Theorie
 	- [x] Allgemeine Form
 	- [x] Bsp
-- [ ] Betragsgleichungen
-	- [ ] Theorie
-	- [ ] Allgemeine Form
-	- [ ] Bsp
-- [ ] Potenzen
-	- [ ] Theorie
-		- [ ] Potenzgesetze
-		- [ ] Definitionen
-	- [ ] Allgemein
-	- [ ] Bsp
+- [x] Betragsgleichungen
+	- [x] Theorie
+	- [x] Allgemeine Form
+	- [x] Bsp
+- [x] Potenzen
+	- [x] Theorie
+		- [x] Potenzgesetze
+		- [x] Definitionen
+	- [x] Allgemein
+	- [x] Bsp
 
 ---
 ## 📕 Quellen
 
-```tikz
-\usepackage{pgfplots}
-
-\begin{document}
-  \begin{tikzpicture}
-	\begin{axis}[
-	no markers,
-	grid=both,
-	grid style={gray},
-	axis equal,
-	axis lines=center,
-	axis line style={-latex, thick},
-    xlabel=$x$,
-    ylabel=$y$,
-    xtick distance=1,
-	ytick distance=1,
-    enlargelimits=true,clip=true]
-    % code/plots here
-    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
-    % domain=x-axis from:to
-    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
-    \addplot[color=green, domain=-2:2] {x^2} node[anchor=north] {$y=x^{2}$};
-    
-    \addplot[color=red, domain=-3:3] {x} node[ anchor=north] {$y=x$};
-
-    \addplot[color=blue, domain=-4:4] {abs(x)} node[ anchor=north] {$y=|x|$};
-
-	\end{axis}
-  \end{tikzpicture}
-\end{document}
-```
-
-
+![[AuffrischungskursAufgabenHS25.pdf#page=9]]
+### Lösungen
+[[3GleichungssystemeUngleichungenBetrag.pdf| Lösungen Teil 3]]

@@ -11,15 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2025-08-19 Mathematik Auffrischungskurs"
+              "icon": "lucide-file-text",
+              "title": "AuffrischungskursAufgabenHS25"
             }
           }
         ]
@@ -276,8 +273,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
+    "Home.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-16 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
