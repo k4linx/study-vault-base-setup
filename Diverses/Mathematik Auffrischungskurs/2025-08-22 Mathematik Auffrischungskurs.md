@@ -70,7 +70,14 @@ Legende:
 - $a$ = $b^x$ 
  #### Logarithmus abschätzen
 
-Folgen weitere Beispiele mit anderen Fällen:
+Folgend noch zwei weitere Beispiele mit anderen Fällen:
+
+$$
+\begin{align}
+\log_4\left( \frac{1}{16} \right) = x \\
+\log_4\left( \frac{1}{16} \right) =\log_4\left( \frac{1}{4^{2}} \right)
+\end{align}
+$$
 #### Logarithmengesetze
 
 #### Exponentialgleichung
