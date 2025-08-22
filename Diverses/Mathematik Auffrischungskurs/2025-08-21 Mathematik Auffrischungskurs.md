@@ -334,8 +334,6 @@ $n$ = Exponent(Hochzahl)
 
 #### Definitionen
 
-$a^0=1$
-Begründung:
 $$
 \begin{align}
 a^{0}=1: \quad \left( \frac{2^{4}}{2^{4}} = 1 = 2^{4-4}= 2^{0} \right)
