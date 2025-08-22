@@ -82,15 +82,15 @@
 
 ## Pfeile
 
-|Symbol|Code|
-|---|---|
-|$\to$|\to|
-|$\rightarrow$|\rightarrow|
-|$\leftarrow$|\leftarrow|
-|$\Rightarrow$|\Rightarrow|
-|$\Leftarrow$|\Leftarrow|
-|$\Leftrightarrow$|\Leftrightarrow|
-|$\mapsto$|\mapsto|
+| Symbol            | Code            |
+| ----------------- | --------------- |
+| $\to$             | \to             |
+| $\rightarrow$     | \rightarrow     |
+| $\leftarrow$      | \leftarrow      |
+| $\Rightarrow$     | \Rightarrow     |
+| $\Leftarrow$      | \Leftarrow      |
+| $\Leftrightarrow$ | \Leftrightarrow |
+| $\mapsto$         | \mapsto         |
 
 ---
 

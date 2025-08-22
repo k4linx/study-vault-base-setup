@@ -344,15 +344,16 @@ $$
 a^{-n}=\frac{1}{a^n}
 $$
 #### Potenzgesetze
-$$
-\begin{align}
-\text{PG1:} &\quad a^{n}*a^{m}=a^{n+m} \\
-\text{PG2:} &\quad \frac{a^{n}}{a^{m}}=a^{n-m} \\
-\text{PG3:} &\quad a^{n}*b^{n}=(a*b)^n\\
-\text{PG4:} &\quad \frac{a^{n}}{b^{n}}=\left( \frac{a}{b} \right)^n\\
-\text{PG5:} &\quad (a^{n})^{m}=a^{nm}
-\end{align}
-$$
+**PG1:** 
+$$a^{n} \cdot a^{m} = a^{n+m}$$
+**PG2:** 
+$$\dfrac{a^{n}}{a^{m}} = a^{n-m}$$
+**PG3:** 
+$$a^{n} \cdot b^{n} = (a \cdot b)^{n}$$
+**PG4:** 
+$$\dfrac{a^{n}}{b^{n}} = \left(\dfrac{a}{b}\right)^{n}$$
+**PG5:** 
+$$(a^{n})^{m} = a^{nm}$$
 
 **Beispiel**
 $$
@@ -396,4 +397,4 @@ $$
 
 ![[AuffrischungskursAufgabenHS25.pdf#page=9]]
 ### Lösungen
-[[3GleichungssystemeUngleichungenBetrag.pdf| Lösungen Teil 3]]
+[[3GleichungssystemeUngleichungenBetrag.pdf]]
