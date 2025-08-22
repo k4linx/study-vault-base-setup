@@ -25,7 +25,9 @@ $$
 \begin{align}
 x^{3}&=7*\sqrt{x} \\
 x^{3}&=7*x^{\frac{1}{2}} \quad |:x^\frac{1}{2} \\
-\frac{x^{3}}{x^\frac{1}{2}}=7
+\frac{x^{3}}{x^\frac{1}{2}}&=7 \\
+x^{3-\frac{1}{2}}&=7 \\
+x^\frac{5}{2}&=7
 \end{align}
 $$
 
