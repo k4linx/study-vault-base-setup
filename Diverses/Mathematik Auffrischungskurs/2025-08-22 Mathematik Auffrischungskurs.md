@@ -32,9 +32,9 @@ x^{\frac{5}{2}} &= 7 \quad | \ \text{mit Kehrwert der Potenz multiplizieren}\\
 x &= 7^{\frac{2}{5}}
 \end{align}
 $$
-
+**Wichtig:** um $x^1$ zu erhalten wird die Gleichung mit dem Kehrwert der Potenz multipliziert.
 ### Wurzelgleichungen
-
+Wurzelglei
 ### Logarithmen & Exponentialfunktionen
 
 #### Logarithmus abschätzen
