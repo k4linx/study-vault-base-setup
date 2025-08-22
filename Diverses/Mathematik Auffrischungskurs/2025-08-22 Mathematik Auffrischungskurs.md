@@ -46,7 +46,9 @@ $$
 \begin{align}
 \log_{2}(16)&=x \\
 2^x&=16 \\
-\log_{2}(16)
+\log_{2}(16)&=4 \\
+ \\
+\log_{2}(16) = \log_{2}(2^{4})= 4
 \end{align}
 $$
 Folgender Merksatz hilft beim Vertändnis des Beispiels: 
