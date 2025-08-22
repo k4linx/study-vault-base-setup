@@ -40,6 +40,8 @@ $$
 \sqrt{x+4} = \sqrt{5x} - 2
 $$
 ### Logarithmen & Exponentialfunktionen
+Der logarithmus ist definert als:
+$$b^{x}= a \quad b>0$$
 
 #### Logarithmus abschätzen
 
