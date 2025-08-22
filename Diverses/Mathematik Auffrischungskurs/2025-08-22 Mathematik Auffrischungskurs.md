@@ -34,7 +34,7 @@ x &= 7^{\frac{2}{5}}
 $$
 **Wichtig:** um $x^1$ zu erhalten wird die Gleichung mit dem Kehrwert der Potenz multipliziert.
 ### Wurzelgleichungen
-Wurzelglei
+Wurzelgleichungen enthalten 1 oder mehrere Terme unter der Wurzel. Wenn diese Terme Quadriert werden Kann es vorkommen dass Scheinlösungen entstehen. Deshalb ist es wichtig die erhaltenen Resultate in
 ### Logarithmen & Exponentialfunktionen
 
 #### Logarithmus abschätzen
