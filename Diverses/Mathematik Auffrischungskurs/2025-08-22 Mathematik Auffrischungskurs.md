@@ -51,7 +51,11 @@ Oder:
 
 > wie lässt sich 16 als 2er Potenz schreiben?
 
-Die Allgemeine Form des Logar
+Im beispiel oben wäre $\log{2}(16)=}$
+Die Allgemeine Form des Logarithmus ist:
+$$
+x=\log_b(a)
+$$
 $$b^{x}= a \qquad b>0$$
 
 #### Logarithmus abschätzen
