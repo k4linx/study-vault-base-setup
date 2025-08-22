@@ -59,12 +59,13 @@ Oder:
 
 > wie lässt sich 16 als 2er Potenz schreiben?
 
-Die Allgemeine Form des Logarithmus ist:
+Die Allgemeine Form des Logarithmus lautet:
 $$
 x=\log_b(a)
 $$
 $$b^{x}= a \qquad b>0$$
-
+Legende:
+- $b$ = Basis der Potenz 
 #### Logarithmus abschätzen
 
 #### Logarithmengesetze
