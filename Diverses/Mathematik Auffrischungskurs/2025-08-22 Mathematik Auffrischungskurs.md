@@ -80,7 +80,8 @@ $$
 $$
 $$
 \begin{align}
-\log_{125}(5) = x \qquad 125^{x}=5
+\log_{125}(5) = x \qquad 125^{x}=5 \\
+\log_{125}(5)=\frac{1}{3} \qquad 125^{\frac{1}{3}}arr
 \end{align}
 
 $$
