@@ -74,8 +74,8 @@ Folgend noch zwei weitere Beispiele mit anderen Fällen:
 
 $$
 \begin{align}
-\log_4\left( \frac{1}{16} \right) = x \\
-\log_4\left( \frac{1}{16} \right) =\log_4\left( \frac{1}{4^{2}} \right)
+\log_{4}\left( \frac{1}{16} \right) &= x \\
+\log_{4}\left( \frac{1}{16} \right) =\log_{4}\left( \frac{1}{4^{2}} \right) = \log_{4}(4^{-2}) &=-2
 \end{align}
 $$
 #### Logarithmengesetze
