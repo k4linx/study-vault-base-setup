@@ -28,7 +28,8 @@ Lineare Gleichungssysteme sind zwei oder mehr Gleichungen mit zwei oder mehr unb
 > \end{align}\right\vert
 > $$
 
-> [!example] Beispiel
+> Contents
+> [!math-example] Beispiel
 > Um ein Lineares Gleichungssystem zu lösen muss man nach einer variable auflösen und diesen Term anstelle der Variable im andere Gleichungssystem einsetzen.
 > $$
 > \begin{align}
