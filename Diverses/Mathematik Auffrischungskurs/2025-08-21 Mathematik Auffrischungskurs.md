@@ -16,9 +16,9 @@
 - **Potenzgesetze** - Regeln um potenzen umzuformen.
 ---
 ## 📄 Zusammenfassung
-Gleichungssysteme bis Potenzen
+
 ### Lineare Gleichungssysteme
-Lineare Gleichungssysteme sind zwei oder mehr gleichungen mit zwei oder mehr unbekannten die Linear verlaufen. Im Beispiel sind zwei unbekannte $x,y$:
+Lineare Gleichungssysteme sind zwei oder mehr Gleichungen mit zwei oder mehr unbekannten die Linear verlaufen. Im Beispiel sind zwei unbekannte $x,y$:
 $$
 \left\vert \begin{align}
 \ 2x+y &= 2 \\
@@ -26,111 +26,116 @@ $$
 \end{align}\right\vert
 
 $$
-Um ein Lineares Gleichungssystem zu lösen muss man nach einer variable auflösen und diesen Term anstelle der Variable im andere Gleichungssystem einsetzen.
-$$
-\begin{align}
-x+y&=\frac{3}{2} \\
-x&=\frac{3}{2}-y
-\end{align}
-$$
-Man erhält eine Gleichung mit nur einer unbekannten:
-$$
-\begin{align}
-2\left( \frac{3}{2}-y \right)+y =2 \\
-3-2y+y=2 \\
-3-y=2 \\
-1=y \\
-y=1
-\end{align}
-$$
-Diese kann einfach gelöst werden und das Resultat in der ersten Gleichung eingesetzt werden.
-$$
-\begin{align}
-x+1=\frac{3}{2} \\
-x=\frac{1}{2}
-\end{align}
-$$
-Dann kann man die erste Gleichung lösen und hat beide Resultate:
-$$
-\begin{align}
-x=\frac{1}{2} \\
-y=1
-\end{align}
-$$
-#### Gleichungssysteme mit 3 und mehr unbekannten
-Im Grunde ist es der Gleiche Mechanismus wie beim System mit 2 Unbekannten
 
-$$
-\left\vert
-\begin{align}
-\ a+b+c&=-1 \ \\
-\ 4a+2b+c&= 4 \ \\
-\ 16a+4b+c&=18
-\end{align}
-\right\vert
-$$
-Dann eine Gleichung nach einer Variable auflösen und in die anderen einsetzen (Bsp: nach $c$ in der ersten Gleichung):
-$$
-\begin{align}
-c&=-1-a-b \\
-4&= 44a+2b-1-a-b \\
-8&=16a+4b-1-a-b
-\end{align}
-$$
-Nun erhält man 2 Gleichungen mit 2 Variablen. Eine der beiden nach einer Variable auflösen und in der dritten Gleichung einsetzen (Bsp: nach $b$ in der zweiten Gleichung):
-$$
-\left\vert
-\begin{align}
-c&=-1-a-b \\
-5&=3a+b \\
-9&=15a+3b \quad |:3 
-\end{align}
-\right\vert
-$$
-$$
-\left\vert
-\begin{align}
-c&=-1-a-(5-3a) \\
-b&=5-3a \\
-3&=5a+5-3a
-\end{align}
-\right\vert$$
-Nach $a$ auflösen und in die zweite Gleichungen einsetzen:
-$$
-\left\vert
-\begin{align}
-c&=-1-a-b \\
-b&=5-3a \\
--2&=2a
-\end{align}
-\right\vert$$
-$$
-\left\vert
-\begin{align}
-c&=-1-(-1)-b \\
-b&=5-3(-1) \\
-a&=-1
-\end{align}
-\right\vert
-$$
-Jetzt die beiden Werte der Aufgelösten Variablen in die 1. Gleichung einsetzen
-$$
-\begin{align}
-c&=-1+1-b \\
-b&=8 \\
-a&=-1 \\
-\end{align}
-$$
-$$
-\begin{align}
-c&=-8 \\
-b&=8 \\
-a&=-1
-\end{align}
-$$
+> [!example] Beispiel
+> Um ein Lineares Gleichungssystem zu lösen muss man nach einer variable auflösen und diesen Term anstelle der Variable im andere Gleichungssystem einsetzen.
+> $$
+> \begin{align}
+> x+y&=\frac{3}{2} \\
+> x&=\frac{3}{2}-y
+> \end{align}
+> $$
+> Man erhält eine Gleichung mit nur einer unbekannten:
+> $$
+> \begin{align}
+> 2\left( \frac{3}{2}-y \right)+y =2 \\
+> 3-2y+y=2 \\
+> 3-y=2 \\
+> 1=y \\
+> y=1
+> \end{align}
+> $$
+> Diese kann einfach gelöst werden und das Resultat in der ersten Gleichung eingesetzt werden.
+> $$
+> \begin{align}
+> x+1=\frac{3}{2} \\
+> x=\frac{1}{2}
+> \end{align}
+> $$
+> Dann kann man die erste Gleichung lösen und hat beide Resultate:
+> $$
+> \begin{align}
+> x=\frac{1}{2} \\
+> y=1
+> \end{align}
+> $$
+
+#### Gleichungssysteme mit 3 und mehr unbekannten
+Ein Gleichungssystem mit mehr als 2 Unbekannten hat $n$ Gleichungen mit $n$ Unbekannten. Gelöst wird es genau gleich wie ein Gleichungssystem mit 2 Unbekannten, zuerst nach einer Unbekannten auflösen und dann in die anderen zwei Gleichungen einsetzen. Und so weiter.
+
+> [!example] Beispiel
+> $$
+> \left\vert
+> \begin{align}
+> \ a+b+c&=-1 \ \\
+> \ 4a+2b+c&= 4 \ \\
+> \ 16a+4b+c&=18
+> \end{align}
+> \right\vert
+> $$
+> Dann eine Gleichung nach einer Variable auflösen und in die anderen einsetzen (Bsp: nach $c$ in der ersten Gleichung):
+> $$
+> \begin{align}
+> c&=-1-a-b \\
+> 4&= 44a+2b-1-a-b \\
+> 8&=16a+4b-1-a-b
+> \end{align}
+> $$
+> Nun erhält man 2 Gleichungen mit 2 Variablen. Eine der beiden nach einer Variable auflösen und in der dritten Gleichung einsetzen (Bsp: nach $b$ in der zweiten Gleichung):
+> $$
+> \left\vert
+> \begin{align}
+> c&=-1-a-b \\
+> 5&=3a+b \\
+> 9&=15a+3b \quad |:3 
+> \end{align}
+> \right\vert
+> $$
+> $$
+> \left\vert
+> \begin{align}
+> c&=-1-a-(5-3a) \\
+> b&=5-3a \\
+> 3&=5a+5-3a
+> \end{align}
+> \right\vert$$
+> Nach $a$ auflösen und in die zweite Gleichungen einsetzen:
+> $$
+> \left\vert
+> \begin{align}
+> c&=-1-a-b \\
+> b&=5-3a \\
+> -2&=2a
+> \end{align}
+> \right\vert$$
+> $$
+> \left\vert
+> \begin{align}
+> c&=-1-(-1)-b \\
+> b&=5-3(-1) \\
+> a&=-1
+> \end{align}
+> \right\vert
+> $$
+> Jetzt die beiden Werte der Aufgelösten Variablen in die 1. Gleichung einsetzen
+> $$
+> \begin{align}
+> c&=-1+1-b \\
+> b&=8 \\
+> a&=-1 \\
+> \end{align}
+> $$
+> $$
+> \begin{align}
+> c&=-8 \\
+> b&=8 \\
+> a&=-1
+> \end{align}
+> $$
+
 ### Nichtlineare Gleichungssysteme
 Nichtlineare Gleichungssysteme sind Gleichungssysteme mit 2 oder mehr Unbekannten die aber im Gegensatz zu Linearen Gleichungssystemen nicht linear sind. Das bedeutet Potenzen können dabei sein.
-**Beispiel:**
+
 $$\begin{align}
 2x-5y&=0 \\
 x*y&=3
