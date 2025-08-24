@@ -35,7 +35,10 @@ x^{\frac{5}{2}} &= 7 \quad &&| \ \text{mit Kehrwert der Potenz multiplizieren}\\
 x &= 7^{\frac{2}{5}}
 \end{align}
 $$
-**Wichtig:** um $x^1$ zu erhalten wird die Gleichung mit dem Kehrwert der Potenz multipliziert.
+
+> [!Wichtig] 
+> um $x^1$ zu erhalten wird die Gleichung mit dem Kehrwert der Potenz multipliziert.
+
 ### Wurzelgleichungen
 Wurzelgleichungen enthalten 1 oder mehrere Terme unter der Wurzel. Wenn diese Terme Quadriert werden Kann es vorkommen dass Scheinlösungen entstehen. Deshalb ist es wichtig die erhaltenen Resultate in der Gleichung einzusetzen und zu kontrollieren.
 
@@ -101,11 +104,9 @@ Legende:
 - $a$ = $b^x$ 
 
 
-> # Wichtig: 
-> Falls der TR keine Funktion hat dem Logarithmus log die Basis zu wechseln rechnet der TR immer mit dem 10er Logarithmus $\lg_{10}(a)$. Um trotzdem mit dem TR einen Logarithmus anderer Basis rechnen zu können muss man anstatt $\log_{b}(a)$, $\frac{\ln(a)}{ln(b)}$ in den TR eingeben.
-
-
-$$
+> [!important] 
+> Falls der TR keine Funktion hat dem Logarithmus log die Basis zu wechseln rechnet der TR immer mit dem 10er Logarithmus $\lg_{10}(a)$. Um trotzdem mit dem TR einen Logarithmus anderer Basis rechnen zu können muss man anstatt $\log_{b}(a)$, $\frac{\ln(a)}{ln(b)}$ in den TR eingeben. 
+> $$
 \log_{b}(a) \leftrightarrow \frac{ln(a)}{ln(b)}
 $$
 
