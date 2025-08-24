@@ -100,18 +100,18 @@ Oder:
 > wie lässt sich 16 als 2er Potenz schreiben?
 
 Die Allgemeine Form des Logarithmus lautet:
-$$
-\begin{align}
-x &= \log_{b}(a) \\
-b^{x}&= a && b>0
-\end{align}
-$$
 
-Legende:
-- $b$ = Basis der Potenz
-- $x$ = gesuchter Exponent
-- $a$ = $b^x$ 
-
+> [!abstract] Allgemeine Form
+> $$
+> \begin{align}
+> x &= \log_{b}(a) \\
+> b^{x}&= a && b>0
+> \end{align}
+> $$
+> Legende:
+> $b$ = Basis der Potenz
+> $x$ = gesuchter Exponent
+> $a$ = $b^x$ 
 
 > [!important] Wichtig
 > Falls der TR keine Funktion hat dem Logarithmus log die Basis zu wechseln rechnet der TR immer mit dem 10er Logarithmus $\lg_{10}(a)$. Um trotzdem mit dem TR einen Logarithmus anderer Basis rechnen zu können muss man anstatt $\log_{b}(a)$, $\frac{\ln(a)}{ln(b)}$ in den TR eingeben. 
@@ -146,7 +146,8 @@ mit den Logarithmusgesetzen können Komplexe Logarithmusterme umgeformt werden.
 > **L2:**
 > $$
 > \log_{b}\left( \frac{x}{y} \right)=\log_{b}(x)-\log_{b}(y)
-> $$**L3:**
+> $$
+> **L3:**
 > $$log_{b}(x^{y})=y*\log_{b}(x)$$
 > 
 
