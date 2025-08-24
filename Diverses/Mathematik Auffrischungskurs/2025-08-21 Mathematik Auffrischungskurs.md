@@ -370,12 +370,14 @@ $$\dfrac{a^{n}}{b^{n}} = \left(\dfrac{a}{b}\right)^{n}$$
 $$(a^{n})^{m} = a^{nm}$$
 
 **Beispiel**
-$$
-\begin{align} \\
 
-\frac{2^{7}*15^{3}}{6^{3}} & \xrightarrow{P3} \frac{(2*15)^{3}}{6^{3}} &\xrightarrow{P4} \left( \frac{2*15}{6} \right)^{3} &\xrightarrow{vereinfachen}5^{3}=125
-\end{align}
-$$
+> [!example] Beispiel
+> $$
+> \begin{align} \\
+> 
+> \frac{2^{7}*15^{3}}{6^{3}} & \xrightarrow{P3} \frac{(2*15)^{3}}{6^{3}} &\xrightarrow{P4} \left( \frac{2*15}{6} \right)^{3} &\xrightarrow{vereinfachen}5^{3}=125
+> \end{align}
+> $$
 
 ---
 ## ✅ ToDo
