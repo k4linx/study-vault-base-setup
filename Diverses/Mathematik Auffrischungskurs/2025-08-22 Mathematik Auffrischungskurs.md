@@ -166,7 +166,7 @@ $$
 x&=1.387
 \end{align}
 $$
-Beispiel 2:
+**Beispiel 2:**
 $$
 \begin{align}
 \frac{4^{x}}{5^{x}}&=7 \\
