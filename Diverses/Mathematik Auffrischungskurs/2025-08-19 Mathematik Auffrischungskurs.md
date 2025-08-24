@@ -296,21 +296,24 @@ Die Nullstellenform gibt es nur dann wenn die Parabel Nullstellen hat, also wenn
 
 
 > [!abstract] Allgemeine Form
-> $$ y = a(x-)$$
-
+> $$ y = a(x\pm x_{1})(x \pm x_{2})$$
 
 aus der Standardform kann die Nullstellenform wie folgt abgeleitet werden.
 
-$$
-\begin{align}
-y&=2x^2-4x-6 \\
-&=2(x^{2}-2x-3) \\
-y&=2(x-3)(x+1)
-\end{align}
-$$
-**Wichtig:** Die Nullstellenform gibts nur dann wenn die Parabel auch wirklich die $x$-Achse schneidet.
+> [!math-example] Beispiel
+> $$
+> \begin{align}
+> y&=2x^2-4x-6 \\
+> &=2(x^{2}-2x-3) \\
+> y&=2(x-3)(x+1)
+> \end{align}
+> $$
+
+> [!important] Wichtig
+> Die Nullstellenform gibts nur dann wenn die Parabel auch wirklich die $x$-Achse schneidet.
 
 ---
+### Verschieben, Strecken & Spiegeln
 Es können verschiedene Operationen durchgeführt werden um eine Parabel zu verändern.
 #### Verschiebung an $x$-Achse
 
@@ -343,7 +346,10 @@ Um die Parabel an der $x$-Achse zu verschieben wird die normalparabel $y=x^2$ mi
   \end{tikzpicture}
 \end{document}
 ```
-**Achtung:** um in die positive $x$ richtung zu verschieben muss $s$ negativ sein. Um negativ zu verschieben muss $s$ positiv sein.
+
+> [!attention] Achtung
+> - Um in die positive $x$ richtung zu verschieben muss $s$ negativ sein. 
+> - Um negativ zu verschieben muss $s$ positiv sein.
 
 #### Streckung/Stauchung zur $x$-Achse
 Um eine Parabel zu Strecken Stauchen wird ein Faktor vor die $x$ variable geschrieben. 
@@ -376,8 +382,11 @@ so zum beispiel $y = f*x^2$
   \end{tikzpicture}
 \end{document}
 ```
-Wenn der Faktor $f<1$ dann verläuft die Parabel flächer
-Wenn der Faktor $f > 1$ dann verläuft die Parabel steiler
+
+> [!important] Wichtig
+> - Wenn der Faktor $f<1$ dann verläuft die Parabel flächer
+> - Wenn der Faktor $f > 1$ dann verläuft die Parabel steiler
+
 #### Spiegelung an $x$-Achse
 Um eine Parabel an der $x$ Achse zu spiegeln wird die variable $x$ inklusive Faktor $f$ negativ gemacht: $y= -x^2$
 
@@ -402,17 +411,17 @@ Um eine Parabel an der $x$ Achse zu spiegeln wird die variable $x$ inklusive Fak
     % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
-	\addplot[color=green, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
-	\addplot[color=red, domain=-2:2] {-x^2} node[pos=1.05, anchor=west] {$y=-x^2$};
-	\addplot[color=red, domain=-2:2] {$x^{2}$} node[pos=1.05, anchor=west] {$y=-x^2$};
+	\addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
+	\addplot[color=blue, domain=-2:2] {-x^2} node[pos=1.05, anchor=west] {$y=-x^2$};
 	\end{axis}
   \end{tikzpicture}
 \end{document}
 ```
-Um die Öffnung nach oben zu haben muss der Term mit der Variable $x$ positiv sein
-Um die Öffnung nach unten zu erhalten muss der Term mit der Variable $x$ negativ sein
 
-### Wichtig:
+> [!important] Wichtig
+> - Um die Öffnung nach oben zu haben muss der Term mit der Variable $x$ positiv sein
+> - Um die Öffnung nach unten zu erhalten muss der Term mit der Variable $x$ negativ sein
+> 
 
 
 ---

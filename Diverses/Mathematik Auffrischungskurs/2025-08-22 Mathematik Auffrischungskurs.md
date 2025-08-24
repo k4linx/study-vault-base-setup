@@ -19,12 +19,12 @@ a^{\frac{m}{n}} = \sqrt[n]{a^{m}}
 $$
 
 Weiterhin gelten die [[2025-08-21 Mathematik Auffrischungskurs#Potenzgesetze|Potenzgesetze]]. solange $m,n \in \mathbb{Q}$ Das bedeutet solange $m,n$ Bruchzahlen sind.
-> [!example] Beispiel
+> [!math-example] Beispiel
 > $$\sqrt[3]{\sqrt[4]{a^{7}}}= \sqrt[3]{a^{\frac{7}{4}}} = a^{\frac{\frac{7}{4}}{3}} =a^{\frac{7}{4}*\frac{1}{3}} = a^{\frac{7}{12}}$$
 
 ### Potenzgleichungen
 Potenzgleichungen enthalten Potenzen in der Gleichung die zuerst aufgelöst werden müssen.
->[!example] Beispiel
+>[!math-example] Beispiel
 >$$
 \begin{align}
 x^{3} &= 7*\sqrt{x} \\
@@ -43,7 +43,7 @@ $$
 ### Wurzelgleichungen
 Wurzelgleichungen enthalten 1 oder mehrere Terme unter der Wurzel. Wenn diese Terme Quadriert werden Kann es vorkommen dass Scheinlösungen entstehen. Deshalb ist es wichtig die erhaltenen Resultate in der Gleichung einzusetzen und zu kontrollieren.
 
-> [!example] Beispiel
+> [!math-example] Beispiel
 >  $$
 > \begin{align}
 > \sqrt{x+4} &= \sqrt{5x} - 2 && | (...)^{2} \\
@@ -78,7 +78,7 @@ Wurzelgleichungen enthalten 1 oder mehrere Terme unter der Wurzel. Wenn diese Te
 Der logarithmus berechnet den Exponent einer Potenz
 Beispiel:
 
-> [!example] Beispiel
+> [!math-example] Beispiel
 > $$
 \begin{align}
 \log_{2}(16)&=x \\
@@ -121,7 +121,7 @@ $$
 
 Folgend noch zwei weitere Beispiele mit anderen Fällen:
 
-> [!example] Beispiel
+> [!math-example] Beispiel
 > $$
 \begin{align}
 \log_{4}\left( \frac{1}{16} \right) &= x \\
@@ -129,7 +129,7 @@ Folgend noch zwei weitere Beispiele mit anderen Fällen:
 \end{align}
 $$
 
-> [!example] Beispiel 2
+> [!math-example] Beispiel 2
 > $$
 \begin{align}
 \log_{125}(5) &= x && 125^{x}&=5 \\
@@ -138,21 +138,23 @@ $$
 #### Logarithmengesetze
 mit den Logarithmusgesetzen können Komplexe Logarithmusterme umgeformt werden.
 
-**L1:**
-$$
-\log_{b}(x*y) = \log_{b}(x)+log_{b}(y)
-$$
-**L2:**
-$$
-\log_{b}\left( \frac{x}{y} \right)=\log_{b}(x)-\log_{b}(y)
-$$**L3:**
-$$log_{b}(x^{y})=y*\log_{b}(x)$$
+> [!abstract] Definition
+> **L1:**
+> $$
+> \log_{b}(x*y) = \log_{b}(x)+log_{b}(y)
+> $$
+> **L2:**
+> $$
+> \log_{b}\left( \frac{x}{y} \right)=\log_{b}(x)-\log_{b}(y)
+> $$**L3:**
+> $$log_{b}(x^{y})=y*\log_{b}(x)$$
+> 
 
 Zusammenhang zwischen Logarithmusgesetze und Potenzgesetze erklären.
 
 #### Logarithmus abschätzen
 Beim logarithmen abschätzen geht es darum sich näherungsweise dem logarithmus zu nähern und nur ganze Zahlen zu verwenden
-> [!example] Beispiel
+> [!math-example] Beispiel
 > $$
 \begin{gather} \\
 ? <&\log_{10}(73452)&< ? \\
@@ -164,7 +166,7 @@ Beim logarithmen abschätzen geht es darum sich näherungsweise dem logarithmus 
 \end{gather}
 $$
 
-> [!example] Beispiel 2
+> [!math-example] Beispiel 2
 > $$
 \begin{gather}
 ?<&\log_{5}(0.4) &< ? \\
@@ -175,7 +177,7 @@ $$
 #### Exponentialgleichung
 Eine Exponentialgleichung hat Terme mit unbekannten Exponenten (Hochzahlen). Diese Gleichungen löst man mit der Anwendung von Logarithmen
 
-> [!example] Beispiel
+> [!math-example] Beispiel
 > $$
 \begin{align}
 6^{x}= 12 &\Leftrightarrow \log_{12}(6)=x \\
@@ -183,7 +185,7 @@ x&=1.387
 \end{align}
 $$
 
-> [!example] Beispiel 2
+> [!math-example] Beispiel 2
 > $$
 \begin{align}
 \frac{4^{x}}{5^{x}}&=7 \\
