@@ -17,66 +17,85 @@
 ---
 ## 📄 Zusammenfassung
 ### 3 Rechengesetze:
-#### Kommutativgesetz: 
-$$
-\begin{gather}
- a+b = b+a \\
-a*b=b*a
-\end{gather}
-$$
-#### Assoziativgesetz:
-$$\begin{gather}
-a+(b+c) = a+b+c = (a+b)+c \\
- a*(b*c) =a*b*c = (a*b)*c \\
-\end{gather}$$
 
-#### Distributivgesetz: 
-$$a*(b+c)= a*b+a*c = ab+ac $$
-**Wichtig:** beim Distributivgesetz ist immer [[2025-08-18 Mathematik Auffrischungskurs#Punkt vor Strich|Punkt vor Strich]] operieren.
+> [!abstract] Definition
+> #### Kommutativgesetz: 
+> $$
+> \begin{gather}
+>  a+b = b+a \\
+> a*b=b*a
+> \end{gather}
+> $$
+> #### Assoziativgesetz:
+> $$\begin{gather}
+> a+(b+c) = a+b+c = (a+b)+c \\
+>  a*(b*c) =a*b*c = (a*b)*c \\
+> \end{gather}$$
+> 
+> #### Distributivgesetz: 
+> $$a*(b+c)= a*b+a*c = ab+ac $$
+> > [!important] Wichtig
+> > **Wichtig:** beim Distributivgesetz ist immer [[2025-08-18 Mathematik Auffrischungskurs#Punkt vor Strich|Punkt vor Strich]] operieren.
+
 ### Weitere Regeln:
-#### Punkt vor Strich: 
-$$a*b+c = (a*b)+c$$
-#### Subtraktion:
-$$a-b = a+(-1)*b$$
+
+> [!abstract] Definition
+> #### Punkt vor Strich: 
+> $$a*b+c = (a*b)+c$$
+> #### Subtraktion:
+> $$a-b = a+(-1)*b$$
+
 ---
 ### Binomische Formeln
-#### 1. Binomische Formel: 
-$$(a+b)^{2} = (a+b)(a+)=a^{2} + 2ab +b^{2}$$
-#### 2. Binomische Formel: 
-$$(a-b)^{2}=(a-b)(a-b)= a^2-2ab+b^2$$
-#### 3. Binomische Formel:
-$$(a+b)(a-b)= a^2-b^2$$
+
+> [!abstract] Definition
+> #### 1. Binomische Formel: 
+> $$(a+b)^{2} = (a+b)(a+)=a^{2} + 2ab +b^{2}$$
+> #### 2. Binomische Formel: 
+> $$(a-b)^{2}=(a-b)(a-b)= a^2-2ab+b^2$$
+> #### 3. Binomische Formel:
+> $$(a+b)(a-b)= a^2-b^2$$
+
 ---
 ### Faktorisieren:
 Faktorisieren bedeutet den Term in möglichst viele einfache Faktoren zu zerlegen.
-Bsp Faktorisiert mit Distributivgesetz: $$20y^{2}+8y=4y(5y+2)$$
-**Note:** Um von links nach rechts zu kommen wird das Distributivgesetz angewendet.
 
-Bsp 2 mit Binom Faktorisiert:
-$$ 9x^{2}-16 == (3x+4)(3x-4)$$
-Bsp 3 Zweiklammeransatz: 
-$$\begin{gather}
- x^{2}+4x-5=(x+\dots)(x+\dots) \\
- x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)
-\end{gather}$$
+> [!math-example] Beispiele
+> Bsp Faktorisiert mit Distributivgesetz: $$20y^{2}+8y=4y(5y+2)$$
+> **Note:** Um von links nach rechts zu kommen wird das Distributivgesetz angewendet.
+> 
+> Bsp 2 mit Binom Faktorisiert:
+> $$ 9x^{2}-16 == (3x+4)(3x-4)$$
+> Bsp 3 Zweiklammeransatz: 
+> $$\begin{gather}
+>  x^{2}+4x-5=(x+\dots)(x+\dots) \\
+>  x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)
+> \end{gather}$$
+
 ---
 ### Allgemeine binomische Formel & Pascallsches Dreieck:
-$$\begin{array}{c}
-(a+b)^{0} &  \ 1 \\
-(a+b)^{1}  & \ 1 \ 1 \\
-(a+b)^{2}  & \ 1 \ 2 \ 1 \\
-(a+b)^{3} & \ 1 \ 3 \ 3 \ 1 \\
-\dots & \dots \\
-(a+b)^{n} & \text{n+1 Anzahl an Termen}
-\end{array}$$
+
+> [!abstract] Definition
+> $$\begin{array}{c}
+> (a+b)^{0} &  \ 1 \\
+> (a+b)^{1}  & \ 1 \ 1 \\
+> (a+b)^{2}  & \ 1 \ 2 \ 1 \\
+> (a+b)^{3} & \ 1 \ 3 \ 3 \ 1 \\
+> \dots & \dots \\
+> (a+b)^{n} & \text{n+1 Anzahl an Termen}
+> \end{array}$$
+
 Im Pascallschen Dreieck werden die 2 rechts & links darüber stehenden Summanden addiert. Um nun einen Term für die Formel $(a+b)^3$ zu erhalten muss der Term der Formel $(a+b)^2$ mit $(a+b)$ multipliziert werden:
-$$\begin{gather}
-(a+b)^{2} = & \ (1a^{2}+2ab+1b^{2})(a+b) \to \\
-(a+b)^{3} = & \ (1a^{3}+ 3a^{2}b +3ab^{2}+b^{3})(a+b) \to \\
-(a+b)^{4} = & \ (1a^{4}+4a^{3}b +6a^{2}b^{2}+4ab^{3}+b^4)(a+b) \\
-\dots \\
-(a+b)^{n}= & \ (1a^{n}+xa^{n-1}b^{n-3}+ \dots + za^{n-3}b^{n-1} +b^{n}) \\
-\end{gather}$$
+
+> [!math-example] Beispiel
+> $$\begin{gather}
+> (a+b)^{2} = & \ (1a^{2}+2ab+1b^{2})(a+b) \to \\
+> (a+b)^{3} = & \ (1a^{3}+ 3a^{2}b +3ab^{2}+b^{3})(a+b) \to \\
+> (a+b)^{4} = & \ (1a^{4}+4a^{3}b +6a^{2}b^{2}+4ab^{3}+b^4)(a+b) \\
+> \dots \\
+> (a+b)^{n}= & \ (1a^{n}+xa^{n-1}b^{n-3}+ \dots + za^{n-3}b^{n-1} +b^{n}) \\
+> \end{gather}$$
+
 Wie gezeigt kann das einfach so weitergeführt werden wobei jeder term multipliziert werden muss. Die Zahl die vorne dran steht muss mann aus dem Pascallschen dreieck herauslesen.
 
 ---

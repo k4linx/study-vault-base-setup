@@ -28,8 +28,7 @@ Lineare Gleichungssysteme sind zwei oder mehr Gleichungen mit zwei oder mehr unb
 > \end{align}\right\vert
 > $$
 
-> Contents
-> [!math-example] Beispiel
+> [!math-example]
 > Um ein Lineares Gleichungssystem zu lösen muss man nach einer variable auflösen und diesen Term anstelle der Variable im andere Gleichungssystem einsetzen.
 > $$
 > \begin{align}
@@ -79,7 +78,7 @@ Ein Gleichungssystem mit mehr als 2 Unbekannten hat $n$ Gleichungen mit $n$ Unbe
 
 
 
-> [!example] Beispiel
+> [!math-example] Beispiel
 > Dann eine Gleichung nach einer Variable auflösen und in die anderen einsetzen (Bsp: nach $c$ in der ersten Gleichung):
 > $$
 > \begin{align}
@@ -153,7 +152,7 @@ Nichtlineare Gleichungssysteme sind Gleichungssysteme mit 2 oder mehr Unbekannte
 
 Im Folgenden Beispiel fahren wir mit dem Gleichungssystem der Definition weiter:
 
-> [!example] Beispiel 
+> [!math-example] Beispiel 
 > Erste Gleichung nach einer Unbekannten auflösen:
 > $$
 > \begin{align}
@@ -205,7 +204,7 @@ Im Folgenden Beispiel fahren wir mit dem Gleichungssystem der Definition weiter:
 
 ### Ungleichungen
 Ungleichungen erkennt man an $< \ > \ \le \ \ge$. Sie werden gleich wie lineare und nichtlineare Gleichungssysteme gelöst.
-> [!example] Beispiel
+> [!math-example] Beispiel
 > $$
 > \begin{align}
 > 4x-3>x+2 \\
@@ -216,7 +215,7 @@ Ungleichungen erkennt man an $< \ > \ \le \ \ge$. Sie werden gleich wie lineare 
 > \end{align}
 > $$
 
-> [!example] Beispiel 2
+> [!math-example] Beispiel 2
 > $$
 > \begin{align}
 > 6x+2 \geq 10x+1 \\
@@ -231,7 +230,7 @@ Ungleichungen erkennt man an $< \ > \ \le \ \ge$. Sie werden gleich wie lineare 
 > [!important] Wichtig
 > **Wichtig:** Wenn eine Ungleichung mit einer Negativen Zahl multipliziert oder dividiert wird muss das Ungleich zeichen gedreht werden.
 
-> [!example] Beispiel 
+> [!math-example] Beispiel 
 > $$
 > \begin{align}
 > \frac{1}{3-x} < 1 \\
@@ -329,7 +328,7 @@ Betragsgleichungen enthalten einen Term in Betragsform in der Gleichung, somit g
 
 Im folgenden Beispiel wird mit der Betragsgleichung aus der Definition gerechnet
 
-> [!example] Beispiel
+> [!math-example] Beispiel
 > Grafisch kann man ablesen:
 > $x_{1}=-5$
 > $x_{2}=9$
@@ -354,7 +353,7 @@ Im folgenden Beispiel wird mit der Betragsgleichung aus der Definition gerechnet
 ### Potenzen
 eine Potenz, auch Hochzahl genannt, gibt an wie oft die Basis mal sich selber multipliziert wird.
 
-> [!] Definition
+> [!abstract] Definition
 > 
 > $$
 > \begin{align}
@@ -365,34 +364,32 @@ eine Potenz, auch Hochzahl genannt, gibt an wie oft die Basis mal sich selber mu
 > Legende:
 > $a$ = Basis
 > $n$ = Exponent(Hochzahl)
-
-
-#### Definitionen
-
-$$
-\begin{align}
-a^{0}=1: \quad \left( \frac{2^{4}}{2^{4}} = 1 = 2^{4-4}= 2^{0} \right)
-\end{align}
-$$
-
-$$
+> $$
+> \begin{align}
+> a^{0}=1: \quad \left( \frac{2^{4}}{2^{4}} = 1 = 2^{4-4}= 2^{0} \right)
+> \end{align}
+> $$
+> $$
 a^{-n}=\frac{1}{a^n}
 $$
+
 #### Potenzgesetze
-**PG1:** 
-$$a^{n} \cdot a^{m} = a^{n+m}$$
-**PG2:** 
-$$\dfrac{a^{n}}{a^{m}} = a^{n-m}$$
-**PG3:** 
-$$a^{n} \cdot b^{n} = (a \cdot b)^{n}$$
-**PG4:** 
-$$\dfrac{a^{n}}{b^{n}} = \left(\dfrac{a}{b}\right)^{n}$$
-**PG5:** 
-$$(a^{n})^{m} = a^{nm}$$
+Potenzgesetze sind Rechengesetze die für die Potenzen gelten. So können schwierige Terme mit Potenzen zu einfacheren umgeformt werden.
 
-**Beispiel**
+> [!abstract] Definition
+> **PG1:** 
+> $$a^{n} \cdot a^{m} = a^{n+m}$$
+> **PG2:** 
+> $$\dfrac{a^{n}}{a^{m}} = a^{n-m}$$
+> **PG3:** 
+> $$a^{n} \cdot b^{n} = (a \cdot b)^{n}$$
+> **PG4:** 
+> $$\dfrac{a^{n}}{b^{n}} = \left(\dfrac{a}{b}\right)^{n}$$
+> **PG5:** 
+> $$(a^{n})^{m} = a^{nm}$$
+> 
 
-> [!example] Beispiel
+> [!math-example] Beispiel
 > $$
 > \begin{align} \\
 > 
