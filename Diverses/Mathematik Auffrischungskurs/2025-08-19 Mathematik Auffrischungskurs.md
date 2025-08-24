@@ -36,102 +36,116 @@ $$
 ---
 ### Lineare Gleichung
 Eine Lineare Gleichung hat für jeden $x$ Wert einen Eindeutigen $y$ Wert:
-$$
-y = m*x+c
-$$
-Legende:
-- $m$ = Steigung
-- $x$ = $x$ wert der Gleichung
-- $c$ = $y$-Achsenabschnitt (Schnittpunkt mit der $y$-Achse)
+
+> [!abstract] Definition
+> $$
+> y = m*x+c
+> $$
+> Legende:
+> - $m$ = Steigung
+> - $x$ = $x$ wert der Gleichung
+> - $c$ = $y$-Achsenabschnitt (Schnittpunkt mit der $y$-Achse)
 
 #### Steigung
 Die Steigung zeigt an wie stark der Graph einer Linearen Funktion nach oben geht.
 Die Steigung kann mittels dem Delta 2er Punkte berechnet werden:
-$$\begin{gather}
-m = \frac{\Updelta y}{\Updelta x} = \frac{y_{q}-y_p}{x_{q}-x_{p}} = \frac{y_{p}-y_q}{x_{p}-x_q}
-\end{gather}$$
-**Beispiel:**
-$$\begin{gathered}
-P(3|2) \qquad Q(5|6) \\
-\\
-m =\frac{y_{q}-y_{p}}{x_{q}-x_{p}}=\frac{6-2}{5-3}=\frac{4}{2}= 2
-\end{gathered}$$
-Im Beispiel oben ist die Steigung 2 das bedeutet jeder $y$ Wert ist $2*x$. 
+
+> [!abstract] Definition
+> $$\begin{gather}
+> m = \frac{\Updelta y}{\Updelta x} = \frac{y_{q}-y_p}{x_{q}-x_{p}} = \frac{y_{p}-y_q}{x_{p}-x_q}
+> \end{gather}$$
+
+> [!math-example] Beispiel
+> $$\begin{gathered}
+> P(3|2) \qquad Q(5|6) \\
+> \\
+> m =\frac{y_{q}-y_{p}}{x_{q}-x_{p}}=\frac{6-2}{5-3}=\frac{4}{2}= 2
+> \end{gathered}$$
+> Im Beispiel oben ist die Steigung 2 das bedeutet jeder $y$ Wert ist $2*x$. 
+
 #### $y$-Achsenabschnitt
 Der $y$-Achsen Abschnitt ist der Punkt an dem sich die Gerade mit der $y$-Achse Schneidet.
 Um den $y$-Achsenabschnitt herauszufinden wird ein Punkt (P) auf der Geraden eingesetz und die Gleichung gelöst:
-$$
-\begin{align}
-y&=\frac{-3}{5}x+c \\
-1&=-\frac{3}{5}(1)+c \\
-1&=-\frac{3}{5} +c & \ |+ \frac{3}{5}\\
-\frac{8}{5}&=c \\
-\end{align}
-$$
+
+> [!math-example] Beispiel
+> $$
+> \begin{align}
+> y&=\frac{-3}{5}x+c \\
+> 1&=-\frac{3}{5}(1)+c \\
+> 1&=-\frac{3}{5} +c & \ |+ \frac{3}{5}\\
+> \frac{8}{5}&=c \\
+> \end{align}
+> $$
+
 ---
 ### Stückweise definierte Funktionen
 stückweise definierte Funktionen sind Funktionsdefinitionen die nur für ein bestimmtes intervall gelten.
-**Beispiel:**
-$$
-  y = \left\{
- \begin{array}{ll}
-	0 \ \text{für} \ 0 \leq x \leq 30 \\
-    \frac{4}{15}x-8 \ \text{für} \ 30 < x \leq 60 \\
-    8 \ \text{für} \ 60 < x \leq 100 \\
-    \frac{1}{25}x+4 \ \text{für} \ 100 < x \leq 200  \\
-    12 \ \text{für} \ 200 < x
- \end{array}
- \right .
-$$
-Der Graph dieser Funktion sieht so aus:
-```tikz
-\usepackage{pgfplots}
 
-\begin{document}
-  \begin{tikzpicture}
-	\begin{axis}[
-	no markers,
-	grid=both,
-	grid style={gray},
-	axis lines=center,
-	axis line style={-latex, thick},
-    xlabel=$x$,
-    ylabel=$y$,
-    ymax=12,
-	ymin=-1,
-    xtick distance=50,
-	ytick distance=2,
-	
-    enlargelimits=true,clip=true]
-    % code/plots here
-    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
-    % domain=x-axis from:to
-    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
-	\addplot[color=red, domain=0:30] {0};
-	\addplot[color=red, domain=30:60] {(4/15)*x-8};
-	\addplot[color=red, domain=60:100] {8};
-	\addplot[color=red, domain=100:200] {(1/25)*x+4};
-	\addplot[color=red, domain=200:210] {12};
-	\end{axis}
-  \end{tikzpicture}
-\end{document}
-```
-
+> [!math-example] Beispiel
+> $$
+>   y = \left\{
+>  \begin{array}{ll}
+> 	0 \ \text{für} \ 0 \leq x \leq 30 \\
+>     \frac{4}{15}x-8 \ \text{für} \ 30 < x \leq 60 \\
+>     8 \ \text{für} \ 60 < x \leq 100 \\
+>     \frac{1}{25}x+4 \ \text{für} \ 100 < x \leq 200  \\
+>     12 \ \text{für} \ 200 < x
+>  \end{array}
+>  \right .
+> $$
+> Der Graph dieser Funktion sieht so aus:
+> ```tikz
+> \usepackage{pgfplots}
+> 
+> \begin{document}
+>   \begin{tikzpicture}
+> 	\begin{axis}[
+> 	no markers,
+> 	grid=both,
+> 	grid style={gray},
+> 	axis lines=center,
+> 	axis line style={-latex, thick},
+>     xlabel=$x$,
+>     ylabel=$y$,
+>     ymax=12,
+> 	ymin=-1,
+>     xtick distance=50,
+> 	ytick distance=2,
+> 	
+>     enlargelimits=true,clip=true]
+>     % code/plots here
+>     % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=2x+1$};
+>     % domain=x-axis from:to
+>     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+> 	\addplot[color=red, domain=0:30] {0};
+> 	\addplot[color=red, domain=30:60] {(4/15)*x-8};
+> 	\addplot[color=red, domain=60:100] {8};
+> 	\addplot[color=red, domain=100:200] {(1/25)*x+4};
+> 	\addplot[color=red, domain=200:210] {12};
+> 	\end{axis}
+>   \end{tikzpicture}
+> \end{document}
+> ```
+> 
 
 ---
 ### Quadratische Gleichung
 Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalten. die grundform sieht folgend aus:
 
-$$\begin{gather}
-ax^{2}+bx+c = 0
-\end{gather}$$
+> [!abstract] Definition
+> $$\begin{gather}
+> ax^{2}+bx+c = 0
+> \end{gather}$$
 
 Beispiel:
-$$
-\begin{align}
-x^{2}-6x-16&=0 \\
-\end{align}
-$$
+
+> [!math-example] Beispiel
+> $$
+> \begin{align}
+> x^{2}-6x-16&=0 \\
+> \end{align}
+> $$
+
 Eine Quadratische Gleichung ohne Definitionsmenge hat immer 2 Lösungen ausser am Scheitelpunkt.
 
 Um Quadratische Gleichungen zu lösen gibt es 2 Möglichkeiten:
@@ -140,21 +154,26 @@ Um Quadratische Gleichungen zu lösen gibt es 2 Möglichkeiten:
 
 #### Mitternachtsformel
 Die grundform der Mitternachtsformel sieht so aus:
-$$
-x_{1,2} = \frac{-b +- \sqrt{b^2-4*a*c}}{2*a}
-$$
+
+> [!abstract] Definition
+> $$
+> x_{1,2} = \frac{-b +- \sqrt{b^2-4*a*c}}{2*a}
+> $$
+
 In diese Grundform müssen nun noch die Werde der Quadratischen Gleichung eingesetzt werden.
-**Beispiel mit Gleichung von Oben:**
-$$
-\begin{align}
-x_{1,2} &= \frac{6 \pm \sqrt{36-4*1*(-16)}}{2*1} \\
-&= \frac{6 \pm \sqrt{36-4*(-16)}}{2*1} \\
-&=\frac{6 \pm \sqrt{36+64}}{2*1} \\
-&=\frac{6 \pm \sqrt{100}}{2} \\
-x_{1}&=\frac{16}{2} \\
-x_{2}&=\frac{-4}{2}
-\end{align}
-$$
+
+> [!math-example] Beispiel
+> Das Beispiel bedient sich an der Gleichung von oben.
+> $$
+> \begin{align}
+> x_{1,2} &= \frac{6 \pm \sqrt{36-4*1*(-16)}}{2*1} \\
+> &= \frac{6 \pm \sqrt{36-4*(-16)}}{2*1} \\
+> &=\frac{6 \pm \sqrt{36+64}}{2*1} \\
+> &=\frac{6 \pm \sqrt{100}}{2} \\
+> x_{1}&=\frac{16}{2} \\
+> x_{2}&=\frac{-4}{2}
+> \end{align}
+> $$
 
 ---
 ### Lineare Funktionen
@@ -192,20 +211,23 @@ Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wir
 
 #### Geradengleichsetzung:
 bei der Geradengleichsetzung werden zwei Lineare Funktionen die nach y aufgelöst werden sollen gleichgesetzt. Es wird eine neue Gleichung aus den Beiden Funktionsgleichungen erstellt. Danach wird die Gleichung nach $x$ aufgelöst, somit erhält man $x_{s}$, die $x$ Koordinate des Schnittpunktes der beiden Geraden.
-$$
-\begin{align}
-y_{1}&=m_{1}*x_{1}+c_{1} \\
-y_{2}&=m_{2}*x_{2}+c_2 \\
-m_{1}*x_{1}+c_{1}&=m_{2}*x_{2}+c_{2} \\
-\end{align}
-$$
-**Beispiel**
-$$\begin{align}
-    y &=3x+2 \\
-    y &= 2x+3 \\
-    3x+2 &= 2x+3 \\
-    x &=1
-\end{align}$$
+
+> [!abstract] Allgemeine Form
+> $$
+> \begin{align}
+> y_{1}&=m_{1}*x_{1}+c_{1} \\
+> y_{2}&=m_{2}*x_{2}+c_2 \\
+> m_{1}*x_{1}+c_{1}&=m_{2}*x_{2}+c_{2} \\
+> \end{align}
+> $$
+
+> [!math-example] Beispiel 
+> $$\begin{align}
+>     y &=3x+2 \\
+>     y &= 2x+3 \\
+>     3x+2 &= 2x+3 \\
+>     x &=1
+> \end{align}$$
 
 ---
 ### Quadratische Funktionen
@@ -240,28 +262,42 @@ Es gibt verschieden Schreibweisen für quadratische Funktionen:
 
 #### Scheitelpunktform
 Die Scheitelpunktform ist praktisch um den Scheitelpunkt der geraden herauslesen zu können. Die Scheitelpunktform ist am besten wenn der Scheitelpunkt bekannt ist.
-$$y = a(x-x_{s})^{2}+y_{s}$$
-Legende:
-$a$ = Öffnung der Parabel (positiv: nach oben, negativ: nach unten)
-$x_{s}$ = $x$ Koordinate des Scheitelpunktes
-$y_s$ = $y$ Koordinate des Scheitelpunktes
 
-**Beispiel:**
-$$
-y=2(x-1)^{2}-8
-$$
+> [!abstract] Allgemeine Form
+> $$y = a(x-x_{s})^{2}+y_{s}$$
+> Legende:
+> $a$ = Öffnung der Parabel (positiv: nach oben, negativ: nach unten)
+> $x_{s}$ = $x$ Koordinate des Scheitelpunktes
+> $y_s$ = $y$ Koordinate des Scheitelpunktes
+
+
+> [!math-example] Beispiel
+> $$
+> y=2(x-1)^{2}-8
+> $$
+
 #### Standardform:
 Die Standardform ist die ausmultiplizierte & zusammengefasste Form der Scheitelpunktform.
-Beispiel:
-$$
-\begin{align} \\
-y&=2(x-1)^2-8 \\
-&=2(x^{2}-2x+1)-8 \\
-y&=2x^{2}-4x-6 \\
-\end{align}
-$$
+
+> [!abstract] Allgemeine Form
+> $$ y = a(x^{2}-x_{s}x+x_{s}^{2})$$ 
+
+> [!math-example] Beispiel
+> $$
+> \begin{align} \\
+> y&=2(x-1)^2-8 \\
+> &=2(x^{2}-2x+1)-8 \\
+> y&=2x^{2}-4x-6 \\
+> \end{align}
+> $$
+
 #### Nullstellenform
 Die Nullstellenform gibt es nur dann wenn die Parabel Nullstellen hat, also wenn sich die Parabel mit der $x$ Achse schneidet und $y=0$ ist. Die Nullstellenform ist praktisch weil man auf einen Blick die Nullstellen ablesen kann, Man findet also die $x$ Koordinaten bei denen $y=0$ ist. Diese Form ist am besten wenn man die Nullstellen kennt.
+
+
+> [!abstract] Allgemeine Form
+> $$ y = a(x-)$$
+
 
 aus der Standardform kann die Nullstellenform wie folgt abgeleitet werden.
 
