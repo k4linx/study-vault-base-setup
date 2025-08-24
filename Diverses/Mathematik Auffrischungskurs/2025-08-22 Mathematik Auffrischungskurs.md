@@ -150,7 +150,7 @@ mit den Logarithmusgesetzen können Komplexe Logarithmusterme umgeformt werden.
 > $$log_{b}(x^{y})=y*\log_{b}(x)$$
 > 
 
-Da der Logarithmus einer Potenz den fehlenden Exponenten zuordnet sind die [[2025-08-21 Mathematik Auffrischungskurs#]]
+Da der Logarithmus einer Potenz den fehlenden Exponenten zuordnet sind die [[2025-08-21 Mathematik Auffrischungskurs#Potenzgesetze|Potenzgesetze]] eng mit den Logarithmengesetzen verbunden.
 
 #### Logarithmus abschätzen
 Beim logarithmen abschätzen geht es darum sich näherungsweise dem logarithmus zu nähern und nur ganze Zahlen zu verwenden
