@@ -103,6 +103,8 @@ Legende:
 
 > # Wichtig: 
 > Falls der TR keine Funktion hat dem Logarithmus log die Basis zu wechseln rechnet der TR immer mit dem 10er Logarithmus $\lg_{10}(a)$. Um trotzdem mit dem TR einen Logarithmus anderer Basis rechnen zu können muss man anstatt $\log_{b}(a)$, $\frac{\ln(a)}{ln(b)}$ in den TR eingeben.
+
+
 $$
 \log_{b}(a) \leftrightarrow \frac{ln(a)}{ln(b)}
 $$

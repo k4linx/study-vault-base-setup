@@ -1,6 +1,6 @@
 {
   "minimal-style@@h4-size": "1.0rem",
   "minimal-style@@h4-l": true,
-  "minimal-style@@callouts-style": "callouts-outlined",
+  "minimal-style@@callouts-style": "callouts-default",
   "minimal-style@@callout-blend-mode": "var(--highlight-mix-blend-mode)"
 }
