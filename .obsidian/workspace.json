@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6bc0993d13f590b7",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "0ff33002a5baf39e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,6 +23,49 @@
             }
           }
         ]
+      },
+      {
+        "id": "da636ad1a6599894",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7a7b303c61786dc",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "AuffrischungskursAufgabenHS25"
+                }
+              }
+            ]
+          },
+          {
+            "id": "e9dbaa9450dfb1ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f975e3f0799a8fb4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/5LogarithmenUndExponentialfunktionenBis5-5.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "5LogarithmenUndExponentialfunktionenBis5-5"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -274,18 +317,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0ff33002a5baf39e",
   "lastOpenFiles": [
-    "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
     "Diverses/Mathematik Auffrischungskurs/2025-08-22 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/5LogarithmenUndExponentialfunktionenBis5-5.pdf",
     "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
     "A_Inbox/Info Elektro- & Informationstechnik HS 2025.md",
     "Home.md",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/5LogarithmenUndExponentialfunktionenBis5-5.pdf",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/4PotenzgesetzeUndWurzeln.pdf",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/3GleichungssystemeUngleichungenBetrag.pdf",
     "Diverses/Cheatsheets/TikZ cheatsheet.md",
     "Diverses/Cheatsheets/Math cheatsheet.md",
