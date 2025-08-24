@@ -1,7 +1,18 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "math-example"
+    ],
+    "settings": {
+      "math-example": [
+        {
+          "changes": {
+            "icon": "math-integral-x",
+            "color": "97, 97, 97"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidian": true,
