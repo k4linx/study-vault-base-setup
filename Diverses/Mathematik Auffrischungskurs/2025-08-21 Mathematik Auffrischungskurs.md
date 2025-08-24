@@ -136,79 +136,86 @@ Ein Gleichungssystem mit mehr als 2 Unbekannten hat $n$ Gleichungen mit $n$ Unbe
 ### Nichtlineare Gleichungssysteme
 Nichtlineare Gleichungssysteme sind Gleichungssysteme mit 2 oder mehr Unbekannten die aber im Gegensatz zu Linearen Gleichungssystemen nicht linear sind. Das bedeutet Potenzen können dabei sein.
 
-$$\begin{align}
-2x-5y&=0 \\
-x*y&=3
-\end{align}$$
-Erste Gleichung nach einer Unbekannten auflösen:
-$$
-\begin{align}
-x=\frac{5}{2}y \\
-x*y=3
-\end{align}
-$$
-Einsetzen
-$$
-\left\vert
-\begin{align}
-x&=\frac{5}{2}y \\
-\frac{5}{2}y*y&=3
-\end{align}
-\right\vert
-$$
-$$
-\begin{align}
-x=\frac{5}{2}y \\
-\frac{5}{2}y^{2}=3
-\end{align}
-$$
-Bruch auflösen
-$$
-\begin{align}
-x=\frac{5}{2}y \\
-5y^{2}=6
-\end{align}
-$$
-Faktor bei der Unbekannten entfernen
-$$
-\begin{align}
-x&=\frac{5}{2}y \\
-y^{2}&=\frac{6}{5}
-\end{align}
-$$
-Wurzel ziehen
-$$
-\begin{align}
-x_{1}&=\frac{5}{2}\left( \sqrt{\frac{6}{5}} \right) \\
-y_1&=\sqrt{\frac{6}{5}} \\
-x_{2}&=- \frac{5}{2}\left( \sqrt{\frac{6}{5}} \right) \\
-y_2&=-\sqrt{\frac{6}{5}}
-\end{align}
-$$
-**Wichtig:** Bei nicht Linearen Gleichungssystemen wird immer eine Wurzel gezogen um die Potenz zu entfernen.
+> [!example] Beispiel
+> 
+> $$\begin{align}
+> 2x-5y&=0 \\
+> x*y&=3
+> \end{align}$$
+> Erste Gleichung nach einer Unbekannten auflösen:
+> $$
+> \begin{align}
+> x=\frac{5}{2}y \\
+> x*y=3
+> \end{align}
+> $$
+> Einsetzen
+> $$
+> \left\vert
+> \begin{align}
+> x&=\frac{5}{2}y \\
+> \frac{5}{2}y*y&=3
+> \end{align}
+> \right\vert
+> $$
+> $$
+> \begin{align}
+> x=\frac{5}{2}y \\
+> \frac{5}{2}y^{2}=3
+> \end{align}
+> $$
+> Bruch auflösen
+> $$
+> \begin{align}
+> x=\frac{5}{2}y \\
+> 5y^{2}=6
+> \end{align}
+> $$
+> Faktor bei der Unbekannten entfernen
+> $$
+> \begin{align}
+> x&=\frac{5}{2}y \\
+> y^{2}&=\frac{6}{5}
+> \end{align}
+> $$
+> Wurzel ziehen
+> $$
+> \begin{align}
+> x_{1}&=\frac{5}{2}\left( \sqrt{\frac{6}{5}} \right) \\
+> y_1&=\sqrt{\frac{6}{5}} \\
+> x_{2}&=- \frac{5}{2}\left( \sqrt{\frac{6}{5}} \right) \\
+> y_2&=-\sqrt{\frac{6}{5}}
+> \end{align}
+> $$
+
+> [!important] Wichtig
+> **Wichtig:** Bei nicht Linearen Gleichungssystemen wird immer eine Wurzel gezogen um die Potenz zu entfernen.
 
 ### Ungleichungen
 Ungleichungen erkennt man an $< \ > \ \le \ \ge$. Sie werden gleich wie lineare und nichtlineare Gleichungssysteme gelöst.
-**Bsp 1:**
-$$
-\begin{align}
-4x-3>x+2 \\
-3x-3>2 \\
-3x>5 \\
-\frac{x>5}{3} \\
-\mathbb{L}= ]\frac{5}{3};-\infty[
-\end{align}
-$$
-**Bsp 2:**
-$$
-\begin{align}
-6x+2 \geq 10x+1 \\
-6x \geq 10x-1 \\ \\
--4x \geq -1 \\
-x \leq \frac{1}{4} \\
-\mathbb{L}= ]-\infty; \frac{1}{4}]
-\end{align}
-$$
+> [!example] Beispiel
+> $$
+> \begin{align}
+> 4x-3>x+2 \\
+> 3x-3>2 \\
+> 3x>5 \\
+> \frac{x>5}{3} \\
+> \mathbb{L}= ]\frac{5}{3};-\infty[
+> \end{align}
+> $$
+
+
+> [!e]
+> $$
+> \begin{align}
+> 6x+2 \geq 10x+1 \\
+> 6x \geq 10x-1 \\ \\
+> -4x \geq -1 \\
+> x \leq \frac{1}{4} \\
+> \mathbb{L}= ]-\infty; \frac{1}{4}]
+> \end{align}
+> $$
+> 
 
 **Wichtig:** Wenn eine Ungleichung mit einer Negativen Zahl multipliziert oder dividiert wird muss das Ungleich zeichen gedreht werden.
 
