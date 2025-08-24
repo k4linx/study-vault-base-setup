@@ -7,12 +7,12 @@
 - [ ] Welche Operationen kann ich mit einer Parabel machen?
 ---
 ## 💡 Wichtige Begriffe
-- Lineare Funktion - Eine Lineare Funktion ist eine Gerade Strecke die für jede Koordinate x eine bestimmte Koordinate y hat
-- Quadratische Funktion - Eine Quadratische Funktion beschreibt ein "U" die sogenannte Parabel - der Wert der $y$ Koordinate ist das Quadrat der $x$ Koordinate
-- Scheitelpunktform - Die Scheitelpunktform zeigt die Koordinaten des Scheitelpunktes einer Parabel
-- Standardform - Die Standardform ist die ausmultiplizierte Scheitelpunktform
-- Nullstellenform - Wenn eine Parabel Nullstellen hat kann die Nullstellenform nützlich sein um die $x$ Koordinate zu finden bei der $y=0$ ist.
-- Nullstelle - Die Stelle an der die $y$ Koordinate $y=0$
+- **Lineare Funktion** - Eine Lineare Funktion ist eine Gerade Strecke die für jede Koordinate x eine bestimmte Koordinate y hat
+- **Quadratische Funktion** - Eine Quadratische Funktion beschreibt ein "U" die sogenannte Parabel - der Wert der $y$ Koordinate ist das Quadrat der $x$ Koordinate
+- **Scheitelpunktform** - Die Scheitelpunktform zeigt die Koordinaten des Scheitelpunktes einer Parabel
+- **Standardform** - Die Standardform ist die ausmultiplizierte Scheitelpunktform
+- **Nullstellenform** - Wenn eine Parabel Nullstellen hat kann die Nullstellenform nützlich sein um die $x$ Koordinate zu finden bei der $y=0$ ist.
+- **Nullstelle** - Die Stelle an der die $y$ Koordinate $y=0$
 
 ---
 ## 📄 Zusammenfassung

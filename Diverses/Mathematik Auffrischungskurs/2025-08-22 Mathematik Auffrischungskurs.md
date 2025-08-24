@@ -6,8 +6,8 @@
 - [ ] Was sind die Logarithmengesetze?
 ---
 ## 💡 Wichtige Begriffe
-- Wurzel - $y = \sqrt[n]{a}$  :  $n$-te Wurzel von $a$, wobei immer $a>0$. Die positive zahl für die $y^{n}=a$ gilt.
-- Logarithmus - $x= \log_b{a}$  : $b$ hoch wieviel ist $a$ 
+- **Wurzel** - $y = \sqrt[n]{a}$  :  $n$-te Wurzel von $a$, wobei immer $a>0$. Die positive zahl für die $y^{n}=a$ gilt.
+- **Logarithmus** - $x= \log_b{a}$  : $b$ hoch wieviel ist $a$ 
 ---
 ## 📄 Zusammenfassung
 ### Wurzeln & Potenzen mit rationalen Exponenten

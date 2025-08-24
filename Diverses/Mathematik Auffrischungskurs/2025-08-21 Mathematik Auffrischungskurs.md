@@ -7,13 +7,13 @@
 - [ ] Wie werden Potenzen gelöst?
 ---
 ## 💡 Wichtige Begriffe
-- Gleichungssysteme - mehrere Gleichungen mit 2 oder mehr unbekannten.
-- Ungleichungen - Gleichungen die mit $< > \le \ge$ getrennt sind.
-- Betrag - Zeichen um Negative Zahlen positiv zu machen
-- Potenzen - Terme mit Hochzahlen
-- Exponenten - Hochzahl einer Potenz. Zeigt an wie oft der term mit der Basis multipliziert wird.
-- Basis - Die Basis einer Potenz, Die Zahl die unten im Term steht. 
-- Potenzgesetze - Regeln um potenzen umzuformen.
+- **Gleichungssysteme** - mehrere Gleichungen mit 2 oder mehr unbekannten.
+- **Ungleichungen** - Gleichungen die mit $< > \le \ge$ getrennt sind.
+- **Betrag** - Zeichen um Negative Zahlen positiv zu machen
+- **Potenzen** - Terme mit Hochzahlen
+- **Exponenten** - Hochzahl einer Potenz. Zeigt an wie oft der term mit der Basis multipliziert wird.
+- **Basis** - Die Basis einer Potenz, Die Zahl die unten im Term steht. 
+- **Potenzgesetze** - Regeln um potenzen umzuformen.
 ---
 ## 📄 Zusammenfassung
 Gleichungssysteme bis Potenzen
