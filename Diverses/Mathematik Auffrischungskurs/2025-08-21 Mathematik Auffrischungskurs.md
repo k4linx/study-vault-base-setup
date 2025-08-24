@@ -204,8 +204,7 @@ Ungleichungen erkennt man an $< \ > \ \le \ \ge$. Sie werden gleich wie lineare 
 > \end{align}
 > $$
 
-
-> [!e]
+> [!example] Beispiel 2
 > $$
 > \begin{align}
 > 6x+2 \geq 10x+1 \\
@@ -217,41 +216,45 @@ Ungleichungen erkennt man an $< \ > \ \le \ \ge$. Sie werden gleich wie lineare 
 > $$
 > 
 
-**Wichtig:** Wenn eine Ungleichung mit einer Negativen Zahl multipliziert oder dividiert wird muss das Ungleich zeichen gedreht werden.
+> [!important] Wichtig
+> **Wichtig:** Wenn eine Ungleichung mit einer Negativen Zahl multipliziert oder dividiert wird muss das Ungleich zeichen gedreht werden.
 
 **Bsp 3:**
-$$
-\begin{align}
-\frac{1}{3-x} < 1 \\
-\end{align}
-$$
-Wenn man nun $*(3-x)$ Rechnen würde müsste man sofort eine Fallunterscheidung machen.
-$$
-\begin{align}
-1.\ Fall\ & 3-x > 0 \\
-1&<3-x \\
-x&<2 \\
-&...
-\end{align}
-$$
-$$
-\begin{align}
-2.\ Fall\ & 3-x < 0 \\
-1&>3-x \\
-x&>2 \\
-&...
-\end{align}
-$$
-Ein anderer Weg ist folgender:
-$$
-\begin{align}
-\frac{1}{3-x}-1<0 \\
-\frac{1}{3-x}- \frac{3-x}{3-x}<0 \\
-\frac{1-(3-x)}{3-x}<0 \\
-\frac{x-2}{3-x}<0
-\end{align}
-$$
-Jetzt in einer Tabelle die Werte wo $x=0$ ist eintragen und schauen wann $x$ positiv und wann negativ ist.
+
+> 	[!example] 
+> $$
+> \begin{align}
+> \frac{1}{3-x} < 1 \\
+> \end{align}
+> $$
+> Wenn man nun $*(3-x)$ Rechnen würde müsste man sofort eine Fallunterscheidung machen.
+> $$
+> \begin{align}
+> 1.\ Fall\ & 3-x > 0 \\
+> 1&<3-x \\
+> x&<2 \\
+> &...
+> \end{align}
+> $$
+> $$
+> \begin{align}
+> 2.\ Fall\ & 3-x < 0 \\
+> 1&>3-x \\
+> x&>2 \\
+> &...
+> \end{align}
+> $$
+> Ein anderer Weg ist folgender:
+> $$
+> \begin{align}
+> \frac{1}{3-x}-1<0 \\
+> \frac{1}{3-x}- \frac{3-x}{3-x}<0 \\
+> \frac{1-(3-x)}{3-x}<0 \\
+> \frac{x-2}{3-x}<0
+> \end{align}
+> $$
+> Jetzt in einer Tabelle die Werte wo $x=0$ ist eintragen und schauen wann $x$ positiv und wann negativ ist.
+
 ### Betrag
 Das Betragszeichen entfernt das $-$ bei einem negativen term.
 $$|-2| = 2$$ Die funktion mit einem Betrag macht immer ein V:
