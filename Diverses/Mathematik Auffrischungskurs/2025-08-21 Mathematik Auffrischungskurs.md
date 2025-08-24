@@ -219,9 +219,8 @@ Ungleichungen erkennt man an $< \ > \ \le \ \ge$. Sie werden gleich wie lineare 
 > [!important] Wichtig
 > **Wichtig:** Wenn eine Ungleichung mit einer Negativen Zahl multipliziert oder dividiert wird muss das Ungleich zeichen gedreht werden.
 
-**Bsp 3:**
 
-> 	[!example] 
+> [!example] Beispiel 
 > $$
 > \begin{align}
 > \frac{1}{3-x} < 1 \\
