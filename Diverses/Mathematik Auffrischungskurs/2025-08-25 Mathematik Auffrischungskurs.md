@@ -139,7 +139,8 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 ### Exponentielle Abnahme
 
 
-### Halbwe
+### Halbwertszeit
+Die Halbwertszeit ist die Zeit die es braucht um nurnoch die Hälfte des Anfangsbestandes einer 
 
 ### Eulersche Zahl als Basis von Exponentialfunktionen
 Die eulersche Zahl $e$ wird oft als basis für eine Exponentialfunktion verwendet.
