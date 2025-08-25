@@ -134,12 +134,17 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 > 2. Wenn die basis kleiner wäre würde die Funktion langsamer steigen
 
  Wenn die Basis im obigen Beispiel negativ wäre würde die Funktion exponentiel abnehmen. **Bsp2**
- 
+
+
+### Exponentielle Abnahme
+
+
+### Halbwe
 
 ### Eulersche Zahl als Basis von Exponentialfunktionen
 Die eulersche Zahl $e$ wird oft als basis für eine Exponentialfunktion verwendet.
 
-um die 
+um eine existierende Funktion zu Basis $e$ umschreiben zu können muss man folgende Schritte 
 
 ### Satz des Pythagoras
 
