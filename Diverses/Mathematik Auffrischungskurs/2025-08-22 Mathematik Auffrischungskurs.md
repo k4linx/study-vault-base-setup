@@ -41,7 +41,7 @@ $$
 > um $x^1$ zu erhalten wird die Gleichung mit dem Kehrwert der Potenz multipliziert.
 
 ### Wurzelgleichungen
-Wurzelgleichungen enthalten 1 oder mehrere Terme unter der Wurzel. Wenn diese Terme Quadriert werden Kann es vorkommen dass Scheinlösungen entstehen. Deshalb ist es wichtig die erhaltenen Resultate in der Gleichung einzusetzen und zu kontrollieren.
+Wurzelgleichungen enthalten 1 oder mehrere Terme unter der Wurzel. Wenn diese Terme Quadriert werden kann es vorkommen dass Scheinlösungen entstehen. Deshalb ist es wichtig die erhaltenen Resultate in der Gleichung einzusetzen und zu kontrollieren.
 
 > [!math-example] Beispiel
 >  $$
