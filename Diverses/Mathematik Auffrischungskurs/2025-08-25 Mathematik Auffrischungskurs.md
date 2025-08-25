@@ -133,6 +133,9 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 > 1. Wenn die Basis grösser wäre würde die Funktion schneller steigen
 > 2. Wenn die basis kleiner wäre würde die Funktion langsamer steigen
 
+
+
+### Exponentielle Abnahme
  Wenn die Basis im obigen Beispiel negativ wäre würde die Funktion exponentiel abnehmen. **Bsp2**
 Eine Tasse Kaffe enthält 80mg Koffein, in 4h Stunden wird die Hälfte im Körper abgebaut.
 $$
@@ -150,12 +153,10 @@ f(0)&=80 \\
 f(4)&=40=80*\frac{1}{2} \\
 f(8)&=20=80* \left( \frac{1}{2} \right)^2 \\
 f(12)&=10=80* \left( \frac{1}{2} \right)^3 \\
-f(t)&= 80* \left( \frac{1}{2} \right)^{\frac{t}{4}} &=80*\left(\left( \frac{1}{2} \right)^{\frac{1}{4}}\right)^{t} \\
-\frac{f}()} \\
+f(t)&= 80* \left( \frac{1}{2} \right)^{\frac{t}{4}}=80*\left(\left( \frac{1}{2} \right)^{\frac{1}{4}}\right)^{t} \\
+f(t)&=80*0.84^{t} \\
 \end{align}
 $$
-
-### Exponentielle Abnahme
 
 
 ### Halbwertszeit
