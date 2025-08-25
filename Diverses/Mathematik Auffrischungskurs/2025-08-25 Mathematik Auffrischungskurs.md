@@ -94,8 +94,7 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 > 
 
 > [!math-example] Beispiel
-> Eine Bakterienkultur auf einer Glasscheibe bedeckt zu beginn $2cm^{2}$ vom Glas. Pro Stunde wächst die Fläche um 32%.
->  
+> Eine Bakterienkultur auf einer Glasscheibe bedeckt zu beginn $2cm^{2}$ vom Glas. Pro Stunde wächst die Fläche um 32%. 
 > $$
 > \begin{align}
 > f(0) &= 2  \\
@@ -130,7 +129,7 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 > ```
 
 ### Eulersche Zahl als Basis von Exponentialfunktionen
-
+Die eulersche Zahl $e$ wird oft als basis für eine Exp
 
 
 ### Satz des Pythagoras
