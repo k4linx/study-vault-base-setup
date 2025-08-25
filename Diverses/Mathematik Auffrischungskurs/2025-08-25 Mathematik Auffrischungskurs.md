@@ -137,9 +137,16 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 Eine Tasse Kaffe enthält 80mg Koffein, in 4h Stunden wird die Hälfte im Körper abgebaut.
 $$
 \begin{align}
-a=80mg \\
-b=\frac{1}{2} \\
-y=\text{Menge nach Zeiteinheit}\\
+&a=80mg \\
+&b=\frac{1}{2} \\
+&y=\text{Menge nach Zeiteinheit}\\
+&t=\text{zeit in h} \\
+\end{align}
+$$
+$$
+\begin{align}
+y&=f(t) \\
+f(0)&=80 \\
 
 \end{align}
 $$
