@@ -128,8 +128,10 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 > \end{document}
 > ```
 
+Wenn die Basis im obigen Beispiel  wäre würde die Funktion exponentiel abnehmen.
+
 ### Eulersche Zahl als Basis von Exponentialfunktionen
-Die eulersche Zahl $e$ wird oft als basis für eine Exp
+Die eulersche Zahl $e$ wird oft als basis für eine Exponentialfunktion verwendet.
 
 
 ### Satz des Pythagoras
