@@ -134,13 +134,13 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 > 2. Wenn die basis kleiner wäre würde die Funktion langsamer steigen
 
  Wenn die Basis im obigen Beispiel negativ wäre würde die Funktion exponentiel abnehmen. **Bsp2**
-
+Eine Tasse K
 
 ### Exponentielle Abnahme
 
 
 ### Halbwertszeit
-Die Halbwertszeit ist die Zeit die es braucht um nurnoch die Hälfte des Anfangsbestandes einer 
+Die Halbwertszeit ist die Zeit die es braucht bis nurnoch die Hälfte des Anfangsbestandes vorhanden is
 
 ### Eulersche Zahl als Basis von Exponentialfunktionen
 Die eulersche Zahl $e$ wird oft als basis für eine Exponentialfunktion verwendet.
