@@ -138,7 +138,9 @@ Eine Tasse Kaffe enthält 80mg Koffein, in 4h Stunden wird die Hälfte im Körpe
 $$
 \begin{align}
 a=80mg \\
-y=
+b=\frac{1}{2} \\
+y=\text{Menge nach Zeiteinheit}\\
+
 \end{align}
 $$
 
