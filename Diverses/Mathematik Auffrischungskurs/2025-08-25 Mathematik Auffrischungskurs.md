@@ -150,8 +150,8 @@ f(0)&=80 \\
 f(4)&=40=80*\frac{1}{2} \\
 f(8)&=20=80* \left( \frac{1}{2} \right)^2 \\
 f(12)&=10=80* \left( \frac{1}{2} \right)^3 \\
-f(t)&= 80* \left( \frac{1}{2} \right)^{\frac{t}{4}} =80*\left(\left( \frac{1}{2} \right)^{\frac{1}{4}}\right)\\
-
+f(t)&= 80* \left( \frac{1}{2} \right)^{\frac{t}{4}} &=80*\left(\left( \frac{1}{2} \right)^{\frac{1}{4}}\right)^{t} \\
+\frac{f}()} \\
 \end{align}
 $$
 
