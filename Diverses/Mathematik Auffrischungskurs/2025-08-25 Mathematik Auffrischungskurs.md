@@ -94,7 +94,8 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 > 
 
 > [!math-example] Beispiel
-> Im
+> Eine Bakterienkultur auf einer Glasscheibe bedeckt zu beginn $2cm^{2}$ vom Glas. Pro Stunde wächst die Fläche um 32%.
+>  
 > $$
 > \begin{align}
 > f(0) &= 2  \\
