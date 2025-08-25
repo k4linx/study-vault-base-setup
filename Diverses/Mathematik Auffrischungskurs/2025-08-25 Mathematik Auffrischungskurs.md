@@ -136,34 +136,75 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 
 
 ### Exponentielle Abnahme
- Wenn die Basis $b<1$ ist nimmt die Funktion exponentiell ab, dann spricht man von einer exponentiellen Abnahme
+Wenn die Basis $b<1$ ist nimmt die Funktion exponentiell ab, dann spricht man von einer exponentiellen Abnahme
  
-Eine Tasse Kaffe enthält 80mg Koffein, in 4h Stunden wird die Hälfte im Körper abgebaut.
-$$
-\begin{align}
-a&=80mg \\
-b&=\frac{1}{2} \\
-y&=\text{Menge nach Zeiteinheit}\\
-t&=\text{zeit in h} \\
-y&=f(t) \\ \\
 
-f(0)&=80 \\
-f(4)&=40=80*\frac{1}{2} \\
-f(8)&=20=80* \left( \frac{1}{2} \right)^2 \\
-f(12)&=10=80* \left( \frac{1}{2} \right)^3 \\
-f(t)&= 80* \left( \frac{1}{2} \right)^{\frac{t}{4}}=80*\left(\left( \frac{1}{2} \right)^{\frac{1}{4}}\right)^{t} \\
-f(t)&=80*0.84^{t} \\
-\end{align}
-$$
-
-
-### Halbwertszeit
-Die Halbwertszeit ist die Zeit die es braucht bis nurnoch die Hälfte des Anfangsbestandes vorhanden is
+> [!math-example] Beispiel
+> Eine Tasse Kaffe enthält 80mg Koffein, in 4h Stunden wird die Hälfte im Körper abgebaut.
+> $$
+> \begin{align}
+> a&=80mg \\
+> b&=\frac{1}{2} \\
+> y&=\text{Menge nach Zeiteinheit}\\
+> t&=\text{zeit in h} \\
+> y&=f(t) \\ \\
+> 
+> f(0)&=80 \\
+> f(4)&=40=80*\frac{1}{2} \\
+> f(8)&=20=80* \left( \frac{1}{2} \right)^2 \\
+> f(12)&=10=80* \left( \frac{1}{2} \right)^3 \\
+> f(t)&= 80* \left( \frac{1}{2} \right)^{\frac{t}{4}}=80*\left(\left( \frac{1}{2} \right)^{\frac{1}{4}}\right)^{t} \\
+> f(t)&=80*0.84^{t} \\
+> \end{align}
+> $$
+> 
+> ```tikz
+> \usepackage{pgfplots}
+> 
+> \begin{document}
+>   \begin{tikzpicture}
+> 	\begin{axis}[
+> 	no markers,
+> 	grid=both,
+> 	grid style={gray},
+> 	axis equal,
+> 	axis lines=center,
+> 	axis line style={-latex, thick},
+>     xlabel=$x$,
+>     ylabel=$y$,
+>     xtick distance=10,
+> 	ytick distance=10,
+>     enlargelimits=true,clip=true]
+>     \addplot[color=red, domain=-1:40] {80*(1/2)^(x/4)} node[ anchor=south] {$80*(\frac{1}{2})^{\frac{t}{4}}$};
+> 	\end{axis}
+>   \end{tikzpicture}
+> \end{document}
+> ```
 
 ### Eulersche Zahl als Basis von Exponentialfunktionen
 Die eulersche Zahl $e$ wird oft als basis für eine Exponentialfunktion verwendet.
 
-um eine existierende Funktion zu Basis $e$ umschreiben zu können muss man folgende Schritte 
+$$
+e = \mathop {\lim }\limits_{n \to \infty } \left( {1 + \frac{1}{n}} \right)^n =2.71828
+$$
+
+um eine existierende Funktion zu Basis $e$ umschreiben zu können muss man folgende Schritte machen
+
+$$
+\begin{align} \\
+f(t) &= 2*1.32^{t} \\
+&= 2(e^{\lambda})^{t} & 1.32&=e^{\lambda} \\
+&=2*e^{\lambda*t} & \lambda &= \ln(1.32) = 0.277 \\
+2*e^{0.277*t}
+\end{align}
+$$
+Und schon ist die Funktion zur Basis $e$ umgewandelt.
+
+### Exponentialfunktion durch 2 Punkte
+
+
+### Halbwertszeit
+Die Halbwertszeit ist die Zeit die es braucht bis nurnoch die Hälfte des Anfangsbestandes vorhanden ist.
 
 ### Satz des Pythagoras
 
