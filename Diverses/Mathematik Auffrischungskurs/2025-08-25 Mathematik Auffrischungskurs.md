@@ -93,38 +93,40 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 > y = Bestand nach Zeit
 > 
 
-$$
-\begin{align}
-f(0) &= 2  \\
-f(1) &= 2* 1.32 = 2.64\\
-f(2) &= f(1)*1.32 = 2*1.32^{2}= 3.484  \\
-f(3) &= f(2)*1.32 =2*1.32^{3}=4.599 \\
-... \\
-f(t)=2*1.32^{t}
-\end{align}
-$$
-```tikz
-\usepackage{pgfplots}
-
-\begin{document}
-  \begin{tikzpicture}
-	\begin{axis}[
-	no markers,
-	grid=both,
-	grid style={gray},
-	axis equal,
-	axis lines=center,
-	axis line style={-latex, thick},
-    xlabel=$x$,
-    ylabel=$y$,
-    xtick distance=1,
-	ytick distance=1,
-    enlargelimits=true,clip=true]
-    \addplot[color=red, domain=-1:10] {2*1.32^x} node[ anchor=west] {$y=2*1.32^{t}$};
-	\end{axis}
-  \end{tikzpicture}
-\end{document}
-```
+> [!math-example] Beispiel
+> Im
+> $$
+> \begin{align}
+> f(0) &= 2  \\
+> f(1) &= 2* 1.32 = 2.64\\
+> f(2) &= f(1)*1.32 = 2*1.32^{2}= 3.484  \\
+> f(3) &= f(2)*1.32 =2*1.32^{3}=4.599 \\
+> ... \\
+> f(t)&=2*1.32^{t}
+> \end{align}
+> $$
+> ```tikz
+> \usepackage{pgfplots}
+> 
+> \begin{document}
+>   \begin{tikzpicture}
+> 	\begin{axis}[
+> 	no markers,
+> 	grid=both,
+> 	grid style={gray},
+> 	axis equal,
+> 	axis lines=center,
+> 	axis line style={-latex, thick},
+>     xlabel=$x$,
+>     ylabel=$y$,
+>     xtick distance=5,
+> 	ytick distance=5,
+>     enlargelimits=true,clip=true]
+>     \addplot[color=red, domain=-1:10] {2*1.32^x} node[ anchor=west] {$y=2*1.32^{t}$};
+> 	\end{axis}
+>   \end{tikzpicture}
+> \end{document}
+> ```
 
 ### Eulersche Zahl als Basis von Exponentialfunktionen
 
