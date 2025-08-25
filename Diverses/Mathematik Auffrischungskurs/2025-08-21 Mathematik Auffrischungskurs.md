@@ -20,16 +20,16 @@
 ### Lineare Gleichungssysteme
 Lineare Gleichungssysteme sind zwei oder mehr Gleichungen mit zwei oder mehr unbekannten die Linear verlaufen. Im Beispiel sind zwei unbekannte $x,y$:
 
-> [!abstract] Definition
-> $$
-> \left\vert \begin{align}
-> \ 2x+y &= 2 \\
->  x + y &= \frac{3}{2} \ 
-> \end{align}\right\vert
-> $$
+
+ $$
+ \left\vert \begin{align}
+ \ 2x+y &= 2 \\
+  x + y &= \frac{3}{2} \ 
+ \end{align}\right\vert
+ $$
 
 > [!math-example]
-> Um ein Lineares Gleichungssystem zu lösen muss man nach einer variable auflösen und diesen Term anstelle der Variable im andere Gleichungssystem einsetzen.
+> Um ein Lineares Gleichungssystem zu lösen muss man nach einer variable auflösen und diesen Term anstelle der Variable in die anderen Gleichungen im Gleichungssystem einsetzen.
 > $$
 > \begin{align}
 > x+y&=\frac{3}{2} \\
@@ -65,16 +65,15 @@ Lineare Gleichungssysteme sind zwei oder mehr Gleichungen mit zwei oder mehr unb
 Ein Gleichungssystem mit mehr als 2 Unbekannten hat $n$ Gleichungen mit $n$ Unbekannten. Gelöst wird es genau gleich wie ein Gleichungssystem mit 2 Unbekannten, zuerst nach einer Unbekannten auflösen und dann in die anderen zwei Gleichungen einsetzen. Und so weiter.
 
 
-> [!abstract] Definition
-> $$
-> \left\vert
-> \begin{align}
-> \ a+b+c&=-1 \ \\
-> \ 4a+2b+c&= 4 \ \\
-> \ 16a+4b+c&=18
-> \end{align}
-> \right\vert
-> $$
+$$
+\left\vert
+\begin{align}
+\ a+b+c&=-1 \ \\
+\ 4a+2b+c&= 4 \ \\
+\ 16a+4b+c&=18
+\end{align}
+\right\vert
+$$
 
 
 
@@ -143,14 +142,13 @@ Ein Gleichungssystem mit mehr als 2 Unbekannten hat $n$ Gleichungen mit $n$ Unbe
 ### Nichtlineare Gleichungssysteme
 Nichtlineare Gleichungssysteme sind Gleichungssysteme mit 2 oder mehr Unbekannten die aber im Gegensatz zu Linearen Gleichungssystemen nicht linear sind. Das bedeutet Potenzen können dabei sein.
 
-> [!abstract] Definition
-> 
-> $$\begin{align}
-> 2x-5y&=0 \\
-> x*y&=3
-> \end{align}$$
 
-Im Folgenden Beispiel fahren wir mit dem Gleichungssystem der Definition weiter:
+$$\begin{align}
+2x-5y&=0 \\
+x*y&=3
+\end{align}$$
+
+Im Folgenden Beispiel fahren wir mit dem obigen Gleichungssystem weiter:
 
 > [!math-example] Beispiel 
 > Erste Gleichung nach einer Unbekannten auflösen:
@@ -266,65 +264,56 @@ Ungleichungen erkennt man an $< \ > \ \le \ \ge$. Sie werden gleich wie lineare 
 
 ### Betrag
 Das Betragszeichen entfernt das $-$ bei einem negativen term.
-
-> [!abstract] Definition
-> $$|-2| = 2$$ Die funktion mit einem Betrag macht immer ein V:
-> ```tikz
-> \usepackage{pgfplots}
-> 
-> \begin{document}
->   \begin{tikzpicture}
-> 	\begin{axis}[
-> 	no markers,
-> 	grid=both,
-> 	grid style={gray},
-> 	axis equal,
-> 	axis lines=center,
-> 	axis line style={-latex, thick},
->     xlabel=$x$,
->     ylabel=$y$,
->     xtick distance=1,
-> 	ytick distance=1,
->     enlargelimits=true,clip=true]
->     \addplot[color=red, domain=-4:4] {abs(x)} node[ anchor=north] {$y=|x|$};
-> 	\end{axis}
->   \end{tikzpicture}
-> \end{document}
-> ```
-
+$$|-2| = 2$$ Die funktion mit einem Betrag macht immer ein V:
+```tikz
+\usepackage{pgfplots}
+ \begin{document}
+    \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    \addplot[color=red, domain=-4:4] {abs(x)} node[ anchor=north] {$y=|x|$};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
 
 ### Betragsgleichungen
 Betragsgleichungen enthalten einen Term in Betragsform in der Gleichung, somit gibt es immer 2 Fälle die gelöst und überprüft werden müssen.
-
-> [!abstract] Definition
-> $$
-> |x-2|=7
-> $$
-> ```tikz
-> \usepackage{pgfplots}
-> 
-> \begin{document}
->   \begin{tikzpicture}
-> 	\begin{axis}[
-> 	no markers,
-> 	grid=both,
-> 	grid style={gray},
-> 	axis equal,
-> 	axis lines=center,
-> 	axis line style={-latex, thick},
->     xlabel=$x$,
->     ylabel=$y$,
->     xtick distance=1,
-> 	ytick distance=1,
->     enlargelimits=true,clip=true]
->     \addplot[color=red, domain=-6:10] {abs(x-2)} node[ anchor=east] {$y=|x-2|$};
->     
->     \addplot[color=green, domain=-8:10] {7} node[ anchor=north] {$y=7$};
-> 
-> 	\end{axis}
->   \end{tikzpicture}
-> \end{document}
-> ```
+$$
+|x-2|=7
+$$
+```tikz
+\usepackage{pgfplots}
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    \addplot[color=red, domain=-6:10] {abs(x-2)} node[ anchor=east] {$y=|x-2|$};
+    \addplot[color=green, domain=-8:10] {7} node[ anchor=north] {$y=7$};
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
 
 Im folgenden Beispiel wird mit der Betragsgleichung aus der Definition gerechnet
 
@@ -351,32 +340,33 @@ Im folgenden Beispiel wird mit der Betragsgleichung aus der Definition gerechnet
 > $$
 
 ### Potenzen
-eine Potenz, auch Hochzahl genannt, gibt an wie oft die Basis mal sich selber multipliziert wird.
 
-> [!abstract] Definition
-> 
+> [!abstract] Definitionen
+> eine Potenz, auch Hochzahl genannt, gibt an wie oft die Basis mal sich selber multipliziert wird.
 > $$
 > \begin{align}
 > a^{n}=&\underbrace{a*a...a} \\
->  &\text{n mal mit Faktor a multipliziert}
+> &\text{n mal mit Faktor a multipliziert}
 > \end{align}
 > $$
 > Legende:
 > $a$ = Basis
 > $n$ = Exponent(Hochzahl)
+> 
+> #### Weitere Definitionen
 > $$
 > \begin{align}
 > a^{0}=1: \quad \left( \frac{2^{4}}{2^{4}} = 1 = 2^{4-4}= 2^{0} \right)
 > \end{align}
 > $$
 > $$
-a^{-n}=\frac{1}{a^n}
-$$
+> a^{-n}=\frac{1}{a^n}
+> $$
 
 #### Potenzgesetze
 Potenzgesetze sind Rechengesetze die für die Potenzen gelten. So können schwierige Terme mit Potenzen zu einfacheren umgeformt werden.
 
-> [!abstract] Definition
+> [!abstract] Gesetze
 > **PG1:** 
 > $$a^{n} \cdot a^{m} = a^{n+m}$$
 > **PG2:** 

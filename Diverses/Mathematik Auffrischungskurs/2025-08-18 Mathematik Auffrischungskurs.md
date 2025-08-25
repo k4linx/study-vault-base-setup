@@ -18,34 +18,35 @@
 ## 📄 Zusammenfassung
 ### 3 Rechengesetze:
 
-> [!abstract] Definition
-> #### Kommutativgesetz: 
+> [!abstract] Kommutativgesetz: 
 > $$
 > \begin{gather}
 >  a+b = b+a \\
 > a*b=b*a
 > \end{gather}
 > $$
-> #### Assoziativgesetz:
+
+
+> [!abstract] Assoziativgesetz:
 > $$\begin{gather}
 > a+(b+c) = a+b+c = (a+b)+c \\
 >  a*(b*c) =a*b*c = (a*b)*c \\
 > \end{gather}$$
-> 
-> #### Distributivgesetz: 
+
+
+> [!abstract] Distributivgesetz: 
 > $$a*(b+c)= a*b+a*c = ab+ac $$
 > > [!important] Wichtig
 > > **Wichtig:** beim Distributivgesetz ist immer [[2025-08-18 Mathematik Auffrischungskurs#Punkt vor Strich|Punkt vor Strich]] operieren.
 
 ### Weitere Regeln:
 
-> [!abstract] Definition
-> #### Punkt vor Strich: 
+> [!abstract] Punkt vor Strich: 
 > $$a*b+c = (a*b)+c$$
-> #### Subtraktion:
+
+> [!abstract] Subtraktion:
 > $$a-b = a+(-1)*b$$
 
----
 ### Binomische Formeln
 
 > [!abstract] Definition
@@ -56,7 +57,6 @@
 > #### 3. Binomische Formel:
 > $$(a+b)(a-b)= a^2-b^2$$
 
----
 ### Faktorisieren:
 Faktorisieren bedeutet den Term in möglichst viele einfache Faktoren zu zerlegen.
 
@@ -72,7 +72,6 @@ Faktorisieren bedeutet den Term in möglichst viele einfache Faktoren zu zerlege
 >  x^{2}+((b+c)*x)+(b*c)=(x+b)(x+c)
 > \end{gather}$$
 
----
 ### Allgemeine binomische Formel & Pascallsches Dreieck:
 
 > [!abstract] Definition
@@ -98,7 +97,6 @@ Im Pascallschen Dreieck werden die 2 rechts & links darüber stehenden Summanden
 
 Wie gezeigt kann das einfach so weitergeführt werden wobei jeder term multipliziert werden muss. Die Zahl die vorne dran steht muss mann aus dem Pascallschen dreieck herauslesen.
 
----
 ### Brüche:
 Brüche sind eine andere Schreibweise für die Division:
 $$\frac{a}{b} =a : b$$
@@ -109,75 +107,92 @@ Brüche dürfen einfach so Zähler mal Zähler & Nenner mal Nenner gerechnet wer
 #### Brüche kürzen: 
 $$ \frac{a*c}{b*c}=\frac{a}{b}*\frac{c}{c} = \frac{a}{b}, \frac{c}{c} = 1 $$
 beim Kürzen muss der Nenner und der Zähler genau den gleichen Wert enthalten.
-#### Brüche Addieren:$$\frac{a}{b} +\frac{c}{b}=\frac{a+c}{b}$$
-Wenn der Nenner gleich ist dürfen Brüche zusammen Addiert/Subtrahiert werden. Ansonsten muss gleichnamig gemacht werden:
-$$\begin{gather} \\
-\frac{2}{39} - \frac{1}{65} \\
-\frac{2}{3*13} - \frac{1}{5*13}
-\end{gather}
-$$
-Erweitern um gemeinsamen Nenner zu erhalten & ausrechnen:
-$$
-\begin{gather}
-\frac{2*5}{3*5*13} - \frac{1*3}{5*3*13} \\
- \\
-2*5 = 10  \\
-1*3 = 3 \\
-3*5*13 = 195  \\
- \\
-\end{gather}$$
-Einsetzen:
-$$
-\begin{gather}
-\frac{10-3}{195} = \frac{7}{195} \\
-\end{gather}
-$$
+#### Brüche Addieren:
+$$\frac{a}{b} +\frac{c}{b}=\frac{a+c}{b}$$
+
+> [!math-example] Beispiel
+> Wenn der Nenner gleich ist dürfen Brüche zusammen Addiert/Subtrahiert werden. Ansonsten muss gleichnamig gemacht werden:
+> $$\begin{gather} \\
+> \frac{2}{39} - \frac{1}{65} \\
+> \frac{2}{3*13} - \frac{1}{5*13}
+> \end{gather}
+> $$
+> Erweitern um gemeinsamen Nenner zu erhalten & ausrechnen:
+> $$
+> \begin{gather}
+> \frac{2*5}{3*5*13} - \frac{1*3}{5*3*13} \\
+>  \\
+> 2*5 = 10  \\
+> 1*3 = 3 \\
+> 3*5*13 = 195  \\
+>  \\
+> \end{gather}$$
+> Einsetzen:
+> $$
+> \begin{gather}
+> \frac{10-3}{195} = \frac{7}{195} \\
+> \end{gather}
+> $$
+
 $$(a+c)*\frac{1}{b}=a:b+ac:b$$
 #### Doppelbrüche:
 Doppelbrüche bestehen aus einem Bruch im Zähler(oben) und einem Bruch im Nenner(unten):
-$$\frac{\frac{a}{b}}{\frac{c}{d}} =\frac{a}{b}*\frac{d}{c}$$
+$$\frac{\frac{a}{b}}{\frac{c}{d}}$$
 Bei Doppelbrüchen kann der Bruch mit dem Kehrwert des Nenners multipliziert werden
-
+$$\frac{\frac{a}{b}}{\frac{c}{d}} =\frac{a}{b}*\frac{d}{c}$$
 ### Gleichungen
+Gleichungen sind ganz einfach. Der Term links muss das gleiche Resultat wie der Term rechts geben. z.B. $1+2=3$ ist eine Gleichung.
 
-Gleichungen ganz einfach z.B. $1+2=3$ ist eine Gleichung.
+> [!math-example] Beispiel
+> $$\begin{gather}
+> x+14=4x-x & \ \text{Zusammenfassen}\\
+> x+14=3x & \ | -x \\
+> 14=2x & \ | :2 \\
+> 7=x \Rightarrow & \ \mathbb{L}=\{7\}
+> \end{gather}$$
 
-$$\begin{gather}
-x+14=4x-x & \ \text{Zusammenfassen}\\
-x+14=3x & \ | -x \\
-14=2x & \ | :2 \\
-7=x \Rightarrow & \ \mathbb{L}=\{7\}
-\end{gather}$$
 #### Theorie:
 Äquivalenzumformung: 
 - Addition/Subtraktion derselben Zahl/Term auf jeder Seite
 - Multiplikation/Division derselben Zahl/Term $\ne 0$ 
-Bsp:$$
-\begin{gather}
-x=1 & \ \mathbb{L} = \{1\} & \ |+2 \\
-x+2 = 3 & \ \mathbb{L} = \{1\} & \ | * (x-2) \\
-(x+2)(x-2)=3(x-2) & \  \mathbb{L} = \{1;2\}  \\
-x^{2}-4 =3x-6 & \ & \ |+3  \\
-x^{2}-1 = 3x-3  \\
-(x+1)(x-1) =3(x-1) & \  \mathbb{L} = \{1;2\} & \ |:(x-1) \\
-x+1=3 & \  \mathbb{L} = \{2\} 
-\end{gather}
-$$
-- Schritt 2 auf 3 ist **keine** ÄquivalenzumformungEs muss kontrolliert werden ob keine Lösungen entstanden sind ($1*0 = 0$). Dies wären dann Scheinlösungen.
-- Von Schritt 6 auf 7 ist nun eine Lösung verloren gegangen.
-$$
-\begin{gather}
-\underbrace{(x+1)(4x-3)=2(x+1)(2x+3)} & \ |:x+1 \\
-\text{ist } x=-1 \text{ eine Lösung}\to \text{Ja } \to \symbb{L} = \{-1\} & \ \downarrow \\
-4x-3 = 2(2x+3) & \ \leftarrow \\
-4x-3 = 4x+6 & \ | -4x 
-\end{gather}
-$$
+
+> [!math-example] Beispiel
+> $$
+> \begin{gather}
+> x=1 & \ \mathbb{L} = \{1\} & \ |+2 \\
+> x+2 = 3 & \ \mathbb{L} = \{1\} & \ | * (x-2) \\
+> (x+2)(x-2)=3(x-2) & \  \mathbb{L} = \{1;2\}  \\
+> x^{2}-4 =3x-6 & \ & \ |+3  \\
+> x^{2}-1 = 3x-3  \\
+> (x+1)(x-1) =3(x-1) & \  \mathbb{L} = \{1;2\} & \ |:(x-1) \\
+> x+1=3 & \  \mathbb{L} = \{2\} 
+> \end{gather}
+> $$
+
+> [!attention] Achtung
+> - Schritt 2 auf 3 ist **keine** Äquivalenzumformung. Es muss kontrolliert werden ob keine Lösungen entstanden sind ($1*0 = 0$). Dies wären dann Scheinlösungen.
+> - Von Schritt 6 auf 7 ist nun eine Lösung verloren gegangen.
+> 
+
+> [!math-example] Beispiel
+> $$
+> \begin{gather}
+> \underbrace{(x+1)(4x-3)=2(x+1)(2x+3)} & \ |:x+1 \\
+> \text{ist } x=-1 \text{ eine Lösung}\to \text{Ja } \to \symbb{L} = \{-1\} & \ \downarrow \\
+> 4x-3 = 2(2x+3) & \ \leftarrow \\
+> 4x-3 = 4x+6 & \ | -4x 
+> \end{gather}
+> $$
+
 ### Wichtig für alles:
 - Bei der Multiplikation Vorzeichen **nicht** vergessen.
 - Bei einer Bruchgleichung wird der Ganze Term multipliziert z.B.
-$$
-\frac{45}{2y-9} -2 = \frac{27}{2y-9} \to 45-2(2y-9)=27(2y-9) $$
+
+> [!math-example] Beispiel
+> $$
+> \frac{45}{2y-9} -2 = \frac{27}{2y-9} \to 45-2(2y-9)=27(2y-9) 
+> $$
+
 ## ✅ ToDo
 - [x] #task Allgemeine Binomische Formel & Pascallsches 3-eck ausführen ✅ 2025-08-18
 - [x] #task Gleichungen & Funktionen Zusammenfassen ✅ 2025-08-18

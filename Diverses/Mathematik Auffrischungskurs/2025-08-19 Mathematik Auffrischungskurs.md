@@ -37,23 +37,21 @@ $$
 ### Lineare Gleichung
 Eine Lineare Gleichung hat für jeden $x$ Wert einen Eindeutigen $y$ Wert:
 
-> [!abstract] Definition
-> $$
-> y = m*x+c
-> $$
-> Legende:
-> - $m$ = Steigung
-> - $x$ = $x$ wert der Gleichung
-> - $c$ = $y$-Achsenabschnitt (Schnittpunkt mit der $y$-Achse)
+$$
+y = m*x+c
+$$
+Legende:
+$m$ = Steigung
+$x$ = $x$ wert der Gleichung
+$c$ = $y$-Achsenabschnitt (Schnittpunkt mit der $y$-Achse)
 
 #### Steigung
 Die Steigung zeigt an wie stark der Graph einer Linearen Funktion nach oben geht.
 Die Steigung kann mittels dem Delta 2er Punkte berechnet werden:
 
-> [!abstract] Definition
-> $$\begin{gather}
-> m = \frac{\Updelta y}{\Updelta x} = \frac{y_{q}-y_p}{x_{q}-x_{p}} = \frac{y_{p}-y_q}{x_{p}-x_q}
-> \end{gather}$$
+$$\begin{gather}
+m = \frac{\Updelta y}{\Updelta x} = \frac{y_{q}-y_p}{x_{q}-x_{p}} = \frac{y_{p}-y_q}{x_{p}-x_q} \\
+\end{gather}$$
 
 > [!math-example] Beispiel
 > $$\begin{gathered}
@@ -132,7 +130,7 @@ stückweise definierte Funktionen sind Funktionsdefinitionen die nur für ein be
 ### Quadratische Gleichung
 Quadratische gleichungen sind Gleichungen die einen Term der Form $x^2$ enthalten. die grundform sieht folgend aus:
 
-> [!abstract] Definition
+> [!abstract] Allgemeine Form
 > $$\begin{gather}
 > ax^{2}+bx+c = 0
 > \end{gather}$$
@@ -155,7 +153,7 @@ Um Quadratische Gleichungen zu lösen gibt es 2 Möglichkeiten:
 #### Mitternachtsformel
 Die grundform der Mitternachtsformel sieht so aus:
 
-> [!abstract] Definition
+> [!abstract] Allgemeine Form
 > $$
 > x_{1,2} = \frac{-b +- \sqrt{b^2-4*a*c}}{2*a}
 > $$
