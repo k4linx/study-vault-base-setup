@@ -136,7 +136,8 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 
 
 ### Exponentielle Abnahme
- Wenn die Basis im obigen Beispiel negativ wäre würde die Funktion exponentiel abnehmen. **Bsp2**
+ Wenn die Basis $b<1$ ist nimmt die Funktion exponentiell ab, dann spricht man von einer exponentiellen Abnahme
+ 
 Eine Tasse Kaffe enthält 80mg Koffein, in 4h Stunden wird die Hälfte im Körper abgebaut.
 $$
 \begin{align}
