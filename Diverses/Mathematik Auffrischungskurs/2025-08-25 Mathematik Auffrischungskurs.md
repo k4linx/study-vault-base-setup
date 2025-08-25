@@ -128,9 +128,10 @@ Eine exponentialfunktion wird in der Technik verwendet um Dämpfungen, Entladung
 > \end{document}
 > ```
 
-Wenn die Basis im obigen Beispiel $b<0$ wäre würde die Funktion exponentiel abnehmen.
-Wenn die Basis grösser wäre würde die funktion schneller zunehmen
-Wenn die basis kleiner wäre würde die funktion langsamer 
+> [!important] Wichtig
+> 1.  Wenn die Basis im obigen Beispiel $b<0$ wäre würde die Funktion exponentiel abnehmen.
+> 2. Wenn die Basis grösser wäre würde die Funktion schneller steigen
+> Wenn die basis kleiner wäre würde die Funktion langsamer steigen
 
 ### Eulersche Zahl als Basis von Exponentialfunktionen
 Die eulersche Zahl $e$ wird oft als basis für eine Exponentialfunktion verwendet.
