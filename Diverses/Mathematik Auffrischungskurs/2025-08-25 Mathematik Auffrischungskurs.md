@@ -285,7 +285,7 @@ $$
 2 Dreiecke mit gleichen winkeln aber unterschiedlichen Seitenlängen nennt man Ähnlich.
 
 ```tikz
-\usetikzlibrary{calc}
+\usepackage{tkz-euclide}
 \begin{document}
 
 \begin{tikzpicture}[scale=5]% Scale it rather using too big dimensions in centimeters
