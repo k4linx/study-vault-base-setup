@@ -2,11 +2,11 @@
 
 ---
 ## 💡 Wichtige Begriffe
+- **Exponentialgleichung** - Gleichung mit Exponenten (Hochzahlen)
+- 
 
 ---
 ## 📄 Zusammenfassung
-Exponentialgleichung bis Satz des Pythagoras
-
 ### Exponentialgleichung
 Exponentialgleichungen sind Gleichungen mit Termen die einen Exponenten also eine Hochzahl haben.
 
@@ -30,24 +30,25 @@ Die Gleichung kann mit den [[2025-08-21 Mathematik Auffrischungskurs#Potenzgeset
 #### Strategie 2
 Wenn die Exponentialgleichung auf beiden Seiten positiv ist kann auf beiden Seiten der gleiche [[2025-08-22 Mathematik Auffrischungskurs#Logarithmen & Exponentialfunktionen|Logarithmus]] zur gleichen Basis angewendet werden. z.B. $\log_{10}(x)$
 
-$$
-\begin{align} \\
-5^{2x}=2*7^{3x} \\
-\end{align}
-$$
-Logarithmus $\log_{10}$ anwenden
-$$
-\begin{align}
-\log_{10}(5^{2x})=\log_{10}(2*7^{3x}) \\
-\end{align}
-$$
-[[2025-08-22 Mathematik Auffrischungskurs#Logarithmengesetze|Logarithmengesetze]] anwenden:
-$$
-\begin{align}
-\log_{10}(5^{2x}) &= \log_{10}(2) + \log_{10}(7^{3x}) \\
-2x * \log_{10}(5) &= \log_{10}(2) + 2x * \log_{10}(7) \\
-\end{align}
-$$
+> [!math-example] Beispiel
+> $$
+> \begin{align} \\
+> 5^{2x}=2*7^{3x} \\
+> \end{align}
+> $$
+> Logarithmus $\log_{10}$ anwenden
+> $$
+> \begin{align}
+> \log_{10}(5^{2x})=\log_{10}(2*7^{3x}) \\
+> \end{align}
+> $$
+> [[2025-08-22 Mathematik Auffrischungskurs#Logarithmengesetze|Logarithmengesetze]] anwenden:
+> $$
+> \begin{align}
+> \log_{10}(5^{2x}) &= \log_{10}(2) + \log_{10}(7^{3x}) \\
+> 2x * \log_{10}(5) &= \log_{10}(2) + 2x * \log_{10}(7) \\
+> \end{align}
+> $$
 
 > [!hint] Hinweis
 > Nun hat die Gleichung die gleiche Struktur wie:
@@ -60,14 +61,16 @@ Die gleichung kann jetzt mittels Äquivalenzumformung umgeformt werden
 > [!important] Wichtig
 > Logarithmus $\log$ wird als Zahl angeschaut
 
-$$
-\begin{align}
-2x*log_{10}(5)-3x*\log_{10}(7)&=\log_{10}(2) \\
-x(2*\log_{10}(5)-3*\log_{10}(7))&=\log_{10}(2) \\
-x&= \frac{\log_{10}(2)}{2\log_{10}(5)-3\log_{10}(7)}\\
-x&= \frac{\log_{10}(2)}{\log_{10}\left( \frac{5^{2}}{7^{3}}\right)}\\
-\end{align}
-$$
+> [!math-example] Beispiel
+> $$
+> \begin{align}
+> 2x*log_{10}(5)-3x*\log_{10}(7)&=\log_{10}(2) \\
+> x(2*\log_{10}(5)-3*\log_{10}(7))&=\log_{10}(2) \\
+> x&= \frac{\log_{10}(2)}{2\log_{10}(5)-3\log_{10}(7)}\\
+> x&= \frac{\log_{10}(2)}{\log_{10}\left( \frac{5^{2}}{7^{3}}\right)}\\
+> \end{align}
+> $$
+
 Noch etwas eleganter hingeschrieben:
 $$
 x= \log_{\frac{5^{2}}{7^{3}}}(2) 
@@ -184,71 +187,94 @@ Wenn die Basis $b<1$ ist nimmt die Funktion exponentiell ab, dann spricht man vo
 ### Eulersche Zahl als Basis von Exponentialfunktionen
 Die eulersche Zahl $e$ wird oft als basis für eine Exponentialfunktion verwendet.
 
-$$
-e = \mathop {\lim }\limits_{n \to \infty } \left( {1 + \frac{1}{n}} \right)^n =2.71828
-$$
+> [!abstract] Definition
+> $$
+> e = \mathop {\lim }\limits_{n \to \infty } \left( {1 + \frac{1}{n}} \right)^n =2.71828
+> $$
 
 um eine existierende Funktion zu Basis $e$ umschreiben zu können muss man folgende Schritte machen
 
-$$
-\begin{align} \\
-f(t) &= 2*1.32^{t} \\
-&= 2(e^{\lambda})^{t} & 1.32&=e^{\lambda} \\
-&=2*e^{\lambda*t} & \lambda &= \ln(1.32) = 0.277 \\
-2*e^{0.277*t}
-\end{align}
-$$
+> [!math-example] Beispiel
+> 
+> $$
+> \begin{align} \\
+> f(t) &= 2*1.32^{t} \\
+> &= 2(e^{\lambda})^{t} & 1.32&=e^{\lambda} \\
+> &=2*e^{\lambda*t} & \lambda &= \ln(1.32) = 0.277 \\
+> 2*e^{0.277*t}
+> \end{align}
+> $$
+
 Und schon ist die Funktion zur Basis $e$ umgewandelt.
 
 ### Exponentialfunktion durch 2 Punkte
-
 Wenn man 2 Punkte gegeben hat die auf einer Exponentialfunktion liegen kann man die Punkte ganz einfach in die Funktion einfügen um $a$ und $\lambda$ herauszufinden.
 
-$$
-\begin{align}
-A(1|10) \\
-B(5|2) \\
- \\
-y=a*b^{t} \\
-bzw. \\
-y=a*e^{\lambda*t} \\
-\end{align}
-$$
-Punkte einsetzen wobei $x$ in $t$ eingesetzt wird.
-$$
-\begin{align}
-&A(1|10) \Rightarrow &10&=a*e^{\lambda*1} \\
-&B(5|2)  \Rightarrow &2&=a*e^{\lambda5} \\
-\end{align}
-$$
-Nun kann man die untere durch die obere Gleichung dividieren.
-$$
-\frac{2}{10}=\frac{a*e^{5*\lambda}}{a*e^{\lambda}}
-$$
-$a$ kann nun gekürzt werden. $e$ kann mit den [[2025-08-21 Mathematik Auffrischungskurs#Potenzgesetze|Potenzgesetze]] umgeformt werden. 
-
-$$
-\begin{align}
-\frac{1}{5}=e^{5\lambda-\lambda} \\
-\frac{1}{5} =e^{4\lambda} \\
-4\lambda=\ln\left( \frac{1}{5} \right) \\
-\lambda=\frac{1}{4} \ln\left( \frac{1}{5} \right) \\
-\lambda=-0.4024 \\
-\end{align}
-
-$$
-Um a zu finden wird nun die Funktionsgleichung nach a umgestellt und berechnet.
-$$\begin{align}
-10=a*e^{-0.4024} \\
-a=\frac{10}{e^{-0.4024}} \\
-a=14.9575
-\end{align}$$
+> [!math-example] Beispiel 
+> $$
+> \begin{align}
+> A(1|10) \\
+> B(5|2) \\
+>  \\
+> y=a*b^{t} \\
+> bzw. \\
+> y=a*e^{\lambda*t} \\
+> \end{align}
+> $$
+> Punkte einsetzen wobei $x$ in $t$ eingesetzt wird.
+> $$
+> \begin{align}
+> &A(1|10) \Rightarrow &10&=a*e^{\lambda*1} \\
+> &B(5|2)  \Rightarrow &2&=a*e^{\lambda5} \\
+> \end{align}
+> $$
+> Nun kann man die untere durch die obere Gleichung dividieren.
+> $$
+> \frac{2}{10}=\frac{a*e^{5*\lambda}}{a*e^{\lambda}}
+> $$
+> $a$ kann nun gekürzt werden. $e$ kann mit den [[2025-08-21 Mathematik Auffrischungskurs#Potenzgesetze|Potenzgesetze]] umgeformt werden. 
+> 
+> $$
+> \begin{align}
+> \frac{1}{5}=e^{5\lambda-\lambda} \\
+> \frac{1}{5} =e^{4\lambda} \\
+> 4\lambda=\ln\left( \frac{1}{5} \right) \\
+> \lambda=\frac{1}{4} \ln\left( \frac{1}{5} \right) \\
+> \lambda=-0.4024 \\
+> \end{align}
+> 
+> $$
+> Um a zu finden wird nun die Funktionsgleichung nach a umgestellt und berechnet.
+> $$\begin{align}
+> 10=a*e^{-0.4024} \\
+> a=\frac{10}{e^{-0.4024}} \\
+> a=14.9575
+> \end{align}$$
 
 ### Halbwertszeit
 Die Halbwertszeit ist die Zeit die es braucht bis nurnoch die Hälfte des Anfangsbestandes vorhanden ist.
 $$
 e^{\lambda*t}=\frac{1}{2}
 $$
+
+> [!math-example] Beispiel
+> Um die Halbwertszeit zu berechnen muss die Gleichung nach $t$ umgestellt werden
+> $$
+> \begin{align}
+> e^{-0.139*t}=\frac{1}{2} \\
+> \end{align}
+> $$
+> [[2025-08-22 Mathematik Auffrischungskurs#Logarithmen & Exponentialfunktionen|Logarithmus]] & [[2025-08-22 Mathematik Auffrischungskurs#Logarithmengesetze|Logarithmengesetze]]  anwenden und [[2025-08-18 Mathematik Auffrischungskurs#Theorie|Äquvalenzumformung]] machen:
+> $$
+> \begin{align}
+> \ln(e^{-0.139*t})= \ln\left( \frac{1}{2} \right) \\
+> -0.139*t*\ln(e)=\ln\left( \frac{1}{2} \right) \\
+> -0.139*t*1=ln\left( \frac{1}{2} \right) \\
+> t=\frac{ln\left( \frac{1}{2} \right)}{-0.139} \\
+> T=4.987h
+> \end{align}
+> $$
+
 ### Satz des Pythagoras
 Der Satz des Pythagoras besagt dass die Hypothenuse $c$ eines Dreiecks mit einem Rechten Winkel berechnet werden kann indem man die Katheten $a$ & $b$ hoch zwei rechnet und addiert:
 $$
@@ -257,9 +283,20 @@ $$
 
 
 ### Ähnlichkeit/Strahlensatz
+2 Dreiecke mit gleichen winkeln aber unterschiedlichen Seitenlängen nennt man Ähnlich.
+
+
+Das bedeutet:
+$$
+\frac{b}{c}=\frac{b'}{c'}, \frac{a}{b}=\frac{a'}{b'}, \frac{a}{c}=\frac{a'}{c'}
+$$
 
 ---
 ## ✅ ToDo
+- [ ] Pythagoras
+	- [ ] Dreieck
+- [ ] Ähnlichkeit/Strahlensatz
+	- [ ] Dreiecke Einfügen
 
 ---
 ## 📕 Quellen
