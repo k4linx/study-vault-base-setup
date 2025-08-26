@@ -284,6 +284,18 @@ $$
 ### Ähnlichkeit/Strahlensatz
 2 Dreiecke mit gleichen winkeln aber unterschiedlichen Seitenlängen nennt man Ähnlich.
 
+```tikz
+\usetikzlibrary{calc}
+\begin{document}
+
+\begin{tikzpicture}[scale=5]% Scale it rather using too big dimensions in centimeters
+\coordinate(p) at (-4mm,0mm);
+\coordinate(q) at (8mm,0mm);
+\coordinate(r) at (8mm,5mm);
+\draw (p) -- (q) -- (r) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
 
 
 Das bedeutet:
