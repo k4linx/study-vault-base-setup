@@ -4,7 +4,6 @@
 ## 💡 Wichtige Begriffe
 - **Exponentialgleichung** - Gleichung mit Exponenten (Hochzahlen)
 - 
-$\delta$
 ---
 ## 📄 Zusammenfassung
 ### Exponentialgleichung
