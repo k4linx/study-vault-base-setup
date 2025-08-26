@@ -285,6 +285,7 @@ $$
 2 Dreiecke mit gleichen winkeln aber unterschiedlichen Seitenlängen nennt man Ähnlich.
 
 
+
 Das bedeutet:
 $$
 \frac{b}{c}=\frac{b'}{c'}, \frac{a}{b}=\frac{a'}{b'}, \frac{a}{c}=\frac{a'}{c'}
