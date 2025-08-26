@@ -11,12 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf"
+                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-26 Mathematik Auffrischungskurs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "AuffrischungskursAufgabenHS25"
+              "icon": "lucide-file",
+              "title": "2025-08-26 Mathematik Auffrischungskurs"
             }
           }
         ]
@@ -275,6 +278,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Diverses/Mathematik Auffrischungskurs/2025-08-25 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-26 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
     "A_Inbox/Info Elektro- & Informationstechnik HS 2025.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/6SatzDesPythagorasUndAehnlichkeitBis6-2.pdf",
