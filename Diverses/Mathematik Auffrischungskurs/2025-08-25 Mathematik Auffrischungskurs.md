@@ -202,11 +202,58 @@ Und schon ist die Funktion zur Basis $e$ umgewandelt.
 
 ### Exponentialfunktion durch 2 Punkte
 
+Wenn man 2 Punkte gegeben hat die auf einer Exponentialfunktion liegen kann man die Punkte ganz einfach in die Funktion einfügen um $a$ und $\lambda$ herauszufinden.
+
+$$
+\begin{align}
+A(1|10) \\
+B(5|2) \\
+ \\
+y=a*b^{t} \\
+bzw. \\
+y=a*e^{\lambda*t} \\
+\end{align}
+$$
+Punkte einsetzen wobei $x$ in $t$ eingesetzt wird.
+$$
+\begin{align}
+&A(1|10) \Rightarrow &10&=a*e^{\lambda*1} \\
+&B(5|2)  \Rightarrow &2&=a*e^{\lambda5} \\
+\end{align}
+$$
+Nun kann man die untere durch die obere Gleichung dividieren.
+$$
+\frac{2}{10}=\frac{a*e^{5*\lambda}}{a*e^{\lambda}}
+$$
+$a$ kann nun gekürzt werden. $e$ kann mit den [[2025-08-21 Mathematik Auffrischungskurs#Potenzgesetze|Potenzgesetze]] umgeformt werden. 
+
+$$
+\begin{align}
+\frac{1}{5}=e^{5\lambda-\lambda} \\
+\frac{1}{5} =e^{4\lambda} \\
+4\lambda=\ln\left( \frac{1}{5} \right) \\
+\lambda=\frac{1}{4} \ln\left( \frac{1}{5} \right) \\
+\lambda=-0.4024 \\
+\end{align}
+
+$$
+Um a zu finden wird nun die Funktionsgleichung nach a umgestellt und berechnet.
+$$\begin{align}
+10=a*e^{-0.4024} \\
+a=\frac{10}{e^{-0.4024}} \\
+a=14.9575
+\end{align}$$
 
 ### Halbwertszeit
 Die Halbwertszeit ist die Zeit die es braucht bis nurnoch die Hälfte des Anfangsbestandes vorhanden ist.
-
+$$
+e^{\lambda*t}=\frac{1}{2}
+$$
 ### Satz des Pythagoras
+Der Satz des Pythagoras besagt dass die Hypothenuse $c$ eines Dreiecks mit einem Rechten Winkel berechnet werden kann indem man die Katheten $a$ & $b$ hoch zwei rechnet und addiert:
+$$
+c^{2}=a^{2}+b^{2}
+$$
 
 
 ### Ähnlichkeit/Strahlensatz
