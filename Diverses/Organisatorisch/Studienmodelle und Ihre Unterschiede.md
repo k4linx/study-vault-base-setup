@@ -7,6 +7,7 @@ In diesem Dokument beschreibe ich die verschiedenen Studienmodelle. Zudem beschr
 - Studium dauert 3 Jahre
 ### Cons
 - Keine Zeit zum Arbeiten
+
 ## Teilzeit
 - Vollzeitmodell mit reduziertem Pensum
 	- bis zu 40% kann gearbeitet werden
@@ -38,6 +39,7 @@ In diesem Dokument beschreibe ich die verschiedenen Studienmodelle. Zudem beschr
 - Pitch im FS26
 	- Projekt vorstellen
 	- Studienleitung entscheidet ob das Projekt geeignet ist.
+
 
 # Stand Heute
 Ich bin an der FHNW immatrikuliert im Teilzeitmodell. Das Teilzeitmodell ist generell mit mehr organisatorischem Aufwand verbunden da ich meinen Stundenplan selber zusammenstellen muss. Es wird auch nichts angerechnet an mein Studium da ich Offiziell in keinem Projekt mitarbeite. Deshalb ist das für mich keine ideale Lösung.
