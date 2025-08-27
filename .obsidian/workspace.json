@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
+                "file": "Diverses/Organisatorisch/Studienmodelle und Ihre Unterschiede.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Berufsbegleitend vs Teilzeit vs PiBS"
+              "title": "Studienmodelle und Ihre Unterschiede"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
+                "file": "Diverses/Organisatorisch/Studienmodelle und Ihre Unterschiede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Berufsbegleitend vs Teilzeit vs PiBS"
+              "title": "Backlinks for Studienmodelle und Ihre Unterschiede"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
+                "file": "Diverses/Organisatorisch/Studienmodelle und Ihre Unterschiede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Berufsbegleitend vs Teilzeit vs PiBS"
+              "title": "Outgoing links from Studienmodelle und Ihre Unterschiede"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
+                "file": "Diverses/Organisatorisch/Studienmodelle und Ihre Unterschiede.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Berufsbegleitend vs Teilzeit vs PiBS"
+              "title": "Outline of Studienmodelle und Ihre Unterschiede"
             }
           },
           {
@@ -188,8 +188,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Diverses/Organisatorisch/Allgemeine Infos.md",
+    "Diverses/Organisatorisch/Modultabelle EIT v3 Word ab 24HS.pdf",
+    "Diverses/Organisatorisch/Studienmodelle und Ihre Unterschiede.md",
     "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
+    "Diverses/Organisatorisch/Allgemeine Infos.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-25 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-26 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
@@ -221,8 +223,6 @@
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md"
+    "copilot-custom-prompts/Make longer.md"
   ]
 }
