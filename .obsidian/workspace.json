@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Berufsbegleitend vs Teilzeit vs PiBS"
             }
           },
           {
@@ -113,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Berufsbegleitend vs Teilzeit vs PiBS"
             }
           },
           {
@@ -141,33 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
-            }
-          },
-          {
-            "id": "ee7b91ca08ae2c9d",
-            "type": "leaf",
-            "state": {
-              "type": "modal-form-manage-forms-view",
-              "state": {},
-              "icon": "documents",
-              "title": "Manage forms"
-            }
-          },
-          {
-            "id": "13b738a7858be5f5",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of Berufsbegleitend vs Teilzeit vs PiBS"
             }
           },
           {
@@ -179,69 +161,8 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "a966b35a2e5b535c",
-            "type": "leaf",
-            "state": {
-              "type": "modal-form-template-builder-view",
-              "state": {
-                "title": "Visualisere deine Funktionen",
-                "name": "function_visualization",
-                "version": "1",
-                "fields": [
-                  {
-                    "name": "latex_function",
-                    "label": "LaTex Funktion",
-                    "description": "Funktion in LaTex",
-                    "input": {
-                      "type": "text",
-                      "allowUnknownValues": false,
-                      "hidden": false
-                    },
-                    "isRequired": true
-                  },
-                  {
-                    "name": "math_function",
-                    "label": "Math Funktion",
-                    "description": "",
-                    "input": {
-                      "type": "text",
-                      "allowUnknownValues": false,
-                      "hidden": false
-                    },
-                    "isRequired": true
-                  },
-                  {
-                    "name": "plot_color",
-                    "label": "Farbe",
-                    "description": "",
-                    "input": {
-                      "type": "text",
-                      "allowUnknownValues": false,
-                      "hidden": false
-                    },
-                    "isRequired": false
-                  },
-                  {
-                    "name": "plot_domain",
-                    "label": "Anfang bis ende",
-                    "description": "Anfangswert:endwert",
-                    "input": {
-                      "type": "text",
-                      "allowUnknownValues": false,
-                      "hidden": false
-                    },
-                    "isRequired": true
-                  }
-                ]
-              },
-              "icon": "lucide-file",
-              "title": "Template Builder"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
