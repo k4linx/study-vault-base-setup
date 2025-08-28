@@ -5,9 +5,6 @@
 
 ---
 ## 📄 Zusammenfassung
-Ähnlichkeit/Strahlensatz bis Sinussatz
-### Ähnlichkeit
-
 
 ---
 ## ✅ ToDo
