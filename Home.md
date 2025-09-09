@@ -43,4 +43,8 @@ not done
 
 ![[Modultabelle EIT v3 Word ab 24HS.pdf]]
 
-asdfas
+
+
+Arbeitsbestätigung:
+- Pensum
+- Tätigkeiten

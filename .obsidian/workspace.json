@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/25HS - Herbst 2025.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "25HS - Herbst 2025"
+              "title": "Home"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.md",
     "25HS/25HS - Herbst 2025.md",
+    "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.md",
     "25HS/Module/an1 - Analysis 1",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1",
