@@ -21,6 +21,7 @@ not done
 
 ---
 ## 📅 Aktives Semester
+[[25HS - Herbst 2025|25HS]]
 
 ---
 ```meta-bind-button

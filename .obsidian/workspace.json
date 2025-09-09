@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "25HS/25HS - Herbst 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "25HS - Herbst 2025"
             }
           }
         ]
@@ -196,8 +196,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "390d0ece70ce5c34",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
+    "25HS/25HS - Herbst 2025.md",
+    "25HS",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/7TrigonometrieBis7-5.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/7Trigonometrie.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/8Vektorgeometrie.pdf",
@@ -205,7 +208,6 @@
     "Diverses/Mathematik Auffrischungskurs/2025-08-29 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-28 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-25 Mathematik Auffrischungskurs.md",
-    "Home.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/AuffrischungskursAufgabenHS25.pdf",
     "Diverses/Organisatorisch/Studienmodelle und Ihre Unterschiede.md",
     "Diverses/Organisatorisch/Modultabelle EIT v3 Word ab 24HS.pdf",
@@ -221,7 +223,6 @@
     "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/4PotenzgesetzeUndWurzeln.pdf",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/3GleichungssystemeUngleichungenBetrag.pdf",
     "Diverses/Cheatsheets/TikZ cheatsheet.md",
     "Diverses/Cheatsheets/Math cheatsheet.md",
     "templates/math/pgf_plot_fn_include_csy.md",
@@ -229,7 +230,6 @@
     "templates/semester/semester_template.md",
     "templates/semester/semester_content_template.md",
     "templates/math/tikz_2d_coordinate_system.md",
-    "Diverses/Cheatsheets",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
