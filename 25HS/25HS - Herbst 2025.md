@@ -2,6 +2,7 @@
 
 | Kürzel | Name | ECTS | Leistungsbeurteilung | Wochentag | Zeit | Tags |
 | ------ | ---- | ---- | -------------------- | --------- | ---- | ---- |
+| [[25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1\|aet1]] | Allgemeine Elektrotechnik 1 | 3 | Erfahrungsnote, MSP | Montag | 08:15–11:00 | #aet1 ##aet1 |
 |        |      |      |                      |           |      |      |
 
 ---

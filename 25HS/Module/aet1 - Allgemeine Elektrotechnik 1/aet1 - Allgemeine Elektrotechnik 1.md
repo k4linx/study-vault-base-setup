@@ -1,0 +1,54 @@
+---
+Semester: "25HS"
+Dozent: "Sebastian Gaulocher"
+Modul: "Allgemeine Elektrotechnik 1"
+Kürzel: "aet1"
+ECTS: "3"
+Leistungsbeurteilung: "Erfahrungsnote, MSP"
+Erstelldatum: "2025-09-09"
+Tags: [aet1, #aet1]
+---
+
+## ✅ ToDo
+```tasks
+
+filter by function task.file.folder.includes( query.file.folder)
+group by function task.file.folder.slice(0,-1).split('/').pop()+'/'
+```
+---
+## 📅 Prüfungsdaten
+
+---
+## 📝 Vorlesungsnotizen
+
+---
+```meta-bind-button
+  style: primary
+  label: Neue Notiz
+  class: centered-button
+  action:
+    type: runTemplaterFile
+    templateFile: templates/note/note_template
+```
+---
+## 🟩 Informationssammlung
+[[Allgemeine Infos]]
+
+
+## 📄 Modulbeschrieb
+Abstrakte Modelle spielen eine zentrale Rolle beim Studium der Elektrotechnik. In der Allgemeinen Elektrotechnik 1 werden solche Modelle eingeführt und angewendet. Es geht um die Grundlagen, das Basiswissen und das Basiskönnen, welche unabdingbare Voraussetzungen für das weitere Studium sind.
+- Grundbegriffe und Grundgesetze bei Gleichstrom
+- Spannung, Strom und Widerstand
+- Analyse von einfachen Gleichstromkreisen
+- Einfache RLC-Netzwerke im Zeitbereich
+- Mittel-, Gleichricht- und Effektivwert
+- Ein- und Ausschaltvorgänge
+
+## 💡 Lernziele
+- Die Studierenden verstehen die grundlegenden Zusammenhänge der Gleichstromlehre und können sie interpretieren und erklären.
+- Sie kennen die Methoden und Verfahren zur Berechnung von Gleichstromnetzwerken und können sie an Beispielen anwenden.
+- Sie kennen die Grundgesetze für Widerstand, Spule und Kondensator und können sie für beliebige Zeitabhängigkeit erläutern.
+Sie können den Zusammenhang von Strom und Spannung bei Spule und Kondensator erklären.
+- Die Studierenden kennen und verstehen Ein- und Ausschaltvorgänge und können damit einfache Beispiele berechnen (ein Speicherelement).
+- Sie sind vertraut und geübt mit dem Ingenieurshandwerk und können ihre Berechnungen und Ergebnisse verifizieren.
+

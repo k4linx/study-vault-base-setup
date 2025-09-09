@@ -198,6 +198,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1",
+    "25HS/Module",
     "Home.md",
     "25HS/25HS - Herbst 2025.md",
     "25HS",
@@ -218,11 +221,9 @@
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/5LogarithmenUndExponentialfunktionen.pdf",
     "Diverses/Mathematik Auffrischungskurs/2025-08-22 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/5LogarithmenUndExponentialfunktionenBis5-5.pdf",
     "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
-    "Diverses/Mathematik Auffrischungskurs/Unterlagen/4PotenzgesetzeUndWurzeln.pdf",
     "Diverses/Cheatsheets/TikZ cheatsheet.md",
     "Diverses/Cheatsheets/Math cheatsheet.md",
     "templates/math/pgf_plot_fn_include_csy.md",
@@ -232,7 +233,6 @@
     "templates/math/tikz_2d_coordinate_system.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md"
+    "copilot-custom-prompts/Remove URLs.md"
   ]
 }
