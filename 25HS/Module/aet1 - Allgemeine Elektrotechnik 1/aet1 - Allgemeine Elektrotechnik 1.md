@@ -6,9 +6,8 @@ Kürzel: "aet1"
 ECTS: "3"
 Leistungsbeurteilung: "Erfahrungsnote, MSP"
 Erstelldatum: "2025-09-09"
-Tags: [aet1, #aet1]
+Tags: [aet1, ]
 ---
-
 ## ✅ ToDo
 ```tasks
 
