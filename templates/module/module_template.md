@@ -36,12 +36,11 @@ const semester = match?.[1];
 if (!semester) throw new Error("No alias found in embedded semester link.");
 
 // 🔹 4. Format tags
-if (!tags == undefinded) {}
+
 const rawTags = tags
   ? tags.value.split(",").map(t => t.trim()).filter(Boolean)
   : [];
-const allTags = [short, ...rawTags];
-const tagsFormatted = allTags.map(tag => `#${tag}`).join(" ");
+const tagsFormatted = rawTags.map(tag => `#${tag}`).join(" ");
 
 // Read static template File
 const staticTemplatePath = "templates/module/module_content_template.md";
@@ -68,7 +67,7 @@ Kürzel: "${short}"
 ECTS: "${ects}"
 Leistungsbeurteilung: "${verification}"
 Erstelldatum: "${date}"
-Tags: [${allTags.join(", ")}]
+Tags: [${tagsFormatted.join(", ")}]
 ---
 
 ${templateContent}
