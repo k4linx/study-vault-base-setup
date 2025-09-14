@@ -67,7 +67,7 @@ Kürzel: "${short}"
 ECTS: "${ects}"
 Leistungsbeurteilung: "${verification}"
 Erstelldatum: "${date}"
-Tags: [${tagsFormatted.join(", ")}]
+Tags: [${rawTags.join(", ")}]
 ---
 
 ${templateContent}

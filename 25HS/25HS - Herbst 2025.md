@@ -9,7 +9,7 @@
 | [[25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik\|konvE]]                | Konvergenz Elektrotechnik          | 3    | Erfahrungsnote       | Mittwoch  | 08:15–11:00 | #konvE    |
 | [[25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1\|oop1]] | Objektorientierte Programmierung 1 | 3    | Erfahrungsnote       | Mittwoch  | 16:15–18:50 | #oop1     |
 | [[25HS/Module/spy - scientific python/spy - scientific python\|spy]]                                      | scientific python                  | 2    | Erfahrungsnote       | Montag    | 00:00–00:00 | #spy #spy |
-|                                                                                                           |                                    |      |                      |           |             |           |
+
 
 ---
 ```meta-bind-button
