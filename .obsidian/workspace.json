@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "379289f46b731ebd",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "be1fa6f089f477fa",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeräte_V02.pdf"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Gleichstrommessgeräte_V02"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -193,14 +196,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "be1fa6f089f477fa",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeraete_V30.docx",
     "Home.md",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeräte_V02.pdf",
     "templates/note/note_template.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/emtL - Labor Elektrische Messtechnik.md",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeräte_V02.pdf",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeraete_V30.docx",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
@@ -229,7 +232,6 @@
     "Diverses/Organisatorisch/Allgemeine Infos.md",
     "A_Inbox/Info Elektro- & Informationstechnik HS 2025.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-22 Mathematik Auffrischungskurs.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md"
+    "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md"
   ]
 }
