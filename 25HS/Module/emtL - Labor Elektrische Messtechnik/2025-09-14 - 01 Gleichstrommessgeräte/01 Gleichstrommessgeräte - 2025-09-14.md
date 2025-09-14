@@ -1,8 +1,11 @@
 ---
 erstelldatum: 2025-09-14
-tags: emtL
+tags:
+  - emtL
+  - "#gleichstrom"
+  - messung
+  - grundlagen
 ---
-
 ## ⁉️ Fragen
 
 ---
