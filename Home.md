@@ -45,6 +45,3 @@ not done
 
 
 
-Arbeitsbestätigung:
-- Pensum
-- Tätigkeiten
