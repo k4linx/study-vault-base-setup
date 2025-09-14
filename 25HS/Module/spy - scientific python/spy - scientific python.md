@@ -9,7 +9,6 @@ Erstelldatum: 2025-09-14
 Tags:
   - spy
 ---
-
 ## ✅ ToDo
 ```tasks
 
