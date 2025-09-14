@@ -17,7 +17,7 @@ const noteName = `${baseName} - ${today}`;
 const folderName = `${today} - ${baseName}`;
 const moduleFolder = tp.file.folder(true);
 const noteFolder = `${moduleFolder}/${folderName}`;
-const notePath = `${noteFolder}/${noteName}.md`;
+const notePath = `${noteFolder}/${noteName}`;
 const quellenFolder = `${noteFolder}/Quellen`;
 
 // 📁 Create folders
