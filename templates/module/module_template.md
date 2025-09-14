@@ -36,6 +36,7 @@ const semester = match?.[1];
 if (!semester) throw new Error("No alias found in embedded semester link.");
 
 // 🔹 4. Format tags
+if (!tags == undefinded) {}
 const rawTags = tags
   ? tags.value.split(",").map(t => t.trim()).filter(Boolean)
   : [];
