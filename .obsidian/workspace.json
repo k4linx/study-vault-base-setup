@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
+                "file": "templates/note/note_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01 Gleichstrommessgeräte - 2025-09-14"
+              "title": "note_template"
             }
           }
         ]
@@ -199,14 +199,14 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeraete_V30.pdf",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeräte_V02.pdf",
+    "templates/note/note_template.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeräte_V02.pdf",
     "Diverses/Organisatorisch/Info Elektro- & Informationstechnik HS 2025.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/emtL - Labor Elektrische Messtechnik.md",
     "25HS/Module/spy - scientific python/spy - scientific python.md",
     "Home.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeraete_V30.docx",
-    "templates/note/note_template.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
