@@ -1,12 +1,13 @@
 ---
-Semester: "25HS"
-Dozent: "Stefan Wicki"
-Modul: "scientific python"
-Kürzel: "spy"
+Semester: 25HS
+Dozent: Stefan Wicki
+Modul: scientific python
+Kürzel: spy
 ECTS: "2"
-Leistungsbeurteilung: "Erfahrungsnote"
-Erstelldatum: "2025-09-14"
-Tags: [spy, spy]
+Leistungsbeurteilung: Erfahrungsnote
+Erstelldatum: 2025-09-14
+Tags:
+  - spy
 ---
 
 ## ✅ ToDo

@@ -1,12 +1,13 @@
 ---
-Semester: "25HS"
-Dozent: "Donat Adams Heer"
-Modul: "Lineare Algebra 1"
-Kürzel: "lalg1"
+Semester: 25HS
+Dozent: Donat Adams Heer
+Modul: Lineare Algebra 1
+Kürzel: lalg1
 ECTS: "3"
-Leistungsbeurteilung: "Erfahrungsnote, MSP"
-Erstelldatum: "2025-09-14"
-Tags: [lalg1, lalg1]
+Leistungsbeurteilung: Erfahrungsnote, MSP
+Erstelldatum: 2025-09-14
+Tags:
+  - lalg1
 ---
 
 ## ✅ ToDo

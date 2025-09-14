@@ -1,12 +1,13 @@
 ---
-Semester: "25HS"
-Dozent: "Heinz Eichin"
-Modul: "Konvergenz Elektrotechnik"
-Kürzel: "konvE"
+Semester: 25HS
+Dozent: Heinz Eichin
+Modul: Konvergenz Elektrotechnik
+Kürzel: konvE
 ECTS: "3"
-Leistungsbeurteilung: "Erfahrungsnote"
-Erstelldatum: "2025-09-14"
-Tags: [konvE, konvE]
+Leistungsbeurteilung: Erfahrungsnote
+Erstelldatum: 2025-09-14
+Tags:
+  - konvE
 ---
 
 ## ✅ ToDo

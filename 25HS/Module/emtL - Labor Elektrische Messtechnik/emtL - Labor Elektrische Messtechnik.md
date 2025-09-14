@@ -1,12 +1,13 @@
 ---
-Semester: "25HS"
-Dozent: "Martin Pischtschan"
-Modul: "Labor Elektrische Messtechnik"
-Kürzel: "emtL"
+Semester: 25HS
+Dozent: Martin Pischtschan
+Modul: Labor Elektrische Messtechnik
+Kürzel: emtL
 ECTS: "2"
-Leistungsbeurteilung: "Erfahrungsnote"
-Erstelldatum: "2025-09-14"
-Tags: [emtL, emtL]
+Leistungsbeurteilung: Erfahrungsnote
+Erstelldatum: 2025-09-14
+Tags:
+  - emtL
 ---
 
 ## ✅ ToDo

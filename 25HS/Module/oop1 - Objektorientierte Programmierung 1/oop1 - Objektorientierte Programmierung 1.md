@@ -1,12 +1,13 @@
 ---
-Semester: "25HS"
-Dozent: "Stefan Gorenflo"
-Modul: "Objektorientierte Programmierung 1"
-Kürzel: "oop1"
+Semester: 25HS
+Dozent: Stefan Gorenflo
+Modul: Objektorientierte Programmierung 1
+Kürzel: oop1
 ECTS: "3"
-Leistungsbeurteilung: "Erfahrungsnote"
-Erstelldatum: "2025-09-14"
-Tags: [oop1, oop1]
+Leistungsbeurteilung: Erfahrungsnote
+Erstelldatum: 2025-09-14
+Tags:
+  - oop1
 ---
 
 ## ✅ ToDo
