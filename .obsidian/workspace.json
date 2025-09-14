@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/25HS - Herbst 2025.md",
+                "file": "25HS/Module/spy - scientific python/spy - scientific python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "25HS - Herbst 2025"
+              "title": "spy - scientific python"
             }
           }
         ]
@@ -198,6 +198,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "25HS/25HS - Herbst 2025.md",
+    "25HS/Module/spy - scientific python/spy - scientific python.md",
+    "25HS/Module/spy - scientific python",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1",
     "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.md",
@@ -207,7 +210,6 @@
     "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.md",
     "25HS/Module/lalg1 - Lineare Algebra 1",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.md",
-    "25HS/25HS - Herbst 2025.md",
     "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
     "Home.md",
     "Diverses/Organisatorisch/gesamt_vz_ES.pdf",
@@ -218,7 +220,6 @@
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1",
     "25HS/Module",
-    "25HS",
     "Diverses/Mathematik Auffrischungskurs/2025-08-26 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-29 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-28 Mathematik Auffrischungskurs.md",
@@ -232,7 +233,6 @@
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Cheatsheets/TikZ cheatsheet.md",
     "Diverses/Cheatsheets/Math cheatsheet.md",
-    "templates/math/pgf_plot_fn_include_csy.md",
-    "templates/math/pgf_plot_fn.md"
+    "templates/math/pgf_plot_fn_include_csy.md"
   ]
 }
