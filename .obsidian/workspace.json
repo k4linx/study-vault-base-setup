@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Einführung & Grundlagen - 2025-09-15"
             }
           }
         ]
@@ -198,18 +198,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
+    "Home.md",
     "templates/note/note_template.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeraete_V30.pdf",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeräte_V02.pdf",
     "Diverses/Organisatorisch/Info Elektro- & Informationstechnik HS 2025.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/emtL - Labor Elektrische Messtechnik.md",
     "25HS/Module/spy - scientific python/spy - scientific python.md",
-    "Home.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeraete_V30.docx",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Modulhandbuch_aet1_1Eab_25HS.pdf",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Unterlagen",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.md",
@@ -221,8 +224,6 @@
     "25HS/Module/asdf - asdf/asdf - asdf.md",
     "25HS/Module/asdf - asdf",
     "templates/module/module_content_template.md",
-    "25HS/Module/spy - scientific python",
-    "25HS/Module/oop1 - Objektorientierte Programmierung 1",
     "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
     "Diverses/Organisatorisch/Studienmodelle und Ihre Unterschiede.md",
     "Studentenaustausch.md",
