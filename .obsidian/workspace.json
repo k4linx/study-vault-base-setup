@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -198,8 +199,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen/veranschaulichung Elektrisches Feld.png",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen/Coulombsches Kräftegesetz.png",
+    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
+    "Pasted image 20250915194708.png",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
@@ -231,8 +236,6 @@
     "Diverses/Mathematik Auffrischungskurs/2025-08-29 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-28 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-25 Mathematik Auffrischungskurs.md",
-    "Diverses/Organisatorisch/Allgemeine Infos.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-22 Mathematik Auffrischungskurs.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md"
+    "Diverses/Organisatorisch/Allgemeine Infos.md"
   ]
 }
