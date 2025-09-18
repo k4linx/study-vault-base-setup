@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Einführung & Grundlagen - 2025-09-15"
+              "title": "Home"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -199,16 +198,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/8Vektorgeometrie.pdf",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
+    "Home.md",
+    "Diverses/Mathematik Auffrischungskurs.zip",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen/veranschaulichung Elektrisches Feld.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen/Coulombsches Kräftegesetz.png",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "Pasted image 20250915194708.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
-    "Home.md",
     "templates/note/note_template.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeraete_V30.pdf",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/Quellen/Gleichstrommessgeräte_V02.pdf",
@@ -227,15 +230,12 @@
     "templates/module/module_template.md",
     "25HS/25HS - Herbst 2025.md",
     "25HS/Module/asdf - asdf/asdf - asdf.md",
-    "25HS/Module/asdf - asdf",
     "templates/module/module_content_template.md",
     "Diverses/Organisatorisch/Berufsbegleitend vs Teilzeit vs PiBS.md",
     "Diverses/Organisatorisch/Studienmodelle und Ihre Unterschiede.md",
     "Studentenaustausch.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-26 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-29 Mathematik Auffrischungskurs.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-28 Mathematik Auffrischungskurs.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-25 Mathematik Auffrischungskurs.md",
-    "Diverses/Organisatorisch/Allgemeine Infos.md"
+    "Diverses/Mathematik Auffrischungskurs/2025-08-28 Mathematik Auffrischungskurs.md"
   ]
 }
