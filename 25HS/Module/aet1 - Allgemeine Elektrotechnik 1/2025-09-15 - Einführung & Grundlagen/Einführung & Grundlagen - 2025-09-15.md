@@ -145,7 +145,8 @@ Die obige Formel definiert den Strom als Zeitlich konstant. Der Strom wird aber 
 > i(t) = \frac{\delta q(t)}{\delta t}
 > $$
 
-**Wichtig:** Der Die Stromflussrichtung wird vom Plusspol einer Spannungsquelle zum Minuspol gezeichnet, physikalisch fliesst der Strom aber vom Minus zum Pluspol. Weil sich 
+> [!important] Wichtig
+> **Wichtig:** Der Die Stromflussrichtung wird vom Plusspol einer Spannungsquelle zum Minuspol gezeichnet, physikalisch fliesst der Strom aber vom Minus zum Pluspol. Weil sich die Elektronen bewegen und nicht die Protonen wie oben erwähnt.
 
 ---
 ## ✅ ToDo
