@@ -44,6 +44,9 @@ Das Coulombsche Kraftgesetz ohne räumliche Ausdehnung für Punktladungen lautet
 > $a$: Abstand der Punkte
 > $\varepsilon$ Permittivität des Mediums (im Vakuum und Luft setzt man $\varepsilon = \varepsilon_{0}$ ein)
 
+#### Polarität
+
+
 ### 2.2 Feldbegriff (Faraday)
 Das Feldmodell wird verwendet um die Coulomb Gesetze zu erklären. Jede Ladung(Masse) verändert in ihrer Umgebung den Zustand so stark, dass auf andere Ladungen Krafteinwirkungen ausgeübt werden. Diesen Zustand nennt man _elektrisches Feld_ oder Gravitationsfeld. das elektrische Feld wird an jedem Punkt im Raum als [[Vektor]] $\vec{E}$ der in die Richtung der Kraft zeigt die auf eine Positive Probeladung ausgeübt wird. 
 ![[veranschaulichung Elektrisches Feld.png]]
@@ -208,6 +211,7 @@ Die meisten Werkstoffe in der Elektrotechnik haben einen temperaturbeiwert von $
 > Das heisst wenn sich die Temperatur der Widerstände um $1K$ erhöht verändert sich deren Wert um $0.4\%$
 
 ---
+
 ## ✅ ToDo
 
 ---
