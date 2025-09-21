@@ -73,7 +73,17 @@ Feldlinien werden als Gedankenstütze verwendet um sich elektische Felder anscha
 
 ### 2.3 Arbeit im Feld, Spannung und Potenzial
 Um eine Ladung in einem Elektrischen Feld von A nach B zu bewegen braucht es Arbeit. In einem Potenzialfeld ist die Arbeit unabhängig vom Weg. Das heisst man kann verschieden Wege von A nach B gehen die dazu benötigte Arbeit ist immer dieselbe.
+![[Ladungstransporte von A nach B.png]]
 
+$$
+W_{1}=W_{2}=W_{3}=W_{AB}
+$$
+Diese Arbeit führt zur Definition der Spannung 
+> [!abstract] Definition Spannung
+> Spannung wird Definiert als Arbeit durch Ladung
+> $$
+> U_{AB}= \frac{W_{AB}}{q}
+$$
 
 
 
