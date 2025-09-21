@@ -14,6 +14,11 @@ tags: lalg1
 - **Linear abhängig** - Wenn mehrere Vektoren mit unterschiedlichen Faktoren zusammen addiert, 0 ergeben.
 ---
 ## 📄 Zusammenfassung
+
+### Linearkombination
+Eine Linearkombination von Vektoren ist die Summe von $n$ Vektoren.
+
+
 ### Kollinear
 Zwei Vektoren $\vec{a}$ und $\vec{b}$ sind Kollinear wenn ein Faktor $\lambda \in \mathbb{R}$ gibt der einen der beiden Vektoren genau so lang macht wie der andere.
 $$
@@ -26,6 +31,10 @@ $$
 $$
 x_{1}\vec{a}+x_{2}\vec{b}+...+x_{n}\vec{n} = 0, \ x_{i}\in \mathbb{R}
 $$
+Wahr ist.
+
+Vektoren sind genau dann linear abhängig wenn sie über eine Linearkombination den [[Nullvektor]] beschreiben können.
+
 ### Koplanar
 Wenn 3 oder mehr Vektoren in einem 3 Dimensionalen Koordinatensystem linear abhängig sind nennt man sie **Koplanar**
 
