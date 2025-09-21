@@ -148,6 +148,10 @@ Die obige Formel definiert den Strom als Zeitlich konstant. Der Strom wird aber 
 > [!important] Wichtig
 > **Wichtig:** Der Die Stromflussrichtung wird vom Plusspol einer Spannungsquelle zum Minuspol gezeichnet, physikalisch fliesst der Strom aber vom Minus zum Pluspol. Weil sich die Elektronen bewegen und nicht die Protonen wie oben erwähnt.
 
+
+### 2.5 Wiederstand
+Elektronen bewegen sich nicht reibungslos, genau so wie sich ein Auto nicht reibungslos bewegt, es gibt immer Abrieb. In der Elektrotechni
+
 ---
 ## ✅ ToDo
 
