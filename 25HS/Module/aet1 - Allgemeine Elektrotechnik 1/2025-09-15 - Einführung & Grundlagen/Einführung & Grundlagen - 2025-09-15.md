@@ -150,14 +150,14 @@ Die obige Formel definiert den Strom als Zeitlich konstant. Der Strom wird aber 
 
 
 ### 2.5 Wiederstand
-Elektronen bewegen sich nicht reibungslos, genau so wie sich ein Auto nicht reibungslos bewegt, es gibt immer Abrieb. In der Elektrotechnik definiert man das als Wiederstand. 
+Elektronen bewegen sich nicht reibungslos, genau so wie sich ein Auto nicht reibungslos bewegt, es gibt immer Reibung sonst könnte sich das Auto gar nicht fortbew. In der Elektrotechnik definiert man das als Wiederstand. 
 
 > [!abstract] Definition Wiederstand
 > $$
 > R = U / I
-
-
 > $$
+> $R$: Wiederstand
+> $U$: 
 
 ---
 ## ✅ ToDo
