@@ -17,15 +17,9 @@ tags: lalg1
 
 ### Linearkombination
 Eine Linearkombination von Vektoren ist die Summe von $n$ Vektoren.
-
-
-### Kollinear
-Zwei Vektoren $\vec{a}$ und $\vec{b}$ sind Kollinear wenn ein Faktor $\lambda \in \mathbb{R}$ gibt der einen der beiden Vektoren genau so lang macht wie der andere.
 $$
-\vec{a} = \lambda \vec{b}
+x_{1}\vec{a}+x_{2}\vec{b}+...+x_{n}\vec{n}
 $$
-**Kollinear** fasst Parallel und antiparallel unter einem Begriff zusammen.
-
 ### Linear abhängig
 **Linear Abhängig** sind die Vektoren $\{\vec{a}, \vec{b},..., \vec{n}\}$ nur dann wenn die Gleichung
 $$
@@ -35,8 +29,15 @@ Wahr ist.
 
 Vektoren sind genau dann linear abhängig wenn sie über eine Linearkombination den [[Nullvektor]] beschreiben können.
 
-### Koplanar
-Wenn 3 oder mehr Vektoren in einem 3 Dimensionalen Koordinatensystem linear abhängig sind nennt man sie **Koplanar**
+### Komplanar
+Wenn 3 oder mehr Vektoren in einem 3 Dimensionalen Koordinatensystem [[#Linear abhängig|linear abhängig]] sind nennt man sie **Komplanar**
+
+### Kollinear
+Zwei Vektoren $\vec{a}$ und $\vec{b}$ sind **Kollinear** wenn ein Faktor $\lambda \in \mathbb{R}$ gibt der einen der beiden Vektoren genau so lang macht wie der andere. Anders Ausgedrückt wenn der eine Vektor ein vielfaches des anderen Vektors ist
+$$
+\vec{a} = \lambda \vec{b}
+$$
+**Kollinear** fasst Parallel und antiparallel unter einem Begriff zusammen.
 
 ### Gauss-Eliminationsverfahren
 Das Gauss Eliminationsverfahren 
