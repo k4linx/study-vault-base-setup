@@ -42,7 +42,8 @@ $$
 ### Gauss-Eliminationsverfahren
 Beim Gauss-Eliminationsverfahren wird ein Gleichungssystem Schritt für Schritt vereinfacht um es zu lösen. Dabei wird immer ein Dreieck gemacht. Dieses Dreieck dient dazu um eine Gleichung zu entfernen und so die lineare Abhängigkeit von $n$-Vektoren zu bestimmen.
 >[!important] Wichtig
->Die Zeile die benutzt wird um andere Zeilen zu eliminieren, darf nicht verändert werden.
+>1. Die Zeile die benutzt wird um andere Zeilen zu eliminieren, darf nicht verändert werden.
+>2. Einmal benutzte Zeilen dürfen in der reinen Vorwärtselimination nicht noch einmal verwendet werden um zu eliminieren
 
 
 
