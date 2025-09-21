@@ -180,7 +180,32 @@ Der elektrische Widerstand ist eine Materialgrösse das bedeutet ein Elektrische
 > $A$: Querschnittfläche
 > 
 
-Der Widerstand ist Temperaturabhängig, 
+Der Widerstand ist Temperaturabhängig. von 20°C bis 200°C verhalten sich die meisten Widerstände Linear:
+![[verhalten Widerstand & Temperatur.png]]
+So kann der spezifische Widerstand eines Leiters mit folgender Funktion definiert werden.
+> [!abstract] Funktion Spezifischer Wiederstand bis 200°C
+> $$
+> R_{W} = R_{20}\cdot(1+\alpha_{20}\cdot(T_{W}-20°C))
+> $$
+> $R_{20}$: Wiederstand bei 20°C
+> $R_{W}$: Widerstandswert bei der Temperatur $T_{W}$
+> $T_{W}$: Temperatur
+> $\alpha_{20}$: Temperaturkoeffizient in $\frac{1}{°C}$
+
+Wenn die Temperaturen höher werden wird noch ein quadratischer Term in die Funktion eingefügt:
+
+> [!abstract] Spezifischer Widerstand ab 200°C
+> $$
+> R_{W} = R_{20}\cdot(1+\alpha_{20}\cdot(T_{W}-20°C)+ \beta_{20} \cdot (T_{w}-20°C)^{2})
+> $$
+> $\beta_{20}$: Temperaturkoeffizient in $\frac{1}{°C^{2}}$
+
+Die Temperaturkoeffizienten werden oft auf 20°C bezogen.
+
+Die meisten Werkstoffe in der Elektrotechnik haben einen temperaturbeiwert von $\alpha =0.004 \frac{1}{K}$. 
+
+> [!tip] Merken
+> Das heisst wenn sich die Temperatur der Widerstände um $1K$ erhöht verändert sich deren Wert um $0.4\%$
 
 ---
 ## ✅ ToDo
