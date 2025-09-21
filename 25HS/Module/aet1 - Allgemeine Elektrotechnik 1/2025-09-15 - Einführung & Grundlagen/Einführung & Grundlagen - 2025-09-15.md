@@ -20,7 +20,7 @@ tags: aet1
 ---
 ## 📄 Zusammenfassung
 ### 2.1 Coulomb
-Massen ziehen sich gegenseitig an als Beispiel der Mond und die Erde. Oder eine Tasse und die Erde (Gravitationskraft). Dieses Phänomen kann auch in die Elektrotechnik übertragen werden. Zwei Ladungen unterschiedlicher [[Polarität (+/-)]] ziehen sich an und zwei gleicher Polarität stossen sich ab. Um die Anziehungskraft zweier Massen zu berechnen wurde folgende Gleichung gefunden:
+Massen ziehen sich gegenseitig an als Beispiel der Mond und die Erde. Oder eine Tasse und die Erde (Gravitationskraft). Dieses Phänomen kann auch in die Elektrotechnik übertragen werden. Zwei Ladungen unterschiedlicher [[#Polarität|Polarität]] ziehen sich an und zwei gleicher Polarität stossen sich ab. Um die Anziehungskraft zweier Massen zu berechnen wurde folgende Gleichung gefunden:
 
 > [!abstract] Coulomb Gleichung
 > $$
@@ -45,7 +45,7 @@ Das Coulombsche Kraftgesetz ohne räumliche Ausdehnung für Punktladungen lautet
 > $\varepsilon$ Permittivität des Mediums (im Vakuum und Luft setzt man $\varepsilon = \varepsilon_{0}$ ein)
 
 #### Polarität
-
+ **Polarität** ist die Zuordnung von Plus (+) und Minus (–) bzw. die Richtung von Spannung und Strom. Eine Ladung mit dem Vorzeichen + ist positiv geladen, und eine Ladung mit minus als Vorzeichen ist negativ geladen. 
 
 ### 2.2 Feldbegriff (Faraday)
 Das Feldmodell wird verwendet um die Coulomb Gesetze zu erklären. Jede Ladung(Masse) verändert in ihrer Umgebung den Zustand so stark, dass auf andere Ladungen Krafteinwirkungen ausgeübt werden. Diesen Zustand nennt man _elektrisches Feld_ oder Gravitationsfeld. das elektrische Feld wird an jedem Punkt im Raum als [[Vektor]] $\vec{E}$ der in die Richtung der Kraft zeigt die auf eine Positive Probeladung ausgeübt wird. 
