@@ -19,7 +19,7 @@ tags: aet1
 - **Potenzialnullpunkt** - gewählter Punkt der ein 0-Potenzial hat.
 ---
 ## 📄 Zusammenfassung
-### Coulomb
+### 2.1 Coulomb
 Massen ziehen sich gegenseitig an als Beispiel der Mond und die Erde. Oder eine Tasse und die Erde (Gravitationskraft). Dieses Phänomen kann auch in die Elektrotechnik übertragen werden. Zwei Ladungen unterschiedlicher [[Polarität (+/-)]] ziehen sich an und zwei gleicher Polarität stossen sich ab. Um die Anziehungskraft zweier Massen zu berechnen wurde folgende Gleichung gefunden:
 
 > [!abstract] Coulomb Gleichung
@@ -44,11 +44,10 @@ Das Coulombsche Kraftgesetz ohne räumliche Ausdehnung für Punktladungen lautet
 > $a$: Abstand der Punkte
 > $\varepsilon$ Permittivität des Mediums (im Vakuum und Luft setzt man $\varepsilon = \varepsilon_{0}$ ein)
 
-### Feldbegriff (Faraday)
+### 2.2 Feldbegriff (Faraday)
 Das Feldmodell wird verwendet um die Coulomb Gesetze zu erklären. Jede Ladung(Masse) verändert in ihrer Umgebung den Zustand so stark, dass auf andere Ladungen Krafteinwirkungen ausgeübt werden. Diesen Zustand nennt man _elektrisches Feld_ oder Gravitationsfeld. das elektrische Feld wird an jedem Punkt im Raum als [[Vektor]] $\vec{E}$ der in die Richtung der Kraft zeigt die auf eine Positive Probeladung ausgeübt wird. 
 ![[veranschaulichung Elektrisches Feld.png]]
 Die abbildung zeigt wie die Positive Ladung $Q_{1}$ ihre Kraft auf die Positive Probeladung $q_{2}$ ausübt. Dabei sieht man gut dass die Kraft von $Q_{1}$ abnimmt je weiter weg von der Ladung die Probeladung $q_{2}$ platziert wird.
-
 
 > [!abstract] Definition $\vec{E}$
 > $$
@@ -56,6 +55,24 @@ Die abbildung zeigt wie die Positive Ladung $Q_{1}$ ihre Kraft auf die Positive 
 > $$
 > $q_{2}$: positive Testladung
 > $\vec{F}$: Kraftvektor der ladung $q_2$
+
+Um die elektrische Feldstärke des Punktes Q1 zu finden kann man das Coulombsche Kraftgesetz in der obigen Definition einsetzen. Das ergibt folgende Formel:
+
+> [!abstract] Definition $\vec{E}(\vec{r})$
+> $$
+> \vec{E}(\vec{r}) = \frac{Q_{1}}{4\pi\varepsilon * r^{2}}* \vec{e}_{r}
+> $$
+> $\vec{e}_{r}$: Einheitsvektor in Richtung $\vec{r}$
+> $\vec{r}$: Abstand von $Q_{1}$
+
+das elektrische Feld ist ein Kraftfeld, deshalb wird die Physikalische Grösse Kraft ($F$) für die Definition verwendet.
+
+#### Feldlinien
+Feldlinien werden als Gedankenstütze verwendet um sich elektische Felder anschaulich zu zeichnen. In der Realität existieren sie aber nicht.
+
+
+### 2.3 Arbeit im Feld, Spannung und Potenzial
+Um eine Ladung in einem Elektrischen Feld von A nach B zu bewegen braucht es Arbeit. In einem Potenzialfeld ist die Arbeit unabhängig vom Weg. Das heisst man kann verschieden Wege von A nach B gehen die dazu benötigte Arbeit ist immer dieselbe.
 
 
 
