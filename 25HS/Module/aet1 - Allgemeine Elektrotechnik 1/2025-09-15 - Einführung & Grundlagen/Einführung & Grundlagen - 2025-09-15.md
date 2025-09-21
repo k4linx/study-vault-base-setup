@@ -138,7 +138,14 @@ Der Strom beschreibt die Bewegung von Ladungsträgern. elektrischer Strom ist im
 > $Q$: Ladung 
 > $t$: Zeit
 
+Die obige Formel definiert den Strom als Zeitlich konstant. Der Strom wird aber in jedem Zeitpunkt einen anderen _Momentanwert_ haben $i$:
 
+> [!abstract] Definiton Momentanwert der Stromstärke
+> $$
+> i(t) = \frac{\delta q(t)}{\delta t}
+> $$
+
+Wichtig der
 
 ---
 ## ✅ ToDo
