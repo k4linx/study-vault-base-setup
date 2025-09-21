@@ -32,7 +32,7 @@ Massen ziehen sich gegenseitig an als Beispiel der Mond und die Erde. Oder eine 
 > $G$: Gravitationskonstante $G = 6.673 \cdot 10^{-11}m^{3}/kg^{3}$
 
 Diese Gleichung liefert nur die Kraft mit der sich die Massen/Ladungen anziehen, Die Richtung dieser Kraft. 
-![[Coulombsches Kräftegesetz.png]]
+![[Coulombsches Kräftegesetz.png|Abb. 1: Coulombsches Kräftegesetz]]
 Das Coulombsche Kraftgesetz ohne räumliche Ausdehnung für Punktladungen lautet:
 
 > [!abstract] Coulombsches Kraftgesetz für Punktladungen
@@ -49,7 +49,7 @@ Das Coulombsche Kraftgesetz ohne räumliche Ausdehnung für Punktladungen lautet
 
 ### 2.2 Feldbegriff (Faraday)
 Das Feldmodell wird verwendet um die Coulomb Gesetze zu erklären. Jede Ladung(Masse) verändert in ihrer Umgebung den Zustand so stark, dass auf andere Ladungen Krafteinwirkungen ausgeübt werden. Diesen Zustand nennt man _elektrisches Feld_ oder Gravitationsfeld. das elektrische Feld wird an jedem Punkt im Raum als [[Vektor]] $\vec{E}$ der in die Richtung der Kraft zeigt die auf eine Positive Probeladung ausgeübt wird. 
-![[veranschaulichung Elektrisches Feld.png]]
+![[veranschaulichung Elektrisches Feld.png| ]]
 Die abbildung zeigt wie die Positive Ladung $Q_{1}$ ihre Kraft auf die Positive Probeladung $q_{2}$ ausübt. Dabei sieht man gut dass die Kraft von $Q_{1}$ abnimmt je weiter weg von der Ladung die Probeladung $q_{2}$ platziert wird.
 
 > [!abstract] Definition $\vec{E}$
