@@ -40,7 +40,11 @@ $$
 **Kollinear** fasst Parallel und antiparallel unter einem Begriff zusammen.
 
 ### Gauss-Eliminationsverfahren
-Das Gauss Eliminationsverfahren 
+Beim Gauss-Eliminationsverfahren wird ein Gleichungssystem Schritt für Schritt vereinfacht um es zu lösen. Dabei wird immer ein Dreieck gemacht. Dieses Dreieck dient dazu um eine Gleichung zu entfernen und so die lineare Abhängigkeit von $n$-Vektoren zu bestimmen.
+>[!important] Wichtig
+>Die Zeile die benutzt wird um andere Zeilen zu eliminieren, darf nicht verändert werden.
+
+
 
 ---
 ## ✅ ToDo
