@@ -21,6 +21,7 @@ group by function task.file.folder.slice(0,-1).split('/').pop()+'/'
 
 ---
 ## 📝 Vorlesungsnotizen
+- [[Einführung Vektoren - 2025-09-15|Einführung Vektoren - 2025-09-15]]
 
 ---
 ```meta-bind-button

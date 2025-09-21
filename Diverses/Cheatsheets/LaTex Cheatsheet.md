@@ -177,12 +177,12 @@
 
 ## Mengen-Buchstaben
 
-|Symbol|Code|
-|---|---|
-|$\mathbb{N}$|\mathbb{N}|
-|$\mathbb{Z}$|\mathbb{Z}|
-|$\mathbb{Q}$|\mathbb{Q}|
-|$\mathbb{I}$|\mathbb{I}|
-|$\mathbb{R}$|\mathbb{R}|
-|$\mathbb{C}$|\mathbb{C}|
-|$\mathbb{L}$|\mathbb{L}|
+| Symbol       | Code       |
+| ------------ | ---------- |
+| $\mathbb{N}$ | \mathbb{N} |
+| $\mathbb{Z}$ | \mathbb{Z} |
+| $\mathbb{Q}$ | \mathbb{Q} |
+| $\mathbb{I}$ | \mathbb{I} |
+| $\mathbb{R}$ | \mathbb{R} |
+| $\mathbb{C}$ | \mathbb{C} |
+| $\mathbb{L}$ | \mathbb{L} |
