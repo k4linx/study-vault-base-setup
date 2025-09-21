@@ -154,13 +154,33 @@ Elektronen bewegen sich nicht reibungslos, genau so wie sich ein Auto nicht reib
 
 > [!abstract] Definition Wiederstand
 > $$
-> R = \frac{U}{I}
+> R = \frac{U}{I}= \frac{1}{G}
 > $$
 > $R$: Wiederstand
+> $G$: Leitwert
 > $U$: Spannung
 > $I$: Stromstärke
 
-Der [[Ohmsche Wiederstand]] ist linear. Es gibt aber auch Wiederstände die nichtlinear sind
+Der [[Ohmsche Wiederstand]] ist linear. Es gibt aber auch Wiederstände die nichtlinear sind.
+![[Strom-Spannungskennlinie Wiederstände.png]]
+
+An der Kurve $c$ sieht man dass ein Widerstand auch negativ sein kann.
+
+Dem Widerstand wird die Einheit Ohm ($\ohm$) zugeordnet, der Leitwert hat als einheit Siemens ($S$ oder $\ohm^{-1}$)
+
+Der elektrische Widerstand ist eine Materialgrösse das bedeutet ein Elektrischer Leiter mit einem überall gleichen Querschnitt, wird einen grösseren Widerstand haben desto länger dieser Leiter ist. 
+
+> [!abstract] Definition Widerstand linearer Leiter
+> $$
+> R = \frac{\rho \cdot l}{A} = \frac{l}{\sigma \cdot A}
+> $$
+> $\rho$: spezifischer Widerstand ($\ohm m$)
+> $\sigma$: spezifischer Leitwert ($\frac{S}{m}$ oder $\frac{1}{\ohm m}$)
+> $l$: Länge des Leiters
+> $A$: Querschnittfläche
+> 
+
+Der Widerstand ist Temperaturabhängig, 
 
 ---
 ## ✅ ToDo

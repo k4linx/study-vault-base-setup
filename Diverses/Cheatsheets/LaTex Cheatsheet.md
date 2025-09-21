@@ -119,48 +119,48 @@
 
 ## Griechische Symbole
 
-|Symbol|Code|
-|---|---|
-|$\alpha$|\alpha|
-|$\beta$|\beta|
-|$\gamma$|\gamma|
-|$\delta$|\delta|
-|$\epsilon$|\epsilon|
-|$\varepsilon$|\varepsilon|
-|$\zeta$|\zeta|
-|$\eta$|\eta|
-|$\theta$|\theta|
-|$\vartheta$|\vartheta|
-|$\iota$|\iota|
-|$\kappa$|\kappa|
-|$\lambda$|\lambda|
-|$\mu$|\mu|
-|$\nu$|\nu|
-|$\xi$|\xi|
-|$\omicron$|\omicron|
-|$\pi$|\pi|
-|$\varpi$|\varpi|
-|$\rho$|\rho|
-|$\varrho$|\varrho|
-|$\sigma$|\sigma|
-|$\varsigma$|\varsigma|
-|$\tau$|\tau|
-|$\upsilon$|\upsilon|
-|$\phi$|\phi|
-|$\varphi$|\varphi|
-|$\chi$|\chi|
-|$\psi$|\psi|
-|$\omega$|\omega|
-|$\Gamma$|\Gamma|
-|$\Delta$|\Delta|
-|$\Theta$|\Theta|
-|$\Lambda$|\Lambda|
-|$\Xi$|\Xi|
-|$\Pi$|\Pi|
-|$\Sigma$|\Sigma|
-|$\Upsilon$|\Upsilon|
-|$\Psi$|\Psi|
-|$\Omega$|\Omega|
+| Symbol        | Code        |
+| ------------- | ----------- |
+| $\alpha$      | \alpha      |
+| $\beta$       | \beta       |
+| $\gamma$      | \gamma      |
+| $\delta$      | \delta      |
+| $\epsilon$    | \epsilon    |
+| $\varepsilon$ | \varepsilon |
+| $\zeta$       | \zeta       |
+| $\eta$        | \eta        |
+| $\theta$      | \theta      |
+| $\vartheta$   | \vartheta   |
+| $\iota$       | \iota       |
+| $\kappa$      | \kappa      |
+| $\lambda$     | \lambda     |
+| $\mu$         | \mu         |
+| $\nu$         | \nu         |
+| $\xi$         | \xi         |
+| $\omicron$    | \omicron    |
+| $\pi$         | \pi         |
+| $\varpi$      | \varpi      |
+| $\rho$        | \rho        |
+| $\varrho$     | \varrho     |
+| $\sigma$      | \sigma      |
+| $\varsigma$   | \varsigma   |
+| $\tau$        | \tau        |
+| $\upsilon$    | \upsilon    |
+| $\phi$        | \phi        |
+| $\varphi$     | \varphi     |
+| $\chi$        | \chi        |
+| $\psi$        | \psi        |
+| $\omega$      | \omega      |
+| $\Gamma$      | \Gamma      |
+| $\Delta$      | \Delta      |
+| $\Theta$      | \Theta      |
+| $\Lambda$     | \Lambda     |
+| $\Xi$         | \Xi         |
+| $\Pi$         | \Pi         |
+| $\Sigma$      | \Sigma      |
+| $\Upsilon$    | \Upsilon    |
+| $\Psi$        | \Psi        |
+| $\Omega$      | \Omega      |
 
 ---
 
