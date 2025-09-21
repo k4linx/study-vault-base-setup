@@ -72,24 +72,71 @@ Feldlinien werden als Gedankenstütze verwendet um sich elektische Felder anscha
 
 
 ### 2.3 Arbeit im Feld, Spannung und Potenzial
+
+#### Arbeit
 Um eine Ladung in einem Elektrischen Feld von A nach B zu bewegen braucht es Arbeit. In einem Potenzialfeld ist die Arbeit unabhängig vom Weg. Das heisst man kann verschieden Wege von A nach B gehen die dazu benötigte Arbeit ist immer dieselbe.
 ![[Ladungstransporte von A nach B.png]]
 
 $$
 W_{1}=W_{2}=W_{3}=W_{AB}
 $$
-Diese Arbeit führt zur Definition der Spannung 
+Die Formel für Arbeit ist Definiert wie folgt:
+
+> [!abstract] Definition Arbeit
+> $$
+> W_{AB} = \int^{B}_{A}\vec{F}\cdot d\vec{s} = q \cdot \int^{B}_{A} \vec{E} \cdot d \vec{s}
+> $$
+> $q$: verschobene Ladung
+> $W_{AB}$: vom Feld abgegebene Arbeit 
+
+
+#### Spannung
+Diese Arbeit führt zur Definition der Spannung:
+
 > [!abstract] Definition Spannung
 > Spannung wird Definiert als Arbeit durch Ladung
 > $$
 > U_{AB}= \frac{W_{AB}}{q} = \frac{\int^{B}_{A}\vec{E}\cdot d \vec{s}}{q}
 > $$
-> Wenn nun mal $q$ multipliziert wird erhält man:
+> Wenn nun mit $q$ multipliziert wird erhält man:
 > $$
 > U_{AB}= \int^{B}_{A}\vec{E}\cdot d \vec{s}
 > 
 $$
 
+Damit kann die Arbeit in obiger Abbildung mit der Spannung ersetzt werden:
+![[Arbeit ersetzt durch spannung.png]]
+#### Potenzial
+Das elektrische Potenzial wird im gegensatz zur Spannung nur an einem Punkt und nicht zwischen zwei Punkten angegeben. Ein Punkt im Raum muss als Nullpunkt definiert werden. Dieser Nullpunkt kann willkürlich gewählt werden. Die potenziale der anderen Punkte sind dann die Spannung der Punkte gegenüber dem Nullpunkt.
+![[spannung, potenzial.png]]
+Die spannung zwischen zwei punkten kann so allgemein definiert werden:
+
+> [!abstract] Definition Spannung zwischen zwei Punkten mit Potenzial
+> $$
+> U_{pq}=V_{P}-V_{q}
+> $$
+> $V_{p}$: Potenzial von Punkt $p$
+> $V_{q}$: Potenzial von Punkt $q$
+
+Potenzial und Spannung verwenden beide die Einheit Volt.
+
+Wenn der Potenzialnullpunkt verändert wird ändern sich die Potenziale der einzelnen Punkte aber die Spannungen bleiben gleich.
+![[abc mit unterschiedlichen nullpunkt.png]]
+
+Allgemein wird der Potenzialnullpunkt oft als die Erdoberfläche gewählt die überall das gleiche Potenzial besitzt. 
+
+Wenn eine Ladung $q$ im Punkt $P$ mit dem potenzial $V(P)$ plaziert wird, ergibt das Resultat der Multiplikation $q \cdot V(P)$ die potenzielle Energie von $q$ gegenüber dem Nullpunkt.
+
+### 2.4 Strom
+Der Strom beschreibt die Bewegung von Ladungsträgern. elektrischer Strom ist immer die Bewegung von negativ geladenen Elektronen. Die Stromstärke wird wie folgt Definiert:
+
+> [!abstract] Definition Stromstärke
+> $$
+> I = \frac{Q}{t}
+> $$
+> $I$: Strom in Ampère (A)
+> $Q$: Ladung 
+> $t$: Zeit
 
 
 
