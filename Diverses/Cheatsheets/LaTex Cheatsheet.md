@@ -47,18 +47,18 @@
 
 ## Arithmetische Operatoren
 
-|Symbol|Code|
-|---|---|
-|$\times$|\times|
-|$\div$|\div|
-|$\pm$|\pm|
-|$\mp$|\mp|
-|$\cdot$|\cdot|
-|$\star$|\star|
-|$\ast$|\ast|
-|$\oplus$|\oplus|
-|$\circ$|\circ|
-|$\bullet$|\bullet|
+| Symbol    | Code    |
+| --------- | ------- |
+| $\times$  | \times  |
+| $\div$    | \div    |
+| $\pm$     | \pm     |
+| $\mp$     | \mp     |
+| $\cdot$   | \cdot   |
+| $\star$   | \star   |
+| $\ast$    | \ast    |
+| $\oplus$  | \oplus  |
+| $\circ$   | \circ   |
+| $\bullet$ | \bullet |
 
 ---
 

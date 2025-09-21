@@ -24,12 +24,12 @@ Massen ziehen sich gegenseitig an als Beispiel der Mond und die Erde. Oder eine 
 
 > [!abstract] Coulomb Gleichung
 > $$
-> F_{g}= G \times \frac{m_{1} \times m_{2}}{a^2}
+> F_{g}= G \cdot \frac{m_{1} \cdot m_{2}}{a^2}
 > $$
 > $m_{1}$: Masse des ersten Massepunktes 
 > $m_{2}$: Masse des zweiten Massepunktes
 > $a$: Abstand der Massepunkte (vom Mittelpunkt der Masse)
-> $G$: Gravitationskonstante $G = 6.673 \times 10^{-11}m^{3}/kg^{3}$
+> $G$: Gravitationskonstante $G = 6.673 \cdot 10^{-11}m^{3}/kg^{3}$
 
 Diese Gleichung liefert nur die Kraft mit der sich die Massen/Ladungen anziehen, Die Richtung dieser Kraft. 
 ![[Coulombsches Kräftegesetz.png]]
@@ -37,7 +37,7 @@ Das Coulombsche Kraftgesetz ohne räumliche Ausdehnung für Punktladungen lautet
 
 > [!abstract] Coulombsches Kraftgesetz für Punktladungen
 > $$
-> F_{c}= \frac{1}{4\pi * \varepsilon} \times \frac{Q_{1}\times Q_{2}}{a^{2}}
+> F_{c}= \frac{1}{4\pi \cdot \varepsilon} \cdot \frac{Q_{1}\cdot Q_{2}}{a^{2}}
 > $$
 > $Q_{1}$: Ladung des ersten Punktes
 > $Q_{2}$: Ladung des zweiten Punktes
@@ -60,7 +60,7 @@ Um die elektrische Feldstärke des Punktes Q1 zu finden kann man das Coulombsche
 
 > [!abstract] Definition $\vec{E}(\vec{r})$
 > $$
-> \vec{E}(\vec{r}) = \frac{Q_{1}}{4\pi\varepsilon * r^{2}}* \vec{e}_{r}
+> \vec{E}(\vec{r}) = \frac{Q_{1}}{4\pi\varepsilon \cdot r^{2}}\cdot \vec{e}_{r}
 > $$
 > $\vec{e}_{r}$: Einheitsvektor in Richtung $\vec{r}$
 > $\vec{r}$: Abstand von $Q_{1}$
@@ -82,7 +82,7 @@ Diese Arbeit führt zur Definition der Spannung
 > [!abstract] Definition Spannung
 > Spannung wird Definiert als Arbeit durch Ladung
 > $$
-> U_{AB}= \frac{W_{AB}}{q}
+> U_{AB}= \frac{W_{AB}}{q} = \frac{\int^{B}_{A}\vec{E}\cdot d \vec{s}}{q}
 $$
 
 
