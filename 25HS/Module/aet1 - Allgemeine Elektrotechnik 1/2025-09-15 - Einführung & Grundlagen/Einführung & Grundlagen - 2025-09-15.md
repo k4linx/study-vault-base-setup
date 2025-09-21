@@ -160,7 +160,7 @@ Elektronen bewegen sich nicht reibungslos, genau so wie sich ein Auto nicht reib
 > $U$: Spannung
 > $I$: Stromstärke
 
-Der [[Ohmsche Wiederstand]] ist linear. Es gibt aber auch Wied
+Der [[Ohmsche Wiederstand]] ist linear. Es gibt aber auch Wiederstände die nichtlinear sind
 
 ---
 ## ✅ ToDo
