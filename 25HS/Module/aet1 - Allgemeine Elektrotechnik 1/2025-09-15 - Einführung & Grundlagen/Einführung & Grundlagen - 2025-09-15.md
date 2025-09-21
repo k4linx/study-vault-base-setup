@@ -83,7 +83,13 @@ Diese Arbeit führt zur Definition der Spannung
 > Spannung wird Definiert als Arbeit durch Ladung
 > $$
 > U_{AB}= \frac{W_{AB}}{q} = \frac{\int^{B}_{A}\vec{E}\cdot d \vec{s}}{q}
+> $$
+> Wenn nun mal $q$ multipliziert wird erhält man:
+> $$
+> U_{AB}= \int^{B}_{A}\vec{E}\cdot d \vec{s}
+> 
 $$
+
 
 
 
