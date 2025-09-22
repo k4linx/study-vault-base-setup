@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
+                "file": "templates/note/note_content_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Menge, Intervalle, Ungleichungen - 2025-09-17"
+              "title": "note_content_template"
             }
           }
         ]
@@ -198,8 +198,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
+    "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.md",
     "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Quellen",
     "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen",
     "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.md",
@@ -215,7 +216,6 @@
     "Diverses/Mathematik Auffrischungskurs/2025-08-22 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-26 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-25 Mathematik Auffrischungskurs.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "Home.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-15 - Einführung Vektoren/Quellen",
