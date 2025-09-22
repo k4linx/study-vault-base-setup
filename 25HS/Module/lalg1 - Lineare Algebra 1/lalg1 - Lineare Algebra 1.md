@@ -22,6 +22,7 @@ group by function task.file.folder.slice(0,-1).split('/').pop()+'/'
 ---
 ## 📝 Vorlesungsnotizen
 - [[Einführung Vektoren - 2025-09-15|Einführung Vektoren - 2025-09-15]]
+- [[25HS/Module/lalg1 - Lineare Algebra 1/2025-09-22 - Der Vektorraum/Der Vektorraum - 2025-09-22|Der Vektorraum - 2025-09-22]]
 
 ---
 ```meta-bind-button
