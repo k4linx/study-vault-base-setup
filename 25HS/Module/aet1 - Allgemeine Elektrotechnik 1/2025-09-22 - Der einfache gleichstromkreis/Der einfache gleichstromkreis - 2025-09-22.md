@@ -18,7 +18,9 @@ Zählpfeile zeigen die Richtung des Stromflusses oder des Spannungsabfall an. Di
 \begin{document}
 
 \begin{circuitikz}[european]
-\draw [thick] (0,0) to[i>_=$i_1$] (5,0);
+\draw [thick] (0,0) to[short, i>_=$i_1$] (4,0);
+\draw [thick] (4,0) to[short, i<_=$i_2$] (8,0);
+
 \end{circuitikz}
 
 \end{document}
