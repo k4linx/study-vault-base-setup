@@ -60,8 +60,7 @@ $$
 	axis line style={thick},
     xlabel=$I$,
     ylabel=$U$,
-    xtick distance=1,
-	ytick distance=1,
+    yticklabel=\empty,
     enlargelimits=true,clip=true]
 	\addplot[color=red, domain=-4:4] {0.5*x};
 	\addplot[color=green, domain=-2:2] {2*x};
