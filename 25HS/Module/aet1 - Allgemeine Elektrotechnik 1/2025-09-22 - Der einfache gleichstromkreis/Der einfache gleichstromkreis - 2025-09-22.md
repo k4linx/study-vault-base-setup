@@ -40,12 +40,11 @@ Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schr
 
 
 ### Ohmsches Gesetz
-
+Das Ohmsche Gesetz besagt das Strom und Spannung in einem linearen Leiter zueinander proportional sind, also das Verhältnis zu Strom und spannung immer gleich bleiben wird. 
 $$
 I = \frac{U}{R}
 $$
-
-**Bsp:**
+Der Ohmsche Widerstand ist ein Idealer Zweipol der unabhängig von äusseren Einflüssen, immer das Ohmsche Gesetz erfüllt. Der graph eines solchen Leiters ist eine Gerade:
 ```tikz
 \usepackage{pgfplots}
 
@@ -62,14 +61,14 @@ $$
     ylabel=$U$,
     xticklabel=\empty,
     yticklabel=\empty,
-    enlargelimits=true,clip=true]
-	\addplot[color=red, domain=-4:4] {0.5*x} node[pos=1.0, anchor=north] {$R$ ist gross};
-	\addplot[color=green, domain=-2:2] {2*x};
-	\node at (4,4) {$R$ ist gross};
+    enlargelimits=true,clip=false]
+	\addplot[color=red, domain=-4:4] {0.5*x} node[anchor=north west] {$R$ ist gross};
+	\addplot[color=green, domain=-2:2] {2*x} node[anchor=north west] {$R$ ist klein};
 	\end{axis}
   \end{tikzpicture}
 \end{document}
 ```
+Wenn der Widerstand Klein ist braucht es weniger Strom um eine hohe spannung zu erreichen, und wenn der Widerstand gross ist mehr strom um eine hohe Spannung zu erreichen
 
 ### Kirchhoffsche Gesetze
 
