@@ -13,6 +13,14 @@ tags: aet1
 ### Zählpfeile
 Zählpfeile zeigen die Richtung des Stromflusses oder des Spannungsabfall an. Die Pfeile orientieren sich an der Flussrichtung von Positiven Ladungsträgern. Die Pfeile werden auf der Leitung oder über ein Bauteil gezeichnet.
 
+```tikz
+\usepackage(circuitikz)
+\begin(document)
+begin(circuitikz)[european, voltage shift=0.5]
+\draw (0,0)
+to short
+```
+
 
 #### Verbraucherzählpfeilsystem
 Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schreibweise Verbraucherzählpfeilsystem. Beim VZS sind die Anfänge & Enden der Pfeile jeweils am gleichen Ort.
