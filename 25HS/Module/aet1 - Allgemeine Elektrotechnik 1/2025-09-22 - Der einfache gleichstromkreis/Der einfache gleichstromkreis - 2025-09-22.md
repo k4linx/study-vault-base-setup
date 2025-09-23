@@ -133,6 +133,7 @@ $$
 Einheiten für die obigen Formeln
 $P$: Watt ($W$)
 $W$: Wattsekunde ($Ws$) oder Joule ($J$) oder Newtonmeter ($Nm$)
+$U$: Spannung ()
 
 ### Wirkungsgrad
 
