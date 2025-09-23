@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "0e84254cccd029fa",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7a04a2f12e1802c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,18 +196,21 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7a04a2f12e1802c9",
   "lastOpenFiles": [
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/zählpfeile.png",
-    "Pasted image 20250923093910.png",
-    "templates/tikz/tikz_circuit.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Der einfache gleichstromkreis - 2025-09-22.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
+    "Diverses/Organisatorisch/Studentenaustausch.md",
+    "Home.md",
+    "Pasted image 20250923093910.png",
+    "Pasted image 20250915194708.png",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/zählpfeile.png",
+    "templates/tikz/tikz_circuit.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-15 - Einführung Vektoren/Einführung Vektoren - 2025-09-15.md",
     "templates/tikz",
-    "Home.md",
     "templates/note/note_content_template.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.md",
     "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Quellen",
@@ -215,7 +218,6 @@
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-22 - Der Vektorraum/Der Vektorraum - 2025-09-22.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-22 - Der Vektorraum/Quellen",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-22 - Der Vektorraum",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis",
     "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md",
@@ -236,8 +238,6 @@
     "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen/veranschaulichung Elektrisches Feld.png",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen/Coulombsches Kräftegesetz.png",
-    "Pasted image 20250915194708.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
     "templates/note/note_template.md",
     "Diverses/Organisatorisch/Info Elektro- & Informationstechnik HS 2025.md",
