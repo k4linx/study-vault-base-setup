@@ -74,7 +74,7 @@ Wenn der Widerstand klein ist fliesst weniger Strom bei gleicher Spannung als we
 Die Kirchhoffschen Gesetze 
 #### Knotensatz
 Ein Knoten kann keine Ladung speichern, d.h. Ladungen die in den Knoten einströmen müssen wieder abgeführt werden. Analogie eine Wasserleitung die sich nicht vergrössern oder ausdehnen kann.
-![[Knotensatz_skizze.png]]
+![[Knotensatz_skizze.png|white]]
 
 #### Maschensatz
 
