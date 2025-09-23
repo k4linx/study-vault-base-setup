@@ -64,7 +64,8 @@ $$
     yticklabel=\empty,
     enlargelimits=true,clip=true]
 	\addplot[color=red, domain=-4:4] {0.5*x} node[pos=1.0, anchor=north] {$R$ ist gross};
-	\addplot[color=green, domain=-2:2] {2*x} node[pos=1.05, anchor=west] {$R$ ist klein};
+	\addplot[color=green, domain=-2:2] {2*x};
+	\node at (4,4) {$R$ ist gross};
 	\end{axis}
   \end{tikzpicture}
 \end{document}
