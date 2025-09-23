@@ -1,6 +1,11 @@
 ---
 erstelldatum: 2025-09-15
-tags: aet1
+tags:
+  - aet1
+  - coulomb
+  - faraday
+  - polarität
+  - potenzial
 ---
 
 ## ⁉️ Fragen

@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "centeredFolder"
+    "centeredFolder",
+    "centeredButton"
   ],
   "accentColor": "#008a10",
   "translucency": false,

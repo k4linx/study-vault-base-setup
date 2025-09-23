@@ -1,6 +1,12 @@
 ---
 erstelldatum: 2025-09-22
-tags: aet1
+tags:
+  - aet1
+  - vzs
+  - ezs
+  - kirchhoff
+  - ohm
+  - wirkungsgrad
 ---
 
 ## ⁉️ Fragen
