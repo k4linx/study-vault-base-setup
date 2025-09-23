@@ -13,6 +13,13 @@ tags: aet1
 ### Zählpfeile
 Zählpfeile zeigen die Richtung des Stromflusses oder des Spannungsabfall an. Die Pfeile orientieren sich an der Flussrichtung von Positiven Ladungsträgern. Die Pfeile werden auf der Leitung oder über ein Bauteil gezeichnet.
 
+$$
+\begin{circuitikz}
+    \draw
+    (0,0) to[R,l=$R$,i>^=$I$] (3,0)
+    (0,0) to[open,v^=$U$] (3,0);
+\end{circuitikz}
+$$
 
 
 #### Verbraucherzählpfeilsystem
