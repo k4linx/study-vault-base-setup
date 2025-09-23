@@ -14,7 +14,9 @@ cssClass: wide-table
 
 ---
 ## 💡 Wichtige Begriffe
-- **Verbraucherzählpfeilsystem** - 
+- **Verbraucherzählpfeilsystem** - Beide Pfeile sind gleich orientiert. Der passive Verbraucher nimmt Leistung auf.
+- **Erzeugerzählpfeilsystem** - Pfeile sind gegensgesetzt orientiert. Die Quelle gibt Leistung ab.
+- **Ohmsches Gesetz** - 
 ---
 ## 📄 Zusammenfassung
 ### 3.1 Zählpfeile
@@ -39,12 +41,18 @@ Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schr
 ![[stromquelle.png#invert_dark]]
 
 
-3.2 ### Ohmsches Gesetz
-Das Ohmsche Gesetz besagt das Strom und Spannung in einem linearen Leiter zueinander proportional sind, also das Verhältnis zu Strom und spannung immer gleich bleiben wird. 
+### 3.2 Ohm'sches Gesetz
+Das Ohm'sche Gesetz besagt das Strom und Spannung in einem linearen Leiter zueinander proportional sind, also das Verhältnis zu Strom und Spannung immer gleich bleiben wird. 
 $$
 I = \frac{U}{R}
 $$
-Der Ohmsche Widerstand ist ein Idealer Zweipol der unabhängig von äusseren Einflüssen, immer das Ohmsche Gesetz erfüllt. Der graph eines solchen Leiters ist eine Gerade:
+$$
+U= R \cdot I
+$$
+$$
+R = \frac{U}{I}
+$$
+Der Ohm'sche Widerstand ist ein Idealer Zweipol der unabhängig von äusseren Einflüssen, immer das Ohm'sche Gesetz erfüllt. Der graph eines solchen Leiters ist eine Gerade:
 ```tikz
 \usepackage{pgfplots}
 
