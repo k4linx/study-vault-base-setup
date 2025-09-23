@@ -138,7 +138,15 @@ $R$: Widerstand ($\ohm$)
 $I$: Strom ($A$)
 
 ### Wirkungsgrad
-Der Wirkungsgrad ist im Grunde die Effizienz eines Ge
+Der Wirkungsgrad gibt an wie effizient ein Gerät ist. Es ist ein Verhältnis von zugeführter Energie und nutzbarer Energie. dabei ist ein Wirkungsgrad von 1 ein perfektes Gerät das die Energie 1 zu 1 umwandelt. Dies ist in der Praxis nicht erreichbar, weil es immer Reibung oder andere Verluste gibt die Wärme erzeugen.
+Die Formel zur Berechnung des Wirkungsgrades mit bekannter Leistung ist folgende:
+$$
+\eta = \frac{P_{abgegeben}}{P_{zugeführt}}
+$$
+Wenn die Energie bekannt ist kann folgende Formel verwendet werden:
+$$
+\eta = \frac{W_{abgegeben}}{W_{zugeführt}}
+$$
 
 ---
 ## ✅ ToDo
