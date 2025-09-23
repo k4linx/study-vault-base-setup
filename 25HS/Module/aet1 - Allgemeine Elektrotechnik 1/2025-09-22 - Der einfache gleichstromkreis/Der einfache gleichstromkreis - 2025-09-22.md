@@ -81,10 +81,14 @@ $$ \begin{align}
 I_{1}+I_{2}+I_{3}=0 \quad \Longleftrightarrow \quad  \sum^{n}_{v=1}I_{v}=0
 \end{align}
 $$
-Diese Gleichung muss immer erfüllt sein. Wenn es in einer bestimmten Baugruppe keine Bauteile hat die Ladungen speichern können, kann ein **Superknoten** gebildet werden.
+Diese Gleichung muss immer erfüllt sein. Das heisst mindestens einer der oberen ströme muss ein ngeatives Vorzeichen besitzen.
+
+Wenn es in einer bestimmten Baugruppe keine Bauteile hat die Ladungen speichern können (Kondensatoren, Batterien, Akkus), kann ein [[#Superknoten]] gebildet werden.
+
 
 #### Superknoten
-Superknoten sind Vereinfachungen um nicht bei jeden kleinen Knoten die Ströme messen zu müssen.
+Superknoten sind Vereinfachungen um nicht bei jeden kleinen Knoten die Ströme messen zu müssen. So können grössere Teile einer Schaltung überprüft werden.
+![[Superknoten.png#invert]]
 
 #### Maschensatz
 
