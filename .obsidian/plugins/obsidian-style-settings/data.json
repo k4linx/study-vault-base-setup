@@ -6,5 +6,6 @@
   "minimal-style@@maximize-tables-off": "maximize-tables",
   "minimal-style@@image-grid-fit": "contain",
   "modular-css-layout-wv@@is-adj-rll": true,
-  "modular-css-layout-wv@@wide-table-global": false
+  "modular-css-layout-wv@@wide-table-global": false,
+  "minimal-style@@image-grid-background@@dark": "#FFFFFF"
 }
