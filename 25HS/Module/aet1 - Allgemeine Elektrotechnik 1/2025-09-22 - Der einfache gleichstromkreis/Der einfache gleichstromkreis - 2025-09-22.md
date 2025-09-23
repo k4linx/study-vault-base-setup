@@ -33,7 +33,7 @@ Das Minus beim Wert eines Zählpfeil dreht die Richtung des Stromflusses um.
 
 #### Verbraucherzählpfeilsystem
 Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schreibweise Verbraucherzählpfeilsystem. Beim VZS sind die Anfänge & Enden der Strom- und Spannungspfeile jeweils am gleichen Ort. Am Beispiel eines Ohmschen Wiederstandes sieht man das Prinzip sehr gut:
-![[Ohmscher Wiederstand.png#invert]]
+![[Ohmscher Wiederstand.png#invert_dark]]
 #### Erzeugerzählpfeilsystem (EZS)
  Wenn $I$ & $R$ in die entgegengesetzte Richtung zeigen nennt man die Schreibweise Erzeugerzählpfeilsystem. Am Beispiel einer Stromquelle kann das EZS Prinzip gezeigt werden. Der Stromzählpfeil zeigt im Uhrzeigersinn in die Richtung des Stromflusses von positiven Ladungsträgern, aber der Spannungszählpfeil zeigt in die entgegengesetzte Richtung.
 ![[stromquelle.png#invert_dark]]
@@ -74,7 +74,7 @@ Wenn der Widerstand klein ist fliesst weniger Strom bei gleicher Spannung als we
 Die Kirchhoffschen Gesetze 
 #### Knotensatz
 Ein Knoten kann keine Ladung speichern, d.h. Ladungen die in den Knoten einströmen müssen wieder abgeführt werden. Analogie eine Wasserleitung die sich nicht vergrössern oder ausdehnen kann.
-![[Knotensatz_skizze.png|white]]
+![[Knotensatz_skizze.png#invert_dark]]
 
 #### Maschensatz
 
