@@ -20,11 +20,11 @@ cssClass: wide-table
 ### Zählpfeile
 Zählpfeile zeigen die Richtung des Stromflusses oder des Spannungsabfall an. Die Pfeile orientieren sich an der Flussrichtung von Positiven Ladungsträgern. Die Pfeile werden auf der Leitung oder über ein Bauteil gezeichnet.
 
-![[zählpfeile.png]]
+![[zählpfeile.png#invert]]
 
 Das Minus beim Wert eines Zählpfeil dreht die Richtung des Stromflusses um.
 
-![[zählpfeile_U.png]]
+![[zählpfeile_U.png#invert]]
 
 | $U_{A}$                  |              $U_{B}$ |
 | ------------------------ | -------------------: |
@@ -33,10 +33,10 @@ Das Minus beim Wert eines Zählpfeil dreht die Richtung des Stromflusses um.
 
 #### Verbraucherzählpfeilsystem
 Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schreibweise Verbraucherzählpfeilsystem. Beim VZS sind die Anfänge & Enden der Strom- und Spannungspfeile jeweils am gleichen Ort. Am Beispiel eines Ohmschen Wiederstandes sieht man das Prinzip sehr gut:
-![[Ohmscher Wiederstand.png]]
+![[Ohmscher Wiederstand.png#invert]]
 #### Erzeugerzählpfeilsystem (EZS)
  Wenn $I$ & $R$ in die entgegengesetzte Richtung zeigen nennt man die Schreibweise Erzeugerzählpfeilsystem. Am Beispiel einer Stromquelle kann das EZS Prinzip gezeigt werden. Der Stromzählpfeil zeigt im Uhrzeigersinn in die Richtung des Stromflusses von positiven Ladungsträgern, aber der Spannungszählpfeil zeigt in die entgegengesetzte Richtung.
-![[stromquelle.png]]
+![[stromquelle.png#invert]]
 
 
 ### Ohmsches Gesetz
