@@ -36,7 +36,7 @@ Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schr
 ![[Ohmscher Wiederstand.png#invert]]
 #### Erzeugerzählpfeilsystem (EZS)
  Wenn $I$ & $R$ in die entgegengesetzte Richtung zeigen nennt man die Schreibweise Erzeugerzählpfeilsystem. Am Beispiel einer Stromquelle kann das EZS Prinzip gezeigt werden. Der Stromzählpfeil zeigt im Uhrzeigersinn in die Richtung des Stromflusses von positiven Ladungsträgern, aber der Spannungszählpfeil zeigt in die entgegengesetzte Richtung.
-![[stromquelle.png#invert]]
+![[stromquelle.png#invert_dark]]
 
 
 ### Ohmsches Gesetz

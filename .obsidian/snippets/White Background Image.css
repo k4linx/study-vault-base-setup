@@ -36,6 +36,14 @@
 
 /* Image dynamic colors inversion */
 
+.theme-dark img[alt$="invert_dark"] {
+  filter: invert(1);
+}
+
+.theme-light img[alt$="#invert_light"] {
+  filter: invert(1);
+}
+
 .theme-dark span[src$="invert_B"] img {
   filter: invert(1) hue-rotate(180deg);
 }
