@@ -32,13 +32,12 @@ Das Minus beim Wert eines Zählpfeil dreht die Richtung des Stromflusses um.
 | $U_{12} = V_{1} - V_{2}$ | $U_{21}=V_{2}-V_{1}$ |
 
 #### Verbraucherzählpfeilsystem
-Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schreibweise Verbraucherzählpfeilsystem. Beim VZS sind die Anfänge & Enden der Pfeile jeweils am gleichen Ort.
-**Bsp: Ohmscher Wiederstand**
-
+Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schreibweise Verbraucherzählpfeilsystem. Beim VZS sind die Anfänge & Enden der Strom- und Spannungspfeile jeweils am gleichen Ort.
+![[Ohmscher Wiederstand.png]]
 #### Erzeugerzählpfeilsystem (EZS)
  Wenn $I$ & $R$ in die entgegengesetzte Richtung zeigen nennt man die Schreibweise Erzeugerzählpfeilsystem. 
 
-**Bsp: Stromquelle**
+![[stromquelle.png]]
 
 
 ### Ohmsches Gesetz
