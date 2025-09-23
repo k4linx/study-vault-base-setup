@@ -18,13 +18,23 @@ Zählpfeile zeigen die Richtung des Stromflusses oder des Spannungsabfall an. Di
 \begin{document}
 
 \begin{circuitikz}[european]
-\draw [thick] (0,0) to[short, i>_=$I_{1} 1.5$] (4,0);
+\draw [thick] (0,0) to[short, i>_=${I_{1}=1.5A}$] (4,0);
+\draw [thick] (4,0) to[short, i<_=${I_{2}=-1.5A}$] (8,0);
 
 \end{circuitikz}
 
 \end{document}
 ```
+Das Minus beim Wert eines Zählpfeil dreht die Richtung um.
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[european]
+\draw (0,0) to[isource] (0,3)
 
+\end{circuitikz}
+\end{document}
+```
 
 #### Verbraucherzählpfeilsystem
 Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schreibweise Verbraucherzählpfeilsystem. Beim VZS sind die Anfänge & Enden der Pfeile jeweils am gleichen Ort.
