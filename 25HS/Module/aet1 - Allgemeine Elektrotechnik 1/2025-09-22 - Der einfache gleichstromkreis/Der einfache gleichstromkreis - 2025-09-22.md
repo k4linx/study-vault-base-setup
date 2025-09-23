@@ -60,10 +60,11 @@ $$
 	axis line style={thick},
     xlabel=$I$,
     ylabel=$U$,
+    xticklabel=\empty,
     yticklabel=\empty,
     enlargelimits=true,clip=true]
 	\addplot[color=red, domain=-4:4] {0.5*x};
-	\addplot[color=green, domain=-2:2] {2*x};
+	\addplot[color=green, domain=-2:2] {2*x} node[pos=1.05, anchor=west] {$y=2x+1$};
 	\end{axis}
   \end{tikzpicture}
 \end{document}
