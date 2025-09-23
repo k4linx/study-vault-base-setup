@@ -14,7 +14,7 @@ tags: aet1
 Zählpfeile zeigen die Richtung des Stromflusses oder des Spannungsabfall an. Die Pfeile orientieren sich an der Flussrichtung von Positiven Ladungsträgern. Die Pfeile werden auf der Leitung oder über ein Bauteil gezeichnet.
 ![[zählpfeile.png]]
 Das Minus beim Wert eines Zählpfeil dreht die Richtung des Stromflusses um.
-
+![[Pasted image 20250923094251.png]]
 #### Verbraucherzählpfeilsystem
 Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schreibweise Verbraucherzählpfeilsystem. Beim VZS sind die Anfänge & Enden der Pfeile jeweils am gleichen Ort.
 **Bsp: Ohmscher Wiederstand**
