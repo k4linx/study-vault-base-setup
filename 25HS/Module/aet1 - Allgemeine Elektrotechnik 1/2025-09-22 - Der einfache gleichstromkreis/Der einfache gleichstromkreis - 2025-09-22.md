@@ -133,10 +133,12 @@ $$
 Einheiten für die obigen Formeln
 $P$: Watt ($W$)
 $W$: Wattsekunde ($Ws$) oder Joule ($J$) oder Newtonmeter ($Nm$)
-$U$: Spannung ()
+$U$: Spannung ($V$)
+$R$: Widerstand ($\ohm$)
+$I$: Strom ($A$)
 
 ### Wirkungsgrad
-
+Der Wirkungsgrad is
 
 ---
 ## ✅ ToDo
