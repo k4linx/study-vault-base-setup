@@ -7,16 +7,26 @@ tags:
   - kirchhoff
   - ohm
   - wirkungsgrad
-cssClass: wide-table
 ---
 
 ## ⁉️ Fragen
+- [ ] Wie weis ich ob ich ein VZS oder EZS vor mir gezeichnet habe?
+- [ ] Welches sind die Formeln für das Ohm'sche Gesetz?
+- [ ] Wie lautet die Gleichung für den Knotensatz?
+- [ ] Wie lautet die Gleichung für den Maschensatz?
+- [ ] Wie berechne ich die Leistung mit $I$ & $R$?
+- [ ] Was ist der Wirkungsgrad und wie berechne ich diesen?
 
 ---
 ## 💡 Wichtige Begriffe
 - **Verbraucherzählpfeilsystem** - Beide Pfeile sind gleich orientiert. Der passive Verbraucher nimmt Leistung auf.
-- **Erzeugerzählpfeilsystem** - Pfeile sind gegensgesetzt orientiert. Die Quelle gibt Leistung ab.
-- **Ohmsches Gesetz** - 
+- **Erzeugerzählpfeilsystem** - Pfeile sind gegengesetzt orientiert. Die Quelle gibt Leistung ab.
+- **Ohm'sches Gesetz** - Beschreibt den linearen Zusammenhang von Strom und Spannung.
+- **Knotensatz** - Besagt das ein Knotenpunkt in einer Elektrischen Schaltung keine Ladungen speichern kann.
+- **Maschensatz** - Besagt dass eine Verschiebung einer Ladung durch eine Masche zum Ursprungspunkt immer 0 sein muss.
+- **Leistung** - Arbeit pro Zeit
+- **Arbeit** - Leistung pro Zeit
+- **Wirkungsgrad** - Effizienz eines Geräts/Bauteils
 ---
 ## 📄 Zusammenfassung
 ### 3.1 Zählpfeile
