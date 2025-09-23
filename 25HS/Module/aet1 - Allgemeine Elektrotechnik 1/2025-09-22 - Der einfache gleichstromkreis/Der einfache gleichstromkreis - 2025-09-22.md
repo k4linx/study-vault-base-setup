@@ -35,7 +35,7 @@ Das Minus beim Wert eines Zählpfeil dreht die Richtung des Stromflusses um.
 Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schreibweise Verbraucherzählpfeilsystem. Beim VZS sind die Anfänge & Enden der Strom- und Spannungspfeile jeweils am gleichen Ort. Am Beispiel eines Ohmschen Wiederstandes sieht man das Prinzip sehr gut:
 ![[Ohmscher Wiederstand.png]]
 #### Erzeugerzählpfeilsystem (EZS)
- Wenn $I$ & $R$ in die entgegengesetzte Richtung zeigen nennt man die Schreibweise Erzeugerzählpfeilsystem. Am Beispiel einer Stromquelle kann das EZS Prinzip gezeigt werden. Der Stromzählpfeil zeigt im Uhrzeigersinn in die Richtung des Stromflusses von positiven Ladungsträgern, aber der Spannungszählpfeil zeigt in die Richtu
+ Wenn $I$ & $R$ in die entgegengesetzte Richtung zeigen nennt man die Schreibweise Erzeugerzählpfeilsystem. Am Beispiel einer Stromquelle kann das EZS Prinzip gezeigt werden. Der Stromzählpfeil zeigt im Uhrzeigersinn in die Richtung des Stromflusses von positiven Ladungsträgern, aber der Spannungszählpfeil zeigt in die entgegengesetzte Richtung.
 ![[stromquelle.png]]
 
 
@@ -67,7 +67,7 @@ $$
     % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
-	\addplot[color=red, domain=-2:2] {0.5*x+1};
+	\addplot[color=red, domain=-4:4] {0.5*x+1};
 	\addplot[color=green, domain=-2:2] {2*x+1};
 	\end{axis}
   \end{tikzpicture}
