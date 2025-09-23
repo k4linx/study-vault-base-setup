@@ -2,5 +2,6 @@
   "minimal-style@@h4-size": "1.0rem",
   "minimal-style@@h4-l": true,
   "minimal-style@@callouts-style": "callouts-default",
-  "minimal-style@@callout-blend-mode": "normal"
+  "minimal-style@@callout-blend-mode": "normal",
+  "minimal-style@@maximize-tables-off": "maximize-tables"
 }

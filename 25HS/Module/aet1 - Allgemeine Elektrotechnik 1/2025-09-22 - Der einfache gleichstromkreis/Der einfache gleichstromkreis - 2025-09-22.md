@@ -7,7 +7,6 @@ tags:
   - kirchhoff
   - ohm
   - wirkungsgrad
-cssClass: wide-page
 ---
 
 ## ⁉️ Fragen
