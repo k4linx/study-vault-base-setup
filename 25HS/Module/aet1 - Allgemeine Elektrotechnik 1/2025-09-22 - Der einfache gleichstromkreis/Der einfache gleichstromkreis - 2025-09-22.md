@@ -17,8 +17,8 @@ Zählpfeile zeigen die Richtung des Stromflusses oder des Spannungsabfall an. Di
 \usepackage{circuitikz}
 \begin{document}
 
-\begin{circuitikz}[american, voltage shift=0.5]
-\draw (0,0) to (5,0)
+\begin{circuitikz}[european]
+\draw [thick] (0,0) to[i>_=$i_1$] (5,0);
 \end{circuitikz}
 
 \end{document}
