@@ -112,11 +112,16 @@ $$
 P=\frac{W}{t}
 $$
 Die obere Formel gibt die mittlere Leistung. Die von einem Widerstand R aufgenommene Leistung beim Gleichstrom kann folgend berechnet werden:
-**Wenn U und I bekannt:**
+**Wenn $U$ und $I$ bekannt:**
 $$
 P=U\cdot I
 $$
-**Wenn $I$ und $R$**
+**Wenn $I$ und $R$ bekannt:**
+$$
+P = I^{2}\cdot R 
+$$
+**Wenn $U$ und $R$ bekannt**
+= \frac{U^{2}}{R}
 ### Arbeit
 Arbeit = Leistung pro Zeit
 $$
