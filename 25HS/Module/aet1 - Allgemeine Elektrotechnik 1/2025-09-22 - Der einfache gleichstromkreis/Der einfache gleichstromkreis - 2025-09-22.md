@@ -138,7 +138,7 @@ $R$: Widerstand ($\ohm$)
 $I$: Strom ($A$)
 
 ### Wirkungsgrad
-Der Wirkungsgrad is
+Der Wirkungsgrad ist im Grunde die Effizienz eines Ge
 
 ---
 ## ✅ ToDo
