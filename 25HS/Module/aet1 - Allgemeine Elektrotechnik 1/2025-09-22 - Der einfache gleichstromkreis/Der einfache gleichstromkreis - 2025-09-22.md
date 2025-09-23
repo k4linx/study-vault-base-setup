@@ -75,8 +75,20 @@ Die Kirchhoffschen Gesetze
 #### Knotensatz
 Ein Knoten kann keine Ladung speichern, d.h. Ladungen die in den Knoten einströmen müssen wieder abgeführt werden. Analogie eine Wasserleitung die sich nicht vergrössern oder ausdehnen kann.
 ![[Knotensatz_skizze.png#invert_dark]]
+Im Allgemeinen so viele Ladungen die in einen Knoten hereinkommen müssen auch wieder aus dem Knoten abfliessen.
+
+$$ \begin{align}
+I_{1}+I_{2}+I_{3}=0 \quad \Longleftrightarrow \quad  \sum^{n}_{v=1}I_{v}=0
+\end{align}
+$$
+Diese Gleichung muss immer erfüllt sein. Wenn es in einer bestimmten Baugruppe keine Bauteile hat die Ladungen speichern können, kann ein **Superknoten** gebildet werden.
+
+#### Superknoten
+Superknoten sind Vereinfachungen um nicht bei jeden kleinen Knoten die Ströme messen zu müssen.
 
 #### Maschensatz
+
+
 
 ### Leistung
 Leistung ist Arbeit durch Zeit
