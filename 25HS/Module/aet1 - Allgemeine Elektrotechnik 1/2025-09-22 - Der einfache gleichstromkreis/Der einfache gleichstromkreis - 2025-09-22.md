@@ -14,7 +14,7 @@ cssClass: wide-table
 
 ---
 ## 💡 Wichtige Begriffe
-
+- **Verbraucherzählpfeilsystem** - 
 ---
 ## 📄 Zusammenfassung
 ### 3.1 Zählpfeile
@@ -71,7 +71,7 @@ Der Ohmsche Widerstand ist ein Idealer Zweipol der unabhängig von äusseren Ein
 Wenn der Widerstand klein ist fliesst weniger Strom bei gleicher Spannung als wenn der Widerstand gross ist.
 
 ### 3.3 Kirchhoffsche Gesetze
-Die Kirchhoffschen Gesetze 
+
 #### Knotensatz
 Ein Knoten kann keine Ladung speichern, d.h. Ladungen die in den Knoten einströmen müssen wieder abgeführt werden. Analogie eine Wasserleitung die sich nicht vergrössern oder ausdehnen kann.
 ![[Knotensatz_skizze.png#invert_dark]]
@@ -147,10 +147,3 @@ Wenn die Energie bekannt ist kann folgende Formel verwendet werden:
 $$
 \eta = \frac{W_{abgegeben}}{W_{zugeführt}}
 $$
-
----
-## ✅ ToDo
-
----
-## 📕 Quellen
-- 
