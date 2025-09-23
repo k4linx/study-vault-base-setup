@@ -150,7 +150,7 @@ Die obige Formel definiert den Strom als Zeitlich konstant. Der Strom wird aber 
 
 > [!abstract] Definiton Momentanwert der Stromstärke
 > $$
-> i(t) = \frac{\delta q(t)}{\delta t}
+> i(t) = \frac{\Delta q(t)}{\Delta t}
 > $$
 
 > [!important] Wichtig

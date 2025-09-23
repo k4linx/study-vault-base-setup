@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Der einfache gleichstromkreis - 2025-09-22.md",
-                "mode": "preview",
+                "file": "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Der einfache gleichstromkreis - 2025-09-22"
+              "title": "Einführung & Grundlagen - 2025-09-15"
             }
           },
           {
@@ -223,15 +223,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Der einfache gleichstromkreis - 2025-09-22.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "Masche mit verschiedenen Pfeilrichtungen.png",
     "Maschensatz.png",
     "Superknoten.png",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Der einfache gleichstromkreis - 2025-09-22.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "Home.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/zählpfeile_U.png",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/Knotensatz_skizze.png",
     "templates/math/tikz_2d_coordinate_system.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/Ohmscher Wiederstand.png",
@@ -240,7 +240,6 @@
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/zählpfeile.png",
     "Diverses/Organisatorisch/Studentenaustausch.md",
     "Pasted image 20250923093910.png",
-    "Pasted image 20250915194708.png",
     "templates/tikz/tikz_circuit.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-15 - Einführung Vektoren/Einführung Vektoren - 2025-09-15.md",
