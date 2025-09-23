@@ -16,9 +16,11 @@ Zählpfeile zeigen die Richtung des Stromflusses oder des Spannungsabfall an. Di
 ```tikz
 \usepackage(circuitikz)
 \begin(document)
-begin(circuitikz)[european, voltage shift=0.5]
-\draw (0,0)
-to short
+	\begin(circuitikz)[european]
+		\draw (0,0)
+		to [short, -, i=$i_0$] (5, 5)
+	\end(circuitikz)
+\end(document)
 ```
 
 
