@@ -57,8 +57,8 @@ Der Ohmsche Widerstand ist ein Idealer Zweipol der unabhängig von äusseren Ein
 	axis equal,
 	axis lines=center,
 	axis line style={thick},
-    xlabel=$I$,
-    ylabel=$U$,
+    xlabel=$U$,
+    ylabel=$I$,
     xticklabel=\empty,
     yticklabel=\empty,
     enlargelimits=true,clip=false]
@@ -68,10 +68,10 @@ Der Ohmsche Widerstand ist ein Idealer Zweipol der unabhängig von äusseren Ein
   \end{tikzpicture}
 \end{document}
 ```
-Wenn der Widerstand Klein ist braucht es weniger Strom um eine hohe spannung zu erreichen, und wenn der Widerstand gross ist mehr strom um eine hohe Spannung zu erreichen
+Wenn der Widerstand klein ist fliesst weniger Strom bei gleicher Spannung als wenn der Widerstand gross ist.
 
 ### Kirchhoffsche Gesetze
-
+Die Kirchhoffschen Gesetze 
 #### Knotensatz
 Ein Knoten kann keine Ladung speichern, d.h. Ladungen die in den Knoten einströmen müssen wieder abgeführt werden. Analogie eine Wasserleitung die sich nicht vergrössern oder ausdehnen kann.
 
