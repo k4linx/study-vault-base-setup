@@ -171,8 +171,19 @@
               "icon": "clock",
               "title": "Reminders"
             }
+          },
+          {
+            "id": "db26e590b2d5f80b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -198,6 +209,7 @@
   },
   "active": "7a04a2f12e1802c9",
   "lastOpenFiles": [
+    "Zählpfeile_U.png",
     "Pasted image 20250923094251.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Der einfache gleichstromkreis - 2025-09-22.md",
@@ -238,7 +250,6 @@
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen/Ladungstransporte von A nach B.png",
     "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Quellen/veranschaulichung Elektrisches Feld.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
     "templates/note/note_template.md",
     "Diverses/Organisatorisch/Info Elektro- & Informationstechnik HS 2025.md",
