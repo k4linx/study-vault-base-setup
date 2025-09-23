@@ -121,7 +121,9 @@ $$
 P = I^{2}\cdot R 
 $$
 **Wenn $U$ und $R$ bekannt**
-= \frac{U^{2}}{R}
+$$
+P= \frac{U^{2}}{R}
+$$
 ### Arbeit
 Arbeit = Leistung pro Zeit
 $$
