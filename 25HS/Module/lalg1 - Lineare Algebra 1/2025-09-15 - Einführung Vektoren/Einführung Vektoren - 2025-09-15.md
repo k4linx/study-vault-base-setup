@@ -1,8 +1,13 @@
 ---
 erstelldatum: 2025-09-21
-tags: lalg1
+tags:
+  - lalg1
+  - vektoren
+  - linearkombination
+  - komplanar
+  - kollinear
+  - gauss
 ---
-
 ## ⁉️ Fragen
 - [ ] Was bedeutet lineare Abhängigkeit?
 - [ ] Was bedeutet Komplanar?
