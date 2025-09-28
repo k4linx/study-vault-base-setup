@@ -22,6 +22,7 @@ group by function task.file.folder.slice(0,-1).split('/').pop()+'/'
 ---
 ## 📝 Vorlesungsnotizen
 - [[Menge, Intervalle, Ungleichungen - 2025-09-17|Menge, Intervalle, Ungleichungen - 2025-09-17]]
+- [[Grenzwerte, Funktionen - 2025-09-24|Grenzwerte, Funktionen - 2025-09-24]]
 
 ---
 ```meta-bind-button
