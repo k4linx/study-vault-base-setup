@@ -45,6 +45,7 @@ Bei dieser Methode werden aber alle Zwischenspannungen wegrationalisiert das hei
 > [!important] Wichtig
 > Wenn ein Knoten in der Schaltung vorhanden ist können die Widerstände nicht mehr einfach in einem Ersatzwiderstand zusammengefasst werden
 
+##### S
 Die Spannungsteilung in einer Serienschaltung wird folgend gemacht:
 $$
 \frac{U_{Rn}}{U} = \frac{R_{n}}{R}
@@ -74,14 +75,14 @@ G_{E} = G_{1}+...+G_{3} \longleftrightarrow \frac{1}{R_{E}}= \frac{1}{R_{1}} + .
 $$
 Der Ersatzwiderstand $R_{E}$ wird wie folgt berechnet:
 $$
-R_{E}=\frac{1}{\frac{1}{R_}}
+R_{E}=\frac{1}{\frac{1}{R_{1}}+... + \frac{1}{R_{3}}}
 $$
-
 ##### Parallelschaltung von 2 Widersänden
 Wenn nur 2 Widersände Parallel geschaltet sind kann eine vereinfachte Formel abgeleitet werden:
 $$
 R_{E}= \frac{R_{1}\cdot R_{2}}{R_{1}+R_{2}}
 $$
+Die Stromteilung 
 
 ---
 ## ✅ ToDo
