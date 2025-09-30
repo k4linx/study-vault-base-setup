@@ -51,7 +51,7 @@ Bei dieser Methode werden aber alle Zwischenspannungen wegrationalisiert das hei
 ##### Spannungsteilung
 Die Spannungsteilung in einer Serienschaltung wird folgend gemacht:
 $$
-\frac{U_{Rn}}{U} = \frac{R_{n}}{R}
+\frac{U_{Rn}}{U} = \frac{R_{n}}{R_{E}}
 $$
 Damit kann man die Spannung über den Wegrationalisierten Widerständen herausfinden. 
 #### Parallelschaltung (Stromteilung)
