@@ -11,10 +11,10 @@ tags: aet1
 
 ---
 ## 💡 Wichtige Begriffe
-- **Serieschaltung** - Wenn mehrere Widerstände hintereinander gehängt werden
+- **Serieschaltung** - Wenn mehrere Widerstände hintereinander geschaltet werden.
 - **Parallelschaltung** - Wenn mehrere Widerstände nebeinander geschaltet sind.
-- **Spannungsteilung** - Bei einer Serienschaltung wird die Spannung über den einzelnen Widerständen Proportional zum Widerstandswert verringert
-- **Stromteilung** - Bei der Parallelschaltung wird der Gesamtstrom proportion
+- **Spannungsteilung** - Bei einer Serienschaltung wird die Spannung über den einzelnen Widerständen Proportional zum Widerstandswert verringert.
+- **Stromteilung** - Bei der Parallelschaltung wird der Gesamtstrom proportional zu den Widerständen verteilt.
 ---
 ## 📄 Zusammenfassung
 
