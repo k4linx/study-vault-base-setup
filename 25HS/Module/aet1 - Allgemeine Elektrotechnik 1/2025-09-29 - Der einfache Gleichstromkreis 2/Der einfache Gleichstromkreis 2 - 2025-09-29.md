@@ -66,7 +66,11 @@ I = U \cdot G
 $$
 Daraus:
 $$
-I = U \cdot ()
+I = U \cdot (G_{1}+G_{2}+G_{3})
+$$
+$G$ kann in einem Ersatzleitwert zusammengefasst werden:
+$$
+G_{E} = G_{1}+...+G_{3}
 $$
 
 
