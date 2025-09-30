@@ -64,6 +64,10 @@ I=\frac{U}{R}  \\
 I = U \cdot G
 \end{align}
 $$
+Daraus:
+$$
+I = U \cdot ()
+$$
 
 
 ---
