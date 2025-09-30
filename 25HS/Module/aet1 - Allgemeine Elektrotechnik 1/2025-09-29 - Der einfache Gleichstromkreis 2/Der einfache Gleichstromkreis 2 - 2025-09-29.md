@@ -59,8 +59,12 @@ I = I_{1}+I_{2}+I_{3}
 $$
 Das Ohmsche Gesetz für $I$:
 $$
-I=\frac{U}{R} 
+\begin{align}
+I=\frac{U}{R}  \\
+I = U \cdot G
+\end{align}
 $$
+
 
 ---
 ## ✅ ToDo
