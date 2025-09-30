@@ -72,11 +72,12 @@ $G$ kann in einem Ersatzleitwert zusammengefasst werden:
 $$
 G_{E} = G_{1}+...+G_{3} \longleftrightarrow \frac{1}{R_{E}}= \frac{1}{R_{1}} + ... + \frac{1}{R_{3}}
 $$
+Der 
 
 ##### Parallelschaltung von 2 Widersänden
 Wenn nur 2 Widersände Parallel geschaltet sind kann eine vereinfachte Formel abgeleitet werden:
 $$
-R_{E}= f{r_{1}\cdot R_{2}}/
+R_{E}= \frac{R_{1}\cdot R_{2}}{R_{1}+R_{2}}
 $$
 
 ---
