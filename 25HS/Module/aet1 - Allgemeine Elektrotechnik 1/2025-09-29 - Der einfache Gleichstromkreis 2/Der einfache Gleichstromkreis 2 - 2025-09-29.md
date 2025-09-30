@@ -70,9 +70,10 @@ I = U \cdot (G_{1}+G_{2}+G_{3})
 $$
 $G$ kann in einem Ersatzleitwert zusammengefasst werden:
 $$
-G_{E} = G_{1}+...+G_{3} \longleftrightarrow \frac{1}{R_{E}}= \frac{\frac{1}{R_{1}}+...+1}{R}
+G_{E} = G_{1}+...+G_{3} \longleftrightarrow \frac{1}{R_{E}}= \frac{1}{R_{1}} + ... + \frac{1}{R_{3}}
 $$
 
+##### Parallelsc
 
 ---
 ## ✅ ToDo
