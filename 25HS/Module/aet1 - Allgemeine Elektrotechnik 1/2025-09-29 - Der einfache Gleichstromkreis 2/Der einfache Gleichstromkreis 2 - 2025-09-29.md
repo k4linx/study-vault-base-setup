@@ -77,17 +77,16 @@ Der Ersatzwiderstand $R_{E}$ wird wie folgt berechnet:
 $$
 R_{E}=\frac{1}{\frac{1}{R_{1}}+... + \frac{1}{R_{3}}}
 $$
-###### Parallelschaltung von 2 Widersänden
-Wenn nur 2 Widersände Parallel geschaltet sind kann eine vereinfachte Formel abgeleitet werden:
+###### Parallelschaltung von 2 Widerständen
+Wenn nur 2 Widerstände Parallel geschaltet sind kann eine vereinfachte Formel abgeleitet werden:
 $$
 R_{E}= \frac{R_{1}\cdot R_{2}}{R_{1}+R_{2}}
 $$
 ##### Stromteilung
 Die Stromteilung wird wie folgt berechnet:
 $$
-\frac{I_{1}}{I}= \frac{R_{E}}{R_{1}} \longleftrightarrow \frac{I_{1}}{I} = \frac{G_{1}}{G_{E}}
+\frac{I_{n}}{I}= \frac{R_{E}}{R_{n}} \longleftrightarrow \frac{I_{n}}{I} = \frac{G_{n}}{G_{E}}
 $$
-Damit erh
 
 ---
 ## ✅ ToDo
