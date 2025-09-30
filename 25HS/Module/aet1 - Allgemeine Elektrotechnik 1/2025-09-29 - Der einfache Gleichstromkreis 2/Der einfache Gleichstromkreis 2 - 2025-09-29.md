@@ -29,6 +29,10 @@ Bei dieser Methode werden aber alle Zwischenspannungen wegrationalisiert das hei
 > [!important] Wichtig
 > Wenn ein Knoten in der Schaltung vorhanden ist können die Widerstände nicht mehr einfach in einem Ersatzwiderstand zusammengefasst werden
 
+Die Spannungsteilung in einer Serienschaltung wird folgend gemacht:
+$$
+\frac{U_{R4}}{U} = \frac{R_{4}}{R}
+$$
 
 ---
 ## ✅ ToDo
