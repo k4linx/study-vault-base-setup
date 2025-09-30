@@ -54,7 +54,10 @@ Wenn die Pfeile für $I$ & $R$ in die gleiche Richtung zeigen nennt man die Schr
 ### 3.2 Ohm'sches Gesetz
 Das Ohm'sche Gesetz besagt das Strom und Spannung in einem linearen Leiter zueinander proportional sind, also das Verhältnis zu Strom und Spannung immer gleich bleiben wird. 
 $$
-I = \frac{U}{R}
+\begin{align}
+I = \frac{U}{R} \\
+I = U \cdot G
+\end{align}
 $$
 $$
 U= R \cdot I
