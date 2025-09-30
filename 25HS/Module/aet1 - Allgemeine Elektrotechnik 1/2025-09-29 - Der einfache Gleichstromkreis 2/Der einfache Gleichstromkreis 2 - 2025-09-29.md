@@ -11,7 +11,8 @@ tags: aet1
 
 ---
 ## 💡 Wichtige Begriffe
-
+- **Serieschaltung** - Wenn mehrere Widerstände hintereinander gehängt werden
+- **Parallelschaltung** - 
 ---
 ## 📄 Zusammenfassung
 
@@ -87,10 +88,3 @@ Die Stromteilung wird wie folgt berechnet:
 $$
 \frac{I_{n}}{I}= \frac{R_{E}}{R_{n}} \longleftrightarrow \frac{I_{n}}{I} = \frac{G_{n}}{G_{E}}
 $$
-
----
-## ✅ ToDo
-
----
-## 📕 Quellen
-- 
