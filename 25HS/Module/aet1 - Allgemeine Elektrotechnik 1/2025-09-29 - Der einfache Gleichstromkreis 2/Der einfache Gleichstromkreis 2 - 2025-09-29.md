@@ -18,7 +18,7 @@ tags: aet1
 ### 4.2 Einfache Schaltungen von Widerständen
 #### 4.2.1 Serieschaltung (Spannungsteilung)
 
-In einer Serieschaltung werden die Bauelemente hintereinander angehängt.
+In einer Serieschaltung werden die Bauelemente hintereinander angehängt. Dabei wird die Spannung proportional zum Widerstandswert verringert
 ![[Serieschaltung mit ersatzwiderstand.png]]
 Diese Widerstände können zusammengefasst werden zu einem Ersatzwiderstand $R_{E}$ dann kann das [[Der einfache Gleichstromkreis 1 - 2025-09-22#3.2 Ohm'sches Gesetz|Ohm'sche Gesetz]] angewendet werden.
 $$
@@ -31,8 +31,13 @@ Bei dieser Methode werden aber alle Zwischenspannungen wegrationalisiert das hei
 
 Die Spannungsteilung in einer Serienschaltung wird folgend gemacht:
 $$
-\frac{U_{R4}}{U} = \frac{R_{4}}{R}
+\frac{U_{Rn}}{U} = \frac{R_{n}}{R}
 $$
+Damit kann man die Spannung über den Wegrationalisierten Widerständen herausfinden. 
+
+#### Parallelschaltung (Stromteilung)
+Bei einer Parallelschaltung wird der Gesamtstrom über die Widerstände aufgeteilt.
+
 
 ---
 ## ✅ ToDo
