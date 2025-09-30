@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Der einfache Gleichstromkreis 2 - 2025-09-29"
             }
           }
         ]
@@ -206,33 +206,37 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "390d0ece70ce5c34",
   "lastOpenFiles": [
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Quellen/Serieschaltung mit ersatzwiderstand.png",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Der einfache Gleichstromkreis 1 - 2025-09-22.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Quellen",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2",
+    "Home.md",
     "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
     "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen/Grenzwerte, Funktionen - 2025-09-24.md",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.md",
-    "Home.md",
     "2025-09-28.md",
     "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen/Quellen",
     "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-15 - Einführung Vektoren/Einführung Vektoren - 2025-09-15.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-22 - Der Vektorraum/Der Vektorraum - 2025-09-22.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Der einfache gleichstromkreis - 2025-09-22.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-22 Mathematik Auffrischungskurs.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "Masche mit verschiedenen Pfeilrichtungen.png",
     "Maschensatz.png",
     "Superknoten.png",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/zählpfeile_U.png",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/Knotensatz_skizze.png",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Quellen/zählpfeile_U.png",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Quellen/Knotensatz_skizze.png",
     "templates/math/tikz_2d_coordinate_system.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/Ohmscher Wiederstand.png",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/stromquelle.png",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Quellen/Ohmscher Wiederstand.png",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Quellen/stromquelle.png",
     "Pasted image 20250923094251.png",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen/zählpfeile.png",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Quellen/zählpfeile.png",
     "Diverses/Organisatorisch/Studentenaustausch.md",
     "Pasted image 20250923093910.png",
     "templates/tikz/tikz_circuit.md",
@@ -243,16 +247,12 @@
     "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-22 - Der Vektorraum/Quellen",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-22 - Der Vektorraum",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Quellen",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Quellen",
     "Diverses/Mathematik Auffrischungskurs/2025-08-26 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-25 Mathematik Auffrischungskurs.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-15 - Einführung Vektoren/Quellen",
     "Polarität (+/-).md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-19 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
-    "templates/note/note_template.md",
-    "Diverses/Organisatorisch/Info Elektro- & Informationstechnik HS 2025.md"
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md"
   ]
 }

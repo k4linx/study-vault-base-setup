@@ -20,7 +20,8 @@ group by function task.file.folder.slice(0,-1).split('/').pop()+'/'
 ---
 ## 📝 Vorlesungsnotizen
 - [[25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15|Einführung & Grundlagen - 2025-09-15]]
-- [[25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Der einfache gleichstromkreis - 2025-09-22|Der einfache gleichstromkreis - 2025-09-22]]
+- [[Der einfache Gleichstromkreis 1 - 2025-09-22|Der einfache Gleichstromkreis 1 - 2025-09-22]]
+- [[Der einfache Gleichstromkreis 2 - 2025-09-29|Der einfache Gleichstromkreis 2 - 2025-09-29]]
 
 ---
 ```meta-bind-button
