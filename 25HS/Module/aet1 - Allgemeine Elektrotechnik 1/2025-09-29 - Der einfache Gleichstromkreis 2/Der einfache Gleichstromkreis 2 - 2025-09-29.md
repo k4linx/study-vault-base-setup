@@ -85,9 +85,9 @@ $$
 ##### Stromteilung
 Die Stromteilung wird wie folgt berechnet:
 $$
-I_
+\frac{I_{1}}{I}= \frac{R_{E}}{R_{1}} \longleftrightarrow \frac{I_{1}}{I} = \frac{G_{1}}{G_{E}}
 $$
-
+Damit erh
 
 ---
 ## ✅ ToDo
