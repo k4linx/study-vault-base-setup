@@ -53,7 +53,14 @@ Damit kann man die Spannung über den Wegrationalisierten Widerständen herausfi
 #### Parallelschaltung (Stromteilung)
 Bei einer Parallelschaltung wird der Gesamtstrom über die Widerstände aufgeteilt.
 ![[Parallelschaltung mit Ersatzwiderstand.png]]
-Mit dem Knotensatz 
+Mit dem Knotensatz ist definiert:
+$$
+I = I_{1}+I_{2}+I_{3}
+$$
+Das Ohmsche Gesetz für $I$:
+$$
+I=\frac{U}{R} 
+$$
 
 ---
 ## ✅ ToDo
