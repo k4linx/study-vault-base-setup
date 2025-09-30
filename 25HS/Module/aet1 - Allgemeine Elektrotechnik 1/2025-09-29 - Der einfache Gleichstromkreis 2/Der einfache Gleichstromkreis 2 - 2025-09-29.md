@@ -73,7 +73,8 @@ $$
 G_{E} = G_{1}+...+G_{3} \longleftrightarrow \frac{1}{R_{E}}= \frac{1}{R_{1}} + ... + \frac{1}{R_{3}}
 $$
 
-##### Parallelsc
+##### Parallelschaltung von 2 Widersänden
+
 
 ---
 ## ✅ ToDo
