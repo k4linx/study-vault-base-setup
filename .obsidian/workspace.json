@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "88751d4c2ceba75d",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "60da8e56e85bb684",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Menge, Intervalle, Ungleichungen - 2025-09-17"
+              "title": "Home"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 406.5
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -206,15 +206,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "60da8e56e85bb684",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
     "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen/Grenzwerte, Funktionen - 2025-09-24.md",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.md",
     "Home.md",
     "2025-09-28.md",
     "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen/Quellen",
     "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen",
-    "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-15 - Einführung Vektoren/Einführung Vektoren - 2025-09-15.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-22 - Der Vektorraum/Der Vektorraum - 2025-09-22.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache gleichstromkreis/Der einfache gleichstromkreis - 2025-09-22.md",
