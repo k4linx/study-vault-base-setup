@@ -20,11 +20,27 @@ tags: aet1
 
 In einer Serieschaltung werden die Bauelemente hintereinander angehängt. Dabei wird die Spannung proportional zum Widerstandswert verringert
 ![[Serieschaltung mit ersatzwiderstand.png]]
-Diese Widerstände können zusammengefasst werden zu einem Ersatzwiderstand $R_{E}$ dann kann das [[Der einfache Gleichstromkreis 1 - 2025-09-22#3.2 Ohm'sches Gesetz|Ohm'sche Gesetz]] angewendet werden.
+Mit dem [[Der einfache Gleichstromkreis 1 - 2025-09-22#Maschensatz|Maschensatz]] ist definiert:
+$$
+U = U_{1}+U_{2}+U_{3}+U_{4}
+$$
+Wobei:
+$$
+U_{n}=R_{n}*I
+$$
+Damit können alle $U_{n}$ ersetzt werden:
+$$
+U = R_{1}\cdot I + ... R_{4}\cdot I 
+$$
+bzw:
+$$
+U = I \cdot (R_{1}+...+R_{4})
+$$
+Die Widerstände $R_{n}$ können zusammengefasst werden zu einem Ersatzwiderstand $R_{E}$ dann kann das [[Der einfache Gleichstromkreis 1 - 2025-09-22#3.2 Ohm'sches Gesetz|Ohm'sche Gesetz]] angewendet werden.
 $$
 U = R_{E} \cdot I
 $$
-Bei dieser Methode werden aber alle Zwischenspannungen wegrationalisiert das heiss man erhält nur die Endspannung.
+Bei dieser Methode werden aber alle Zwischenspannungen wegrationalisiert das heisst man erhält nur die Endspannung.
 
 > [!important] Wichtig
 > Wenn ein Knoten in der Schaltung vorhanden ist können die Widerstände nicht mehr einfach in einem Ersatzwiderstand zusammengefasst werden
@@ -34,10 +50,10 @@ $$
 \frac{U_{Rn}}{U} = \frac{R_{n}}{R}
 $$
 Damit kann man die Spannung über den Wegrationalisierten Widerständen herausfinden. 
-
 #### Parallelschaltung (Stromteilung)
 Bei einer Parallelschaltung wird der Gesamtstrom über die Widerstände aufgeteilt.
-
+![[Parallelschaltung mit Ersatzwiderstand.png]]
+Mit dem Knotensatz 
 
 ---
 ## ✅ ToDo
