@@ -27,7 +27,8 @@ $$
 U_{a}= \alpha \cdot I_{a} + \beta
 $$
 #### Ersatznetzwerke
-Das ziel eines Ersatznetzwerkes ist, die
+Das ziel eines Ersatznetzwerkes ist, die komplexe Schaltung so zu vereinfachen, dass sich das Ersatznetzwerk wie das komplexe Netzwerk verhält.
+##### 
 
 
 ---
