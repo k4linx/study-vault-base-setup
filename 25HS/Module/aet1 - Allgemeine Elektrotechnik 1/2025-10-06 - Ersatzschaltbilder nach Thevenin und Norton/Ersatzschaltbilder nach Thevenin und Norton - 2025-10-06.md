@@ -33,7 +33,7 @@ Eine Thevenin Ersatzschaltung besteht aus einer Idealen Spannungsquelle mit eine
 ![[Thevenin-ersatzschaltung.png#invert]]
 ##### Norton Ersatzschaltung
 Die Nortonsche Ersatzschaltung besteht aus einer Idealen Stromquelle und einem parallel geschalteten Widerstand.
-
+![[norton-ersatzschaltung.png#invert]]
 
 ---
 ## ✅ ToDo
