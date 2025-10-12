@@ -35,7 +35,11 @@ Eine Thevenin Ersatzschaltung besteht aus einer Idealen Spannungsquelle mit eine
 Die Nortonsche Ersatzschaltung besteht aus einer Idealen Stromquelle und einem parallel geschalteten Widerstand.
 ![[norton-ersatzschaltung.png#invert]]
 #### Quellenkennlinie
-An einer Quellenkennlinie (kurz **QKL**) kann man die Leerlaufspannung und den Kurzschlussstrom ablesen. Die Leerlaufspannung $U_{LL}$ kann man messe
+An einer Quellenkennlinie (kurz **QKL**) kann man die Leerlaufspannung und den Kurzschlussstrom ablesen. 
+##### Leerlaufspannung
+Die Leerlaufspannung $U_{LL}$ kann man messen wenn die Klemmen offen gelassen werden.
+
+
 
 
 ---
