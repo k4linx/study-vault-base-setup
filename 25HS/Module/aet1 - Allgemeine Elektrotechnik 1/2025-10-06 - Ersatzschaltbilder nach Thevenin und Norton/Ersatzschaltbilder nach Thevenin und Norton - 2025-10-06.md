@@ -32,6 +32,7 @@ Das ziel eines Ersatznetzwerkes ist, die komplexe Schaltung so zu vereinfachen, 
 Eine Thevenin Ersatzschaltung besteht aus einer Idealen Spannungsquelle mit einem in Serie geschalteten Widerstand.
 ![[Thevenin-ersatzschaltung.png#invert]]
 ##### Norton Ersatzschaltung
+Die Nortonsche Ersatzschaltung besteht aus einer Idealen Stromquelle und einem parallel geschalteten Widerstand.
 
 
 ---
