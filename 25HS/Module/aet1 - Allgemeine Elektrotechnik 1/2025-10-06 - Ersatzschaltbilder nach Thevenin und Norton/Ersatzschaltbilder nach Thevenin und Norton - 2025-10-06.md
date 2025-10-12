@@ -11,14 +11,15 @@ tags:
 
 ---
 ## 💡 Wichtige Begriffe
+- **Quellenkennlinie** -
 - **Thevenin** -
 - **Norton** - 
-- **Quellenkennlinie** -
-- **Quellenleistung** -
+- **Quellenleistung** - 
 - **Leistungsanpassung** -
-- 
 ---
 ## 📄 Zusammenfassung
+
+## 5.1 
 
 ---
 ## ✅ ToDo
