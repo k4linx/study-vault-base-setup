@@ -47,7 +47,10 @@ Der Kurzschlusstrom wird wie der Name schon sagt gemessen wenn die Klemmen kurz 
 #### Abschalten von Quellen
 Werden Quellen abgeschaltet wird die Quelle durch ihren Innenwiderstand ersetzt bei einer Spannungsquelle bedeutet dies $R=0 \ohm$ und bei der Stromquelle $R=\infty \ohm$
 ![[abschalten-von-quellen.png#invert]]
-#### Bestimmung der 
+#### Bestimmung $U_{qe} \ I_{qe} \ R_{qe}$ 
+Mit der Bestimmung der Leerlaufspannung, dem Kurzschlussstrom und dem Abschalten der Quellen haben wir 3 Experimente um die Werte für die Ersatzschaltungen zu bestimmen, da $U_{qe}= I_{qe}*R_qe$ gilt.
+![[experimente--bestimmung ersatzschaltbilder.png#invert]]
+
 
 ---
 ## ✅ ToDo
