@@ -36,10 +36,17 @@ Die Nortonsche Ersatzschaltung besteht aus einer Idealen Stromquelle und einem p
 ![[norton-ersatzschaltung.png#invert]]
 #### Quellenkennlinie
 An einer Quellenkennlinie (kurz **QKL**) kann man die Leerlaufspannung und den Kurzschlussstrom ablesen. 
+![[QKL-mit-Ull-und-Iks.png#invert]]
+
 ##### Leerlaufspannung
-Die Leerlaufspannung $U_{LL}$ kann man messen wenn die Klemmen offen gelassen werden.
-
-
+Die Leerlaufspannung $U_{LL}$ kann man messen wenn die Klemmen offen gelassen werden. Der strom ist dabei $0A$
+![[leerlaufspannung-bestimmung.png#invert]]
+##### Kurzschlussstrom
+Der Kurzschlusstrom wird wie der Name schon sagt gemessen wenn die Klemmen kurz geschlossen werden. dann ist die Spannung theoretisch $0V$
+![[kurzschlussstrom-bestimmung.png#invert]]
+#### Abschalten von Quellen
+Werden Quellen abgeschaltet wird die Quelle durch ihren innenwiderstand ersetzt bei einer Spannungsquelle bedeutet dies $R=0 \ohm$ und bei der Stromquelle $R=\infty \ohm$
+![[abschalten-von-quellen.png#invert]]
 
 
 ---
