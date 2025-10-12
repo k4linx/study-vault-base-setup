@@ -45,7 +45,7 @@ Die Leerlaufspannung $U_{LL}$ kann man messen wenn die Klemmen offen gelassen we
 Der Kurzschlusstrom wird wie der Name schon sagt gemessen wenn die Klemmen kurz geschlossen werden. dann ist die Spannung theoretisch $0V$
 ![[kurzschlussstrom-bestimmung.png#invert]]
 #### Abschalten von Quellen
-Werden Quellen abgeschaltet wird die Quelle durch ihren innenwiderstand ersetzt bei einer Spannungsquelle bedeutet dies $R=0 \ohm$ und bei der Stromquelle $R=\infty \ohm$
+Werden Quellen abgeschaltet wird die Quelle durch ihren Innenwiderstand ersetzt bei einer Spannungsquelle bedeutet dies $R=0 \ohm$ und bei der Stromquelle $R=\infty \ohm$
 ![[abschalten-von-quellen.png#invert]]
 
 
