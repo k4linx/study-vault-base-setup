@@ -47,7 +47,7 @@ Der Kurzschlusstrom wird wie der Name schon sagt gemessen wenn die Klemmen kurz 
 #### Abschalten von Quellen
 Werden Quellen abgeschaltet wird die Quelle durch ihren Innenwiderstand ersetzt bei einer Spannungsquelle bedeutet dies $R=0 \ohm$ und bei der Stromquelle $R=\infty \ohm$
 ![[abschalten-von-quellen.png#invert]]
-
+#### Bestimmung der 
 
 ---
 ## ✅ ToDo
