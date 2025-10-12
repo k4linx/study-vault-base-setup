@@ -19,7 +19,11 @@ tags:
 ---
 ## 📄 Zusammenfassung
 
-## 5.1 
+
+
+### 5.1 Quellen, Ersatzschaltungen und Kennlinien
+Bei einem 
+
 
 ---
 ## ✅ ToDo
