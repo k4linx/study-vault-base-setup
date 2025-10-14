@@ -66,6 +66,17 @@ Mit der Bestimmung der Leerlaufspannung, dem Kurzschlussstrom und dem Abschalten
 #### Quelle und Last
 Sowohl Quelle und Last haben eine Kennlinie. In einem Modell eines Ohm'schen Widerstandes ist die Lastkennlinie Linear also gerade.
 ![[quellen_last_kennlinie.png#invert]]
+Die Lastkennlinie hat eine Positive Steigung und die Quellenkennlinie eine Negative Steigung mit Schnittpunkten der beiden Koordinatenachsen. Somit werden sich die beiden Geraden Schneiden. Dieser Schnittpunkt nennt man den Betriebspunkt (operating point). Am Betriebspunkt kann man herausfinden wieviel Strom und Spannung eine Quelle bei einem gegebenen Lastwiderstand liefern kann.
+
+Um diesen Betriebspunkt zu finden kann man beide Gleichungen nach $U$ Gleichsetzen.
+$$
+\begin{align}
+U & =R \cdot I \\
+U & =U_{qe}-R_{qe} \cdot I_{op} \\
+R_{L} \cdot I_{op} & = U_{qe}-R_{qe}\cdot I_{op} \\
+
+\end{align}
+$$
 
 ---
 ## ✅ ToDo
