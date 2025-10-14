@@ -43,12 +43,9 @@ Thevenin und Norton Quellen können ineinander umgewandelt werden. Dabei bleibt 
 >I_{qe}=\frac{U_qe}{R_{qe}}= \frac{5V}{10\ohm} = 0.5A = 500mA
 >$$
 >
-
-
 #### Quellenkennlinie
 An einer Quellenkennlinie (kurz **QKL**) kann man die Leerlaufspannung und den Kurzschlussstrom ablesen. 
 ![[QKL-mit-Ull-und-Iks.png#invert]]
-
 ##### Leerlaufspannung
 Die Leerlaufspannung $U_{LL}$ kann man messen wenn die Klemmen offen gelassen werden. Der strom ist dabei $0A$
 ![[leerlaufspannung-bestimmung.png#invert]]
