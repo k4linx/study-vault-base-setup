@@ -68,15 +68,21 @@ Sowohl Quelle und Last haben eine Kennlinie. In einem Modell eines Ohm'schen Wid
 ![[quellen_last_kennlinie.png#invert]]
 Die Lastkennlinie hat eine Positive Steigung und die Quellenkennlinie eine Negative Steigung mit Schnittpunkten der beiden Koordinatenachsen. Somit werden sich die beiden Geraden Schneiden. Dieser Schnittpunkt nennt man den Betriebspunkt (operating point). Am Betriebspunkt kann man herausfinden wieviel Strom und Spannung eine Quelle bei einem gegebenen Lastwiderstand liefern kann.
 
-Um diesen Betriebspunkt zu finden kann man beide Gleichungen nach $U$ Gleichsetzen.
-$$
-\begin{align}
-U & =R \cdot I \\
-U & =U_{qe}-R_{qe} \cdot I_{op} \\
-R_{L} \cdot I_{op} & = U_{qe}-R_{qe}\cdot I_{op} \\
 
+Um diesen Betriebspunkt zu finden kann man beide Gleichungen nach $U$ Gleichsetzen. Und erst nach dem Betriebsstrom $I_{op}$ auflösen
+$$
+\begin{align} \\
+1) \quad U & =U_{qe}-R_{qe} \cdot I_{op} \\
+2) \quad U & =R \cdot I \\
+R_{L} \cdot I_{op} & = U_{qe}-R_{qe}\cdot I_{op} \\
+I_{op} &= \frac{U_{qe}}{R_{L}+R_{qe}} = \frac{1}{R_{L}+R_{qe} \cdot U_{qe}}
 \end{align}
 $$
+Danach kann die neu erhaltene gleichung in $2)$ einsetzen und erhält $U_{op}$
+$$
+U_{op}= R_{L}\cdot I_{op}= R_{L}\cdot \frac{1}{R_{qe}+R_{L}}*U_{qe}
+$$
+#### Quellen zusammenschalten
 
 ---
 ## ✅ ToDo
