@@ -19,8 +19,6 @@ tags:
 ---
 ## 📄 Zusammenfassung
 
-
-
 ### 5.1 Quellen, Ersatzschaltungen und Kennlinien
 Bei einem beliebigen Linearen Netzwerk aus Widerständen, Spannungs- und Stromquellen sind $U_{a}$ und $I_{a}$ linear voneinander Abhängig. Es kann also eine Lineare Funktion erstellt werden.
 $$
@@ -34,6 +32,19 @@ Eine Thevenin Ersatzschaltung besteht aus einer Idealen Spannungsquelle mit eine
 ##### Norton Ersatzschaltung
 Die Nortonsche Ersatzschaltung besteht aus einer Idealen Stromquelle und einem parallel geschalteten Widerstand.
 ![[norton-ersatzschaltung.png#invert]]
+
+Thevenin und Norton Quellen können ineinander umgewandelt werden. Dabei bleibt der Innenwiderstand $R_{qe}$ gleich und die Fehlende Grösse wird entsprechend berechnet. 
+>[!tip] Beispiel
+>Um eine Thevenin Quelle zu einer Norton Quelle umzuwandeln muss $I_{qe}$ berechnet werden.
+> Folgende Angaben gegeben:
+> $U_{qe}=5V$
+> $R_{qe}=10\ohm$
+>$$
+>I_{qe}=\frac{U_qe}{R_{qe}}= \frac{5V}{10\ohm} = 0.5A = 500mA
+>$$
+>
+
+
 #### Quellenkennlinie
 An einer Quellenkennlinie (kurz **QKL**) kann man die Leerlaufspannung und den Kurzschlussstrom ablesen. 
 ![[QKL-mit-Ull-und-Iks.png#invert]]
@@ -47,10 +58,14 @@ Der Kurzschlusstrom wird wie der Name schon sagt gemessen wenn die Klemmen kurz 
 #### Abschalten von Quellen
 Werden Quellen abgeschaltet wird die Quelle durch ihren Innenwiderstand ersetzt bei einer Spannungsquelle bedeutet dies $R=0 \ohm$ und bei der Stromquelle $R=\infty \ohm$
 ![[abschalten-von-quellen.png#invert]]
+
 #### Bestimmung $U_{qe} \ I_{qe} \ R_{qe}$ 
-Mit der Bestimmung der Leerlaufspannung, dem Kurzschlussstrom und dem Abschalten der Quellen haben wir 3 Experimente um die Werte für die Ersatzschaltungen zu bestimmen, da $U_{qe}= I_{qe}*R_qe$ gilt.
+Mit der Bestimmung der Leerlaufspannung, dem Kurzschlussstrom und dem Abschalten der Quellen haben wir 3 Experimente um die Werte für die Ersatzschaltungen zu bestimmen, da $U_{qe}= I_{qe}*R_qe$ gilt (**Achtung:** Das ist nicht das Ohm'sche Gesetz).
 ![[experimente--bestimmung ersatzschaltbilder.png#invert]]
 
+#### Quelle und Last
+Sowohl Quelle und Last haben eine Kennlinie. In einem Modell eines Ohm'schen Widerstandes ist die Lastkennlinie Linear also gerade.
+![[quellen_last_kennlinie.png#invert]]
 
 ---
 ## ✅ ToDo
