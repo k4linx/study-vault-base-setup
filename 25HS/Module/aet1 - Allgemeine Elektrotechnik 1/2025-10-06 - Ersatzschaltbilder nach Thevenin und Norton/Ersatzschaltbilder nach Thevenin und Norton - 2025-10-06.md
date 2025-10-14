@@ -86,7 +86,7 @@ $$
 Man kann Quellen zusammenschalten. dabei gibt es 6 Möglichkeiten. 
 1. Ideale U-Quelle in Serie mit Idealer U-Quelle
 	- Dabei werden die Spannungen Addiert $U_{1}+U_{2}$
-	- Der Strom k
+	- Der Strom Kurzschlusstrom bleibt gleich da $I_{qe} = \infty$ bei einer Idealen Quelle wenn sie abgeschaltet wird 
 2. 
 3. 
 
