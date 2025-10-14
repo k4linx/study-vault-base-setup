@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06"
+              "title": "Home"
             }
           }
         ]
@@ -208,6 +208,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
+    "Diverses/Organisatorisch/Studentenaustausch.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-15 - Einführung Vektoren/Einführung Vektoren - 2025-09-15.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
     "experimente--bestimmung ersatzschaltbilder.png",
     "abschalten-von-quellen.png",
     "QKL-mit-Ull-und-Iks.png",
@@ -217,7 +221,6 @@
     "Thevenin-ersatzschaltung.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton",
     "Home.md",
@@ -225,11 +228,9 @@
     "Diverses/Mathematik Auffrischungskurs/2025-08-22 Mathematik Auffrischungskurs.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-25 Mathematik Auffrischungskurs.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Der einfache Gleichstromkreis 1 - 2025-09-22.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-18 Mathematik Auffrischungskurs.md",
     "Pasted image 20250930110033.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Quellen/Parallelschaltung mit Ersatzwiderstand.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Quellen/Masche mit verschiedenen Pfeilrichtungen.png",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Quellen/Maschensatz.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Quellen",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2",
@@ -239,11 +240,9 @@
     "2025-09-28.md",
     "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen/Quellen",
     "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen",
-    "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-15 - Einführung Vektoren/Einführung Vektoren - 2025-09-15.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-22 - Der Vektorraum/Der Vektorraum - 2025-09-22.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "templates/math/tikz_2d_coordinate_system.md",
-    "Diverses/Organisatorisch/Studentenaustausch.md",
     "templates/tikz/tikz_circuit.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.md",
     "templates/tikz",
