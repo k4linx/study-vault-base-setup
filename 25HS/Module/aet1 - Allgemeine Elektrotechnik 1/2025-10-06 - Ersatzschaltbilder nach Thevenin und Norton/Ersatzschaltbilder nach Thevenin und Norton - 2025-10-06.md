@@ -88,7 +88,7 @@ Man kann Quellen zusammenschalten. dabei gibt es 6 Möglichkeiten.
 	- Dabei werden die Spannungen Addiert $U_{1}+U_{2}$
 	- Der Strom Kurzschlusstrom bleibt gleich da $I_{qe} = \infty$
 2. Ideale I-Quelle parallel mit idealer I-Quelle
-	- 
+	- Die Ströme werden addiert $I_{1}+I_{2}$
 3. 
 
 ---
