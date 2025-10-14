@@ -83,6 +83,8 @@ $$
 U_{op}= R_{L}\cdot I_{op}= R_{L}\cdot \frac{1}{R_{qe}+R_{L}}*U_{qe}
 $$
 #### Quellen zusammenschalten
+Man kann Quellen zusammenschalten. dabei gibt es 6 Möglichkeiten. 
+
 
 ---
 ## ✅ ToDo
