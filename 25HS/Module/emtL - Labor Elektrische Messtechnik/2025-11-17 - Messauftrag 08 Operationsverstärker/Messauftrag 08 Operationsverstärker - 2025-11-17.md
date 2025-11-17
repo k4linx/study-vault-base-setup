@@ -51,7 +51,7 @@ Messaufbau gemäss Schema
 | R4          | $100k\ohm$ |
 ## 1.2 Messungen
 ### 1.2.1 Messerwartungen
-Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. 
+Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. Wenn nur eine kleine Erhöhung von $U_{ein}$ besteht sollte der OpAmp die Verstärkung nicht triggern. 
 ### 1.2.2 Messresultate
 
 
