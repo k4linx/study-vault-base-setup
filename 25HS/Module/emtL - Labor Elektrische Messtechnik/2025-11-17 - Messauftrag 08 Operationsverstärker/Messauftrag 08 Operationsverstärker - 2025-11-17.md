@@ -56,3 +56,25 @@ Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. Wenn nur eine 
 
 
 #### 2.2.3 Interpretation
+
+## 3 Optokoppler
+### 2.1 Messaufbau
+#### 2.1.1 Schema
+
+#### 2.1.2 Beschreibung
+Messaufbau gemäss Schema
+
+| Messgrösse | Messgerät   |
+| ---------- | ----------- |
+
+
+| Widerstände | Wert       |
+| ----------- | ---------- |
+
+### 2.2 Messungen
+#### 2.2.1 Messerwartungen
+Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. Wenn nur eine kleine Erhöhung von $U_{ein}$ besteht sollte der OpAmp die Verstärkung nicht triggern. 
+#### 2.2.2 Messresultate
+
+
+#### 2.2.3 Interpretation
