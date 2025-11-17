@@ -21,4 +21,11 @@ Messaufbau gemäss Schema
 | R1          | $10k\ohm$ |
 | R2          | $10k\ohm$ |
 ## 1.2 Messungen
+### 1.2.1 Messerwartungen
+Der OpAmp sollte eine Maximale Ausgangsspannung von ~12V ausgeben.
+
+### 1.2.2 Messresultate
+
+
+### 1.2.3 Interpretation
 
