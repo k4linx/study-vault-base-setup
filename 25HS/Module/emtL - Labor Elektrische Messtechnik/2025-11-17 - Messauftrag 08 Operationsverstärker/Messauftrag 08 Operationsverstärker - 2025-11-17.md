@@ -20,4 +20,5 @@ Messaufbau gemäss Schema
 | ----------- | --------- |
 | R1          | $10k\ohm$ |
 | R2          | $10k\ohm$ |
-## 
+## 1.2 Messungen
+
