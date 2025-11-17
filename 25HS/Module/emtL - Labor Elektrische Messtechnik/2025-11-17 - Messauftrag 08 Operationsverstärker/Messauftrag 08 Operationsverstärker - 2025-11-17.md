@@ -20,21 +20,21 @@ Messaufbau gemäss Schema
 | ----------- | --------- |
 | R1          | $10k\ohm$ |
 | R2          | $10k\ohm$ |
-## 1.2 Messungen
-### 1.2.1 Messerwartungen
+### 1.2 Messungen
+#### 1.2.1 Messerwartungen
 Der OpAmp sollte eine Maximale Ausgangsspannung von ~12V ausgeben.
 
-### 1.2.2 Messresultate
+#### 1.2.2 Messresultate
 
 
-### 1.2.3 Interpretation
+#### 1.2.3 Interpretation
 
 
-## 1. Schmitt-Trigger mit OpAmp
-### 1.1 Messaufbau
-#### 1.1.1 Schema
+## 2. Schmitt-Trigger mit OpAmp
+### 2.1 Messaufbau
+#### 2.1.1 Schema
 
-#### 1.1.2 Beschreibung
+#### 2.1.2 Beschreibung
 Messaufbau gemäss Schema
 
 | Messgrösse | Messgerät   |
@@ -49,10 +49,10 @@ Messaufbau gemäss Schema
 | R2          | $10k\ohm$  |
 | R3          | $1.2M\ohm$ |
 | R4          | $100k\ohm$ |
-## 1.2 Messungen
-### 1.2.1 Messerwartungen
+### 2.2 Messungen
+#### 2.2.1 Messerwartungen
 Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. Wenn nur eine kleine Erhöhung von $U_{ein}$ besteht sollte der OpAmp die Verstärkung nicht triggern. 
-### 1.2.2 Messresultate
+#### 2.2.2 Messresultate
 
 
-### 1.2.3 Interpretation
+#### 2.2.3 Interpretation
