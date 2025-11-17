@@ -22,6 +22,7 @@ group by function task.file.folder.slice(0,-1).split('/').pop()+'/'
 ---
 ## 📝 Vorlesungsnotizen
 - [[01 Gleichstrommessgeräte - 2025-09-14|01 Gleichstrommessgeräte - 2025-09-14]]
+- [[25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Messauftrag 08 Operationsverstärker - 2025-11-17|Messauftrag 08 Operationsverstärker - 2025-11-17]]
 
 ---
 ```meta-bind-button
