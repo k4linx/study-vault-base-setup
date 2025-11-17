@@ -68,8 +68,9 @@ Messaufbau gemäss Schema
 | ---------- | ----------- |
 
 
-| Widerstände | Wert       |
-| ----------- | ---------- |
+| Widerstände | Wert   |
+| ----------- | ------ |
+| R berechnet | 15kOhm |
 
 ### 2.2 Messungen
 #### 2.2.1 Messerwartungen
