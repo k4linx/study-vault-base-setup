@@ -23,7 +23,7 @@ group by function task.file.folder.slice(0,-1).split('/').pop()+'/'
 - [[Der einfache Gleichstromkreis 1 - 2025-09-22|Der einfache Gleichstromkreis 1 - 2025-09-22]]
 - [[Der einfache Gleichstromkreis 2 - 2025-09-29|Der einfache Gleichstromkreis 2 - 2025-09-29]]
 - [[Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06|Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06]]
-- [[Analyse von Gelichstromkreisen 1 - 2025-10-20|Analyse von Gelichstromkreisen 1 - 2025-10-20]]
+- [[Analyse von Gleichstromkreisen 1 - 2025-10-20|Analyse von Gleichstromkreisen 1 - 2025-10-20]]
 
 ---
 ```meta-bind-button
