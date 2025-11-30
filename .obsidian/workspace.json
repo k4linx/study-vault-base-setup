@@ -11,12 +11,15 @@
             "id": "e7110bc6aebb1384",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/8Vektorgeometrie.pdf"
+                "file": "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-20 - Analyse von Gleichstromkreisen 1/Analyse von Gleichstromkreisen 1 - 2025-10-20.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "8Vektorgeometrie"
+              "icon": "lucide-file",
+              "title": "Analyse von Gleichstromkreisen 1 - 2025-10-20"
             }
           }
         ]
@@ -204,13 +207,18 @@
   },
   "active": "e7110bc6aebb1384",
   "lastOpenFiles": [
-    "Diverses/Mathematik Auffrischungskurs/2025-08-28 Mathematik Auffrischungskurs.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-29 Mathematik Auffrischungskurs.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Der einfache Gleichstromkreis 1 - 2025-09-22.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
+    "Diverses/Mathematik Auffrischungskurs/Mathematik Auffrischungskurs.base",
+    "Diverses/Mathematik Auffrischungskurs/Trigonometrie.md",
+    "Diverses/Mathematik Auffrischungskurs/Vektorgeometrie.md",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/8Vektorgeometrie.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/7Trigonometrie.pdf",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/6SatzDesPythagorasUndAehnlichkeitBis6-2.pdf",
     "Diverses/Mathematik Auffrischungskurs/Ähnlichkeit, Strahlensatz & Sinussatz.md",
     "Diverses/Mathematik Auffrischungskurs/Exponentialfunktionen, Ähnlichkeit & Strahlensatz.md",
-    "Diverses/Mathematik Auffrischungskurs/Mathematik Auffrischungskurs.base",
     "Diverses/Mathematik Auffrischungskurs/Potenzgesetze, Wurzeln, Logarithmen & Exponentialfunktionen.md",
     "Diverses/Mathematik Auffrischungskurs/Gleichungssysteme, Ungleichungen & Betrag.md",
     "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
@@ -232,13 +240,9 @@
     "25HS/Module/emtL - Labor Elektrische Messtechnik/Labor Elektrische Messtechnik.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Allgemeine Elektrotechnik 1.base",
     "Untitled 4.md",
-    "25HS/Module/an1 - Analysis 1/Analysis 1.base",
     "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
     "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen/Grenzwerte, Funktionen - 2025-09-24.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-20 - Analyse von Gleichstromkreisen 1/Analyse von Gleichstromkreisen 1 - 2025-10-20.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
-    "Untitled 3.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/kurzschlussstrom-bestimmung.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/leerlaufspannung-bestimmung.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/norton-ersatzschaltung.png",
