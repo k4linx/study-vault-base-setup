@@ -26,12 +26,15 @@
             "id": "c9e3a9c38241af54",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "25HS/Zeitpläne/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -221,6 +224,10 @@
   },
   "active": "c9e3a9c38241af54",
   "lastOpenFiles": [
+    "templates/schedule.md",
+    "25HS/Zeitpläne/Untitled.md",
+    "25HS/25HS - Herbst 2025.md",
+    "25HS/Zeitpläne",
     "Home.md",
     "Diverses/Mathematik Auffrischungskurs/2025-08-21 Mathematik Auffrischungskurs.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-20 - Analyse von Gleichstromkreisen 1/Analyse von Gleichstromkreisen 1 - 2025-10-20.md",
@@ -262,10 +269,6 @@
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Quellen",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.md",
-    "2025-09-28.md",
-    "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen/Quellen",
-    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
-    "templates/math/tikz_2d_coordinate_system.md",
-    "templates/tikz/tikz_circuit.md"
+    "2025-09-28.md"
   ]
 }
