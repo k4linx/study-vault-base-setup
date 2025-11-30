@@ -11,4 +11,6 @@
 - [ ] #schedule Induktivität und Kapazität lernen #aet1  [start:: 2025-12-02 0900] [due:: 2025-12-02 10:00]
 - [ ] #schedule Integral rechnen #an1 [start:: 2025-12-02 1015] [due:: 2025-12-02 1100]
 - [ ] #schedule Boolsche Algebra lernen #konvE [start:: 2025-12-02 1115] [due:: 2025-12-02 1200]
-- [ ] 
+- [ ] #schedule  <% tp.file.cursor(1) %> [start:: ] [due:: ]
+
+
