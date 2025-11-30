@@ -8,5 +8,7 @@
 | 1415 | 1500 | EMTL  | Messauftrag 8 fertigstellen     |          |
 | 1515 | 1600 | AET1  | Zusammenfassungen nachschreiben |          |
 | 1615 | 1715 | AET1  | Zusammenfassungen nachschreiben |          |
-- [ ] #schedule   [start:: 2025-12-02] [end:: 2025-12-02 10:00] #aet1 Induktivität und Kapazität lernen 
+- [ ] #schedule Induktivität und Kapazität lernen #aet1  [start:: 2025-12-02 0900] [due:: 2025-12-02 10:00]
+- [ ] #schedule Integral rechnen #an1 [start:: 2025-12-02 1015] [due:: 2025-12-02 1100]
+- [ ] #schedule Boolsche Algebra lernen #konvE [start:: 2025-12-02 1115] [due:: 2025-12-02 1200]
 - [ ] 
