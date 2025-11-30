@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.folder.contains("lalg1")
+    - file.ext == "md"
+views:
+  - type: table
+    name: Table
+    order:
+      - erstelldatum
+      - file.name
+      - tags

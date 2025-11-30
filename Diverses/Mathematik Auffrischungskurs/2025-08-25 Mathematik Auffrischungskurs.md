@@ -1,3 +1,6 @@
+---
+erstelldatum: 2025-08-25
+---
 ## ⁉️ Fragen
 
 ---
@@ -12,7 +15,7 @@ Exponentialgleichungen sind Gleichungen mit Termen die einen Exponenten also ein
 Um diese Gleichungen zu lösen gibt es 2 Strategien. Das ziel ist es eine Lineare Gleichung zu erhalten die durch Logarithmen ausgedrückt wird.
 
 #### Strategie 1
-Die Gleichung kann mit den [[2025-08-21 Mathematik Auffrischungskurs#Potenzgesetze|Potenzgesetzen]] umgeformt werden.
+Die Gleichung kann mit den [[Gleichungssysteme, Ungleichungen & Betrag#Potenzgesetze|Potenzgesetzen]] umgeformt werden.
 
 
 > [!math-example] Beispiel
@@ -27,7 +30,7 @@ Die Gleichung kann mit den [[2025-08-21 Mathematik Auffrischungskurs#Potenzgeset
 > $$
 
 #### Strategie 2
-Wenn die Exponentialgleichung auf beiden Seiten positiv ist kann auf beiden Seiten der gleiche [[2025-08-22 Mathematik Auffrischungskurs#Logarithmen & Exponentialfunktionen|Logarithmus]] zur gleichen Basis angewendet werden. z.B. $\log_{10}(x)$
+Wenn die Exponentialgleichung auf beiden Seiten positiv ist kann auf beiden Seiten der gleiche [[Potenzgesetze, Wurzeln, Logarithmen & Exponentialfunktionen#Logarithmen & Exponentialfunktionen|Logarithmus]] zur gleichen Basis angewendet werden. z.B. $\log_{10}(x)$
 
 > [!math-example] Beispiel
 > $$
@@ -41,7 +44,7 @@ Wenn die Exponentialgleichung auf beiden Seiten positiv ist kann auf beiden Seit
 > \log_{10}(5^{2x})=\log_{10}(2*7^{3x}) \\
 > \end{align}
 > $$
-> [[2025-08-22 Mathematik Auffrischungskurs#Logarithmengesetze|Logarithmengesetze]] anwenden:
+> [[Potenzgesetze, Wurzeln, Logarithmen & Exponentialfunktionen#Logarithmengesetze|Logarithmengesetze]] anwenden:
 > $$
 > \begin{align}
 > \log_{10}(5^{2x}) &= \log_{10}(2) + \log_{10}(7^{3x}) \\
@@ -231,7 +234,7 @@ Wenn man 2 Punkte gegeben hat die auf einer Exponentialfunktion liegen kann man 
 > $$
 > \frac{2}{10}=\frac{a*e^{5*\lambda}}{a*e^{\lambda}}
 > $$
-> $a$ kann nun gekürzt werden. $e$ kann mit den [[2025-08-21 Mathematik Auffrischungskurs#Potenzgesetze|Potenzgesetze]] umgeformt werden. 
+> $a$ kann nun gekürzt werden. $e$ kann mit den [[Gleichungssysteme, Ungleichungen & Betrag#Potenzgesetze|Potenzgesetze]] umgeformt werden. 
 > 
 > $$
 > \begin{align}
@@ -263,7 +266,7 @@ $$
 > e^{-0.139*t}=\frac{1}{2} \\
 > \end{align}
 > $$
-> [[2025-08-22 Mathematik Auffrischungskurs#Logarithmen & Exponentialfunktionen|Logarithmus]] & [[2025-08-22 Mathematik Auffrischungskurs#Logarithmengesetze|Logarithmengesetze]]  anwenden und [[2025-08-18 Mathematik Auffrischungskurs#Theorie|Äquvalenzumformung]] machen:
+> [[Potenzgesetze, Wurzeln, Logarithmen & Exponentialfunktionen#Logarithmen & Exponentialfunktionen|Logarithmus]] & [[Potenzgesetze, Wurzeln, Logarithmen & Exponentialfunktionen#Logarithmengesetze|Logarithmengesetze]]  anwenden und [[Rechenregeln, Gleichungen und Funktionen#Theorie|Äquvalenzumformung]] machen:
 > $$
 > \begin{align}
 > \ln(e^{-0.139*t})= \ln\left( \frac{1}{2} \right) \\

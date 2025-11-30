@@ -1,6 +1,7 @@
 ---
 erstelldatum: 2025-09-22
-tags: an1
+tags:
+  - an1
 ---
 
 ## ⁉️ Fragen

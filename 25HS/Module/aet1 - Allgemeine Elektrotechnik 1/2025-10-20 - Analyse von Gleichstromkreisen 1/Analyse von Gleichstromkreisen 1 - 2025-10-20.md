@@ -1,6 +1,7 @@
 ---
 erstelldatum: 2025-11-22
-tags: aet1
+tags:
+  - aet1
 ---
 
 

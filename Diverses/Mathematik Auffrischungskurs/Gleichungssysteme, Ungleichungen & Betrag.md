@@ -1,3 +1,6 @@
+---
+erstelldatum: 2025-08-21
+---
 ## ⁉️ Fragen
 - [ ] Wie löse ich ein Gleichungssystem?
 - [ ] Was sind die Potenzgesetze?

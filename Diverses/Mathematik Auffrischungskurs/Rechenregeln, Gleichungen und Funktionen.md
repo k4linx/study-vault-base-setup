@@ -1,3 +1,6 @@
+---
+erstelldatum: 2025-08-18
+---
 ## ⁉️ Fragen
 - [x] Was ist das Assoziativgesetz?
 - [x] Wie vereinfache ich Doppelbrüche am besten?
@@ -37,7 +40,7 @@
 > [!abstract] Distributivgesetz: 
 > $$a*(b+c)= a*b+a*c = ab+ac $$
 > > [!important] Wichtig
-> > **Wichtig:** beim Distributivgesetz ist immer [[2025-08-18 Mathematik Auffrischungskurs#Punkt vor Strich|Punkt vor Strich]] operieren.
+> > **Wichtig:** beim Distributivgesetz ist immer [[Rechenregeln, Gleichungen und Funktionen#Punkt vor Strich|Punkt vor Strich]] operieren.
 
 ### Weitere Regeln:
 

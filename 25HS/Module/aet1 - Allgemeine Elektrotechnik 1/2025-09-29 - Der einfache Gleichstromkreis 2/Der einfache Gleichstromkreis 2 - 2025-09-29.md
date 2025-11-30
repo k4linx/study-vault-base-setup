@@ -1,6 +1,11 @@
 ---
 erstelldatum: 2025-09-30
-tags: aet1
+tags:
+  - aet1
+  - serie
+  - parallel
+  - i_quelle
+  - u_quelle
 ---
 ## ⁉️ Fragen
 - [ ] Was ist eine Serieschaltung?

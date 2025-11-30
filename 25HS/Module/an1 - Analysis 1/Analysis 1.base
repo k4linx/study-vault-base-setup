@@ -1,16 +1,13 @@
 filters:
   and:
     - and:
-        - file.folder.contains("aet1")
         - file.ext == "md"
+        - file.folder.contains("an1")
 views:
-  - type: table
+  - type: cards
     name: Cards
     order:
-      - erstelldatum
       - file.name
       - tags
-    imageFit: contain
     cardSize: 800
-    columnSize:
-      note.tags: 237
+    indentProperties: false

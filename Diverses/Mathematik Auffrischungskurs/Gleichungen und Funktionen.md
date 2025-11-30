@@ -1,3 +1,6 @@
+---
+erstelldatum: 0025-08-19
+---
 ## ⁉️ Fragen
 - [ ] Wie sieht die Grundform einer linearen Gleichung aus
 - [ ] Wie sieht die Normalparabel aus?
@@ -31,7 +34,7 @@ $$
 580&=116z \\
 5 &= z \to \mathbb{L} \lbrace \rbrace
 \end{align}$$
-**Wichtig:** [[2025-08-18 Mathematik Auffrischungskurs#Theorie|Äquivalenzumforung]] beachten!!!
+**Wichtig:** [[Rechenregeln, Gleichungen und Funktionen#Theorie|Äquivalenzumforung]] beachten!!!
 
 ---
 ### Lineare Gleichung
@@ -147,8 +150,8 @@ Beispiel:
 Eine Quadratische Gleichung ohne Definitionsmenge hat immer 2 Lösungen ausser am Scheitelpunkt.
 
 Um Quadratische Gleichungen zu lösen gibt es 2 Möglichkeiten:
-1. Quadratische Gleichungen können mit der [[2025-08-19 Mathematik Auffrischungskurs#Mitternachtsformel|Mitternachtsformel (MNF)]] gelöst werden.
-2. Quadratische Gleichungen können teils [[2025-08-18 Mathematik Auffrischungskurs#Faktorisieren|Faktorisiert]] werden.
+1. Quadratische Gleichungen können mit der [[Gleichungen und Funktionen#Mitternachtsformel|Mitternachtsformel (MNF)]] gelöst werden.
+2. Quadratische Gleichungen können teils [[Rechenregeln, Gleichungen und Funktionen#Faktorisieren|Faktorisiert]] werden.
 
 #### Mitternachtsformel
 Die grundform der Mitternachtsformel sieht so aus:
@@ -204,7 +207,7 @@ Lineare Funktionen verlaufen immer linear in eine Koordinatensystem:
 ```
 
 #### Schnittpunkt von 2 Geraden
-Um den Schnittpunkt von 2 Geraden herauszufinden werden die beiden Geraden [[2025-08-19 Mathematik Auffrischungskurs#Geradengleichsetzung|gleichgesetzt]].
+Um den Schnittpunkt von 2 Geraden herauszufinden werden die beiden Geraden [[Gleichungen und Funktionen#Geradengleichsetzung|gleichgesetzt]].
 Dann kann die Gleichung gelöst werden um $x_{s}$ zu erhalten. Als nächstes wird $x_{s}$ in eine der beiden Gleichungen eingesetzt und diese Gleichung wird aufgelöst.
 
 #### Geradengleichsetzung:
