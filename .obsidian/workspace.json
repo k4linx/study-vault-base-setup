@@ -163,16 +163,6 @@
             }
           },
           {
-            "id": "af6c75ac0ea80c4d",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          },
-          {
             "id": "db26e590b2d5f80b",
             "type": "leaf",
             "state": {
@@ -180,6 +170,16 @@
               "state": {},
               "icon": "spreadsheet",
               "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "eebff9af7944ec41",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ],
@@ -207,6 +207,9 @@
   },
   "active": "fa4f5d89d45fb061",
   "lastOpenFiles": [
+    "Ink/Drawing/2025.11.30 - 19.13pm.drawing",
+    "Ink/Drawing",
+    "Ink",
     "Home.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/experimente-bestimmung ersatzschaltbilder.png",
     "Untitled.base",
@@ -242,8 +245,6 @@
     "25HS/Module/spy - scientific python/Scientific Python.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Objektorientierte Programmierung 1.base",
     "25HS/Module/lalg1 - Lineare Algebra 1/Lineare Algebra.base",
-    "25HS/Module/konvE - Konvergenz Elektrotechnik/Konvergenz Elektrotechnik.base",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/Labor Elektrische Messtechnik.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/kurzschlussstrom-bestimmung.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/leerlaufspannung-bestimmung.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/norton-ersatzschaltung.png",
