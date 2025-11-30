@@ -1,5 +1,5 @@
 ---
-zeitplandatum:
+zeitplandatum: <% tp.file.title %>
 tags:
   - zeitplan
 erstelldatum: <% tp.date.now("YYYY-MM-DD") %>

@@ -26,7 +26,7 @@
       "key": "S"
     }
   ],
-  "templater-obsidian:create-templates/schedule/schedule_note.md": [
+  "templater-obsidian:templates/schedule/schedule_note.md": [
     {
       "modifiers": [
         "Mod",
