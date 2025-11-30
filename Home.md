@@ -22,7 +22,8 @@ not done
 ---
 ## 🗓️ Arbeiten auf Zeitplänen
 ```tasks
-filter by tag includes #schedule
+tag includes #schedule
+group by start
 not done
 ```
 
