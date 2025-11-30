@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72fe877978a74d90",
+        "id": "b1a0154e2352350d",
         "type": "tabs",
         "children": [
           {
-            "id": "37a6431d29fe0041",
+            "id": "fa4f5d89d45fb061",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -205,7 +205,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "37a6431d29fe0041",
+  "active": "fa4f5d89d45fb061",
   "lastOpenFiles": [
     "Home.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/experimente-bestimmung ersatzschaltbilder.png",
