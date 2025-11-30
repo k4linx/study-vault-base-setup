@@ -10,7 +10,7 @@ Tags: [aet1, ]
 ---
 ## ✅ ToDo
 ```tasks
-
+not done
 filter by function task.file.folder.includes( query.file.folder)
 group by function task.file.folder.slice(0,-1).split('/').pop()+'/'
 ```

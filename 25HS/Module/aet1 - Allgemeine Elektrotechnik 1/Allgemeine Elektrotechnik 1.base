@@ -3,8 +3,14 @@ filters:
     - and:
         - file.folder.contains("aet1")
         - file.ext == "md"
+formulas:
+  Untitled: ""
 views:
   - type: cards
     name: Cards
+    order:
+      - file.name
+      - tags
+      - formula.Untitled
     imageFit: contain
     cardSize: 800
