@@ -1,11 +1,11 @@
+filters:
+  and:
+    - and:
+        - file.folder.contains("aet1")
+        - file.ext == "md"
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - and:
-            - file.ext == "md"
-            - file.folder.contains("aet1")
     order:
       - file.name
       - tags
@@ -13,3 +13,4 @@ views:
   - type: cards
     name: Cards
     imageFit: contain
+    cardSize: 800
