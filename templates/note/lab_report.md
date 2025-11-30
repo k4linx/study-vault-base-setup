@@ -9,5 +9,4 @@
 
 #### 1.2.2 Messresultate
 
-
 #### 1.2.3 Interpretation
