@@ -20,22 +20,6 @@ not done
 ```
 
 ---
-## 📅 Aktives Semester
-[[25HS - Herbst 2025|25HS]]
-
----
-```meta-bind-button
-  style: primary
-  label: Neues Semester
-  class: centered-button
-  action:
-    type: runTemplaterFile
-    templateFile: templates/semester/semester_template
-```
----
-## 📅 Abgeschlossene Semester
-
----
 ## 🟩 Informationssammlung
 [[Allgemeine Infos]]
 

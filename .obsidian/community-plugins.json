@@ -3,7 +3,6 @@
   "obsidian-tasks-plugin",
   "cmdr",
   "obsidian-meta-bind-plugin",
-  "modalforms",
   "homepage",
   "dataview",
   "obsidian-reminder-plugin",
@@ -17,7 +16,6 @@
   "table-editor-obsidian",
   "callout-manager",
   "better-export-pdf",
-  "image-captions",
   "obsidian-paste-image-rename",
   "obsidian-image-toolkit"
 ]
