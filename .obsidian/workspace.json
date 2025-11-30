@@ -11,15 +11,12 @@
             "id": "e7110bc6aebb1384",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Diverses/Mathematik Auffrischungskurs/2025-08-25 Mathematik Auffrischungskurs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Diverses/Mathematik Auffrischungskurs/Unterlagen/8Vektorgeometrie.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2025-08-25 Mathematik Auffrischungskurs"
+              "icon": "lucide-file-text",
+              "title": "8Vektorgeometrie"
             }
           }
         ]
@@ -79,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 555.5
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -207,8 +204,12 @@
   },
   "active": "e7110bc6aebb1384",
   "lastOpenFiles": [
-    "Diverses/Mathematik Auffrischungskurs/2025-08-26 Mathematik Auffrischungskurs.md",
-    "Diverses/Mathematik Auffrischungskurs/2025-08-25 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-28 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/2025-08-29 Mathematik Auffrischungskurs.md",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/7Trigonometrie.pdf",
+    "Diverses/Mathematik Auffrischungskurs/Unterlagen/6SatzDesPythagorasUndAehnlichkeitBis6-2.pdf",
+    "Diverses/Mathematik Auffrischungskurs/Ähnlichkeit, Strahlensatz & Sinussatz.md",
+    "Diverses/Mathematik Auffrischungskurs/Exponentialfunktionen, Ähnlichkeit & Strahlensatz.md",
     "Diverses/Mathematik Auffrischungskurs/Mathematik Auffrischungskurs.base",
     "Diverses/Mathematik Auffrischungskurs/Potenzgesetze, Wurzeln, Logarithmen & Exponentialfunktionen.md",
     "Diverses/Mathematik Auffrischungskurs/Gleichungssysteme, Ungleichungen & Betrag.md",
@@ -238,17 +239,12 @@
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
     "Untitled 3.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
-    "Untitled 2.md",
-    "templates/note/note_content_template.md",
-    "Untitled 1.md",
-    "templates/scripts/insertTaskTemplate.js",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/kurzschlussstrom-bestimmung.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/leerlaufspannung-bestimmung.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/norton-ersatzschaltung.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/QKL-mit-Ull-und-Iks.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/Thevenin-ersatzschaltung.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/quellen_last_kennlinie.png",
-    "25HS/Zeitpläne",
     "experimente--bestimmung ersatzschaltbilder.png",
     "abschalten-von-quellen.png",
     "Pasted image 20250930110033.png",
