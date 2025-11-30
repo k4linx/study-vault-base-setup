@@ -58,7 +58,7 @@ Werden Quellen abgeschaltet wird die Quelle durch ihren Innenwiderstand ersetzt 
 
 #### Bestimmung $U_{qe} \ I_{qe} \ R_{qe}$ 
 Mit der Bestimmung der Leerlaufspannung, dem Kurzschlussstrom und dem Abschalten der Quellen haben wir 3 Experimente um die Werte für die Ersatzschaltungen zu bestimmen, da $U_{qe}= I_{qe}*R_qe$ gilt (**Achtung:** Das ist nicht das Ohm'sche Gesetz).
-![[experimente--bestimmung ersatzschaltbilder.png#invert]]
+![[experimente-bestimmung ersatzschaltbilder.png#invert]]
 
 #### Quelle und Last
 Sowohl Quelle und Last haben eine Kennlinie. In einem Modell eines Ohm'schen Widerstandes ist die Lastkennlinie Linear also gerade.

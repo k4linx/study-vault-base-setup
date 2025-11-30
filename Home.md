@@ -1,16 +1,11 @@
-## 📥 Inbox
-```dataviewjs
-const folder = "A_Inbox";
-const count = dv.pages(`"${folder}"`).length;
-if(count == 1){
-	dv.paragraph(`📄 Du hast noch **${count}** Dokument in der Inbox zur nachbearbeitung.`);
-}
-else if(count > 1){
-	dv.paragraph(`📄 Du hast noch **${count}** Dokumente in der Inbox zur nachbearbeitung.`);
-} else {
-	dv.paragraph(`Yayyy, leere Inbox 😁`)
-}
+
+## 🗓️ Arbeiten auf Zeitplänen
+```tasks
+tag includes #schedule
+group by file
+not done
 ```
+
 ---
 ## ✅ ToDo
 ```tasks
@@ -21,14 +16,7 @@ not done
 ```
 
 ---
-## 🗓️ Arbeiten auf Zeitplänen
-```tasks
-tag includes #schedule
-group by start
-not done
-```
 
----
 ## 🟩 Informationssammlung
 [[Allgemeine Infos]]
 
