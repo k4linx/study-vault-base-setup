@@ -2,7 +2,7 @@
 ## 🗓️ Arbeiten auf Zeitplänen
 ```tasks
 tag includes #schedule
-group by file
+group by function task.file.Zeitplandatum
 not done
 ```
 
