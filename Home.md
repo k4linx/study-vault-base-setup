@@ -20,6 +20,13 @@ not done
 ```
 
 ---
+## 🗓️ Arbeiten auf Zeitplänen
+```tasks
+filter by tag includes #schedule
+not done
+```
+
+---
 ## 🟩 Informationssammlung
 [[Allgemeine Infos]]
 
