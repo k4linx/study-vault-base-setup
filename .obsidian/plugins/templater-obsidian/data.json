@@ -29,7 +29,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "templates/schedule.md"
+    "templates/schedule.md",
+    "templates/schedule/schedule_note.md"
   ],
   "startup_templates": [
     ""
