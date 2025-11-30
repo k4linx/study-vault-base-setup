@@ -1,1 +1,1 @@
-- [ ] #schedule  <% tp.file.cursor(1) %> [start:: ] [due:: ]
+<% tp.file.cursor(1) %>  [start:: ] [due:: ] #schedule
