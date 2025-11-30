@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - and:
+            - file.ext == "md"
+            - file.folder.contains("aet1")
+    order:
+      - file.name
+      - tags
+    sort: []
+  - type: cards
+    name: Cards
+    imageFit: contain
