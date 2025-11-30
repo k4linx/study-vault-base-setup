@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/schedule/schedule_note.md",
+                "file": "templates/note/programming_note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "schedule_note"
+              "title": "programming_note"
             }
           }
         ]
@@ -207,8 +207,9 @@
   },
   "active": "fa4f5d89d45fb061",
   "lastOpenFiles": [
-    "25HS/Zeitpläne/Untitled.md",
+    "templates/note/math_note.md",
     "templates/schedule/schedule_note.md",
+    "25HS/Zeitpläne/Untitled.md",
     "templates/schedule/schedule_item.md",
     "templates/schedule",
     "25HS/Zeitpläne/2025-12-02.md",
@@ -223,7 +224,6 @@
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/abschalten-von-quellen.png",
     "Ohmsche Wiederstand.md",
     "templates/note/programming_note.md",
-    "templates/note/math_note.md",
     "templates/note/lab_report.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Messauftrag 08 Operationsverstärker - 2025-11-17.md",
     "templates/note/note_content_template.md",
