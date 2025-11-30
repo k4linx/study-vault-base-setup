@@ -1,11 +1,9 @@
-
 ## 🗓️ Arbeiten auf Zeitplänen
 ```tasks
 tag includes #schedule
-group by function task.file.Zeitplandatum
+group by function task.file.property('zeitplandatum')
 not done
 ```
-
 ---
 ## ✅ ToDo
 ```tasks
@@ -14,7 +12,6 @@ filter by function task.file.folder.includes( query.file.folder)
 group by function task.file.folder.slice(0,-1).split('/').pop()
 not done
 ```
-
 ---
 
 ## 🟩 Informationssammlung
