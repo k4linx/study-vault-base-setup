@@ -4,12 +4,6 @@ filters:
         - file.folder.contains("aet1")
         - file.ext == "md"
 views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - tags
-    sort: []
   - type: cards
     name: Cards
     imageFit: contain
