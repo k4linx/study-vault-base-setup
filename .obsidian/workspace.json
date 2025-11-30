@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f6f49fb75709f5c8",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "37baecb9243bca77",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Allgemeine Elektrotechnik 1.base",
-                "viewName": "Cards"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Allgemeine Elektrotechnik 1"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -203,11 +205,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "37baecb9243bca77",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Allgemeine Elektrotechnik 1.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.md",
     "Home.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Allgemeine Elektrotechnik 1.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
     "Untitled 2.md",
     "templates/note/note_content_template.md",
