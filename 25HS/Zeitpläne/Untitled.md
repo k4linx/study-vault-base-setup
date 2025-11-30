@@ -8,5 +8,5 @@
 | 1415 | 1500 | EMTL  | Messauftrag 8 fertigstellen     |          |
 | 1515 | 1600 | AET1  | Zusammenfassungen nachschreiben |          |
 | 1615 | 1715 | AET1  | Zusammenfassungen nachschreiben |          |
-- [ ] #schedule  [start:: 2025-12-02 09:00] [end::2025-12-02 10:00] #aet1 Induktivität und Kapazität lernen 
+- [ ] #schedule  [start::  2025-12-02 09:00] [end:: 2025-12-02 10:00] #aet1 Induktivität und Kapazität lernen 
 - [ ] 
