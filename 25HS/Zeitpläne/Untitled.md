@@ -8,4 +8,4 @@
 | 1415 | 1500 | EMTL  | Messauftrag 8 fertigstellen     |          |
 | 1515 | 1600 | AET1  | Zusammenfassungen nachschreiben |          |
 | 1615 | 1715 | AET1  | Zusammenfassungen nachschreiben |          |
-- [ ] #schedule  
+- [ ] #schedule  [start:: 2025-12-02] 
