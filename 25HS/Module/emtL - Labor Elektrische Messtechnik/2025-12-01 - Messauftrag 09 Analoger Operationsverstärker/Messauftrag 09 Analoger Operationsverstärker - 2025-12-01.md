@@ -19,11 +19,17 @@ tags:
 #### 1.2.3 Interpretation
 
 
-
+## Berechnungsrezept 
 $$
 \begin{align}
 U_{(+)}=0 \\
-U_{(-)}=\frac{U_{a}}{2} \\
-
+U_{(-)}=\frac{U_{a}}{2} \\ 
+U_{(-)} = U_{a}-I\cdot R_{2}= U_{e} + I \cdot R_{1} \\
+I=\frac{U_{a}-U_{e}}{R_{1}+R_{2}} \\
+U_{(-)} = U_{a}-R_{2}\cdot \frac{U_{a}-U_{e}}{R_{1}+R_{2}} \\
+ \\
+0V = U_{a}-R_{2} \cdot \frac{U_{a}-U_{e}}{R_{1}+R_{2}}
+ \\
+ \frac{U_{a}}{U_{e}} = V_{u} \\
 \end{align}
 $$
