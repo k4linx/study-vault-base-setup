@@ -19,20 +19,22 @@ Die Versorgungsspannung des OpAmp muss auf $\pm 12V$ eingestellt werden. Dazu wi
 #### 1.1.1 Schema
 ![[Schema_opamp_invertierend_M1.png#invert]]
 #### 1.1.2 Beschreibung
+Messaufbau gemäss Schema
+
+##### Messgrössen & Messgeräte
 
 | Messgrösse | Einheit | Messgerät           | Farbe |
 | ---------- | ------- | ------------------- | ----- |
 | $U_{2}$    | V       | tektronix MDO34 CH1 | Gelb  |
 | $U_{1}$    | V       | tektronix MDO34 CH2 | Blau  |
+##### Variablen & Quellen
 
-|     | Gerät             |
-| --- | ----------------- |
-|     | Tektronik AFG1062 |
-
-
+| Frequenz        | Funktionsform | Gerät             |
+| --------------- | ------------- | ----------------- |
+| $1Hz$ - $10MHz$ | Sinus         | Tektronik AFG1062 |
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
-Selbstkorrigierender Effekt. 
+Der Invertierende OpAmp sollte die gegebene Eingangsspannung selber korrigieren welches eine um $180°$ verschobene Sinuskurve zur folge hat. Ab einer bestimmten Frequenz 
 #### 1.2.2 Messresultate
 
 #### 1.2.3 Interpretation
