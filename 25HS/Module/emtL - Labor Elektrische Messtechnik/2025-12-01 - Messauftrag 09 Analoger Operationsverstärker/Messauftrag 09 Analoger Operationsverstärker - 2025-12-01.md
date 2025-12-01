@@ -98,7 +98,7 @@ Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 ## 3. Verstärkungsbetrag und Phasenlage bei 1kHz
 ### 3.1 Messaufbau
 #### 3.1.1 Schema
-![[Schema_opamp_invertierend_M1.png#invert|OpAmp Invertierend]]
+![[Schema_opamp_invertierend_M1.png#invert]]
 
 ![[Nichtinvertierender_opamp_M2.png#invert]]
 
