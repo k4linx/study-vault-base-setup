@@ -76,8 +76,10 @@ xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
 ```
 Kurvenverlauf Oszilloskop
-**1Hz**
+**10Hz**
+![[m1a1-1.png]]
 
+**100kHz**
 
 ##### Aufgabe 2
 
