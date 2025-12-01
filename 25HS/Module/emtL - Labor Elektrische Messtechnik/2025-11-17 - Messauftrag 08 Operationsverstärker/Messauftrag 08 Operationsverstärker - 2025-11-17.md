@@ -51,17 +51,17 @@ Messaufbau gemäss Schema
 | R4          | $100k\ohm$ |
 ### 2.2 Messungen
 #### 2.2.1 Messerwartungen
-Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. Wenn nur eine kleine Erhöhung von $U_{ein}$ besteht sollte der OpAmp die Verstärkung nicht triggern. 
+Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. im falle einer kleinen erhöhung der Eingansspannung $U_{ein}$, sollte sich die Ausgangsspannung $U_{aus}$ nicht verändern.
 #### 2.2.2 Messresultate
 
 
 #### 2.2.3 Interpretation
 
 ## 3 Optokoppler
-### 2.1 Messaufbau
-#### 2.1.1 Schema
+### 3.1 Messaufbau
+#### 3.1.1 Schema
 
-#### 2.1.2 Beschreibung
+#### 3.1.2 Beschreibung
 Messaufbau gemäss Schema
 
 | Messgrösse | Messgerät   |
@@ -72,10 +72,10 @@ Messaufbau gemäss Schema
 | ----------- | ------ |
 | R berechnet | 15kOhm |
 
-### 2.2 Messungen
-#### 2.2.1 Messerwartungen
-Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. Wenn nur eine kleine Erhöhung von $U_{ein}$ besteht sollte der OpAmp die Verstärkung nicht triggern. 
-#### 2.2.2 Messresultate
+### 3.2 Messungen
+#### 3.2.1 Messerwartungen
+Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. im falle einer kleinen erhöhung der Eingansspannung $U_{ein}$, sollte sich die Ausgangsspannung $U_{aus}$ nicht verändern.
+#### 3.2.2 Messresultate
 
 
-#### 2.2.3 Interpretation
+#### 3.2.3 Interpretation
