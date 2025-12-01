@@ -8,7 +8,7 @@ tags:
 ## 1. Invertierender Verstärker
 ### 1.1 Messaufbau
 #### 1.1.1 Schema
-
+![[Schema_opamp_invertierend_M1.png#invert]]
 #### 1.1.2 Beschreibung
 
 | Messgrösse | Messgerät |
