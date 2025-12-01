@@ -38,3 +38,20 @@ U_{(-)} = U_{a}-R_{2}\cdot \frac{U_{a}-U_{e}}{R_{1}+R_{2}} \\
  \frac{U_{a}}{U_{e}} = V_{u} \\
 \end{align}
 $$
+## 2. Invertierender Verstärker
+### 1.1 Messaufbau
+#### 1.1.1 Schema
+![[Nichtinvertierender_opamp_M2.png#invert]]
+#### 1.1.2 Beschreibung
+
+| Messgrösse | Einheit | Messgerät           |
+| ---------- | ------- | ------------------- |
+| $U_{2}$    | V       | tektronix MDO34 CH1 |
+| $U_{1}$    | V       | tektronix MDO34 CH1 |
+
+### 1.2 Messungen
+#### 1.2.1 Messerwartungen
+
+#### 1.2.2 Messresultate
+
+#### 1.2.3 Interpretation
