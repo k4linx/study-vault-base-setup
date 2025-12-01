@@ -11,10 +11,10 @@ tags:
 ![[Schema_opamp_invertierend_M1.png#invert]]
 #### 1.1.2 Beschreibung
 
-| Messgrösse | Einheit | Messgerät           |
-| ---------- | ------- | ------------------- |
-| $U_{2}$    | V       | tektronix MDO34 CH1 |
-| $U_{1}$    | V       | tektronix MDO34 CH1 |
+| Messgrösse | Einheit | Messgerät           | Farbe |
+| ---------- | ------- | ------------------- | ----- |
+| $U_{2}$    | V       | tektronix MDO34 CH1 | Gelb  |
+| $U_{1}$    | V       | tektronix MDO34 CH2 | Blau  |
 
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
