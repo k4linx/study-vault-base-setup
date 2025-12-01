@@ -11,18 +11,28 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a2/m1a2-10M.png"
               },
-              "icon": "lucide-file",
-              "title": "Messauftrag 09 Analoger Operationsverstärker - 2025-12-01"
+              "icon": "lucide-image",
+              "title": "m1a2-10M"
+            }
+          },
+          {
+            "id": "65b65d6baa57b84f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a2/m1a2-100k.png"
+              },
+              "icon": "lucide-image",
+              "title": "m1a2-100k"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5,
-    "collapsed": true
+    "width": 555.5
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -206,10 +215,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "390d0ece70ce5c34",
   "lastOpenFiles": [
-    "Home.md",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/Untitled",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m2a2",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m2a1",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a1",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a2/m1a2-10M.png",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a2",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a2/m1a2-100k.png",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a2/m1a2-10.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
+    "Home.md",
     "25HS/Zeitpläne/2025-12-06.md",
     "25HS/Zeitpläne/2025-12-0.md",
     "25HS/Zeitpläne/2025-12-02.md",
@@ -239,20 +256,12 @@
     "Untitled 1.md",
     "Untitled.md",
     "templates/schedule/schedule_item.md",
-    "templates/schedule",
-    "Ink/Drawing/2025.11.30 - 19.13pm.drawing",
-    "Ink/Drawing",
-    "Ink",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/experimente-bestimmung ersatzschaltbilder.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/abschalten-von-quellen.png",
     "Ohmsche Wiederstand.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-20 - Analyse von Gleichstromkreisen 1/Analyse von Gleichstromkreisen 1 - 2025-10-20.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/kurzschlussstrom-bestimmung.png",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/leerlaufspannung-bestimmung.png",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/norton-ersatzschaltung.png",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/QKL-mit-Ull-und-Iks.png",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/Thevenin-ersatzschaltung.png",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/quellen_last_kennlinie.png"
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/norton-ersatzschaltung.png"
   ]
 }
