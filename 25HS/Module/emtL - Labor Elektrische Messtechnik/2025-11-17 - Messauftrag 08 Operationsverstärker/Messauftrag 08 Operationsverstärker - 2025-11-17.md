@@ -1,14 +1,12 @@
 ---
 erstelldatum: 2025-11-17
 tags: emtL
-number headings: auto, first-level 1, max 6, 1.1
 ---
+## 1. OpAmp als Komparator
+### 1.1 Messaufbau
+#### 1.1.1 Schema
 
-## 0.1 OpAmp als Komparator
-### 0.1.1 Messaufbau
-#### 0.1.1.1 Schema
-
-#### 0.1.1.2 Beschreibung
+#### 1.1.2 Beschreibung
 Messaufbau gemäss Schema
 
 | Messgrösse | Messgerät   |
@@ -21,21 +19,21 @@ Messaufbau gemäss Schema
 | ----------- | --------- |
 | R1          | $10k\ohm$ |
 | R2          | $10k\ohm$ |
-### 0.1.2 Messungen
-#### 0.1.2.1 Messerwartungen
+### 1.2 Messungen
+#### 1.2.1 Messerwartungen
 Der OpAmp sollte eine Maximale Ausgangsspannung von ~12V ausgeben.
 
-#### 0.1.2.2 Messresultate
+#### 1.2.2 Messresultate
 
 
-#### 0.1.2.3 Interpretation
+#### 1.2.3 Interpretation
 
 
-## 0.2 Schmitt-Trigger mit OpAmp
-### 0.2.1 Messaufbau
-#### 0.2.1.1 Schema
+## 2. Schmitt-Trigger mit OpAmp
+### 2.1 Messaufbau
+#### 2.1.1 Schema
 
-#### 0.2.1.2 Beschreibung
+#### 2.1.2 Beschreibung
 Messaufbau gemäss Schema
 
 | Messgrösse | Messgerät   |
@@ -50,19 +48,19 @@ Messaufbau gemäss Schema
 | R2          | $10k\ohm$  |
 | R3          | $1.2M\ohm$ |
 | R4          | $100k\ohm$ |
-### 0.2.2 Messungen
-#### 0.2.2.1 Messerwartungen
-Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. im falle einer kleinen erhöhung der Eingansspannung $U_{ein}$, sollte sich die Ausgangsspannung $U_{aus}$ nicht verändern.
-#### 0.2.2.2 Messresultate
+### 2.2 Messungen
+#### 2.2.1 Messerwartungen
+Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. im falle einer kleinen Veränderung der Eingansspannung $U_{ein}$, sollte sich die Ausgangsspannung $U_{aus}$ nicht verändern.
+#### 2.2.2 Messresultate
 
 
-#### 0.2.2.3 Interpretation
+#### 2.2.3 Interpretation
 
-## 0.3 Optokoppler
-### 0.3.1 Messaufbau
-#### 0.3.1.1 Schema
+## 3 Optokoppler
+### 3.1 Messaufbau
+#### 3.1.1 Schema
 
-#### 0.3.1.2 Beschreibung
+#### 3.1.2 Beschreibung
 Messaufbau gemäss Schema
 
 | Messgrösse | Messgerät   |
@@ -73,10 +71,10 @@ Messaufbau gemäss Schema
 | ----------- | ------ |
 | R berechnet | 15kOhm |
 
-### 0.3.2 Messungen
-#### 0.3.2.1 Messerwartungen
+### 3.2 Messungen
+#### 3.2.1 Messerwartungen
 Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. im falle einer kleinen erhöhung der Eingansspannung $U_{ein}$, sollte sich die Ausgangsspannung $U_{aus}$ nicht verändern.
-#### 0.3.2.2 Messresultate
+#### 3.2.2 Messresultate
 
 
-#### 0.3.2.3 Interpretation
+#### 3.2.3 Interpretation
