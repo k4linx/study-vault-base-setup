@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Messauftrag 08 Operationsverstärker - 2025-11-17.md",
+                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Messauftrag 08 Operationsverstärker - 2025-11-17"
+              "title": "Messauftrag 09 Analoger Operationsverstärker - 2025-12-01"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 555.5,
+    "collapsed": true
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -205,15 +206,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "390d0ece70ce5c34",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Messauftrag 08 Operationsverstärker - 2025-11-17.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/Untitled",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/tl071.pdf",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
     "Home.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Messauftrag 08 Operationsverstärker - 2025-11-17.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Allgemeine Elektrotechnik 1.base",
     "25HS/Zeitpläne/2025-12-06.md",
     "25HS/Zeitpläne/2025-12-01.md",
@@ -240,7 +241,6 @@
     "Ink/Drawing",
     "Ink",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/experimente-bestimmung ersatzschaltbilder.png",
-    "Untitled.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Quellen/abschalten-von-quellen.png",
     "Ohmsche Wiederstand.md",
