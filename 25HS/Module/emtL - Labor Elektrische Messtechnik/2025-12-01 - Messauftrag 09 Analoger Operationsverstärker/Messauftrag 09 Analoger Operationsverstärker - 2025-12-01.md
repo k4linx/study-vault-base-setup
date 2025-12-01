@@ -175,6 +175,7 @@ Bei $R_{1}=1k\ohm$ und $R_{2}= 10k\ohm$ ist $V_{u} = 11$. Daraus folgt, die Ampl
 Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 #### 1.2.2 Messresultate
 
+##### Teil 1
 | Frequenz (Hz) | R1 (kΩ) | R2 (kΩ) | R2/R1 | U1 [V] | U2 [V] | Verstärkung [dB] |
 | ------------- | ------- | ------- | ----- | ------ | ------ | ---------------- |
 | 1             | 1       | 1       | 1     | 0.1    | 0.193  | 6                |
@@ -191,6 +192,65 @@ Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 | 300000        | 1       | 1       | 1     | 0.107  | 0.197  | 5                |
 | 1000000       | 1       | 1       | 1     | 0.116  | 0.17   | 3                |
 | 10000000      | 1       | 1       | 1     | 0.099  | 0.023  | -13              |
+^m2a1
+
+```chart
+type: line
+id: m2a1
+layout: columns
+width: 100%
+beginAtZero: true
+select: ["Frequenz [Hz]", "Verstärkung [dB]"]
+xTitle: Frequenz [Hz]
+yTitle: Verstärkung [dB]
+```
+
+**1Hz**
+
+**100kHz**
+
+**1MHz**
+
+**10MHz**
+
+##### Teil 2
+| Frequenz (Hz) | R1 (kΩ) | R2 (kΩ) | R2/R1 | U1 [V] | U2 [V] | Verstärkung [dB] |
+| ------------- | ------- | ------- | ----- | ------ | ------ | ---------------- |
+| 1             | 1       | 10      | 10    | 0.1    | 1.06   | 21               |
+| 3             | 1       | 10      | 10    | 0.1    | 1.06   | 21               |
+| 10            | 1       | 10      | 10    | 0.101  | 1.076  | 21               |
+| 30            | 1       | 10      | 10    | 0.101  | 1.075  | 21               |
+| 100           | 1       | 10      | 10    | 0.1    | 1.068  | 21               |
+| 300           | 1       | 10      | 10    | 0.098  | 1.051  | 21               |
+| 1000          | 1       | 10      | 10    | 0.1    | 1.056  | 20               |
+| 3000          | 1       | 10      | 10    | 0.099  | 1.059  | 21               |
+| 10000         | 1       | 10      | 10    | 0.101  | 1.067  | 20               |
+| 30000         | 1       | 10      | 10    | 0.102  | 1.048  | 20               |
+| 100000        | 1       | 10      | 10    | 0.108  | 0.98   | 19               |
+| 300000        | 1       | 10      | 10    | 0.106  | 0.607  | 15               |
+| 1000000       | 1       | 10      | 10    | 0.105  | 0.188  | 5                |
+| 10000000      | 1       | 10      | 10    | 0.118  | 0.038  | -10              |
+^m2a2
+
+```chart
+type: line
+id: m2a2
+layout: columns
+width: 100%
+beginAtZero: true
+select: ["Frequenz [Hz]", "Verstärkung [dB]"]
+xTitle: Frequenz [Hz]
+yTitle: Verstärkung [dB]
+```
+
+**1Hz**
+
+**100kHz**
+
+**1MHz**
+
+**10MHz**
+
 
 #### 1.2.3 Interpretation
 
