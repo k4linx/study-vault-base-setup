@@ -77,7 +77,7 @@ yTitle: Verstärkung [dB]
 ```
 Kurvenverlauf Oszilloskop
 **10Hz**
-![[m1a1-1.png]]
+![[m1a1-1.png|]]
 
 **100kHz**
 
