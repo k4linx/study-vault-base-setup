@@ -98,26 +98,16 @@ Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 ## 3. Verstärkungsbetrag und Phasenlage bei 1kHz
 ### 3.1 Messaufbau
 #### 3.1.1 Schema
-![[Schema_opamp_invertierend_M1.png#invert|Invertierender OpAmp]]
+##### Invertierender OpAmp
+![[Schema_opamp_invertierend_M1.png#invert]]
 
 
+##### Nicht-invertiernder OpAmp
 ![[Nichtinvertierender_opamp_M2.png#invert]]
 
 #### 3.1.2 Beschreibung
+die beiden Versuchsaufbauten aus den [[#1. Invertierender Verstärker|Versuch 1]] und [[#2. Invertierender Verstärker|Versuch 2]] wurden zur klarheit erneut dargestellt. In diesem Kapitel werden nun auf den [[#1. Invertierender Verstärker|Versuchen 1]] und [[#2. Invertierender Verstärker|2]] aufbauend  berechnungen gemacht **TODO: erklärung was berechnet wird**
 
-| Messgrösse | Einheit | Messgerät           |
-| ---------- | ------- | ------------------- |
-| $U_{2}$    | V       | tektronix MDO34 CH1 |
-| $U_{1}$    | V       | tektronix MDO34 CH1 |
-
-|     | Gerät             |
-| --- | ----------------- |
-|     | Tektronik AFG1062 |
-
-
-### 3.2 Messungen
-#### 3.2.1 Messerwartungen
-
-#### 3.2.2 Messresultate
+### 3.2 Berechnungen
 
 #### 3.2.3 Interpretation
