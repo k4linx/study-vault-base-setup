@@ -78,9 +78,11 @@ yTitle: Verstärkung [dB]
 Kurvenverlauf Oszilloskop
 **10Hz**
 
-![[m1a1-1.png|fit]]
-
 **100kHz**
+
+**1Mhz**
+
+**10MHz**
 
 ##### Aufgabe 2
 
@@ -112,10 +114,22 @@ select: ["Frequenz [Hz]", "Verstärkung [dB]"]
 xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
 ```
+**10Hz**
+![[m1a2-10.png]]
+Der OpAmp korrigiert das gegebene Eingangssignal mit dem Faktor $11$ zu $0$ zurück.
 
+**100kHz**
+![[m1a2-100k.png]]
+Erste Anzeichen das der OpAmp nicht schnell genug korrigieren kann werden bei 100kHz sichtbar. es zeichnet sich eine schwache Phasenverschiebung ab.
+
+**10MHz**
+![[m1a2-10M.png]]
+Bei 10MHz kann der OpAmp das Eingangssignal nicht mehr richtig korrigieren. Deshalb wird die Sinuskurve auch fast flach.
 
 #### 1.2.3 Interpretation
-Die Verstärkung
+Die Messresultate der Teile 1 und zwei decken sich mit den Messerwartungen. Die Frequenz an welcher der OpAmp das Signal nicht mehr perfekt korrigieren kann liegt bei $100kHz$. 
+
+Beim Teil 3 ist das Resultat $5.5V$ unter dem erwarteten Resultat von $24V$ bei $18.5V$.
 
 ## Berechnungsrezept Verstärkungsfaktor
 $$
@@ -152,14 +166,31 @@ Messaufbau gemäss Schema.
 #### 1.2.1 Messerwartungen
 Der Nichtinvertierende OpAmp sollte das Eingangssignal um den Verstärkungsfaktor $V_{u} = 1 + \frac{R_{2}}{R_{1}}$ verstärken.
 
-**Aufgabe 1**
+**Teil 1**
 Bei $R_{1}=R_{2}= 1k\ohm$ ist der Verstärkungsfaktor $V_{u} =2$. Daraus folgt das die Amplitude des Ausgangssignals um den Faktor $2$ grösser ist als das Eingangssignal.
 Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 
-**Aufgabe 2**
+**Teil 2**
 Bei $R_{1}=1k\ohm$ und $R_{2}= 10k\ohm$ ist $V_{u} = 11$. Daraus folgt, die Amplitude ist um den Faktor $11$ grösser als das Eingangssignal. 
 Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 #### 1.2.2 Messresultate
+
+| Frequenz (Hz) | R1 (kΩ) | R2 (kΩ) | R2/R1 | U1 [V] | U2 [V] | Verstärkung [dB] |
+| ------------- | ------- | ------- | ----- | ------ | ------ | ---------------- |
+| 1             | 1       | 1       | 1     | 0.1    | 0.193  | 6                |
+| 3             | 1       | 1       | 1     | 0.102  | 0.195  | 6                |
+| 10            | 1       | 1       | 1     | 0.102  | 0.195  | 6                |
+| 30            | 1       | 1       | 1     | 0.102  | 0.196  | 6                |
+| 100           | 1       | 1       | 1     | 0.102  | 0.196  | 6                |
+| 300           | 1       | 1       | 1     | 0.101  | 0.194  | 6                |
+| 1000          | 1       | 1       | 1     | 0.1    | 0.192  | 6                |
+| 3000          | 1       | 1       | 1     | 0.101  | 0.195  | 6                |
+| 10000         | 1       | 1       | 1     | 0.102  | 0.196  | 6                |
+| 30000         | 1       | 1       | 1     | 0.101  | 0.192  | 6                |
+| 100000        | 1       | 1       | 1     | 0.11   | 0.201  | 5                |
+| 300000        | 1       | 1       | 1     | 0.107  | 0.197  | 5                |
+| 1000000       | 1       | 1       | 1     | 0.116  | 0.17   | 3                |
+| 10000000      | 1       | 1       | 1     | 0.099  | 0.023  | -13              |
 
 #### 1.2.3 Interpretation
 
