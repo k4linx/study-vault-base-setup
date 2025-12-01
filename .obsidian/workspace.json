@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bab29e3565c2db94",
+        "id": "63ade3c1788e1ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "658e4458dd0a1a72",
+            "id": "a47a3418e1736570",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a1/m1a1-1.png"
+                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "m1a1-1"
+              "icon": "lucide-file",
+              "title": "Messauftrag 09 Analoger Operationsverstärker - 2025-12-01"
             }
           }
         ]
@@ -202,10 +205,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "658e4458dd0a1a72",
+  "active": "a47a3418e1736570",
   "lastOpenFiles": [
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a1/m1a1-100k.png",
+    "Home.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a1/m1a1-1.png",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a1/m1a1-100k.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a1/m1a1-10M.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a1/m1a1-1M.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
@@ -220,7 +224,6 @@
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m2a1",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a1",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Quellen/m1a2",
-    "Home.md",
     "25HS/Zeitpläne/2025-12-06.md",
     "25HS/Zeitpläne/2025-12-0.md",
     "25HS/Zeitpläne/2025-12-02.md",
