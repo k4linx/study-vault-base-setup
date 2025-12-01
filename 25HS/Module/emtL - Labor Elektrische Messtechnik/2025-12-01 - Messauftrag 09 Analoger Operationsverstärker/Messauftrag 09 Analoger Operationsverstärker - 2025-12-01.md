@@ -44,7 +44,8 @@ Bei $R_{2}=10k\ohm$ ist der Verstärkungsfaktor $-10$. Das hat zur folge das die
 **Aufgabe 3**
 Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 #### 1.2.2 Messresultate
-**Aufgabe 1**
+
+##### Aufgabe 1
 
 | Frequenz | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung |
 | -------- | ----------------- | ----------------- | --------------- | ------------- | ------------- | ----------- |
@@ -62,6 +63,20 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 | 300000   | 1                 | 1                 | 1               | 0.101         | 0.094         | -1          |
 | 1000000  | 1                 | 1                 | 1               | 0.101         | 0.082         | -2          |
 | 10000000 | 1                 | 1                 | 1               | 0.09          | 0.0033        | -29         |
+^m1a1
+
+```chart
+type: line
+id: m1a1
+layout: columns
+width: 100%
+beginAtZero: true
+select: ["Frequenz", "Verstärkung"]
+```
+##### Aufgabe 2
+
+| Frequenz | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung |
+| -------- | ----------------- | ----------------- | --------------- | ------------- | ------------- | ----------- |
 | 1        | 1                 | 10                | 10              | 0.088         | 0.94          | 21          |
 | 3        | 1                 | 10                | 10              | 0.088         | 0.943         | 21          |
 | 10       | 1                 | 10                | 10              | 0.087         | 0.933         | 21          |
@@ -76,17 +91,18 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 | 300000   | 1                 | 10                | 10              | 0.096         | 0.556         | 15          |
 | 1000000  | 1                 | 10                | 10              | 0.096         | 0.18          | 5           |
 | 10000000 | 1                 | 10                | 10              | 0.092         | 0.012         | -17.692     |
-^m1a1
-
+^m1a2
 
 ```chart
+title: "Aufgabe 2"
 type: line
-id: m1a1
+id: m1a2
 layout: columns
 width: 100%
 beginAtZero: true
 select: ["Frequenz", "Verstärkung"]
 ```
+
 
 #### 1.2.3 Interpretation
 
