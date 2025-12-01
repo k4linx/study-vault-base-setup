@@ -94,7 +94,7 @@ select: ["Frequenz", "Verstärkung"]
 ^m1a2
 
 ```chart
-title: "Aufgabe 2"
+
 type: line
 id: m1a2
 layout: columns
