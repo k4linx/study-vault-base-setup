@@ -72,6 +72,8 @@ layout: columns
 width: 100%
 beginAtZero: true
 select: ["Frequenz", "Verstärkung"]
+xTitle: Frequenz [Hz]
+yTitle: Verstärkung [dB]
 ```
 ##### Aufgabe 2
 
@@ -94,13 +96,14 @@ select: ["Frequenz", "Verstärkung"]
 ^m1a2
 
 ```chart
-
 type: line
 id: m1a2
 layout: columns
 width: 100%
 beginAtZero: true
 select: ["Frequenz", "Verstärkung"]
+xTitle: Frequenz [Hz]
+yTitle: Verstärkung [dB]
 ```
 
 
