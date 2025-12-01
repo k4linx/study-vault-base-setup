@@ -34,7 +34,7 @@ Messaufbau gemäss Schema
 | $1Hz$ - $10MHz$ | Sinus         | Tektronik AFG1062 |
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
-Der Invertierende OpAmp sollte die gegebene Eingangsspannung selber korrigieren welches eine um $180°$ verschobene Sinuskurve zur folge hat. Ab einer bestimmten Frequenz sollte sich eine deutliche Phasenverschiebung abzeichnen und die Korrektur Eigenschaft des OpAmps kann nicht mehr greifen da das Signal zu schnell wechselt.
+Der Invertierende OpAmp sollte die gegebene Eingangsspannung selber korrigieren welches eine um $180°$ verschobene Sinuskurve zur folge hat. Der Verstärkungsfaktor der Ausgansspannung $V_{u}=\frac{-R_{1}}{R_{2}}$ 
 #### 1.2.2 Messresultate
 
 #### 1.2.3 Interpretation
