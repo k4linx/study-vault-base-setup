@@ -46,6 +46,16 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 #### 1.2.2 Messresultate
 **Aufgabe 1**
 
+|     |     |
+| --- | --- |
+|     |     |
+^m1a1
+```chart
+type: line
+id: m1a1
+
+```
+
 #### 1.2.3 Interpretation
 
 
