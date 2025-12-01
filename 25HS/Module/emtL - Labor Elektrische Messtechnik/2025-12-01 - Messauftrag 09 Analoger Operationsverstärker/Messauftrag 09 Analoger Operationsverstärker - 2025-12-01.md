@@ -75,6 +75,8 @@ select: ["Frequenz [Hz]", "Verstärkung [dB]"]
 xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
 ```
+Kurvenverlauf Oszilloskop
+**1Hz**
 
 
 ##### Aufgabe 2
