@@ -4,7 +4,16 @@ tags:
   - analog
   - opamp
 ---
+## Vorbereitungsarbeiten
+### Netzgerät aus Serie Betrieb schalten
+CH1 und CH2 müssen mittels brücke von CH1(-) zu CH2(+) geschaltet werden. CH1(+) wird zu $V_{cc+}$, CH2(-) wird zu $V_{cc-}$.
+Zusätzlich muss die Serieschaltung der CH1 & 2 eingeschaltet werden.
+### Versorgungsspannung einstellen
+Die Versorgungsspannung des OpAmp muss auf $\pm 12V$ eingestellt werden. Dazu wird ein Messgerät (siehe Tabelle 1) direkt am Labornetzgerät angeschlossen und die Versorgungsspannung direkt gemessen.
 
+| Messgrösse | Einheit | Messgerät            |
+| ---------- | ------- | -------------------- |
+| $U_{BATT}$ | V       | UNI-T UT61B (IADM06) |
 ## 1. Invertierender Verstärker
 ### 1.1 Messaufbau
 #### 1.1.1 Schema
@@ -16,6 +25,11 @@ tags:
 | $U_{2}$    | V       | tektronix MDO34 CH1 | Gelb  |
 | $U_{1}$    | V       | tektronix MDO34 CH2 | Blau  |
 
+|     | Gerät             |
+| --- | ----------------- |
+|     | Tektronik AFG1062 |
+
+
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
 Selbstkorrigierender Effekt. 
@@ -24,7 +38,7 @@ Selbstkorrigierender Effekt.
 #### 1.2.3 Interpretation
 
 
-## Berechnungsrezept 
+## Berechnungsrezept Verstärkungsfaktor
 $$
 \begin{align}
 U_{(+)}=0 \\
@@ -48,6 +62,35 @@ $$
 | ---------- | ------- | ------------------- |
 | $U_{2}$    | V       | tektronix MDO34 CH1 |
 | $U_{1}$    | V       | tektronix MDO34 CH1 |
+
+|     | Gerät             |
+| --- | ----------------- |
+|     | Tektronik AFG1062 |
+
+
+### 1.2 Messungen
+#### 1.2.1 Messerwartungen
+
+#### 1.2.2 Messresultate
+
+#### 1.2.3 Interpretation
+
+
+## 3. Verstärkungsbetrag und Phasenlage bei 1kHz
+### 1.1 Messaufbau
+#### 1.1.1 Schema
+![[Nichtinvertierender_opamp_M2.png#invert]]
+#### 1.1.2 Beschreibung
+
+| Messgrösse | Einheit | Messgerät           |
+| ---------- | ------- | ------------------- |
+| $U_{2}$    | V       | tektronix MDO34 CH1 |
+| $U_{1}$    | V       | tektronix MDO34 CH1 |
+
+|     | Gerät             |
+| --- | ----------------- |
+|     | Tektronik AFG1062 |
+
 
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
