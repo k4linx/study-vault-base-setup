@@ -33,9 +33,16 @@ Messaufbau gemäss Schema
 | $1Hz$ - $10MHz$ | Sinus         | Tektronik AFG1062 |
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
-Der Invertierende OpAmp sollte die gegebene Eingangsspannung selber korrigieren welches eine um $180°$ verschobene Sinuskurve zur folge hat. 
+Der Invertierende OpAmp sollte die gegebene Eingangsspannung selber korrigieren welches eine um $180°$ verschobene Sinuskurve zur folge hat. Dieses Resultat wird sich bis zu einer bestimmten Frequenz $\pm$ wiederholen. Aufgrund der Technischen Limiten des OpAmps, wird eine Phasenverschiebung stattfinden weil der OpAmp nicht schnell genug korrigieren kann. Dadurch wird der Verstärkungsfaktor nicht mehr stimmen.
+
+**Aufgabe 1**
 Der Verstärkungsfaktor $V_{u}=\frac{-R_{2}}{R_{1}}$ bei $R_{1}=R_{2}=1k\ohm$ ist $-1$. Das hat zur folge das die um $180°$ verschobene Sinuskurve die gleiche Amplitude hat wie das Eingangssignal.
+
+**Aufgabe 2**
 Bei $R_{2}=10k\ohm$ ist der Verstärkungsfaktor $-10$. Das hat zur folge das die um $180°$ verschobene Sinuskurve eine um den Faktor $10$ grössere Amplitude hat als das Eingangssignal.
+
+**Aufgabe 3**
+Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 #### 1.2.2 Messresultate
 
 #### 1.2.3 Interpretation
@@ -75,20 +82,26 @@ Messaufbau gemäss Schema.
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
 Der Nichtinvertierende OpAmp sollte das Eingangssignal um den Verstärkungsfaktor $V_{u} = 1 + \frac{R_{2}}{R_{1}}$ verstärken.
+
+**Aufgabe 1**
 Bei $R_{1}=R_{2}= 1k\ohm$ ist der Verstärkungsfaktor $V_{u} =2$. Daraus folgt das die Amplitude des Ausgangssignals um den Faktor $2$ grösser ist als das Eingangssignal.
-Bei $R_{1}=1k\ohm$ und $R_{2}= 10k\ohm$ ist $V_{u} = 11$. Daraus folgt, die Amplitude ist um den Faktor $11$ grösser als das Eingangssignal.
+Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
+
+**Aufgabe 2**
+Bei $R_{1}=1k\ohm$ und $R_{2}= 10k\ohm$ ist $V_{u} = 11$. Daraus folgt, die Amplitude ist um den Faktor $11$ grösser als das Eingangssignal. 
+Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 #### 1.2.2 Messresultate
 
 #### 1.2.3 Interpretation
 
 
 ## 3. Verstärkungsbetrag und Phasenlage bei 1kHz
-### 1.1 Messaufbau
-#### 1.1.1 Schema
+### 3.1 Messaufbau
+#### 3.1.1 Schema
 ![[Schema_opamp_invertierend_M1.png#invert]]
 ![[Nichtinvertierender_opamp_M2.png#invert]]
 
-#### 1.1.2 Beschreibung
+#### 3.1.2 Beschreibung
 
 | Messgrösse | Einheit | Messgerät           |
 | ---------- | ------- | ------------------- |
@@ -100,9 +113,9 @@ Bei $R_{1}=1k\ohm$ und $R_{2}= 10k\ohm$ ist $V_{u} = 11$. Daraus folgt, die Ampl
 |     | Tektronik AFG1062 |
 
 
-### 1.2 Messungen
-#### 1.2.1 Messerwartungen
+### 3.2 Messungen
+#### 3.2.1 Messerwartungen
 
-#### 1.2.2 Messresultate
+#### 3.2.2 Messresultate
 
-#### 1.2.3 Interpretation
+#### 3.2.3 Interpretation
