@@ -17,15 +17,6 @@
       "key": "T"
     }
   ],
-  "templater-obsidian:templates/schedule.md": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
   "templater-obsidian:templates/schedule/schedule_note.md": [
     {
       "modifiers": [
@@ -33,6 +24,15 @@
         "Shift"
       ],
       "key": "A"
+    }
+  ],
+  "templater-obsidian:templates/schedule/schedule_item.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
     }
   ]
 }
