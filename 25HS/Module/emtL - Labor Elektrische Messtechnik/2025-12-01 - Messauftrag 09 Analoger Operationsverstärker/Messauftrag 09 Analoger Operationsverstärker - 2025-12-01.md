@@ -34,7 +34,7 @@ Messaufbau gemäss Schema
 | $1Hz$ - $10MHz$ | Sinus         | Tektronik AFG1062 |
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
-Der Invertierende OpAmp sollte die gegebene Eingangsspannung selber korrigieren welches eine um $180°$ verschobene Sinuskurve zur folge hat. Ab einer bestimmten Frequenz 
+Der Invertierende OpAmp sollte die gegebene Eingangsspannung selber korrigieren welches eine um $180°$ verschobene Sinuskurve zur folge hat. Ab einer bestimmten Frequenz sollte sich eine deutliche Phasenverschiebung abzeichnen und die Korrektur Eigenschaft des OpAmps kann nicht mehr greifen da das Signal zu schnell wechselt.
 #### 1.2.2 Messresultate
 
 #### 1.2.3 Interpretation
@@ -59,15 +59,20 @@ $$
 #### 1.1.1 Schema
 ![[Nichtinvertierender_opamp_M2.png#invert]]
 #### 1.1.2 Beschreibung
+Aufbau gemäss Schema.
+
+##### Messgrössen & Messgeräte
 
 | Messgrösse | Einheit | Messgerät           |
 | ---------- | ------- | ------------------- |
 | $U_{2}$    | V       | tektronix MDO34 CH1 |
 | $U_{1}$    | V       | tektronix MDO34 CH1 |
 
-|     | Gerät             |
-| --- | ----------------- |
-|     | Tektronik AFG1062 |
+##### Variablen
+
+| Frequenz        | Funktionsform | Gerät             |
+| --------------- | ------------- | ----------------- |
+| $1Hz$ - $10MHz$ | Sinus         | Tektronik AFG1062 |
 
 
 ### 1.2 Messungen
