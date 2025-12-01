@@ -20,7 +20,6 @@ Die Versorgungsspannung des OpAmp muss auf $\pm 12V$ eingestellt werden. Dazu wi
 ![[Schema_opamp_invertierend_M1.png#invert]]
 #### 1.1.2 Beschreibung
 Messaufbau gemäss Schema
-
 ##### Messgrössen & Messgeräte
 
 | Messgrösse | Einheit | Messgerät           | Farbe |
@@ -34,7 +33,9 @@ Messaufbau gemäss Schema
 | $1Hz$ - $10MHz$ | Sinus         | Tektronik AFG1062 |
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
-Der Invertierende OpAmp sollte die gegebene Eingangsspannung selber korrigieren welches eine um $180°$ verschobene Sinuskurve zur folge hat. Der Verstärkungsfaktor der Ausgansspannung $V_{u}=\frac{-R_{1}}{R_{2}}$ 
+Der Invertierende OpAmp sollte die gegebene Eingangsspannung selber korrigieren welches eine um $180°$ verschobene Sinuskurve zur folge hat. 
+Der Verstärkungsfaktor $V_{u}=\frac{-R_{2}}{R_{1}}$ bei $R_{1}=R_{2}=1k\ohm$ ist $-1$. Das hat zur folge das die um $180°$ verschobene Sinuskurve die gleiche Amplitude hat wie das Eingangssignal.
+Bei $R_{2}=10k\ohm$ ist der Verstärkungsfaktor $-10$. Das hat zur folge das die um $180°$ verschobene Sinuskurve eine um den Faktor $10$ grössere Amplitude hat als das Eingangssignal.
 #### 1.2.2 Messresultate
 
 #### 1.2.3 Interpretation
@@ -59,25 +60,23 @@ $$
 #### 1.1.1 Schema
 ![[Nichtinvertierender_opamp_M2.png#invert]]
 #### 1.1.2 Beschreibung
-Aufbau gemäss Schema.
-
+Messaufbau gemäss Schema.
 ##### Messgrössen & Messgeräte
 
 | Messgrösse | Einheit | Messgerät           |
 | ---------- | ------- | ------------------- |
 | $U_{2}$    | V       | tektronix MDO34 CH1 |
 | $U_{1}$    | V       | tektronix MDO34 CH1 |
-
 ##### Variablen
 
 | Frequenz        | Funktionsform | Gerät             |
 | --------------- | ------------- | ----------------- |
 | $1Hz$ - $10MHz$ | Sinus         | Tektronik AFG1062 |
-
-
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
-
+Der Nichtinvertierende OpAmp sollte das Eingangssignal um den Verstärkungsfaktor $V_{u} = 1 + \frac{R_{2}}{R_{1}}$ verstärken.
+Bei $R_{1}=R_{2}= 1k\ohm$ ist der Verstärkungsfaktor $V_{u} =2$. Daraus folgt das die Amplitude des Ausgangssignals um den Faktor $2$ grösser ist als das Eingangssignal.
+Bei $R_{1}=1k\ohm$ und $R_{2}= 10k\ohm$ ist $V_{u} = 11$. Daraus folgt, die Amplitude ist um den Faktor $11$ grösser als das Eingangssignal.
 #### 1.2.2 Messresultate
 
 #### 1.2.3 Interpretation
@@ -86,7 +85,9 @@ Aufbau gemäss Schema.
 ## 3. Verstärkungsbetrag und Phasenlage bei 1kHz
 ### 1.1 Messaufbau
 #### 1.1.1 Schema
+![[Schema_opamp_invertierend_M1.png#invert]]
 ![[Nichtinvertierender_opamp_M2.png#invert]]
+
 #### 1.1.2 Beschreibung
 
 | Messgrösse | Einheit | Messgerät           |
