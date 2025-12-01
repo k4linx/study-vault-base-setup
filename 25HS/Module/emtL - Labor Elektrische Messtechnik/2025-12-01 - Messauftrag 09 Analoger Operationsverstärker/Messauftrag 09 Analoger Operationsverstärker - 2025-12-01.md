@@ -17,3 +17,13 @@ tags:
 #### 1.2.2 Messresultate
 
 #### 1.2.3 Interpretation
+
+
+
+$$
+\begin{align}
+U_{(+)}=0 \\
+U_{(-)}=\frac{U_{a}}{2} \\
+
+\end{align}
+$$
