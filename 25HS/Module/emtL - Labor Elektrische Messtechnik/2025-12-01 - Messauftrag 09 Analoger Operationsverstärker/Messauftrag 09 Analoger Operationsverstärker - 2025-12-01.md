@@ -52,6 +52,7 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 #### 1.2.2 Messresultate { .landscape }
 ##### Messdaten Teil 1
 
+
 | Frequenz (Hz) | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 1kohm(dB) | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 10kohm(dB) |
 | ------------- | ----------------- | ----------------- | --------------- | ------------- | ------------- | ------------------------ | ----------------- | ----------------- | --------------- | ------------- | ------------- | ------------------------- |
 | 1             | 1                 | 1                 | 1               | 0.0875        | 0.086         | 0                        | 1                 | 10                | 10              | 0.088         | 0.94          | 21                        |
