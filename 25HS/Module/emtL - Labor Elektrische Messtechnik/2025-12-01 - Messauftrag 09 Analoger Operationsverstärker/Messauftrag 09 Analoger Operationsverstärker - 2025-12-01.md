@@ -70,8 +70,6 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 | 10000000      | 1                 | 1                 | 1               | 0.09          | 0.0033        | -29                      | 1                 | 10                | 10              | 0.092         | 0.012         | -17.692                   |
 ^m1a1
 
-<div class="page-break" style="page-break-before: always;"></div>
-
 ```chart
 type: line
 id: m1a1

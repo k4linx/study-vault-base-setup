@@ -1,0 +1,12 @@
+@media print {
+    table {
+        max-width: 100% !important;
+        width: 100% !important;
+        table-layout: fixed;
+    }
+
+    div:has(table) {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+}
