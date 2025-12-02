@@ -1,11 +1,7 @@
 {
   "enabledCssSnippets": [
     "centeredFolder",
-    "centeredButton",
-    "MCL Gallery Cards",
-    "MCL Multi Column",
-    "MCL Wide Views",
-    "White Background Image"
+    "centeredButton"
   ],
   "accentColor": "#48683b",
   "translucency": false,

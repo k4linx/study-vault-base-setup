@@ -76,17 +76,17 @@ xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
 ```
 Kurvenverlauf Oszilloskop
-**10Hz**
-
+**1Hz**
+![[m1a1-1.png]]
 **100kHz**
-
+![[m1a1-100k.png]]
 **1Mhz**
-
+![[m1a1-1M.png]]
 **10MHz**
+![[m1a1-10M.png]]
+##### Messdaten Teil 2
 
-##### Aufgabe 2
-
-| Frequenz [Hz] | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung [dB] |
+| Frequenz [Hz] | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung [dB] 
 | ------------- | ----------------- | ----------------- | --------------- | ------------- | ------------- | ---------------- |
 | 1             | 1                 | 10                | 10              | 0.088         | 0.94          | 21               |
 | 3             | 1                 | 10                | 10              | 0.088         | 0.943         | 21               |
@@ -167,7 +167,7 @@ Messaufbau gemäss Schema.
 Der Nichtinvertierende OpAmp sollte das Eingangssignal um den Verstärkungsfaktor $V_{u} = 1 + \frac{R_{2}}{R_{1}}$ verstärken.
 
 **Teil 1**
-Bei $R_{1}=R_{2}= 1k\ohm$ ist der Verstärkungsfaktor $V_{u} =2$. Daraus folgt das die Amplitude des Ausgangssignals um den Faktor $2$ grösser ist als das Eingangssignal.
+Bei $R_{1}=R_{2}= 1k\ohm$ ist der Verstärkungsfaktor $V_{u} =2$. Daraus folgt dass die Amplitude des Ausgangssignals um den Faktor $2$ grösser ist als das Eingangssignal.
 Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 
 **Teil 2**
@@ -175,23 +175,23 @@ Bei $R_{1}=1k\ohm$ und $R_{2}= 10k\ohm$ ist $V_{u} = 11$. Daraus folgt, die Ampl
 Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 #### 1.2.2 Messresultate
 
-##### Teil 1
-| Frequenz (Hz) | R1 (kΩ) | R2 (kΩ) | R2/R1 | U1 [V] | U2 [V] | Verstärkung [dB] |
-| ------------- | ------- | ------- | ----- | ------ | ------ | ---------------- |
-| 1             | 1       | 1       | 1     | 0.1    | 0.193  | 6                |
-| 3             | 1       | 1       | 1     | 0.102  | 0.195  | 6                |
-| 10            | 1       | 1       | 1     | 0.102  | 0.195  | 6                |
-| 30            | 1       | 1       | 1     | 0.102  | 0.196  | 6                |
-| 100           | 1       | 1       | 1     | 0.102  | 0.196  | 6                |
-| 300           | 1       | 1       | 1     | 0.101  | 0.194  | 6                |
-| 1000          | 1       | 1       | 1     | 0.1    | 0.192  | 6                |
-| 3000          | 1       | 1       | 1     | 0.101  | 0.195  | 6                |
-| 10000         | 1       | 1       | 1     | 0.102  | 0.196  | 6                |
-| 30000         | 1       | 1       | 1     | 0.101  | 0.192  | 6                |
-| 100000        | 1       | 1       | 1     | 0.11   | 0.201  | 5                |
-| 300000        | 1       | 1       | 1     | 0.107  | 0.197  | 5                |
-| 1000000       | 1       | 1       | 1     | 0.116  | 0.17   | 3                |
-| 10000000      | 1       | 1       | 1     | 0.099  | 0.023  | -13              |
+##### Messdaten Teil 1
+| Frequenz (Hz) | R1 (kΩ) | R2 (kΩ) | R2/R1 | U1 [V] | U2 [V] | Verstärkung [dB] | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung  2[dB] |
+| ------------- | ------- | ------- | ----- | ------ | ------ | ---------------- | ----------------- | ----------------- | --------------- | ------------- | ------------- | ------------------ |
+| 1             | 1       | 1       | 1     | 0.1    | 0.193  | 6                | 1                 | 10                | 10              | 0.1           | 1.06          | 21                 |
+| 3             | 1       | 1       | 1     | 0.102  | 0.195  | 6                | 1                 | 10                | 10              | 0.1           | 1.06          | 21                 |
+| 10            | 1       | 1       | 1     | 0.102  | 0.195  | 6                | 1                 | 10                | 10              | 0.101         | 1.076         | 21                 |
+| 30            | 1       | 1       | 1     | 0.102  | 0.196  | 6                | 1                 | 10                | 10              | 0.101         | 1.075         | 21                 |
+| 100           | 1       | 1       | 1     | 0.102  | 0.196  | 6                | 1                 | 10                | 10              | 0.1           | 1.068         | 21                 |
+| 300           | 1       | 1       | 1     | 0.101  | 0.194  | 6                | 1                 | 10                | 10              | 0.098         | 1.051         | 21                 |
+| 1000          | 1       | 1       | 1     | 0.1    | 0.192  | 6                | 1                 | 10                | 10              | 0.1           | 1.056         | 20                 |
+| 3000          | 1       | 1       | 1     | 0.101  | 0.195  | 6                | 1                 | 10                | 10              | 0.099         | 1.059         | 21                 |
+| 10000         | 1       | 1       | 1     | 0.102  | 0.196  | 6                | 1                 | 10                | 10              | 0.101         | 1.067         | 20                 |
+| 30000         | 1       | 1       | 1     | 0.101  | 0.192  | 6                | 1                 | 10                | 10              | 0.102         | 1.048         | 20                 |
+| 100000        | 1       | 1       | 1     | 0.11   | 0.201  | 5                | 1                 | 10                | 10              | 0.108         | 0.98          | 19                 |
+| 300000        | 1       | 1       | 1     | 0.107  | 0.197  | 5                | 1                 | 10                | 10              | 0.106         | 0.607         | 15                 |
+| 1000000       | 1       | 1       | 1     | 0.116  | 0.17   | 3                | 1                 | 10                | 10              | 0.105         | 0.188         | 5                  |
+| 10000000      | 1       | 1       | 1     | 0.099  | 0.023  | -13              | 1                 | 10                | 10              | 0.118         | 0.038         | -10                |
 ^m2a1
 
 ```chart
@@ -200,7 +200,7 @@ id: m2a1
 layout: columns
 width: 100%
 beginAtZero: true
-select: ["Frequenz [Hz]", "Verstärkung [dB]"]
+select: ["Frequenz [Hz]", "Verstärkung [dB]", "Verstärkung 2 [dB]"]
 xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
 ```
@@ -208,12 +208,12 @@ yTitle: Verstärkung [dB]
 **1Hz**
 ![[m2a1-1.jpeg|100% ]]
 **100kHz**
-
+![[m2a1-100k.png]]
 **1MHz**
-
+![[m2a1-1M.png]]
 **10MHz**
-
-##### Teil 2
+![[m2a1-10M.jpeg]]
+##### Messdaten Teil 2
 | Frequenz (Hz) | R1 (kΩ) | R2 (kΩ) | R2/R1 | U1 [V] | U2 [V] | Verstärkung [dB] |
 | ------------- | ------- | ------- | ----- | ------ | ------ | ---------------- |
 | 1             | 1       | 10      | 10    | 0.1    | 1.06   | 21               |
@@ -253,7 +253,7 @@ yTitle: Verstärkung [dB]
 ![[m2a2-10M.jpeg]]
 
 #### 1.2.3 Interpretation
-
+Die Messerwartungen decken sich mit den Gemessenen Resultaten. Auch die Frequenz von $100kHz$ bei welcher wir erste Phasenverschiebungen erwartet haben stimmt mit unseren Messungen überein.
 
 ## 3. Verstärkungsbetrag und Phasenlage bei 1kHz
 #### 3.1.1 Schema
@@ -267,8 +267,13 @@ yTitle: Verstärkung [dB]
 #### 3.1.2 Beschreibung
 die beiden Versuchsaufbauten aus den [[#1. Invertierender Verstärker|Versuch 1]] und [[#2. Invertierender Verstärker|Versuch 2]] wurden zur Klarheit erneut dargestellt. In diesem Kapitel werden nun auf den [[#1. Invertierender Verstärker|Versuchen 1]] und [[#2. Invertierender Verstärker|2]] aufbauend  die Beträge der Gemessenen Resultate bei $1kHz$ dargestellt.
 
-| Schaltung      | Invertierend (R2=1kΩ) | Invertierend (R2=10kΩ) | nichtinvertierend (R2=1kΩ) | nichtinvertierend (R2=10kΩ) |
+| Schaltung      | Invertierend (R2=1kΩ) | Invertierend (R2=10kΩ) | Nichtinvertierend (R2=1kΩ) | Nichtinvertierend (R2=10kΩ) |
 | -------------- | --------------------- | ---------------------- | -------------------------- | --------------------------- |
 | U2/U1 [dB]     | 0                     | 21                     | 6                          | 20                          |
 | Phasenlage [°] | 180                   | 180                    | 0                          | 0                           |
 #### 3.2.3 Interpretation
+Beim Invertierenden Verstärker, ist unabhängig welcher Verstärkungsfaktor die Phasenlage um $180°$ gedreht und beim Nichtinvertierenden Verstärker ist die Phasenlage $0°$ verschoben.
+
+
+# Anhang
+
