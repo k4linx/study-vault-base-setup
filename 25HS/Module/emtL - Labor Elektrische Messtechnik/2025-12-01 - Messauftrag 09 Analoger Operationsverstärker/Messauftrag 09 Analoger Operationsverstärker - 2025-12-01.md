@@ -75,7 +75,7 @@ select: [Verstärkung R2 1kohm(dB), Verstärkung R2 10kohm(dB)]
 xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
 ```
-Kurvenverlauf Oszilloskop
+##### Messungen Oszilloskop $R_{2}= 1k\ohm$
 **1Hz**
 ![[m1a1-1.png]]
 **100kHz**
@@ -84,36 +84,7 @@ Kurvenverlauf Oszilloskop
 ![[m1a1-1M.png]]
 **10MHz**
 ![[m1a1-10M.png]]
-##### Messdaten Teil 2
-
-| Frequenz [Hz] | R1 [kΩ] | R2 [kΩ] | R2/R1 | U1 [V] | U2 [V] | Verstärkung [dB] |
-| ------------: | ------: | ------: | ----: | -----: | -----: | ---------------: |
-|             1 |       1 |      10 |    10 |  0.088 |   0.94 |               21 |
-|             3 |       1 |      10 |    10 |  0.088 |  0.943 |               21 |
-|            10 |       1 |      10 |    10 |  0.087 |  0.933 |               21 |
-|            30 |       1 |      10 |    10 |  0.089 |  0.947 |               21 |
-|           100 |       1 |      10 |    10 |  0.088 |  0.968 |               21 |
-|           300 |       1 |      10 |    10 |  0.087 |  0.924 |               21 |
-|          1000 |       1 |      10 |    10 |  0.088 |  0.935 |               21 |
-|          3000 |       1 |      10 |    10 |  0.085 |  0.947 |               21 |
-|         10000 |       1 |      10 |    10 |  0.088 |  0.942 |               21 |
-|         30000 |       1 |      10 |    10 |  0.089 |  0.922 |               20 |
-|        100000 |       1 |      10 |    10 |   0.09 |   0.87 |               20 |
-|        300000 |       1 |      10 |    10 |  0.096 |  0.556 |               15 |
-|       1000000 |       1 |      10 |    10 |  0.096 |   0.18 |                5 |
-|      10000000 |       1 |      10 |    10 |  0.092 |  0.012 |          -17.692 |
-^m1a2
-
-```chart
-type: line
-id: m1a2
-layout: columns
-width: 100%
-beginAtZero: true
-select: ["Frequenz [Hz]", "Verstärkung [dB]"]
-xTitle: Frequenz [Hz]
-yTitle: Verstärkung [dB]
-```
+##### Messungen Oszilloskop $R_{2}= 10k\ohm$ 
 **10Hz**
 ![[m1a2-10.png]]
 Der OpAmp korrigiert das gegebene Eingangssignal mit dem Faktor $11$ zu $0$ zurück.
@@ -204,6 +175,7 @@ xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
 legend: true
 ```
+##### Messungen Oszilloskop $R_{2}=1k\ohm$
 
 **1Hz**
 ![[m2a1-1.jpeg|100% ]]
@@ -214,6 +186,7 @@ legend: true
 **10MHz**
 ![[m2a1-10M.jpeg]]
 
+##### Messungen Oszilloskop $R_{2}=10k\ohm$
 **1Hz**
 ![[m2a2-1.png|1080x]]
 **100kHz**
