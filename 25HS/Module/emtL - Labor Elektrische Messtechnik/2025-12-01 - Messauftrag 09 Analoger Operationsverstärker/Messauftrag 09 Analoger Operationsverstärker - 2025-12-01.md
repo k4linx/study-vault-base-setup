@@ -14,6 +14,7 @@ Die Versorgungsspannung des OpAmp muss auf $\pm 12V$ eingestellt werden. Dazu wi
 | Messgrösse | Einheit | Messgerät            |
 | ---------- | ------- | -------------------- |
 | $U_{BATT}$ | V       | UNI-T UT61B (IADM06) |
+<div class="page-break" style="page-break-before: always;"></div>
 
 ## 1. Invertierender Verstärker
 ### 1.1 Messaufbau
@@ -103,20 +104,8 @@ Die Messresultate der Teile 1 und zwei decken sich mit den Messerwartungen. Die 
 
 Beim Teil 3 ist das Resultat $5.5V$ unter dem erwarteten Resultat von $24V$ bei $18.5V$.
 
-## Berechnungsrezept Verstärkungsfaktor
-$$
-\begin{align}
-U_{(+)}=0 \\
-U_{(-)}=\frac{U_{a}}{2} \\ 
-U_{(-)} = U_{a}-I\cdot R_{2}= U_{e} + I \cdot R_{1} \\
-I=\frac{U_{a}-U_{e}}{R_{1}+R_{2}} \\
-U_{(-)} = U_{a}-R_{2}\cdot \frac{U_{a}-U_{e}}{R_{1}+R_{2}} \\
- \\
-0V = U_{a}-R_{2} \cdot \frac{U_{a}-U_{e}}{R_{1}+R_{2}}
- \\
- \frac{U_{a}}{U_{e}} = V_{u} \\
-\end{align}
-$$
+<div class="page-break" style="page-break-before: always;"></div>
+
 ## 2. Invertierender Verstärker
 ### 1.1 Messaufbau
 #### 1.1.1 Schema

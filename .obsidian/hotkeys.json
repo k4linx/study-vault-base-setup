@@ -34,5 +34,14 @@
       ],
       "key": "S"
     }
+  ],
+  "break-page:insert-break-page": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
   ]
 }
