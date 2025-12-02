@@ -29,6 +29,8 @@ Messaufbau gemäss Schema
 | ---------- | ------- | ------------------- | ----- |
 | $U_{2}$    | V       | tektronix MDO34 CH1 | Gelb  |
 | $U_{1}$    | V       | tektronix MDO34 CH2 | Blau  |
+<div class="page-break" style="page-break-before: always;"></div>
+
 ##### Variablen & Quellen
 
 | Frequenz        | Funktionsform | Gerät             |
@@ -52,7 +54,6 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 #### 1.2.2 Messresultate
 ##### Messdaten Teil 1
 
-
 | Frequenz (Hz) | $V_{u} \ 1k\ohm$<br> | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 1kohm(dB) | $V_{u} \ 10k\ohm$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 10kohm(dB) |
 | ------------- | -------------------- | ------------- | ------------- | ------------------------ | ----------------- | ------------- | ------------- | ------------------------- |
 | 1             | -1                   | 0.0875        | 0.086         | 0                        | -10               | 0.088         | 0.94          | 21                        |
@@ -72,7 +73,6 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 
 ^m1a1
 
-<div class="page-break" style="page-break-before: always;"></div>
 
 ```chart
 type: line
