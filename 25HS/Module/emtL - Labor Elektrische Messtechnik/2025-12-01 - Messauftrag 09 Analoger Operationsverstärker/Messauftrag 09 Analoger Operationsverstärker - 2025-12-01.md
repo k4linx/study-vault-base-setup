@@ -46,8 +46,7 @@ Bei $R_{2}=10k\ohm$ ist der Verstärkungsfaktor $-10$. Das hat zur folge das die
 
 **Teil 3**
 Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
-<div class="page-break" style="page-break-before: always;"></div>
-
+<div class="page-break landscape" style="page-break-before: always;"></div>
 
 #### 1.2.2 Messresultate { .landscape }
 ##### Messdaten Teil 1
@@ -69,6 +68,8 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 | 1000000       | 1                 | 1                 | 1               | 0.101         | 0.082         | -2                       | 1                 | 10                | 10              | 0.096         | 0.18          | 5                         |
 | 10000000      | 1                 | 1                 | 1               | 0.09          | 0.0033        | -29                      | 1                 | 10                | 10              | 0.092         | 0.012         | -17.692                   |
 ^m1a1
+
+<div class="page-break" style="page-break-before: always;"></div>
 
 ```chart
 type: line
