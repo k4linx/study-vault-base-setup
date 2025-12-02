@@ -49,7 +49,7 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 
 <div class="page-break" style="page-break-before: always;"></div>
 
-::: landscape
+
 #### 1.2.2 Messresultate
 ##### Messdaten Teil 1
 
