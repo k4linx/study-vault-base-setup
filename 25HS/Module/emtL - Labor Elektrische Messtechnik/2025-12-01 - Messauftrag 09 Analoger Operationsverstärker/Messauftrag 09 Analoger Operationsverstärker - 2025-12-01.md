@@ -256,7 +256,6 @@ yTitle: Verstärkung [dB]
 
 
 ## 3. Verstärkungsbetrag und Phasenlage bei 1kHz
-### 3.1 Messaufbau
 #### 3.1.1 Schema
 ##### Invertierender OpAmp
 ![[Schema_opamp_invertierend_M1.png#invert]]
@@ -266,8 +265,10 @@ yTitle: Verstärkung [dB]
 ![[Nichtinvertierender_opamp_M2.png#invert]]
 
 #### 3.1.2 Beschreibung
-die beiden Versuchsaufbauten aus den [[#1. Invertierender Verstärker|Versuch 1]] und [[#2. Invertierender Verstärker|Versuch 2]] wurden zur klarheit erneut dargestellt. In diesem Kapitel werden nun auf den [[#1. Invertierender Verstärker|Versuchen 1]] und [[#2. Invertierender Verstärker|2]] aufbauend  berechnungen gemacht **TODO: erklärung was berechnet wird**
+die beiden Versuchsaufbauten aus den [[#1. Invertierender Verstärker|Versuch 1]] und [[#2. Invertierender Verstärker|Versuch 2]] wurden zur Klarheit erneut dargestellt. In diesem Kapitel werden nun auf den [[#1. Invertierender Verstärker|Versuchen 1]] und [[#2. Invertierender Verstärker|2]] aufbauend  die Beträge der Gemessenen Resultate bei $1kHz$ dargestellt.
 
-### 3.2 Berechnungen
-
+| Schaltung      | Invertierend (R2=1kΩ) | Invertierend (R2=10kΩ) | nichtinvertierend (R2=1kΩ) | nichtinvertierend (R2=10kΩ) |
+| -------------- | --------------------- | ---------------------- | -------------------------- | --------------------------- |
+| U2/U1 [dB]     | 0                     | 21                     | 6                          | 20                          |
+| Phasenlage [°] | 180                   | 180                    | 0                          | 0                           |
 #### 3.2.3 Interpretation
