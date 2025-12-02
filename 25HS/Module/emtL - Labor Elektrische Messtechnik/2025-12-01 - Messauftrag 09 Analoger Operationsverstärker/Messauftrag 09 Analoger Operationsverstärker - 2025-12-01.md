@@ -244,7 +244,7 @@ yTitle: Verstärkung [dB]
 ```
 
 **1Hz**
-
+![[m2a2-1.png]]
 **100kHz**
 
 **1MHz**
