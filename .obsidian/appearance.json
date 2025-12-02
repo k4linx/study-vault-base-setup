@@ -2,8 +2,7 @@
   "enabledCssSnippets": [
     "centeredFolder",
     "centeredButton",
-    "landscapePage",
-    "maxWidthTable"
+    "landscapePage"
   ],
   "accentColor": "#48683b",
   "translucency": false,
