@@ -141,8 +141,10 @@ Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 **Teil 2**
 Bei $R_{1}=1k\ohm$ und $R_{2}= 10k\ohm$ ist $V_{u} = 11$. Daraus folgt, die Amplitude ist um den Faktor $11$ grösser als das Eingangssignal. 
 Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
-#### 1.2.2 Messresultate
 <div class="page-break" style="page-break-before: always;"></div>
+
+#### 1.2.2 Messresultate
+
 
 ##### Messdaten Teil 1
 | Frequenz (Hz) | $V_{u} \ 1k\ohm$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 1kohm(dB) | $V_{u} \ 10k\ohm$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 10kohm(dB) |
@@ -162,8 +164,6 @@ Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 | 1000000       | 2                | 0.116         | 0.17          | 3                        | 11                | 0.105         | 0.188         | 5                         |
 | 10000000      | 2                | 0.099         | 0.023         | -13                      | 11                | 0.118         | 0.038         | -10                       |
 ^m2a1
-
-<div class="page-break" style="page-break-before: always;"></div>
 
 ```chart
 type: line
