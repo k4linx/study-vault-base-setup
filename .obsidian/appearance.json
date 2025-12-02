@@ -1,7 +1,8 @@
 {
   "enabledCssSnippets": [
     "centeredFolder",
-    "centeredButton"
+    "centeredButton",
+    "landscapePage"
   ],
   "accentColor": "#48683b",
   "translucency": false,

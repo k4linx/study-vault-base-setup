@@ -1,0 +1,7 @@
+.landscape {
+  page: landscape;
+}
+
+@page landscape {
+  size: A4 landscape;
+}
