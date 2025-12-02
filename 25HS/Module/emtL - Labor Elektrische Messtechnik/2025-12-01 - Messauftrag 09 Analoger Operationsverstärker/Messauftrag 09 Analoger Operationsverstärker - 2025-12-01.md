@@ -3,6 +3,7 @@ erstelldatum: 2025-12-01
 tags:
   - analog
   - opamp
+authors: Joël Oppliger, Noah Ludin, Anna Illic
 ---
 ## Vorbereitungsarbeiten
 ### Netzgerät aus Serie Betrieb schalten
