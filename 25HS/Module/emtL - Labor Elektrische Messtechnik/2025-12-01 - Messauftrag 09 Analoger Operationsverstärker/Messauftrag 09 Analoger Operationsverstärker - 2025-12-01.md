@@ -14,6 +14,7 @@ Die Versorgungsspannung des OpAmp muss auf $\pm 12V$ eingestellt werden. Dazu wi
 | Messgrösse | Einheit | Messgerät            |
 | ---------- | ------- | -------------------- |
 | $U_{BATT}$ | V       | UNI-T UT61B (IADM06) |
+
 ## 1. Invertierender Verstärker
 ### 1.1 Messaufbau
 #### 1.1.1 Schema
