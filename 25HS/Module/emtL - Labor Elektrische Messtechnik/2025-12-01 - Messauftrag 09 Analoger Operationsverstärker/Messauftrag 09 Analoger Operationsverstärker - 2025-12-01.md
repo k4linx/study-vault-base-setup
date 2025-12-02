@@ -189,7 +189,6 @@ legend: true
 #### 1.2.3 Interpretation
 Die Messerwartungen decken sich mit den Gemessenen Resultaten. Auch die Frequenz von $100kHz$ bei welcher wir erste Phasenverschiebungen erwartet haben stimmt mit unseren Messungen überein.
 <div class="page-break" style="page-break-before: always;"></div>
-
 ## 3. Verstärkungsbetrag und Phasenlage bei 1kHz
 #### 3.1.1 Schema
 ##### Invertierender OpAmp
