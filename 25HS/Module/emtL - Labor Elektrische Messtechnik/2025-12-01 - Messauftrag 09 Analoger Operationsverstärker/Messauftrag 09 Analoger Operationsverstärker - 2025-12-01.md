@@ -27,13 +27,14 @@ for (let i = 0; i < filtered_keys.length; i++) {
 
 	// Convert array values (e.g. tags) to a single string separated by commas
 	let value = Array.isArray(filtered_values[i]) ? filtered_values[i].join(', ') : filtered_values [i];
-	rows.push([filtered_keys[i], value])
+	rows.push([filtered_keys[i].toUpperCase(), value])
 }
 
 // Generate a table with two columns and populate with rows
 
 dv.table(['', ''], rows)
 ```
+<div class="page-break" style="page-break-before: always;"></div>
 
 ## Vorbereitungsarbeiten
 ### Netzgerät aus Serie Betrieb schalten
