@@ -48,7 +48,7 @@ Bei $R_{2}=10k\ohm$ ist der Verstärkungsfaktor $-10$. Das hat zur folge das die
 Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 <div class="page-break landscape" style="page-break-before: always;"></div>
 
-#### 1.2.2 Messresultate { .landscape }
+#### 1.2.2 Messresultate
 ##### Messdaten Teil 1
 
 | Frequenz (Hz) | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 1kohm(dB) | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 10kohm(dB) |
