@@ -206,7 +206,7 @@ yTitle: Verstärkung [dB]
 ```
 
 **1Hz**
-
+![[m2a1-1.jpeg|100% ]]
 **100kHz**
 
 **1MHz**
@@ -244,13 +244,13 @@ yTitle: Verstärkung [dB]
 ```
 
 **1Hz**
-![[m2a2-1.png]]
+![[m2a2-1.png|1080x]]
 **100kHz**
-
+![[m2a2-100k.png]]
 **1MHz**
-
+![[m2a2-1M.jpeg]]
 **10MHz**
-
+![[m2a2-10M.jpeg]]
 
 #### 1.2.3 Interpretation
 
