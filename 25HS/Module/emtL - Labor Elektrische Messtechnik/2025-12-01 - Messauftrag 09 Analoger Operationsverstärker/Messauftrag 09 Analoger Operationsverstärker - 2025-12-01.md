@@ -196,7 +196,7 @@ Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 
 ```chart
 type: line
-id: m2a1, m2a2
+id: m2a1
 layout: columns
 width: 100%
 select: [Verstärkung(dB), Verstärkung10k(dB)]
@@ -213,35 +213,6 @@ legend: true
 ![[m2a1-1M.png]]
 **10MHz**
 ![[m2a1-10M.jpeg]]
-##### Messdaten Teil 2
-| Frequenz (Hz) | R1 (kΩ) | R2 (kΩ) | R2/R1 | U1 [V] | U2 [V] | Verstärkung [dB] |
-| ------------- | ------- | ------- | ----- | ------ | ------ | ---------------- |
-| 1             | 1       | 10      | 10    | 0.1    | 1.06   | 21               |
-| 3             | 1       | 10      | 10    | 0.1    | 1.06   | 21               |
-| 10            | 1       | 10      | 10    | 0.101  | 1.076  | 21               |
-| 30            | 1       | 10      | 10    | 0.101  | 1.075  | 21               |
-| 100           | 1       | 10      | 10    | 0.1    | 1.068  | 21               |
-| 300           | 1       | 10      | 10    | 0.098  | 1.051  | 21               |
-| 1000          | 1       | 10      | 10    | 0.1    | 1.056  | 20               |
-| 3000          | 1       | 10      | 10    | 0.099  | 1.059  | 21               |
-| 10000         | 1       | 10      | 10    | 0.101  | 1.067  | 20               |
-| 30000         | 1       | 10      | 10    | 0.102  | 1.048  | 20               |
-| 100000        | 1       | 10      | 10    | 0.108  | 0.98   | 19               |
-| 300000        | 1       | 10      | 10    | 0.106  | 0.607  | 15               |
-| 1000000       | 1       | 10      | 10    | 0.105  | 0.188  | 5                |
-| 10000000      | 1       | 10      | 10    | 0.118  | 0.038  | -10              |
-^m2a2
-
-```chart
-type: line
-id: m2a2
-layout: columns
-width: 100%
-beginAtZero: true
-select: ["Frequenz [Hz]", "Verstärkung [dB]"]
-xTitle: Frequenz [Hz]
-yTitle: Verstärkung [dB]
-```
 
 **1Hz**
 ![[m2a2-1.png|1080x]]
