@@ -202,6 +202,7 @@ width: 100%
 select: [Verstärkung(dB), Verstärkung10k(dB)]
 xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
+legend: true
 ```
 
 **1Hz**
