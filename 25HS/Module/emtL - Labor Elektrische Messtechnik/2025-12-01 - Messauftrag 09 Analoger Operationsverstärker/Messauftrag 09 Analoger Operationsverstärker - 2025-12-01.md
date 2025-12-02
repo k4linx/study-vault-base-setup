@@ -84,6 +84,8 @@ select: [Verstärkung R2 1kohm(dB), Verstärkung R2 10kohm(dB)]
 xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
 ```
+<div class="page-break" style="page-break-before: always;"></div>
+
 ##### Messungen Oszilloskop $R_{2}= 1k\ohm$
 **1Hz**
 ![[m1a1-1.png]]
@@ -93,6 +95,8 @@ yTitle: Verstärkung [dB]
 ![[m1a1-1M.png]]
 **10MHz**
 ![[m1a1-10M.png]]
+<div class="page-break" style="page-break-before: always;"></div>
+
 ##### Messungen Oszilloskop $R_{2}= 10k\ohm$ 
 **10Hz**
 ![[m1a2-10.png]]
@@ -105,6 +109,7 @@ Erste Anzeichen das der OpAmp nicht schnell genug korrigieren kann werden bei 10
 **10MHz**
 ![[m1a2-10M.png]]
 Bei 10MHz kann der OpAmp das Eingangssignal nicht mehr richtig korrigieren. Deshalb wird die Sinuskurve auch fast flach.
+<div class="page-break" style="page-break-before: always;"></div>
 
 #### 1.2.3 Interpretation
 Die Messresultate der Teile 1 und zwei decken sich mit den Messerwartungen. Die Frequenz an welcher der OpAmp das Signal nicht mehr perfekt korrigieren kann liegt bei $100kHz$. 
@@ -125,6 +130,8 @@ Messaufbau gemäss Schema.
 | ---------- | ------- | ------------------- |
 | $U_{2}$    | V       | tektronix MDO34 CH1 |
 | $U_{1}$    | V       | tektronix MDO34 CH1 |
+<div class="page-break" style="page-break-before: always;"></div>
+
 ##### Variablen
 
 | Frequenz        | Funktionsform | Gerät             |
@@ -144,7 +151,6 @@ Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 <div class="page-break" style="page-break-before: always;"></div>
 
 #### 1.2.2 Messresultate
-
 
 ##### Messdaten Teil 1
 | Frequenz (Hz) | $V_{u} \ 1k\ohm$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 1kohm(dB) | $V_{u} \ 10k\ohm$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 10kohm(dB) |
@@ -175,6 +181,8 @@ xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
 legend: true
 ```
+<div class="page-break" style="page-break-before: always;"></div>
+
 ##### Messungen Oszilloskop $R_{2}=1k\ohm$
 
 **1Hz**
@@ -186,6 +194,8 @@ legend: true
 **10MHz**
 ![[m2a1-10M.jpeg]]
 
+<div class="page-break" style="page-break-before: always;"></div>
+
 ##### Messungen Oszilloskop $R_{2}=10k\ohm$
 **1Hz**
 ![[m2a2-1.png|1080x]]
@@ -196,9 +206,12 @@ legend: true
 **10MHz**
 ![[m2a2-10M.jpeg]]
 
+<div class="page-break" style="page-break-before: always;"></div>
+
 #### 1.2.3 Interpretation
 Die Messerwartungen decken sich mit den Gemessenen Resultaten. Auch die Frequenz von $100kHz$ bei welcher wir erste Phasenverschiebungen erwartet haben stimmt mit unseren Messungen überein.
 <div class="page-break" style="page-break-before: always;"></div>
+
 ## 3. Verstärkungsbetrag und Phasenlage bei 1kHz
 #### 3.1.1 Schema
 ##### Invertierender OpAmp
@@ -208,8 +221,10 @@ Die Messerwartungen decken sich mit den Gemessenen Resultaten. Auch die Frequenz
 ##### Nicht-invertiernder OpAmp
 ![[Nichtinvertierender_opamp_M2.png#invert]]
 
+<div class="page-break" style="page-break-before: always;"></div>
+
 #### 3.1.2 Beschreibung
-die beiden Versuchsaufbauten aus den [[#1. Invertierender Verstärker|Versuch 1]] und [[#2. Invertierender Verstärker|Versuch 2]] wurden zur Klarheit erneut dargestellt. In diesem Kapitel werden nun auf den [[#1. Invertierender Verstärker|Versuchen 1]] und [[#2. Invertierender Verstärker|2]] aufbauend  die Beträge der Gemessenen Resultate bei $1kHz$ dargestellt.
+Die beiden Versuchsaufbauten aus den [[#1. Invertierender Verstärker|Versuch 1]] und [[#2. Invertierender Verstärker|Versuch 2]] wurden zur Klarheit erneut dargestellt. In diesem Kapitel werden nun auf den [[#1. Invertierender Verstärker|Versuchen 1]] und [[#2. Invertierender Verstärker|2]] aufbauend  die Beträge der Gemessenen Resultate bei $1kHz$ dargestellt.
 
 | Schaltung      | Invertierend (R2=1kΩ) | Invertierend (R2=10kΩ) | Nichtinvertierend (R2=1kΩ) | Nichtinvertierend (R2=10kΩ) |
 | -------------- | --------------------- | ---------------------- | -------------------------- | --------------------------- |
@@ -218,6 +233,4 @@ die beiden Versuchsaufbauten aus den [[#1. Invertierender Verstärker|Versuch 1]
 #### 3.2.3 Interpretation
 Beim Invertierenden Verstärker, ist unabhängig welcher Verstärkungsfaktor die Phasenlage um $180°$ gedreht und beim Nichtinvertierenden Verstärker ist die Phasenlage $0°$ verschoben.
 
-
-# Anhang
 
