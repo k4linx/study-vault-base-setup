@@ -1,10 +1,40 @@
 ---
-erstelldatum: 2025-12-01
+datum: 2025-12-01
 tags:
   - analog
   - opamp
-authors: Joël Oppliger, Noah Ludin, Anna Illic
+Autoren: |-
+  Anna Illic
+  Noah Ludin
+  Joël Oppliger
 ---
+```dataviewjs
+// Retrieve the current file's frontmatter
+let frontmatter = dv.current().file.frontmatter;
+
+// Define fields to exclude (adapt as necessary)
+let excludeFields = ['tags', 'created']
+
+// Extract and filter the keys and values based on the exclusion list
+let filtered_keys = Object.keys(frontmatter).filter(key => ! excludeFields.includes(key));
+let filtered_values = filtered_keys.map(key => frontmatter[key]);
+
+// Define an array to hold each row of the table
+let rows = [];
+
+// Populate the rows array with key-value pairs
+for (let i = 0; i < filtered_keys.length; i++) {
+
+	// Convert array values (e.g. tags) to a single string separated by commas
+	let value = Array.isArray(filtered_values[i]) ? filtered_values[i].join(', ') : filtered_values [i];
+	rows.push([filtered_keys[i], value])
+}
+
+// Generate a table with two columns and populate with rows
+
+dv.table(['', ''], rows)
+```
+
 ## Vorbereitungsarbeiten
 ### Netzgerät aus Serie Betrieb schalten
 CH1 und CH2 müssen mittels brücke von CH1(-) zu CH2(+) geschaltet werden. CH1(+) wird zu $V_{cc+}$, CH2(-) wird zu $V_{cc-}$.
