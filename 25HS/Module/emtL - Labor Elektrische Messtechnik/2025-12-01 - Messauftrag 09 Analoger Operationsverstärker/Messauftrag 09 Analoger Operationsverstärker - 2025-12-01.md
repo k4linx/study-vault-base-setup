@@ -47,6 +47,7 @@ Bei $R_{2}=10k\ohm$ ist der Verstärkungsfaktor $-10$. Das hat zur folge das die
 **Teil 3**
 Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 #### 1.2.2 Messresultate
+<div class="page-break" style="page-break-before: always;"></div>
 
 ##### Messdaten Teil 1
 
@@ -67,6 +68,8 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 | 1000000       | 1                 | 1                 | 1               | 0.101         | 0.082         | -2                       | 1                 | 10                | 10              | 0.096         | 0.18          | 5                         |
 | 10000000      | 1                 | 1                 | 1               | 0.09          | 0.0033        | -29                      | 1                 | 10                | 10              | 0.092         | 0.012         | -17.692                   |
 ^m1a1
+
+<div class="page-break" style="page-break-before: always;"></div>
 
 ```chart
 type: line
@@ -136,6 +139,7 @@ Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 Bei $R_{1}=1k\ohm$ und $R_{2}= 10k\ohm$ ist $V_{u} = 11$. Daraus folgt, die Amplitude ist um den Faktor $11$ grösser als das Eingangssignal. 
 Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 #### 1.2.2 Messresultate
+<div class="page-break" style="page-break-before: always;"></div>
 
 ##### Messdaten Teil 1
 | Frequenz (Hz) | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 1kohm(dB) | $R_{1} \ [k\ohm]$ | $R_{2} \ [k\ohm]$ | $\frac{R2}{R1}$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 10kohm(dB) |
@@ -155,6 +159,8 @@ Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 | 1000000       | 1                 | 1                 | 1               | 0.116         | 0.17          | 3                        | 1                 | 10                | 10              | 0.105         | 0.188         | 5                         |
 | 10000000      | 1                 | 1                 | 1               | 0.099         | 0.023         | -13                      | 1                 | 10                | 10              | 0.118         | 0.038         | -10                       |
 ^m2a1
+
+<div class="page-break" style="page-break-before: always;"></div>
 
 ```chart
 type: line
