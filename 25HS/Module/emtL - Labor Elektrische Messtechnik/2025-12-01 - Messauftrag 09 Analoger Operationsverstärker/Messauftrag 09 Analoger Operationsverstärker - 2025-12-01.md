@@ -200,7 +200,7 @@ id: m2a1
 layout: columns
 width: 100%
 beginAtZero: true
-select: ["Frequenz [Hz]", "Verstärkung [dB]", "Verstärkung 2 [dB]"]
+select: ["Frequenz [Hz]", "Verstärkung [dB]", "Verstärkung 2[dB]"]
 xTitle: Frequenz [Hz]
 yTitle: Verstärkung [dB]
 ```
