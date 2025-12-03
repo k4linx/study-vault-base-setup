@@ -140,8 +140,8 @@ Um eine Exponentialfunktion mit Basis $e$ zu schreiben und 2 Punkte bekannt sind
 $$
 \begin{align}
 A \Rightarrow x_{A}= a \cdot e^{\lambda} \\
-B \Rightarrow x_{A}= a \cdot e^{\lambda}
-\end{align}
+B \Rightarrow x_{B}= a \cdot e^{\lambda}
+\end{align}\quad \Rightarrow \quad \frac{x_{A}}{x_{B}} = \frac{a\cdot}{}
 $$
 
 #### Weitere Themen
