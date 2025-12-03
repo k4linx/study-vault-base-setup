@@ -121,7 +121,9 @@ y &= 150\cdot1.37^{t} \\
 \end{align}
 $$
 >[!info] Info
->$(2)$ siehe 
+>$(2)$ siehe [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetz 5]]
+
+
 um lambda zu berechnen muss die basis $b = e^{\lambda}$ gesetzt werden und mit dem [[Wurzeln, Logarithmen & Exponentialfunktionen#Logarithmen & Exponentialfunktionen|Logarithmus]] aufgelöst werden:
 $$
 \begin{align}
