@@ -8,7 +8,10 @@ tags:
 ## Wichtige Formeln
 ### Exponentialfunktion Basis $b$ zu $e^\lambda$ umschreiben
 $$
-b=e^\lambda
+\begin{align}
+b&=e^{\lambda}\\
+\lambda &= \ln(b)
+\end{align}
 $$
 
 ## Definitionen
@@ -45,7 +48,7 @@ $$
 $(1) \ n$ geht gegen unendlich daher wird der Bruch immer kleiner. $\frac{1}{1}, \frac{1}{2}, \frac{1}{3} \dots \frac{1}{n}; n\rightarrow \infty$
 
 #### Erweiterung mit Binomischer Formel
-einen Grenzwert in folgender form $a_{n}= \sqrt{n+1}-\sqrt{n}$ kann mit der 3. Binomischen Formel erweitert werden um die $n$ unter der wurzel wegheben zu können. 
+einen Grenzwert in folgender form $a_{n}= \sqrt{n+1}-\sqrt{n}$ kann mit der [[3. Binomischen Formel erweitert werden um die $n$ unter der wurzel wegheben zu können. 
 $$
 \begin{align}
 \sqrt{n+1} - \sqrt{n} &= \frac{\sqrt{n+1}-\sqrt{n} \cdot \sqrt{n+1}+\sqrt{n}}{\sqrt{n+1}+\sqrt{n}} \tag{1} \\
