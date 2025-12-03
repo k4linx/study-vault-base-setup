@@ -6,7 +6,9 @@ tags:
   - interval
 ---
 ## Wichtige Formeln
+$$
 
+$$
 
 ## Definitionen
 ### Interval
