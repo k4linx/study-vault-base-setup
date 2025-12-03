@@ -123,7 +123,6 @@ $$
 >[!info] Info
 >$(2)$ siehe [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetz 5]]
 
-
 um lambda zu berechnen muss die basis $b = e^{\lambda}$ gesetzt werden und mit dem [[Wurzeln, Logarithmen & Exponentialfunktionen#Logarithmen & Exponentialfunktionen|Logarithmus]] aufgelöst werden:
 $$
 \begin{align}
@@ -137,7 +136,13 @@ f(t) = 150\cdot e^{0.3148\cdot t}
 $$
 
 ### Exponentialfunktion mit Basis $e$
-Um eine exponentialfunktion mit Basis $e$ zu schreiben wird erst eine 
+Um eine Exponentialfunktion mit Basis $e$ zu schreiben und 2 Punkte bekannt sind werden diese zwei punkte je in die Gleichung eingesetzt:
+$$
+\begin{align}
+A \Rightarrow  \\
+B \Rightarrow
+\end{align}
+$$
 
 #### Weitere Themen
 - [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]
