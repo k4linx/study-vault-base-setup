@@ -11,13 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/Labor Elektrische Messtechnik.base",
-                "viewName": "Table"
+                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Labor Elektrische Messtechnik"
+              "icon": "lucide-file",
+              "title": "Messauftrag 09 Analoger Operationsverstärker - 2025-12-01"
             }
           }
         ]
@@ -205,13 +207,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/Labor Elektrische Messtechnik.base",
     "25HS/Module/an1 - Analysis 1/Analysis 1.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Allgemeine Elektrotechnik 1.base",
     "25HS/Module/konvE - Konvergenz Elektrotechnik/Konvergenz Elektrotechnik.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Objektorientierte Programmierung 1.base",
     "25HS/Module/spy - scientific python/Scientific Python.base",
     "25HS/Module/lalg1 - Lineare Algebra 1/Lineare Algebra.base",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/Labor Elektrische Messtechnik.base",
     "25HS/Zeitpläne/2025-12-06.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-03 Zusammenfassung 9-11.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-03 Zusammenfassung 5-8.md",

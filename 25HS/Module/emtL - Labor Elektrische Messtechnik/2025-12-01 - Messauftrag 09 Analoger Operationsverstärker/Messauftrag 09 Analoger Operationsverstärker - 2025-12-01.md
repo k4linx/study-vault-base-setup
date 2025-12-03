@@ -84,7 +84,7 @@ Ab der Versorgungsspannung werden erste Verzerrungen des Signals erwartet.
 <div class="page-break" style="page-break-before: always;"></div>
 
 #### 1.2.2 Messresultate
-##### Messdaten Teil 1
+##### Messdaten
 
 | Frequenz (Hz) | $V_{u} \ 1k\ohm$<br> | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 1kohm(dB) | $V_{u} \ 10k\ohm$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 10kohm(dB) |
 | ------------- | -------------------- | ------------- | ------------- | ------------------------ | ----------------- | ------------- | ------------- | ------------------------- |
@@ -184,7 +184,8 @@ Wie bei vorherigen Messungen gibt es erste Phasenverschiebungen bei $100kHz$.
 
 #### 1.2.2 Messresultate
 
-##### Messdaten Teil 1
+##### Messdaten
+
 | Frequenz (Hz) | $V_{u} \ 1k\ohm$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 1kohm(dB) | $V_{u} \ 10k\ohm$ | $U_{1} \ [V]$ | $U_{2} \ [V]$ | Verstärkung R2 10kohm(dB) |
 | ------------- | ---------------- | ------------- | ------------- | ------------------------ | ----------------- | ------------- | ------------- | ------------------------- |
 | 1             | 2                | 0.1           | 0.193         | 6                        | 11                | 0.1           | 1.06          | 21                        |
