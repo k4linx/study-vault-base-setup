@@ -82,7 +82,12 @@ $a$: Anfangsbestand
 $b$: basis (Wachstumsfaktor pro $t$)
 
 ##### Exponentielles Wachstum
-Das Exponentielle Wachstum geschieht wenn $b \gt 1$ ist.
+Das Exponentielle Wachstum geschieht wenn $b \gt 1$ ist. Ein Beispiel:
+$$
+a = 150
+b = 1.37 = 37%
+
+$$
 
 ##### Exponentieller Zerfall
 Der exponentielle Zerfall geschieht wenn $0 < b < 1$ ist.
