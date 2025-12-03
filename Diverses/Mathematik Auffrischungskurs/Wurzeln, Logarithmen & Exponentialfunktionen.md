@@ -20,7 +20,7 @@ $$
 a^{\frac{m}{n}} = \sqrt[n]{a^{m}}
 $$
 
-Weiterhin gelten die [[Gleichungssysteme, Ungleichungen & Betrag#Potenzgesetze|Potenzgesetze]]. solange $m,n \in \mathbb{Q}$ Das bedeutet solange $m,n$ Bruchzahlen sind.
+Weiterhin gelten die [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]. solange $m,n \in \mathbb{Q}$ Das bedeutet solange $m,n$ Bruchzahlen sind.
 
 > [!math-example] Beispiel
 > $$\sqrt[3]{\sqrt[4]{a^{7}}}= \sqrt[3]{a^{\frac{7}{4}}} = a^{\frac{\frac{7}{4}}{3}} =a^{\frac{7}{4}*\frac{1}{3}} = a^{\frac{7}{12}}$$
@@ -154,7 +154,7 @@ mit den Logarithmusgesetzen können Komplexe Logarithmusterme umgeformt werden.
 > $$log_{b}(x^{y})=y*\log_{b}(x)$$
 > 
 
-Da der Logarithmus einer Potenz den fehlenden Exponenten zuordnet sind die [[Gleichungssysteme, Ungleichungen & Betrag#Potenzgesetze|Potenzgesetze]] eng mit den Logarithmengesetzen verbunden.
+Da der Logarithmus einer Potenz den fehlenden Exponenten zuordnet sind die [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]] eng mit den Logarithmengesetzen verbunden.
 
 #### Logarithmus abschätzen
 Beim Logarithmen abschätzen geht es darum sich näherungsweise dem Logarithmus zu nähern und nur ganze Zahlen zu verwenden
