@@ -143,12 +143,16 @@ A \Rightarrow y_{A}= a \cdot e^{\lambda} \\
 B \Rightarrow y_{B}= a \cdot e^{\lambda}
 \end{align}\quad \Rightarrow \quad \frac{y_{A}}{y_{B}} = \frac{a\cdot e^{x_{A}\cdot\lambda}}{a\cdot e^{x_{B}\cdot\lambda}} \Rightarrow \frac{y_{A}}{y_{B}} = e^{(x_{A}-x_{B}) \cdot \lambda}
 $$
-Daraus kann lambda berechnet werden:
+Daraus kann $\lambda$ berechnet werden:
 $$
 \begin{align}
 \lambda = \frac{ln(\frac{y_{A}}{y_{B}})}{(x_{A}-x_{B})}
 \end{align}
 $$
-$A$
+Danach kann der Anfangsbestand $a$ berechnet werden:
+$$
+a = \frac{y_{A}}{e^\lambda}
+$$
+
 #### Weitere Themen
 - [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]
