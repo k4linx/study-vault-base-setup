@@ -84,8 +84,10 @@ $b$: basis (Wachstumsfaktor pro $t$)
 ##### Exponentielles Wachstum
 Das Exponentielle Wachstum geschieht wenn $b \gt 1$ ist. Ein Beispiel:
 $$
-a = 150
-b = 1.37 = 37%
+\begin{align}
+a = 150 \\
+b = 1.37 = 37 \\
+\end{align}
 
 $$
 
