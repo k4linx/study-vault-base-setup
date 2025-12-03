@@ -4,6 +4,8 @@ tags:
   - grenzwerte
   - ungleichungen
   - interval
+  - funktionen
+  - euler
 ---
 ## Wichtige Formeln
 ### Exponentialfunktion Basis $b$ zu $e^\lambda$ umschreiben
