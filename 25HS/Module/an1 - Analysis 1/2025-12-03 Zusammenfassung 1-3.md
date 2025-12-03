@@ -94,7 +94,11 @@ $$
 ##### Exponentieller Zerfall
 Der exponentielle Zerfall geschieht wenn $0 < b < 1$ ist.
 $$
-
+\begin{align}
+a=80 \\
+b=0.5 \\
+f(t)=80*0.5^ \frac{t}{4}
+\end{align}
 $$
 ### Eulersche Zahl $e$
 
