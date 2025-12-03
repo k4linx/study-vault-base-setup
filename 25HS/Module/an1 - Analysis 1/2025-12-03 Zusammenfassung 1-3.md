@@ -194,7 +194,7 @@ $$
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
     \addplot[color=green, domain=-3:3] {x^2} node[pos=1.05, anchor=north] {$f(x)$};
-    \addplot[color=red, domain=-3:3] {(x^2)+3} node[pos=1.05, anchor=north] {$f(x)+3$};
+    \addplot[color=red, domain=-3:3] {(x^2)+3} node[pos=1.05, anchor=north] {$g(x)$};
 	\end{axis}
   \end{tikzpicture}
 \end{document}
@@ -226,12 +226,18 @@ $$
     ylabel=$y$,
     xtick distance=1,
 	ytick distance=1,
-    enlargelimits=true,clip=true]
+    enlargelimits=true,
+    clip=true,
+    xmax=4,
+    xmin=-4,
+    ymax=3,
+    ymin=-3]
     % code/plots here
     % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
     \addplot[color=red, domain=-2:2] {x^3} node[anchor=north] {$f(x)$};
+    \addplot[color=green, domain=1:5] {(x-3)^3} node[anchor=north] {$g(x)$};
 	\end{axis}
   \end{tikzpicture}
 \end{document}
