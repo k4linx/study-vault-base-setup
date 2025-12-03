@@ -35,7 +35,8 @@ Der Grenzwert einer Funktion nähert sich $a^{*}$ beliebig nahe an. $a^{*}$ ist 
 $$
 a^{*} = \lim_{n\rightarrow \infty} a_{n}
 $$
-
+##### Vorgehen Grenzwerte
+Um einen Grenzwert zu berechnen soll ein Term so umgeformt werden das ein
 #### Konvergenz
 Wenn eine Folge einen eindeutigen Grenzwert hat konvergiert diese bzw. es liegt Konvergenz vor.
 > [!hint] Beispiel
