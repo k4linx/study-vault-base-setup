@@ -193,8 +193,9 @@ $$
     % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
-    \addplot[color=green, domain=-3:3] {x^2} node[pos=1.05, anchor=north] {$f(x)$};
+    \addplot[color=blue, domain=-3:3] {x^2} node[pos=1.05, anchor=north] {$f(x)$};
     \addplot[color=red, domain=-3:3] {(x^2)+3} node[pos=1.05, anchor=north] {$g(x)$};
+    \draw[->, thick,color=green] (axis cs:1,1) -- (axis cs:1,4);
 	\end{axis}
   \end{tikzpicture}
 \end{document}
@@ -237,11 +238,147 @@ $$
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
     \addplot[color=red, domain=-2:2] {x^3} node[anchor=north] {$f(x)$};
-    \addplot[color=green, domain=1:5] {(x-3)^3} node[anchor=north] {$g(x)$};
+    \addplot[color=blue, domain=1:5] {(x-3)^3} node[anchor=north] {$g(x)$};
+    \draw[->, thick, color=green] (axis cs:1,1) -- (axis cs:4,1);
 	\end{axis}
   \end{tikzpicture}
 \end{document}
 ```
+
+#### Spiegelung and x Achse
+$$
+\begin{align}
+f(x) = \frac{1}{x^{2}} \\
+g(x) = -f(x)
+\end{align}
+$$
+
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,
+    clip=true,
+    ymax=4,
+    ymin=-4]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+    \addplot[blue, thick, domain=-4:-0.2] {1/(x^2)};
+
+	% rechter Zweig
+	\addplot[blue, thick, domain=0.2:4] {1/(x^2)};
+	\addplot[red, thick, domain=-4:-0.2] {-(1/(x^2))};
+
+	% rechter Zweig
+	\addplot[red, thick, domain=0.2:4] {-(1/(x^2))};
+	\draw[->, thick, color=green] (axis cs:1,1) -- (axis cs:1,-1);
+	\draw[->, thick, color=green] (axis cs:-1,1) -- (axis cs:-1,-1);
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+
+#### Spiegelung an y Achse
+$$
+\begin{align} \\
+\mathbb{D} &= [0; \infty) \\
+f(x) &= \sqrt{x} \\
+\mathbb{D} &= (-\infty;0] \\
+g(x) &= f(-x) \\
+
+\end{align}
+$$
+
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+    \addplot[blue, thick, domain=0:4] {sqrt(x)} node[anchor=north] {$f(x)$};
+	\addplot[red, thick, domain=-4:0] {sqrt(-x)} node[anchor=east] {$g(x)$};
+	\draw[->, thick, color=green] (axis cs:4,2) -- (axis cs:-4,2);
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+
+#### Streckung/Stauchung an/von x-Achse
+
+$$
+\begin{align}
+f(x) = \frac{1}{x}\\
+g(x) = a \cdot f(x)
+\end{align}
+$$
+
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,
+    clip=true,
+    ymax=3,
+    ymin=-3]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+    \addplot[color=red, domain=0.2:4] {1/x} node[anchor=north] {$f(x)$}; 
+    \addplot[color=red, domain=-4:-0.2] {1/x}; 
+    \addplot[color=blue, domain=0.2:4] {2*(1/x)} node[anchor=south] {$g(x)$}; 
+    \addplot[color=blue, domain=-4:-0.2] {2*(1/x)}; 
+    \draw[->, thick, color=green] (axis cs:1,1) -- (axis cs:1,2);   
+    \draw[->, thick, color=green] (axis cs:-1,-1) -- (axis cs:-1,-2);
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
+
+>[!info] Wenn $a$ 
+> $> 1 \Rightarrow$ Streckung
+> $0 < a < 1 \Rightarrow$ Stauchung
 
 
 ### Potenzgesetze
