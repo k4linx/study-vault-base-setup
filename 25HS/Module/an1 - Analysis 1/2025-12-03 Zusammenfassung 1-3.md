@@ -6,8 +6,9 @@ tags:
   - interval
 ---
 ## Wichtige Formeln
+### Exponentialfunktion Basis $b$ zu $e^\lambda$ umschreiben
 $$
-
+b=e^\lambda
 $$
 
 ## Definitionen
