@@ -107,6 +107,11 @@ f(t)&=80\cdot0.5^{\frac{t}{4}}
 $$
 
 ### Eulersche Zahl $e$
+Die Eulersche Zahl ist definiert als:
+$$
+e = \
+$$
+### Exponentialfunktion von $b$ zu $e$ umschreiben
 Um eine Exponentialfunktion in die basis $e$ umzuschreiben braucht es vor dem $t$ immer einen faktor ($\lambda$) beispiel:
 $$
 \begin{align}
