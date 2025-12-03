@@ -31,7 +31,10 @@ $$
 ### Konvergenz, Divergenz und Grenzwert
 
 #### Grenzwert
-Der Grenzwert einer Funktion nähert sich $a^{*}$ beliebig nahe an. $a^{*}$ ist dabei der 
+Der Grenzwert einer Funktion nähert sich $a^{*}$ beliebig nahe an. $a^{*}$ ist dabei eine Reelle Zahl. $a^{*}$ definiert man als Grenzwert.
+$$
+a^{*} = \lim_{n\rightarrow \infty} a_{n}
+$$
 
 #### Konvergenz
 Wenn eine Folge einen eindeutigen Grenzwert hat konvergiert diese bzw. es liegt Konvergenz vor.
