@@ -139,9 +139,9 @@ $$
 Um eine Exponentialfunktion mit Basis $e$ zu schreiben und 2 Punkte bekannt sind werden diese zwei punkte je in die Gleichung eingesetzt:
 $$
 \begin{align}
-A \Rightarrow x_{A}= a \cdot e^{\lambda} \\
-B \Rightarrow x_{B}= a \cdot e^{\lambda}
-\end{align}\quad \Rightarrow \quad \frac{x_{A}}{x_{B}} = \frac{a\cdot}{}
+A \Rightarrow y_{A}= a \cdot e^{\lambda} \\
+B \Rightarrow y_{B}= a \cdot e^{\lambda}
+\end{align}\quad \Rightarrow \quad \frac{y_{A}}{y_{B}} = \frac{a\cdot e^{x\lambda}}{a\cdot e^{\lambda}} \Rightarrow 
 $$
 
 #### Weitere Themen
