@@ -31,7 +31,7 @@ $$
 ### Konvergenz, Divergenz und Grenzwert
 
 #### Grenzwert
-Der Grenzwert einer Funktion nähert sich $a^{*}$ beliebig nahe an. $a^{*}$ ist dabei eine Reelle Zahl. $a^{*}$ definiert man als Grenzwert.
+Der Grenzwert einer Funktion nähert sich $a^{*}$ beliebig nahe an. $a^{*}$ ist dabei eine Reelle Zahl. $a^{*}$ definiert man als Grenzwert. den grenzwert schreibt man wie folgt:
 $$
 a^{*} = \lim_{n\rightarrow \infty} a_{n}
 $$
