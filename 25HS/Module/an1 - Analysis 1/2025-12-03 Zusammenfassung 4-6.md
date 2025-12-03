@@ -27,6 +27,11 @@ $$
 
 >[!important] Wichtig
 >Vorzeichenwechsel dreht auch das Ungleichheitszeichen um. $(3)\rightarrow(4)$
+
+### Konvergenz, Divergenz und Grenzwert
+#### konvergenz
+Wenn eine Folge einen eindeutigen 
+
 ## Herleitungen
 $$
 
