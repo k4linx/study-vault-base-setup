@@ -17,16 +17,16 @@ $$
 $$
 ### Ungleichungen
 $$
-\begin{align}
-4x+1 &\lt 7x+3 \\
--2 &\lt 3x \\
-\frac{2}{3} &\lt -x \\
-\frac{-2}{3} &\gt x
-\end{align}
+\begin{align*}
+4x + 1 &< 7x + 3 \tag{1}\\
+-2 &< 3x \tag{2}\\
+\frac{2}{3} &< -x \tag{3}\\
+x &> -\frac{2}{3} \tag{4}
+\end{align*}
 $$
->[!important] Wichtig
->Vorzeichenwechsel dreht auch das Ungleichheitszeichen um.
 
+>[!important] Wichtig
+>Vorzeichenwechsel dreht auch das Ungleichheitszeichen um. $(3)\rightarrow(4)$
 ## Herleitungen
 $$
 
