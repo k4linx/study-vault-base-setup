@@ -116,10 +116,12 @@ Um eine Exponentialfunktion in die basis $e$ umzuschreiben braucht es vor dem $t
 $$
 \begin{align}
 y &= 150\cdot1.37^{t} \\
-&=150\cdot (e^\lambda)^{t} \\
+&=150\cdot (e^\lambda)^{t} \tag{2}\\
 &=150\cdot e^{\lambda t}
 \end{align}
 $$
+>[!info] Info
+>$(2)$ siehe 
 um lambda zu berechnen muss die basis $b = e^{\lambda}$ gesetzt werden und mit dem [[Wurzeln, Logarithmen & Exponentialfunktionen#Logarithmen & Exponentialfunktionen|Logarithmus]] aufgelöst werden:
 $$
 \begin{align}
@@ -133,7 +135,7 @@ f(t) = 150\cdot e^{0.3148\cdot t}
 $$
 
 ### Exponentialfunktion mit Basis $e$
-Um eine exponentialfunktion mit Basis $e$ zu schreiben wird
+Um eine exponentialfunktion mit Basis $e$ zu schreiben wird erst eine 
 
 #### Weitere Themen
 - [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]
