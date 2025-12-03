@@ -104,10 +104,13 @@ $$
 Um eine Exponentialfunktion in die basis $e$ umzuschreiben braucht es vor dem $t$ immer einen faktor ($\lambda$) beispiel:
 $$
 \begin{align}
-y &= 150*1.37^{t}
+y &= 150\cdot1.37^{t} \\
 &=150\cdot (e^\lambda)^{t} \\
-&=150\cdot
+&=150\cdot e^{\lambda t}
 \end{align}
+$$
+um lambda zu berechnen müssen folgende schritte ausgeführt werden:
+$$
 
 $$
 
