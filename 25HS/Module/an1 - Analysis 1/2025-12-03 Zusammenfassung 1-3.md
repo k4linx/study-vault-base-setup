@@ -101,7 +101,14 @@ f(t)=80*0.5^{\frac{t}{4}}
 $$
 
 ### Eulersche Zahl $e$
-Um eine Exponentialfunktion in die basis $e$ umzuschreiben b
+Um eine Exponentialfunktion in die basis $e$ umzuschreiben braucht es vor dem $t$ immer einen faktor ($\lambda$) beispiel:
+$$
+\begin{align}
+
+\end{align}
+y = 150*1.37^{t}
+=
+$$
 
 #### Weitere Themen
 - [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]
