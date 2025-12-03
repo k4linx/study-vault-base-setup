@@ -109,7 +109,7 @@ y &= 150\cdot1.37^{t} \\
 &=150\cdot e^{\lambda t}
 \end{align}
 $$
-um lambda zu berechnen muss die basis $b = e^{\lambda}$ gesetzt werden und mit dem [[Wurzeln, Logarithmen & Exponentialfunktionen#lo]] aufgelöst werden:
+um lambda zu berechnen muss die basis $b = e^{\lambda}$ gesetzt werden und mit dem [[Wurzeln, Logarithmen & Exponentialfunktionen#Logarithmen & Exponentialfunktionen|Logarithmus]] aufgelöst werden:
 $$
 \begin{align}
 1.37&=e^{\lambda}\\
@@ -120,5 +120,7 @@ somit ist die umgeschriebene Funktion:
 $$
 f(t) = 150\cdot e^{0.3148\cdot t}
 $$
+
+
 #### Weitere Themen
 - [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]
