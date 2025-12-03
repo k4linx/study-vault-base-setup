@@ -141,7 +141,7 @@ $$
 \begin{align}
 A \Rightarrow y_{A}= a \cdot e^{\lambda} \\
 B \Rightarrow y_{B}= a \cdot e^{\lambda}
-\end{align}\quad \Rightarrow \quad \frac{y_{A}}{y_{B}} = \frac{a\cdot e^{x\lambda}}{a\cdot e^{\lambda}} \Rightarrow 
+\end{align}\quad \Rightarrow \quad \frac{y_{A}}{y_{B}} = \frac{a\cdot e^{x_{A}\cdot\lambda}}{a\cdot e^{x_{B}\cdot\lambda}} \Rightarrow \frac{y_{A}}{y_{B}} = a\cdot e^{\lambda*}
 $$
 
 #### Weitere Themen
