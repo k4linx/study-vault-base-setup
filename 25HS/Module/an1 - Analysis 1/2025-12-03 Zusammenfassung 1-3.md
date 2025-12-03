@@ -92,14 +92,16 @@ f(t) &= 150\cdot1.37^{t}
 $$
 
 ##### Exponentieller Zerfall
-Der exponentielle Zerfall geschieht wenn $0 < b < 1$ ist.
+Der exponentielle Zerfall geschieht wenn $0 < b < 1$ ist. 
+Halbwertszeit = 4 stunden $\Rightarrow$
 $$
 \begin{align}
 a=80 \\
 b=0.5 \\
-f(t)=80*0.5^ \frac{t}{4}
+f(t)=80*0.5^{\frac{t}{4}}
 \end{align}
 $$
+
 ### Eulersche Zahl $e$
 
 
