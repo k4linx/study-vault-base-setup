@@ -29,6 +29,10 @@ $$
 >Vorzeichenwechsel dreht auch das Ungleichheitszeichen um. $(3)\rightarrow(4)$
 
 ### Konvergenz, Divergenz und Grenzwert
+
+#### Grenzwert
+Der Grenzwert einer Funktion
+
 #### Konvergenz
 Wenn eine Folge einen eindeutigen Grenzwert hat konvergiert diese bzw. es liegt Konvergenz vor.
 > [!hint] Beispiel
@@ -38,7 +42,6 @@ Wenn eine Folge einen eindeutigen Grenzwert hat konvergiert diese bzw. es liegt 
 Hat eine Folge keinen eindeutigen Grenzwert divergiert sie bzw. es liegt Divergenz vor.
 > [!hint] Beispiel
 > Eine exponentielle Funktion $a_{n}=\frac{5^{n}}{4^{n}} = (\frac{5}{4})^{n}$ hat beispielsweise keinen Grenzwert.
-
 
 
 ## Herleitungen
