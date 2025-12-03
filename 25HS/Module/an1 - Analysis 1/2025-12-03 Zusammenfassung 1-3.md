@@ -138,7 +138,7 @@ $$
 ### Exponentialfunktion mit Basis $e$
 Um eine Exponentialfunktion mit Basis $e$ zu schreiben und 2 Punkte bekannt sind werden diese zwei punkte je in die Gleichung eingesetzt:
 $$
-\begin{equation}
+\begin{align}
 A \Rightarrow x_{A}= a \cdot e^{\lambda}\\
 B \Rightarrow x_{A}= a \cdot e^{\lambda}
 \end{align}
