@@ -6,10 +6,7 @@ tags:
   - interval
 ---
 ## Wichtige Formeln
-#### eulersche Zahl
-$$
 
-$$
 
 ## Definitionen
 ### Interval
@@ -104,7 +101,7 @@ f(t)=80*0.5^{\frac{t}{4}}
 $$
 
 ### Eulersche Zahl $e$
-
+Um eine Exponentialfunktion in die basis $e$ umzuschreiben b
 
 #### Weitere Themen
 - [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]
