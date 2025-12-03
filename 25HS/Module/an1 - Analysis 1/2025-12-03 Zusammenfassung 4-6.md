@@ -30,7 +30,7 @@ $$
 
 ### Konvergenz, Divergenz und Grenzwert
 #### konvergenz
-Wenn eine Folge einen eindeutigen 
+Wenn eine Folge einen eindeutigen Grenzwert hat Konvergiert
 
 ## Herleitungen
 $$
