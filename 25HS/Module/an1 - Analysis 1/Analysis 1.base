@@ -4,9 +4,10 @@ filters:
         - file.ext == "md"
         - file.folder.contains("an1")
 views:
-  - type: cards
+  - type: table
     name: Cards
     order:
+      - erstelldatum
       - file.name
       - tags
     cardSize: 800

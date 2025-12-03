@@ -7,6 +7,7 @@ Autoren: |-
   Anna Illic
   Noah Ludin
   Joël Oppliger
+erstelldatum: 2025-12-01
 ---
 ```dataviewjs
 // Retrieve the current file's frontmatter

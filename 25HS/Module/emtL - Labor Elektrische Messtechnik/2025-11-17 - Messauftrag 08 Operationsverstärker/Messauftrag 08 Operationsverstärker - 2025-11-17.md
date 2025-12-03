@@ -1,6 +1,10 @@
 ---
 erstelldatum: 2025-11-17
-tags: emtL
+tags:
+  - emtL
+  - digital
+  - opamp
+  - optokoppler
 ---
 ## 1. OpAmp als Komparator
 ### 1.1 Messaufbau
