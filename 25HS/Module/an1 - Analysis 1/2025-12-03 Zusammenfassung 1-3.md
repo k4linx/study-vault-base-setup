@@ -86,7 +86,7 @@ $a$: Anfangsbestand
 $b$: basis (Wachstumsfaktor pro $t$)
 
 ##### Exponentielles Wachstum
-Das Exponentielle Wachstum geschieht wenn $b \gt 1$ ist. Ein Beispiel:
+Das exponentielle Wachstum geschieht wenn $b \gt 1$ ist. Ein Beispiel:
 $$
 \begin{align}
 a &= 150 \\
@@ -109,10 +109,10 @@ $$
 ### Eulersche Zahl $e$
 Die Eulersche Zahl ist definiert als:
 $$
-e = \mathop {\lim }\limits_{n \to \infty } \left( {1 + \frac{1}{n}} \right)^{n}= 2.71
+e = \mathop {\lim }\limits_{n \to \infty } \left( {1 + \frac{1}{n}} \right)^{n}= 2.718281828
 $$
 ### Exponentialfunktion von $b$ zu $e$ umschreiben
-Um eine Exponentialfunktion in die basis $e$ umzuschreiben braucht es vor dem $t$ immer einen faktor ($\lambda$) beispiel:
+Um eine Exponentialfunktion in die basis $e$ umzuschreiben braucht es vor dem $t$ immer einen Faktor ($\lambda$). Beispiel:
 $$
 \begin{align}
 y &= 150\cdot1.37^{t} \\
