@@ -132,6 +132,8 @@ $$
 f(t) = 150\cdot e^{0.3148\cdot t}
 $$
 
+### Exponentialfunktion mit Basis $e$
+Um eine exponentialfunktion mit Basis $e$ zu schreiben wird
 
 #### Weitere Themen
 - [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]
