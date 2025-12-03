@@ -85,16 +85,17 @@ $b$: basis (Wachstumsfaktor pro $t$)
 Das Exponentielle Wachstum geschieht wenn $b \gt 1$ ist. Ein Beispiel:
 $$
 \begin{align}
-a = 150 \\
-b = 1.37 = 37\% \\
-f(t) = 150\cdot1.37^{t}
+a &= 150 \\
+b &= 1.37 = 37\% \\
+f(t) &= 150\cdot1.37^{t}
 \end{align}
-
 $$
 
 ##### Exponentieller Zerfall
 Der exponentielle Zerfall geschieht wenn $0 < b < 1$ ist.
+$$
 
+$$
 ### Eulersche Zahl $e$
 
 
