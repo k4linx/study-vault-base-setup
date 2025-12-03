@@ -109,7 +109,7 @@ $$
 ### Eulersche Zahl $e$
 Die Eulersche Zahl ist definiert als:
 $$
-e = \
+e = \mathop {\lim }\limits_{n \to \infty } \left( {1 + \frac{1}{n}} \right)^{n}= 2.71
 $$
 ### Exponentialfunktion von $b$ zu $e$ umschreiben
 Um eine Exponentialfunktion in die basis $e$ umzuschreiben braucht es vor dem $t$ immer einen faktor ($\lambda$) beispiel:
