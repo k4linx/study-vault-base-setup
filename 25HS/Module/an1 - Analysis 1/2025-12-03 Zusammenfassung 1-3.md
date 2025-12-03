@@ -111,8 +111,10 @@ y &= 150\cdot1.37^{t} \\
 $$
 um lambda zu berechnen muss die basis $b = e^{\lambda}$ gesetzt werden und aufgelöst werden:
 $$
-1.37=e^\lambda
-
+\begin{align}
+1.37&=e^\lambda
+\lambda &= \log_{e}(1.37) = \ln(1.37) = 0.3148
+\end{align}
 $$
 
 #### Weitere Themen
