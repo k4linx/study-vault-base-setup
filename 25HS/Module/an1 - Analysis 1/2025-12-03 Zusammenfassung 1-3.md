@@ -74,9 +74,6 @@ Hat eine Folge keinen eindeutigen Grenzwert divergiert sie bzw. es liegt Diverge
 
 ### Funktionen
 Die [[Gleichungen und Funktionen#Lineare Funktionen|Lineare]] und [[Gleichungen und Funktionen#Quadratische Funktionen|Quadratische]] Funktion werden im Dokument [[Gleichungen und Funktionen]] vom Mathematikvorkurs zusammengefasst und erklärt.
-
-### Potenzgesetze
-Alle Potenzgesetze werden in [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|diesem]] Dokument beschrieben.
 #### Exponentialfunktion
 Eine Exponentialfunktion hat folgende Struktur:
 $$
@@ -153,6 +150,22 @@ Danach kann der Anfangsbestand $a$ berechnet werden:
 $$
 a = \frac{y_{A}}{e^\lambda}
 $$
+>[!info] Wenn $\lambda$ 
+> $> 0$ beschreibt die Exponentialfunktion (unbeschränktes) exponentielles anwachsen.
+> $< 0$ beschreibt die Exponentialfunktion exponentielles Abfallen (gegen $0$).
 
+#### Potenzfunktionen $y =x^{n}$
+
+
+#### Wurzelfunktionen 
+
+
+### Funktionen Transformieren
+
+
+
+
+### Potenzgesetze
+Alle Potenzgesetze werden in [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|diesem]] Dokument beschrieben.
 #### Weitere Themen
 - [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]
