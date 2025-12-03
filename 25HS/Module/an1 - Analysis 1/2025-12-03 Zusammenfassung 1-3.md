@@ -93,7 +93,7 @@ $$
 
 ##### Exponentieller Zerfall
 Der exponentielle Zerfall geschieht wenn $0 < b < 1$ ist. 
-Halbwertszeit = 4 stunden $\Rightarrow t =4h$. Um nun den Abbau in einer stunde zu messen muss $\frac{t}{4}$ gerechnet werden
+Halbwertszeit = 4 stunden $\Rightarrow t = 4h$. Um nun den Abbau in einer stunde zu messen muss $t= \frac{1h}{4}$ gerechnet werden somit erhält man einen viertel von t und kann den abbau in einer Stunde berechnen.
 $$
 \begin{align}
 a=80 \\
