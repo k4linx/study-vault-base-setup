@@ -86,7 +86,8 @@ Das Exponentielle Wachstum geschieht wenn $b \gt 1$ ist. Ein Beispiel:
 $$
 \begin{align}
 a = 150 \\
-b = 1.37 = 37 \\
+b = 1.37 = 37\% \\
+f(t) = 150\cdot1.37^{t}
 \end{align}
 
 $$
