@@ -112,10 +112,13 @@ $$
 um lambda zu berechnen muss die basis $b = e^{\lambda}$ gesetzt werden und aufgelöst werden:
 $$
 \begin{align}
-1.37&=e^\lambda
+1.37&=e^{\lambda}\\
 \lambda &= \log_{e}(1.37) = \ln(1.37) = 0.3148
 \end{align}
 $$
-
+somit ist die umgeschriebene Funktion:
+$$
+f(t) = 150*e^{0.3148\cdot}t
+$$
 #### Weitere Themen
 - [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]
