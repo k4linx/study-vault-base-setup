@@ -109,8 +109,9 @@ y &= 150\cdot1.37^{t} \\
 &=150\cdot e^{\lambda t}
 \end{align}
 $$
-um lambda zu berechnen müssen folgende schritte ausgeführt werden:
+um lambda zu berechnen muss die basis $b = e^{\lambda}$ gesetzt werden und aufgelöst werden:
 $$
+1.37=e^\lambda
 
 $$
 
