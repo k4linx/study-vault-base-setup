@@ -85,7 +85,7 @@ $b$: basis (Wachstumsfaktor pro $t$)
 Das Exponentielle Wachstum geschieht wenn $b \gt 1$ ist.
 
 ##### Exponentieller Zerfall
-Der exponentielle Zerfall geschieht wenn $b \lt 1$ ist.
+Der exponentielle Zerfall geschieht wenn $0 < b < 1$ ist.
 
 ### Eulersche Zahl $e$
 
