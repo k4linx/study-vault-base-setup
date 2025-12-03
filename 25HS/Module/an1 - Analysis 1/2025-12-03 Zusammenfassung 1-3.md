@@ -146,8 +146,9 @@ $$
 Daraus kann lambda berechnet werden:
 $$
 \begin{align}
-\lambda = \frac{ln()}{#}
+\lambda = \frac{ln(\frac{y_{A}}{y_{B}})}{(x_{A}-x_{B})}
 \end{align}
 $$
+$A$
 #### Weitere Themen
 - [[Gleichungssysteme, Ungleichungen, Betrag & Potenzen#Potenzgesetze|Potenzgesetze]]
