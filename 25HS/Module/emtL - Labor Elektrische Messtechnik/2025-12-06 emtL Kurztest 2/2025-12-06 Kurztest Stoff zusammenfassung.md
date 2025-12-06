@@ -19,4 +19,4 @@ Eine Ideale Diode
 ![[diode_schema.png#invert|400]]
 ## pn-Halbleiter
 ### n-Dotierung
-bei der n-Dotierung wird ein Halbleiter, meist Silizium oder Germanium mit elementen Verunreinigt welche 5 Atome besitzen z.B. Phosphor. Dabei bindet sich Phosphor mit den Valenzelektronen von 
+bei der n-Dotierung wird ein Halbleiter, meist Silizium oder Germanium mit elementen Verunreinigt welche 5 Atome besitzen z.B. Phosphor. Dabei bindet sich Phosphor mit den Valenzelektronen von Silizium, ein Valenzelektron bleibt jedoch übrig welches eine negative Ladung zur Folge hat (Elektronen Überschuss)
