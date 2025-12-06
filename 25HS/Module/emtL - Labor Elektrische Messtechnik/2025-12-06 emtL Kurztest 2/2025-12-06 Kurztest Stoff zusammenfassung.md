@@ -83,5 +83,6 @@ $$
 B= \frac{I_{C}}{I_{B}}
 $$
 Die Ausgangskennlinie beschreibt den Collectorstrom $I_{C}$ bei einem bestimmten  Basisstrom $I_{B}$
+Wobei der bereich nach der kurve den Verstärkungsbereich zeigt
 
 # Feldeffekt Transistor
