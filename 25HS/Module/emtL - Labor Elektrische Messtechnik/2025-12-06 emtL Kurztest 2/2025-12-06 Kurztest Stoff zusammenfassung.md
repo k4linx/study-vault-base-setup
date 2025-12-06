@@ -31,4 +31,4 @@ Jede Diode hat wie oben schon genannt eine Kennlinie die ideal aussieht wie ein 
 
 Wenn die Diode in Durchlassrichtung gepolt ist und die Sperrspannung an der Anode überschritten wird steigt der fliessende Strom rasant an. 
 
-Schaltet man eine Diode in Sperrrichtung
+Schaltet man eine Diode in Sperrrichtung und überschreitet die Sperrspannung
