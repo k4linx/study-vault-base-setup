@@ -66,4 +66,8 @@ Beim npn Transistor ist der Emitter und der Collector jeweils n-dotiert und die 
 ## pnp Transistor
 Beim pnp Transistor ist der emitter und Collector jeweils p-dotiert und die Basis n-dotiert.
 
+---
+![[bipolartransistor_erklärung.png#invert]]
+Der Bipolartransistor wird über eine Steuerspannung $U_{BE}=0.7V$ gesteuert. Wenn diese Spannung anliegt wird die diode von der Basis zum Emitter in Durchlassrichtung geschaltet. Dabei werden wenige Elektronen von  der n-Schicht des Emitters von der Basis angezogen und es fliesst ein kleiner Basisstrom $I_{B}$. der grösste Teil der Elektronen fliessen aber zum Collector dieser wird leitend und es fliesst $I_{C}$
 
+# Feldeffekt Transistor
