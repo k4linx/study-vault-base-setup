@@ -24,4 +24,6 @@ bei der n-Dotierung wird ein Halbleiter, meist Silizium oder Germanium mit eleme
 Bei der p-Dotierung wird der Halbleiter mit Fremdatomen verunreinigt die weniger als 4 Valenelektronen besitzen z.B. Aluminium. bei der Verbindung von Aluminium und Silizium entstehen dadurch Löcher im Elektronengitter. Das hat zur Folge das das Material Positiv geladen ist. p-Dotierung kommt von der positiven Ladung des Materials.
 
 ---
-Am pn-Halbleiter 
+Ein pn-Halbleiter besteht aus einer seite die p-Dotiert ist und einer anderen Seite die n-Dotiert ist. 
+
+Wenn kein Strom an den Halbleiter angeschlossen wir bildet sich am pn-Übergang eine sogenannte Sperrschicht, diese entsteht weil die überschüssigen Elektronen der n-dotierten Schicht langsam die Löcher in der p-Dotierten Schicht füllen, irgendwann sind dann die Löcher soweit gefüllt dass die Elektronen nicht genug Kraft haben um die weiteren Löcher zu füllen.
