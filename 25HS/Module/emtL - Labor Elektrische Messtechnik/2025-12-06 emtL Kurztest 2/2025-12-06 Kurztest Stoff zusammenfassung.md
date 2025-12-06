@@ -19,3 +19,4 @@ Eine Ideale Diode
 ![[diode_schema.png#invert|400]]
 ## pn-Halbleiter
 ### p-dotierung
+bei der P dotierung wird ein Halbleiter, meist Silizium oder Germanium mit elementen Verunreinigt welche 5 Atome besite
