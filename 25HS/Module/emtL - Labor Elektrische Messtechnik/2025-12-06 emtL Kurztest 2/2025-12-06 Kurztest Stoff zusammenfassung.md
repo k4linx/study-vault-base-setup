@@ -27,6 +27,8 @@ bei der n-Dotierung wird ein Halbleiter, meist Silizium oder Germanium mit eleme
 Bei der p-Dotierung wird der Halbleiter mit Fremdatomen verunreinigt die weniger als 4 Valenzelektronen besitzen z.B. Aluminium. bei der Verbindung von Aluminium und Silizium entstehen dadurch Löcher im Elektronengitter. Das hat zur Folge das das Material Positiv geladen ist. p-Dotierung kommt von der positiven Ladung des Materials.
 
 ---
+### Diodenkennlinie
+![[diodenkennlinie_germanium_silizium.png]]
 Jede Diode hat wie oben schon genannt eine Kennlinie die ideal aussieht wie ein rechter Winkel. Diese Kennlinie zeigt die Sperrspannung der Diode, bei Silizium ist diese Sperrspannung ~${0.7V}$. 
 
 Wenn die Diode in Durchlassrichtung gepolt ist und die Schwellspannung an der Anode überschritten wird steigt der fliessende Strom rasant an. 
@@ -40,3 +42,4 @@ Eine Stromfehlerschaltung wird zur Messung einer Diode in Durchlassrichtung verw
 
 #### Sperrbereich
 Eine Spannungsfehlerschaltung wird zur Messung einer Diode im Sperrbereich verwendet.
+![[spannungsfehlerschaltung_diode.png#invert]]
