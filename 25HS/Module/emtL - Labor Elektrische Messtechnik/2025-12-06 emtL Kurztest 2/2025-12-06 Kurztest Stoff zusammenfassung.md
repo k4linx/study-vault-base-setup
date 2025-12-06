@@ -28,5 +28,7 @@ Bei der p-Dotierung wird der Halbleiter mit Fremdatomen verunreinigt die weniger
 
 ---
 Jede Diode hat wie oben schon genannt eine Kennlinie die ideal aussieht wie ein rechter Winkel. Diese Kennlinie zeigt die Sperrspannung der Diode, bei Silizium ist diese Sperrspannung ~${0.7V}$. 
-Wenn die Diode in Durchlassrichtung gepolt ist und die Sperrspannung überschritten wird steigt der Strom 
-Solange die Sperrspannung nicht erreicht wird leitet die Diode keinen Strom. Wenn die Sperrspannung überschritten wird steigt der Strom sehr schnell an. Das kann erklärt werden weil sich eine Diode in Sperrrich
+
+Wenn die Diode in Durchlassrichtung gepolt ist und die Sperrspannung an der Anode überschritten wird steigt der fliessende Strom rasant an. 
+
+Schaltet man eine Diode in Sperrrichtung
