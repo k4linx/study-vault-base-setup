@@ -18,3 +18,4 @@ Eine Ideale Diode
 - verhält sich wie ein Unterbruch von Kathode zu Anode
 ![[diode_schema.png#invert|400]]
 ## pn-Halbleiter
+### p-dotierung
