@@ -18,5 +18,5 @@ Eine Ideale Diode
 - verhält sich wie ein Unterbruch von Kathode zu Anode
 ![[diode_schema.png#invert|400]]
 ## pn-Halbleiter
-### p-dotierung
-bei der P dotierung wird ein Halbleiter, meist Silizium oder Germanium mit elementen Verunreinigt welche 5 Atome besitzen z.B. Phosphor. Dabei entst
+### n-Dotierung
+bei der n-Dotierung wird ein Halbleiter, meist Silizium oder Germanium mit elementen Verunreinigt welche 5 Atome besitzen z.B. Phosphor. Dabei bindet sich Phosphor mit den Valenzelektronen von 
