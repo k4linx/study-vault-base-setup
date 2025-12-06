@@ -21,4 +21,5 @@ Eine Ideale Diode
 ### n-Dotierung
 bei der n-Dotierung wird ein Halbleiter, meist Silizium oder Germanium mit elementen Verunreinigt welche 5 Atome besitzen z.B. Phosphor. Dabei bindet sich Phosphor mit den Valenzelektronen von Silizium, ein Valenzelektron bleibt jedoch übrig welches eine negative Ladung zur Folge hat (Elektronen Überschuss). Diese negative Ladung gibt der n-Dotierung ihren Namen
 ### p-Dotierung
-Bei der p-Dotierung wird der Halbleiter mit Fremdatomen verunreinigt die weniger als 4 Valenelektronen besitzen z.B. Aluminium. bei der Verbindung von Aluminium und Silizium entstehen dadurch löcher im 
+Bei der p-Dotierung wird der Halbleiter mit Fremdatomen verunreinigt die weniger als 4 Valenelektronen besitzen z.B. Aluminium. bei der Verbindung von Aluminium und Silizium entstehen dadurch Löcher im Elektronengitter. Das hat zur Folge das das Material Positiv geladen ist. 
+
