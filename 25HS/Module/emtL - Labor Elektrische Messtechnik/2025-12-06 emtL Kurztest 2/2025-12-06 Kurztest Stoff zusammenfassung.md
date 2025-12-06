@@ -30,15 +30,15 @@ Bei der p-Dotierung wird der Halbleiter mit Fremdatomen verunreinigt die weniger
 ### Diodenkennlinie
 ![[diodenkennlinie_germanium_silizium.png]]
 #### Sperrspannung
-
+Die Sperrspannung einer Diode ist die Spannung die in Sperrrichtung an der Diode anliegt $(U_{R})$. Wenn die Maximale Sperrspannung erreicht wird kommt es zum Durchbruch und der Zerstörung der Diode.
 #### Sperrstrom
 
 
-Jede Diode hat wie oben schon genannt eine Kennlinie die ideal aussieht wie ein rechter Winkel. Diese Kennlinie zeigt die Sperrspannung der Diode, bei Silizium ist diese Sperrspannung ~${0.7V}$. 
-
-Wenn die Diode in Durchlassrichtung gepolt ist und die Schwellspannung an der Anode überschritten wird steigt der fliessende Strom rasant an. 
-
-Schaltet man eine Diode in Sperrrichtung und überschreitet die Sperrspannung lösen sich Elektronen aus dem Kristallgittern und der Strom steigt auch hier rasant an, wenn der Strom weiter ansteigen kann wird sie Diode zerstört.
+#### Durchlassspannung
+Jede Diode hat wie oben schon genannt eine Kennlinie die ideal aussieht wie ein rechter Winkel. Diese Kennlinie zeigt die Sperrspannung der Diode, bei Silizium ist diese Sperrspannung ~${0.7V}$.  Bei Germanium ~$0.3V$ 
+### Sperr- und Durchlassbereich
+Wird eine Diode in Sperrrichtung gepolt, vergrössert sich die Sperrschicht $\rightarrow$ Die Der Widerstand der Diode steigt.
+Ungekehrt, wenn die Diode in Durchlassrichtung gepolt wird verkleinert sich die Sperrschicht $\rightarrow$ Der Widerstand sinkt. Wenn die Spannung grösser wird als das Elektrische Feld der Diode leitet die Diode.
 
 ## Ermittlung der Diodenkennlinie
 #### Durchlassbereich
