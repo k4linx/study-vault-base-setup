@@ -28,7 +28,7 @@ Bei der p-Dotierung wird der Halbleiter mit Fremdatomen verunreinigt die weniger
 
 ---
 ### Diodenkennlinie
-![[diodenkennlinie_germanium_silizium.png]]
+![[diodenkennlinie_germanium_silizium.png#invert]]
 #### Sperrspannung
 Die Sperrspannung einer Diode ist die Spannung die in Sperrrichtung an der Diode anliegt $(U_{R})$. Wenn die Maximale Sperrspannung erreicht wird kommt es zum Durchbruch und der Zerstörung der Diode.
 #### Sperrstrom
@@ -52,3 +52,16 @@ Eine Spannungsfehlerschaltung wird zur Messung einer Diode im Sperrbereich verwe
 # Bipolartransistor
 Ein Bipolartransistor ist eigentlich nur zwei Dioden die gegeneinander gepolt wurden. Es gibt jedoch ein paar unterschiede zur Diode.
 ![[bipolartransistor_schichtenmodell.png#invert|200]]![[bipolartransistor_schema.png#invert|200]]![[bipolartransistor_diodendarstellung.png#invert|200]]
+
+| Anschluss | Name      | Beschreibung          | Dotierungsstärke    |
+| --------- | --------- | --------------------- | ------------------- |
+| E         | Emitter   | Sendet Ladungsträger  | stark dotiert       |
+| B         | Basis     |                       | mittelstark dotiert |
+| C         | Collector | Sammelt Ladungsträger | schwach dotiert     |
+Es gibt zwei verschiedene Arten von bipolartransistoren
+
+## npn Transistor
+
+
+## pnp Transistor
+
