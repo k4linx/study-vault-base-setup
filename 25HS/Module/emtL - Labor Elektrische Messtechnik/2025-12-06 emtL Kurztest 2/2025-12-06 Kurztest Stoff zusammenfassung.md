@@ -32,7 +32,7 @@ Bei der p-Dotierung wird der Halbleiter mit Fremdatomen verunreinigt die weniger
 #### Sperrspannung
 Die Sperrspannung einer Diode ist die Spannung die in Sperrrichtung an der Diode anliegt $(U_{R})$. Wenn die Maximale Sperrspannung erreicht wird kommt es zum Durchbruch und der Zerstörung der Diode.
 #### Sperrstrom
-
+Eine Diode die in sperrrichtung betrieben wird verhält sich nicht zu 100% wie ein Unterbruch es fliesst immer ein minimaler Sperrstrom. Wenn die [[#Sperrspannung]] überschritten wird, steigt der Sperrstrom rasant an und die Diode geht kaputt.
 
 #### Durchlassspannung
 Jede Diode hat wie oben schon genannt eine Kennlinie die ideal aussieht wie ein rechter Winkel. Diese Kennlinie zeigt die Sperrspannung der Diode, bei Silizium ist diese Sperrspannung ~${0.7V}$.  Bei Germanium ~$0.3V$ 
@@ -48,3 +48,5 @@ Eine Stromfehlerschaltung wird zur Messung einer Diode in Durchlassrichtung verw
 #### Sperrbereich
 Eine Spannungsfehlerschaltung wird zur Messung einer Diode im Sperrbereich verwendet.
 ![[spannungsfehlerschaltung_diode.png#invert]]
+
+# Bipolartransistor
