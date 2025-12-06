@@ -105,3 +105,5 @@ s= \frac{-2}{U_{P}}\cdot \sqrt{I_{D}\cdot I_{DSS}}
 $$
 Die Abschnürung eines FETs entsteht dadurch dass am Gate Pin eine Spannung angelegt wird. Diese Spannung führt dazu dass sich eine Sperrschicht (schwarz im Bild) von der p-dotierten Schicht bildet und so den Widerstand im Transistor erhöht bis der Strom nicht mehr fliessen kann.
 ![[bildung der Sperrschicht.png#invert]]
+## Schwellenspannung
+$U_{P}$ beschreibt die Schwellenspannung, wenn diese überschritten wird
