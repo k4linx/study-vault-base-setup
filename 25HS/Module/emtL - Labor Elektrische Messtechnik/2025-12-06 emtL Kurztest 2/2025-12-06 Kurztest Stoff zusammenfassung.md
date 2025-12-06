@@ -90,4 +90,9 @@ $$
 # Feldeffekt Transistor
 Der Feldeffekt Transistor wird im gegensatz zum Bipolar Transistor mit einer Steuerspannung betrieben. 
 
-Die Abschnürung eines FET 
+
+
+Die Steuerkennlinie lässt sich als Parabel beschreiben
+$$
+I_{D}=I_{DSS}\left( 1- \frac{U_{GS}}{U_{P}} \right)^{2}
+$$
