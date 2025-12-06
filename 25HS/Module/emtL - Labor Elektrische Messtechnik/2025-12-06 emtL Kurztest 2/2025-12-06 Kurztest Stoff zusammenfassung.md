@@ -77,5 +77,5 @@ Der Bipolartransistor wird über eine Steuerspannung $U_{BE}=0.7V$ gesteuert. We
 ### Kennlinien bipolartransistor
 ![[bipolartransistor_kennlinien.png#invert]]
 Die Eingangskennlinie ist wie die einer [[#Diode]].
-
+Der Ausgang beschreibt die 
 # Feldeffekt Transistor
