@@ -77,9 +77,10 @@ Der Bipolartransistor wird über eine Steuerspannung $U_{BE}=0.7V$ gesteuert. We
 ### Kennlinien bipolartransistor
 ![[bipolartransistor_kennlinien.png#invert]]
 Die Eingangskennlinie ist wie die einer [[#Diode]].
+
 Die an der Übertragungskennlinie kann der Serstärkungsfaktor $B$ abgelesen werden. die Formel lautet.
 $$
 B= \frac{I_{C}}{I_{B}}
 $$
-
+Die Ausgangskennlinie 
 # Feldeffekt Transistor
