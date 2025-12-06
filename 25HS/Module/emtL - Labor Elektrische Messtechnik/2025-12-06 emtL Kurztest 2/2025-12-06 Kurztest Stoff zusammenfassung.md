@@ -88,3 +88,6 @@ r_{CE} = \frac{\Delta U_{CE}}{\Delta I_{C}} = \frac{U_{CE2}-U_{CE1}}{I_{C2}-I_{C
 $$
 
 # Feldeffekt Transistor
+Der Feldeffekt Transistor wird im gegensatz zum Bipolar Transistor mit einer Steuerspannung betrieben. 
+
+Die Abschnürung eines FET 
