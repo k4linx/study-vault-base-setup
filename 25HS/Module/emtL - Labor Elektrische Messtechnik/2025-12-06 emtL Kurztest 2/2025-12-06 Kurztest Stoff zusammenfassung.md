@@ -31,4 +31,7 @@ Jede Diode hat wie oben schon genannt eine Kennlinie die ideal aussieht wie ein 
 
 Wenn die Diode in Durchlassrichtung gepolt ist und die Schwellspannung an der Anode überschritten wird steigt der fliessende Strom rasant an. 
 
-Schaltet man eine Diode in Sperrrichtung und überschreitet die Sperrspannung lösen sich Elektronen aus dem Kristallgittern und der Strom steigt auch hier rasant an, wenn der Strom we
+Schaltet man eine Diode in Sperrrichtung und überschreitet die Sperrspannung lösen sich Elektronen aus dem Kristallgittern und der Strom steigt auch hier rasant an, wenn der Strom weiter ansteigen kann wird sie Diode zerstört.
+
+## Ermittlung der Diodenkennlinie
+#### Durchlassbereich
