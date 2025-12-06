@@ -9,7 +9,7 @@ tags:
 erstelldatum: 2025-12-06
 ---
 # Diode
-Eine Diode ist ein zweipol deren Widerstand von der Polarität und der Angelegten Spannung abhängt. In der mechanik kann die Diode mit einem Kugelventil verglichen werden (Bil). Ein Ideales Kugelventil macht eine rechtwinklige Kennlinie (rechts)
-
+Eine Diode ist ein zweipol deren Widerstand von der Polarität und der Angelegten Spannung abhängt. In der mechanik kann die Diode mit einem Kugelventil verglichen werden (Bild Links). Ein Ideales Kugelventil macht eine rechtwinklige Kennlinie (Bild Rechts). 
 ![[kugelventil_schematische_darstellung.png|300]] ![[kugelventil_kennlinie.png|300]]
 
+Auch eine Ideale Diode hat eine kennlinie wie im Bild oben Rechts
