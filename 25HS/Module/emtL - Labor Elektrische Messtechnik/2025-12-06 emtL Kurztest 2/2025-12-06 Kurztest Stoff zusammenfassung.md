@@ -50,3 +50,5 @@ Eine Spannungsfehlerschaltung wird zur Messung einer Diode im Sperrbereich verwe
 ![[spannungsfehlerschaltung_diode.png#invert]]
 
 # Bipolartransistor
+Ein Bipolartransistor ist eigentlich nur zwei Dioden die gegeneinander gepolt wurden. Es gibt jedoch ein paar unterschiede zur Diode.
+![[bipolartransistor_schichtenmodell.png#invert|200]]![[bipolartransistor_schema.png#invert|200]]![[bipolartransistor_diodendarstellung.png#invert|200]]
