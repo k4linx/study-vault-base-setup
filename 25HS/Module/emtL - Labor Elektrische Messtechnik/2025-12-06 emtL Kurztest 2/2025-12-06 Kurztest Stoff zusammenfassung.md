@@ -106,4 +106,8 @@ $$
 Die Abschnürung eines FETs entsteht dadurch dass am Gate Pin eine Spannung angelegt wird. Diese Spannung führt dazu dass sich eine Sperrschicht (schwarz im Bild) von der p-dotierten Schicht bildet und so den Widerstand im Transistor erhöht bis der Strom nicht mehr fliessen kann.
 ![[bildung der Sperrschicht.png#invert]]
 ## Schwellenspannung
-$U_{P}$ beschreibt die Schwellenspannung, wenn diese überschritten wird
+$U_{P}$ beschreibt die Schwellenspannung, solange die Gatespannung kleiner als die Schwellenspannung ist leitet der Transistor abhängig davon wie gross $U_{GS}$ ist. Ist $U_{GS}= U_{P}$ findet eine Abschnürung statt, das bedeutet der Transistor sperrt und es kann kein Strom mehr fliessen.
+![[Kennlinienfeld_n-kanal-FET.png]]
+
+# Arten von FETs
+![[FET_arten_Tabelle.png#invert]]
