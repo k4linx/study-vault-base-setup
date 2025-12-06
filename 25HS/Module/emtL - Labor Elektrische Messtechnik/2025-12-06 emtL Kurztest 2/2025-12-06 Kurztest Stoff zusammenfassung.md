@@ -20,7 +20,7 @@ Eine Ideale Diode
 ## pn-Halbleiter
 Ein pn-Halbleiter besteht aus einer seite die p-Dotiert ist und einer anderen Seite die n-Dotiert ist. 
 
-Wenn kein Strom an den Halbleiter angeschlossen wir bildet sich am pn-Übergang eine sogenannte Sperrschicht, diese entsteht weil die überschüssigen Elektronen der [[#n-Dotierung|n-Dotierten]] Schicht langsam die Löcher in der [[#p-Dotierung|p-Dotierten]] Schicht füllen, irgendwann sind dann die Löcher soweit gefüllt dass die Elektronen nicht genug Kraft haben um die weiteren Löcher zu füllen.
+Wenn kein Strom an den Halbleiter angeschlossen wir bildet sich am pn-Übergang eine sogenannte Sperrschicht/Grenzschicht, diese entsteht weil die überschüssigen Elektronen der [[#n-Dotierung|n-Dotierten]] Schicht langsam die Löcher in der [[#p-Dotierung|p-Dotierten]] Schicht füllen, irgendwann sind dann die Löcher soweit gefüllt dass die Elektronen nicht genug Kraft haben um die weiteren Löcher zu füllen.
 ### n-Dotierung
 bei der n-Dotierung wird ein Halbleiter, meist Silizium oder Germanium mit elementen Verunreinigt welche 5 Atome besitzen z.B. Phosphor. Dabei bindet sich Phosphor mit den Valenzelektronen von Silizium, ein Valenzelektron vom Phospor bleibt jedoch übrig welches eine negative Ladung zur Folge hat (Elektronen Überschuss). Diese negative Ladung gibt der n-Dotierung ihren Namen
 ### p-Dotierung
