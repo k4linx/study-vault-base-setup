@@ -35,3 +35,7 @@ Schaltet man eine Diode in Sperrrichtung und √ºberschreitet die Sperrspannung l√
 
 ## Ermittlung der Diodenkennlinie
 #### Durchlassbereich
+Eine Stromfehlerschaltung wird zur Messung einer Diode in Durchlassrichtung verwendet.
+![[Stromfehlerschaltung_diode.png#invert]]
+
+##
