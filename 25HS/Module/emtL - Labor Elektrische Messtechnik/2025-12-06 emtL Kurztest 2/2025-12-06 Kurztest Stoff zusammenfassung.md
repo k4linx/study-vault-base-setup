@@ -50,7 +50,7 @@ Eine Spannungsfehlerschaltung wird zur Messung einer Diode im Sperrbereich verwe
 ![[spannungsfehlerschaltung_diode.png#invert]]
 
 # Bipolartransistor
-Ein Bipolartransistor ist eigentlich nur zwei Dioden die gegeneinander gepolt wurden. Es gibt jedoch ein paar unterschiede zur Diode.
+Ein Bipolartransistor ist eigentlich nur zwei Dioden die gegeneinander gepolt wurden. Es gibt jedoch ein paar unterschiede zur Diode. Ein Bipolartransistor kann zur Verstärkung oder als Schalter verwendet werden.
 ![[bipolartransistor_schichtenmodell.png#invert|200]]![[bipolartransistor_schema.png#invert|200]]![[bipolartransistor_diodendarstellung.png#invert|200]]
 
 | Anschluss | Name      | Beschreibung          | Dotierungsstärke    |
@@ -82,6 +82,9 @@ Die an der Übertragungskennlinie kann der Verstärkungsfaktor $B$ abgelesen wer
 $$
 B= \frac{I_{C}}{I_{B}}
 $$
-Die Ausgangskennlinie beschreibt den Collectorstrom $I_{C}$ bei einem bestimmten  Basisstrom $I_{B}$
+Die Ausgangskennlinie beschreibt den Collectorstrom $I_{C}$ bei einem bestimmten  Basisstrom $I_{B}$ Der Anstieg der Kennlinie an einem bestimmten Punkt nennt man differentiellen Ausgangswiderstand $r_{CE}$ 
+$$
+r_{CE} = \frac{\Delta U_{CE}}{\Delta I_{C}} = \frac{U_{CE2}-U_{CE1}}{I_{C2}-I_{C1}}
+$$
 
 # Feldeffekt Transistor
