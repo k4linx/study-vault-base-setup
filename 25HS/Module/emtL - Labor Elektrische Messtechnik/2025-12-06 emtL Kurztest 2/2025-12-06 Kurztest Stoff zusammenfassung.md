@@ -82,5 +82,6 @@ Die an der Übertragungskennlinie kann der Serstärkungsfaktor $B$ abgelesen wer
 $$
 B= \frac{I_{C}}{I_{B}}
 $$
-Die Ausgangskennlinie 
+Die Ausgangskennlinie beschreibt den Collectorstrom $I_{C}$ bei einem bestimmten  Basisstrom $I_{B}$
+
 # Feldeffekt Transistor
