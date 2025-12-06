@@ -27,4 +27,6 @@ bei der n-Dotierung wird ein Halbleiter, meist Silizium oder Germanium mit eleme
 Bei der p-Dotierung wird der Halbleiter mit Fremdatomen verunreinigt die weniger als 4 Valenzelektronen besitzen z.B. Aluminium. bei der Verbindung von Aluminium und Silizium entstehen dadurch Löcher im Elektronengitter. Das hat zur Folge das das Material Positiv geladen ist. p-Dotierung kommt von der positiven Ladung des Materials.
 
 ---
-Jede Diode hat wie oben schon genannt eine Kennlinie die ideal aussieht wie ein rechter Winkel. Diese Kennlinie zeigt die Sperrspannung der Diode, bei Silizium ist diese Sperrspannung ~${0.7V}$. Solange die Sperrspannung nicht erreicht wird leitet die Diode keinen Strom. 
+Jede Diode hat wie oben schon genannt eine Kennlinie die ideal aussieht wie ein rechter Winkel. Diese Kennlinie zeigt die Sperrspannung der Diode, bei Silizium ist diese Sperrspannung ~${0.7V}$. 
+Wenn die Diode in Durchlassrichtung gepolt ist und die Sperrspannung überschritten wird steigt der Strom 
+Solange die Sperrspannung nicht erreicht wird leitet die Diode keinen Strom. Wenn die Sperrspannung überschritten wird steigt der Strom sehr schnell an. Das kann erklärt werden weil sich eine Diode in Sperrrich
