@@ -61,10 +61,14 @@ Ein Bipolartransistor ist eigentlich nur zwei Dioden die gegeneinander gepolt wu
 Es gibt zwei verschiedene Arten von bipolartransistoren
 
 ## npn Transistor
-Beim npn Transistor ist der Emitter und der Collector jeweils n-dotiert und die Basis p-dotiert.
+![[npn_transistor.png#invert]]
+Beim npn Transistor ist der Emitter und der Collector jeweils n-dotiert und die Basis p-dotiert. Die Spannung am npn Transistor ist positiv.
 
 ## pnp Transistor
-Beim pnp Transistor ist der emitter und Collector jeweils p-dotiert und die Basis n-dotiert.
+![[pnp Transistor.png#invert]]
+
+Beim pnp Transistor ist der emitter und Collector jeweils p-dotiert und die Basis n-dotiert. Die Spannung am pnp Transistor ist negativ.
+
 
 ---
 ![[bipolartransistor_erklärung.png#invert]]
