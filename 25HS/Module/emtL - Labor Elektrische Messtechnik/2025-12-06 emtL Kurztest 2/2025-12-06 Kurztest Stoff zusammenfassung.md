@@ -92,7 +92,16 @@ Der Feldeffekt Transistor wird im gegensatz zum Bipolar Transistor mit einer Ste
 
 
 
-Die Steuerkennlinie lässt sich als Parabel beschreiben
+Die Steuerkennlinie lässt sich als Parabel beschreiben:
 $$
 I_{D}=I_{DSS}\left( 1- \frac{U_{GS}}{U_{P}} \right)^{2}
 $$
+Für Verstärker-Anwendungen wird die Steilheit verwendet
+$$
+s=\frac{\Delta I_{D}}{\Delta U_{GS}} = - \frac{2I_{DSS}}{U_{P}}\left( 1- \frac{U_{GS}}{U_{P}} \right)
+$$
+$$
+s= \frac{-2}{U_{P}}\cdot \sqrt{I_{D}\cdot I_{DSS}}
+$$
+Die Abschnürung eines FETs entsteht dadurch dass am Gate Pin eine Spannung angelegt wird. Diese Spannung führt dazu dass sich eine Sperrschicht (schwarz im Bild) von der p-dotierten Schicht bildet und so den Widerstand im Transistor erhöht bis der Strom nicht mehr fliessen kann.
+![[bildung der Sperrschicht.png#invert]]
