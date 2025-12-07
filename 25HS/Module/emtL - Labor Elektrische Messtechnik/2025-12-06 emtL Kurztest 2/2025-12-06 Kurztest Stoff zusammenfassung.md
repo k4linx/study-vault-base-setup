@@ -141,4 +141,10 @@ $$
 ![[uebertragungskennlinie_opamp.png#invert|400]]
 
 ## Digital (Komparator)
-Der Digitale OpAmp auch Komparator genannt 
+Der Digitale OpAmp auch Komparator genannt ist ein OpAmp ohne Gegenkopplung so wird am Ausgang entweder High oder Low geschaltet.
+
+## Analog
+Der Verstärkungsfaktor $V_{u}$ wird wie folgt berechnet:
+$$
+V_{u} = \frac{-R_{2}}{R_{1}}
+$$
