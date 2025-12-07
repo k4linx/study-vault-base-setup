@@ -86,6 +86,7 @@ Die Ausgangskennlinie beschreibt den Collectorstrom $I_{C}$ bei einem bestimmten
 $$
 r_{CE} = \frac{\Delta U_{CE}}{\Delta I_{C}} = \frac{U_{CE2}-U_{CE1}}{I_{C2}-I_{C1}}
 $$
+Der Sättigungsbereich befindet sich auf der linken seite der Ausgangskennlinie (im Bild) von $0-2V$ 
 
 # Feldeffekt Transistor
 Der Feldeffekt Transistor wird im gegensatz zum Bipolar Transistor mit einer Steuerspannung betrieben. 
