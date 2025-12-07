@@ -117,11 +117,26 @@ $U_{P}$ beschreibt die Schwellenspannung, solange die Gatespannung kleiner als d
 
 Ein OpAmp verstärkt das Eingangssignal um einen Faktor ~$1'000'000$.
 Der OpAmp hat 2 Eingänge und
-![[OpAmp_schema.png#invert|300]]
+![[opamp_schema_erklärung.png#invert]]
+
 $(+)$: Nicht invertierender Eingang
 $(-)$: Invertierender Eingang
 $(+V_s)$: Versorgungsspannung Positiv
 $(-V_{S})$: Versorgungsspannung negativ
 $(A)$: (rechts) Ausgang
+
+---
+Es fliesen keine Ströme in die Eingänge 
+$$
+I_{p}=I_{N}= 0
+$$
+Die Ausgangsspannung ist proportional zur Spannungsdifferenz zwischen den Eingängen $U_{e}= U_{P}-U_{N}$. gilt aber nur solange wie die Ausgangsspannung 
+$$
+U_{a} = A \cdot U_{e} = A \cdot (U_{P}-U_{N})
+$$
+in die Eingänge fliessen keine Ströme:
+$$
+I_{P}=I_{N}= 0
+$$
+
 ## Digital
-Ein
