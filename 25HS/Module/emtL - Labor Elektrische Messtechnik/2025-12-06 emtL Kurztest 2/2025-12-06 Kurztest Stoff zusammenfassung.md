@@ -140,4 +140,5 @@ I_{P}=I_{N}= 0
 $$
 ![[uebertragungskennlinie_opamp.png#invert|400]]
 
-## Digital
+## Digital (Komparator)
+Der Digitale OpAmp auch Komparator genannt 
