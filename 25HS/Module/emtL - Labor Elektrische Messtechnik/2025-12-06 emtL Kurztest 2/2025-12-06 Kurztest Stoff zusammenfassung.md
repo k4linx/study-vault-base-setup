@@ -88,6 +88,8 @@ r_{CE} = \frac{\Delta U_{CE}}{\Delta I_{C}} = \frac{U_{CE2}-U_{CE1}}{I_{C2}-I_{C
 $$
 Der Sättigungsbereich befindet sich auf der linken seite der Ausgangskennlinie (im Bild) von $0-2V$ 
 
+Der Verstärkungsbereich ist auf der rechten Seite der Ausgangskennlinie wo die Kennlinien fast linear sind. Er ist in 
+
 # Feldeffekt Transistor
 Der Feldeffekt Transistor wird im gegensatz zum Bipolar Transistor mit einer Steuerspannung betrieben. 
 
