@@ -141,9 +141,10 @@ $$
 ![[uebertragungskennlinie_opamp.png#invert|400]]
 
 ## Digital (Komparator)
-Der Digitale OpAmp auch Komparator genannt ist ein OpAmp ohne Gegenkopplung so wird am Ausgang entweder High oder Low geschaltet.
-
+Der Digitale OpAmp auch Komparator genannt ist ein OpAmp ohne Gegenkopplung so wird am Ausgang entweder High oder Low geschaltet. Die Kennlinie eines Komparators sieht eher wie folgt aus
+![[komarator_uebertragungskennlinie.png#invert|400]]
 ## Analog
+Ein Analoger OpAmp ist meistens mit Gegenkopplung vorzufinden, um Unerwünschte Effekte wie Rückkopplung bei einem Mikrofon das an einem Audio Verstärker angeschlossen ist zu verhindern.
 
 ### Invertierender OpAmp
 ![[Schema_opamp_invertierend_M1.png#invert]]
