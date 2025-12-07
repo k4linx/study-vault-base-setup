@@ -82,12 +82,12 @@ Die an der Übertragungskennlinie kann der Verstärkungsfaktor $B$ abgelesen wer
 $$
 B= \frac{I_{C}}{I_{B}}
 $$
-Die Ausgangskennlinie beschreibt den Collectorstrom $I_{C}$ bei einem bestimmten  Basisstrom $I_{B}$. Er zeig die Verstärkung bei einem Bestimmten Basisstrom. bei einer ko
+Die Ausgangskennlinie beschreibt den Collectorstrom $I_{C}$ bei einem bestimmten  Basisstrom $I_{B}$. Er zeig die Verstärkung bei einem Bestimmten Basisstrom. bei einer Konstanten Basisspannung $U_{B}$.
 Der Anstieg der Kennlinie an einem bestimmten Punkt nennt man differentiellen Ausgangswiderstand $r_{CE}$ 
 $$
 r_{CE} = \frac{\Delta U_{CE}}{\Delta I_{C}} = \frac{U_{CE2}-U_{CE1}}{I_{C2}-I_{C1}}
 $$
-Der Sättigungsbereich befindet sich auf der linken seite der Ausgangskennlinie (im Bild) von $0-2V$ 
+Der Sättigungsbereich befindet sich auf der linken seite der Ausgangskennlinie (im Bild) von $0-2V$. Da wird der Transistor 
 
 Der Verstärkungsbereich ist auf der rechten Seite der Ausgangskennlinie wo die Kennlinien fast linear sind.
 
