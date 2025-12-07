@@ -76,13 +76,15 @@ Der Bipolartransistor wird über eine Steuerspannung $U_{BE}=0.7V$ gesteuert. We
 
 ### Kennlinien bipolartransistor
 ![[bipolartransistor_kennlinien.png#invert]]
-Die Eingangskennlinie ist wie die einer [[#Diode]]. 
+Die Eingangskennlinie ist wie die einer [[#Diode]]. Sie zeigt die Abhängigkeit des Basisstrom $I_{B}$ zu $U_{BE}$.
 
-Die an der Übertragungskennlinie kann der Verstärkungsfaktor $B$ abgelesen werden. die Formel lautet.
+An der Übertragungskennlinie kann der Verstärkungsfaktor $B$ abgelesen werden. die Formel lautet. idR ist der Verlauf nahezu linear.
 $$
 B= \frac{I_{C}}{I_{B}}
 $$
-Die Ausgangskennlinie beschreibt den Collectorstrom $I_{C}$ bei einem bestimmten  Basisstrom $I_{B}$. Er zeig die Verstärkung bei einem Bestimmten Basisstrom. bei einer Konstanten Basisspannung $U_{B}$.
+Die Ausgangskennlinie beschreibt die Abhängigkeit des Collectorstrom $I_{C}$ von der Collector-Emitter Spannung $U_{CE}$ bei ausgewählten Basisstrom $I_{B}$. 
+Sie zeig die Verstärkung bei einem Bestimmten Basisstrom. bei einer Konstanten Basisspannung $U_{B}$.
+
 Der Anstieg der Kennlinie an einem bestimmten Punkt nennt man differentiellen Ausgangswiderstand $r_{CE}$ 
 $$
 r_{CE} = \frac{\Delta U_{CE}}{\Delta I_{C}} = \frac{U_{CE2}-U_{CE1}}{I_{C2}-I_{C1}}
@@ -94,8 +96,11 @@ Der Verstärkungsbereich ist auf der rechten Seite der Ausgangskennlinie wo die 
 # Feldeffekt Transistor
 Der Feldeffekt Transistor wird im gegensatz zum Bipolar Transistor mit einer Steuerspannung betrieben. 
 
-
-
+| Anschluss | Name   | Beschreibung    |
+| --------- | ------ | --------------- |
+| S         | Source | Quelle          |
+| D         | Drain  | Abfluss         |
+| G         | Gate   | Steuerelektrode |
 Die Steuerkennlinie lässt sich als Parabel beschreiben:
 $$
 I_{D}=I_{DSS}\left( 1- \frac{U_{GS}}{U_{P}} \right)^{2}
@@ -107,11 +112,13 @@ $$
 $$
 s= \frac{-2}{U_{P}}\cdot \sqrt{I_{D}\cdot I_{DSS}}
 $$
+## Abschnürung 
 Die Abschnürung eines FETs entsteht dadurch dass am Gate Pin eine Spannung angelegt wird. Diese Spannung führt dazu dass sich eine Sperrschicht (schwarz im Bild) von der p-dotierten Schicht bildet und so den Widerstand im Transistor erhöht bis der Strom nicht mehr fliessen kann.
 ![[bildung der Sperrschicht.png#invert]]
 ## Schwellenspannung
 $U_{P}$ beschreibt die Schwellenspannung, solange die Gatespannung kleiner als die Schwellenspannung ist leitet der Transistor abhängig davon wie gross $U_{GS}$ ist. Ist $U_{GS}= U_{P}$ findet eine Abschnürung statt, das bedeutet der Transistor sperrt und es kann kein Strom mehr fliessen.
 ![[Kennlinienfeld_n-kanal-FET.png]]
+
 
 ### Arten von FETs
 ![[FET_arten_Tabelle.png#invert]]
