@@ -122,7 +122,12 @@ $U_{P}$ beschreibt die Schwellenspannung, solange die Gatespannung kleiner als d
 
 ### Arten von FETs
 ![[FET_arten_Tabelle.png#invert]]
-
+#### Verarmungstyp: Selbstsperrend
+Beim Verarmungstyp befindet sich der MOSFET immer im Sperrmodus (lässt keinen Strom fliessen) wenn keine Gatespannung angeschlossen ist. 
+Wird eine positive Spannung angelegt, werden die Elektronen vom p-leitenden Substrat zum Gate Anschluss gezogen (physikalische Flussrichtung) und die Löcher in die andere Richtung. Dadurch entsteht ein negativ geladener Kanal zwischen **S** und **D** und der MOSFET leitet. 
+#### Anreicherungstyp: Selbstleitend
+Beim Anreicherungstyp befindet sich der MOSFET immer im Leitenden Zustand wenn keine Spannung am Gate anliegt.
+Wird nun
 
 # OpAmp
 
