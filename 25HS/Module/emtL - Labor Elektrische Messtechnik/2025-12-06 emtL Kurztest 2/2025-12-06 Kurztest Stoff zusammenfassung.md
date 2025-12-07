@@ -62,12 +62,12 @@ Es gibt zwei verschiedene Arten von bipolartransistoren
 
 ## npn Transistor
 ![[npn_transistor.png#invert]]
-Beim npn Transistor ist der Emitter und der Collector jeweils n-dotiert und die Basis p-dotiert. Die Spannung am npn Transistor ist positiv.
+Beim npn Transistor ist der Emitter und der Collector jeweils n-dotiert und die Basis p-dotiert. Die Spannung am npn Transistor ist positiv. **VZS**
 
 ## pnp Transistor
 ![[pnp Transistor.png#invert]]
 
-Beim pnp Transistor ist der emitter und Collector jeweils p-dotiert und die Basis n-dotiert. Die Spannung am pnp Transistor ist negativ.
+Beim pnp Transistor ist der emitter und Collector jeweils p-dotiert und die Basis n-dotiert. Die Spannung am pnp Transistor ist negativ. **EZS**
 
 
 ---
