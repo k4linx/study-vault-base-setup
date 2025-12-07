@@ -144,7 +144,19 @@ $$
 Der Digitale OpAmp auch Komparator genannt ist ein OpAmp ohne Gegenkopplung so wird am Ausgang entweder High oder Low geschaltet.
 
 ## Analog
-Der Verstärkungsfaktor $V_{u}$ wird wie folgt berechnet:
+
+### Invertierender OpAmp
+![[Schema_opamp_invertierend_M1.png#invert]]
+Der Verstärkungsfaktor $V_{u}$ wird beim Invertierenden Verstärker wie folgt berechnet:
 $$
 V_{u} = \frac{-R_{2}}{R_{1}}
+$$
+
+
+### Nichtinvertiernder OpAmp
+![[Nichtinvertierender_opamp_M2.png#invert]]
+
+Beim Nichtinvertierenden OpAmp wird $V_{u}$ wie folgt berechnet:
+$$
+V_{u}=1+ \frac{R_{2}}{R_{1}}
 $$

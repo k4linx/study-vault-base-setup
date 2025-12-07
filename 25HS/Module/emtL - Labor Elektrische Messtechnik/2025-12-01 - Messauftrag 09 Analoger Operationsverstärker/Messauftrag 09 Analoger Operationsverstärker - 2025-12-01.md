@@ -150,7 +150,7 @@ Beim Teil 3 ist das Resultat $5.5V$ unter dem erwarteten Resultat von $24V$ bei 
 
 <div class="page-break" style="page-break-before: always;"></div>
 
-## 2. Invertierender Verstärker
+## 2. Nichtinvertierender Verstärker
 ### 1.1 Messaufbau
 #### 1.1.1 Schema
 ![[Nichtinvertierender_opamp_M2.png#invert]]
