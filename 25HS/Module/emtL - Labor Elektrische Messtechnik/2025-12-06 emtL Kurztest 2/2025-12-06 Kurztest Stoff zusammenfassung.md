@@ -127,8 +127,7 @@ Beim Verarmungstyp befindet sich der MOSFET immer im Sperrmodus (lässt keinen S
 Wird eine positive Spannung angelegt, werden die Elektronen vom p-leitenden Substrat zum Gate Anschluss gezogen (physikalische Flussrichtung) und die Löcher in die andere Richtung. Dadurch entsteht ein negativ geladener Kanal zwischen **S** und **D** und der MOSFET leitet. 
 #### Anreicherungstyp: Selbstleitend
 Beim Anreicherungstyp befindet sich der MOSFET immer im Leitenden Zustand wenn keine Spannung am Gate anliegt.
-Wird nun
-
+Wird eine negative Spannung am Gate angelegt fängt der MOSFET an zu sperren (der Widerstand vergrössert sich). Die Löcher werden vom Gate angezogen und die Elektronen fliessen in die entgegengesetzte Richtung (physikalische Richtung) dadurch wird eine positiv geladene Schicht zwischen Source und Drain gebildet welche den Elektronenfluss verhindert.
 # OpAmp
 
 Ein OpAmp verstärkt das Eingangssignal um einen Faktor ~$1'000'000$.
