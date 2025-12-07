@@ -130,7 +130,7 @@ Es fliesen keine Ströme in die Eingänge
 $$
 I_{p}=I_{N}= 0
 $$
-Die Ausgangsspannung ist proportional zur Spannungsdifferenz zwischen den Eingängen $U_{e}= U_{P}-U_{N}$. gilt aber nur solange wie die Ausgangsspannung 
+Die Ausgangsspannung ist proportional zur Spannungsdifferenz zwischen den Eingängen $U_{e}= U_{P}-U_{N}$. gilt aber nur solange wie die Ausgangsspannung $U_{a}$ zwischen $U_{a,max}$ und $U_{a,min}$ liegt.
 $$
 U_{a} = A \cdot U_{e} = A \cdot (U_{P}-U_{N})
 $$
