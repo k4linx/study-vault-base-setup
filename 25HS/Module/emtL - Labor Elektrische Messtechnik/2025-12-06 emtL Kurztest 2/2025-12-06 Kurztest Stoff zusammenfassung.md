@@ -151,8 +151,6 @@ Der Verstärkungsfaktor $V_{u}$ wird beim Invertierenden Verstärker wie folgt b
 $$
 V_{u} = \frac{-R_{2}}{R_{1}}
 $$
-
-
 ### Nichtinvertiernder OpAmp
 ![[Nichtinvertierender_opamp_M2.png#invert]]
 
