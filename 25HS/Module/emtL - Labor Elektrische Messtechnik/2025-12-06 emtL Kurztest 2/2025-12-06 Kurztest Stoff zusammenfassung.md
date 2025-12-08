@@ -50,7 +50,7 @@ Eine Spannungsfehlerschaltung wird zur Messung einer Diode im Sperrbereich verwe
 ![[spannungsfehlerschaltung_diode.png#invert]]
 
 # Bipolartransistor
-Ein Bipolartransistor ist eigentlich nur zwei Dioden die gegeneinander gepolt wurden. Es gibt jedoch ein paar unterschiede zur Diode. Ein Bipolartransistor kann zur Verstärkung oder als Schalter verwendet werden.
+Ein Bipolartransistor ist eigentlich nur zwei Dioden die unterschiedlich gepolt wurden. Es gibt jedoch ein paar unterschiede zur Diode. Ein Bipolartransistor kann zur Verstärkung oder als Schalter verwendet werden.
 ![[bipolartransistor_schichtenmodell.png#invert|200]]![[bipolartransistor_schema.png#invert|200]]![[bipolartransistor_diodendarstellung.png#invert|200]]
 
 | Anschluss | Name      | Beschreibung          | Dotierungsstärke    |
@@ -59,6 +59,7 @@ Ein Bipolartransistor ist eigentlich nur zwei Dioden die gegeneinander gepolt wu
 | B         | Basis     |                       | mittelstark dotiert |
 | C         | Collector | Sammelt Ladungsträger | schwach dotiert     |
 Es gibt zwei verschiedene Arten von bipolartransistoren
+Collector und Emitter beziehen sich auf die Physikalische Flussrichtung. Da die Elektronen vom negativen zum positiven Pol fliessen. In der Technischen Flussrichtung ist es umgekehrt.
 
 ## npn Transistor
 ![[npn_transistor.png#invert]]
