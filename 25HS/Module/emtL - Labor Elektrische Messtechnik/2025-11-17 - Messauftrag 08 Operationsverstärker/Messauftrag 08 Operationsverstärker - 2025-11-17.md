@@ -5,7 +5,38 @@ tags:
   - digital
   - opamp
   - optokoppler
+Autoren: |-
+  Ludin Noah
+  Joël Oppliger
 ---
+```dataviewjs
+// Retrieve the current file's frontmatter
+let frontmatter = dv.current().file.frontmatter;
+
+// Define fields to exclude (adapt as necessary)
+let excludeFields = ['tags', 'created']
+
+// Extract and filter the keys and values based on the exclusion list
+let filtered_keys = Object.keys(frontmatter).filter(key => ! excludeFields.includes(key));
+let filtered_values = filtered_keys.map(key => frontmatter[key]);
+
+// Define an array to hold each row of the table
+let rows = [];
+
+// Populate the rows array with key-value pairs
+for (let i = 0; i < filtered_keys.length; i++) {
+
+	// Convert array values (e.g. tags) to a single string separated by commas
+	let value = Array.isArray(filtered_values[i]) ? filtered_values[i].join(', ') : filtered_values [i];
+	rows.push([filtered_keys[i].toUpperCase(), value])
+}
+
+// Generate a table with two columns and populate with rows
+
+dv.table(['', ''], rows)
+```
+<div class="page-break" style="page-break-before: always;"></div>
+
 ## 1. OpAmp als Komparator
 ### 1.1 Messaufbau
 #### 1.1.1 Schema
@@ -48,6 +79,8 @@ yTitle: Spannung (V)
 
 #### 1.2.3 Interpretation
 Die Messresultate entsprechen unseren Erwartungen.
+
+<div class="page-break" style="page-break-before: always;"></div>
 
 ## 2. Schmitt-Trigger mit OpAmp
 ### 2.1 Messaufbau
@@ -92,6 +125,9 @@ yTitle: Spannung (V)
 
 #### 2.2.3 Interpretation
 Die Messresultate entsprechen unseren Erwartungen. Im Diagramm kann man die Schalthysterese bei $5.5V$ und $6.5V$ erkennen.
+
+<div class="page-break" style="page-break-before: always;"></div>
+
 ## 3 Optokoppler
 ### 3.1 Messaufbau
 #### 3.1.1 Schema
@@ -105,6 +141,7 @@ Messaufbau gemäss Schema
 | $I_{LED}$  | UNI-T UT61B |
 | $U_{LED}$  | UNI-T UT61B |
 
+<div class="page-break" style="page-break-before: always;"></div>
 
 ### 3.2 Messungen
 #### 3.2.1 Messerwartungen
@@ -125,19 +162,17 @@ width: 100%
 beginAtZero: true
 yTitle: Spannung (V)
 ```
+<div class="page-break" style="page-break-before: always;"></div>
+
 #### 3.2.3 Interpretation
 Wir erhielten Ergebnisse die nicht mit den Erwartungen übereinstimmen. Daher haben wir mit folgenden Werten weitergerechnet
-
 
 | Messgrösse | Einheit    | Wert  |
 | ---------- | ---------- | ----- |
 | $U_{LED}$  | $V$        | 11.52 |
 | $I_C$      | $\micro A$ | 657   |
 | $I_{LED}$  | $mA$       | 2.29  |
-
 ##### Berechnungen
-
-
-| Widerstände | Wert   |
-| ----------- | ------ |
-| R berechnet | 15kOhm |
+$$
+R_{LED}=\frac{U_{LED}}{I_{C}}=\frac{10V}{0.000652A}=15337.42\ohm = 15.3k\ohm  
+$$

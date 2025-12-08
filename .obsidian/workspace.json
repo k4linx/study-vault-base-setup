@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -208,10 +207,10 @@
   },
   "active": "4b16ee6903cc3676",
   "lastOpenFiles": [
-    "optokoppler.png",
-    "opamp_schmitt-trigger.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Messauftrag 08 Operationsverstärker - 2025-11-17.md",
+    "optokoppler.png",
+    "opamp_schmitt-trigger.png",
     "opamp_as_comparator.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/2025-12-06 Kurztest Stoff zusammenfassung.md",
     "25HS/Zeitpläne/2025-12-05.md",
@@ -231,7 +230,6 @@
     "OpAmp_schema.png",
     "FET_arten_Tabelle.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/bilder/Kennlinienfeld_n-kanal-FET.png",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/bilder/diodenkennlinie_germanium_silizium.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/bilder",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2",
     "Diverses/Mathematik Auffrischungskurs/Gleichungssysteme, Ungleichungen, Betrag & Potenzen.md",
