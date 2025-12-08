@@ -99,12 +99,12 @@ Die Messresultate entsprechen unseren Erwartungen. Im Diagramm kann man die Scha
 #### 3.1.2 Beschreibung
 Messaufbau gemäss Schema
 
-| Messgrösse | Messgerät |
-| ---------- | --------- |
+| Messgrösse | Messgerät   |
+| ---------- | ----------- |
+| $I_{C}$    | HP 34401 A  |
+| $I_{LED}$  | UNI-T UT61B |
+| $U_{LED}$  | UNI-T UT61B |
 
-| Widerstände | Wert   |
-| ----------- | ------ |
-| R berechnet | 15kOhm |
 
 ### 3.2 Messungen
 #### 3.2.1 Messerwartungen
@@ -126,3 +126,18 @@ beginAtZero: true
 yTitle: Spannung (V)
 ```
 #### 3.2.3 Interpretation
+Wir erhielten Ergebnisse die nicht mit den Erwartungen übereinstimmen. Daher haben wir mit folgenden Werten weitergerechnet
+
+
+| Messgrösse | Einheit    | Wert  |
+| ---------- | ---------- | ----- |
+| $U_{LED}$  | $V$        | 11.52 |
+| $I_C$      | $\micro A$ | 657   |
+| $I_{LED}$  | $mA$       | 2.29  |
+
+##### Berechnungen
+
+
+| Widerstände | Wert   |
+| ----------- | ------ |
+| R berechnet | 15kOhm |
