@@ -132,7 +132,7 @@ Wird eine negative Spannung am Gate angelegt fängt der MOSFET an zu sperren (de
 # OpAmp
 
 Ein OpAmp verstärkt das Eingangssignal um einen Faktor ~$1'000'000$.
-Der OpAmp hat 2 Eingänge und eine Versorgungsspannung.
+Der OpAmp hat 2 Eingänge und eine Versorgungsspannung
 ![[opamp_schema_erklärung.png#invert]]
 
 $(+)$: Nicht invertierender Eingang
