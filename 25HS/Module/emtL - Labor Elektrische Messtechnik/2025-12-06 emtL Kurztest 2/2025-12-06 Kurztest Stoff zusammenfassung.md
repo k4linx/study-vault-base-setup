@@ -79,7 +79,7 @@ Der Bipolartransistor wird über eine Steuerspannung $U_{BE}=0.7V$ gesteuert. We
 ![[bipolartransistor_kennlinien.png#invert]]
 Die Eingangskennlinie ist wie die einer [[#Diode]]. Sie zeigt die Abhängigkeit des Basisstrom $I_{B}$ zu $U_{BE}$.
 
-An der Übertragungskennlinie kann der Verstärkungsfaktor $B$ abgelesen werden. die Formel lautet. idR ist der Verlauf nahezu linear.
+An der Übertragungskennlinie kann der Verstärkungsfaktor $B$ abgelesen werden. idR ist der Verlauf nahezu linear. die Formel lautet:
 $$
 B= \frac{I_{C}}{I_{B}}
 $$
