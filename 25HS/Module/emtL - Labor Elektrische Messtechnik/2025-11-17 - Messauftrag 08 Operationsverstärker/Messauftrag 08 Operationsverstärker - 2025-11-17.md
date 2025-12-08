@@ -25,7 +25,7 @@ Messaufbau gemäss Schema
 | R2          | $10k\ohm$ |
 ### 1.2 Messungen
 #### 1.2.1 Messerwartungen
-Der OpAmp sollte eine Maximale Ausgangsspannung von ~12V ausgeben.
+Der OpAmp sollte eine Maximale Ausgangsspannung von ~12V ausgeben. und sich wie ein Komparator verhalten. Der Umschaltzeitpunkt liegt zwischen $6V$ und $7V$.
 
 #### 1.2.2 Messresultate
 
@@ -47,7 +47,7 @@ yTitle: Spannung (V)
 ```
 
 #### 1.2.3 Interpretation
-Works as Intended ISSUE CLOSED
+Die Messresultate entsprechen unseren Erwartungen.
 
 ## 2. Schmitt-Trigger mit OpAmp
 ### 2.1 Messaufbau
@@ -70,7 +70,7 @@ Messaufbau gemäss Schema
 | R4          | $100k\ohm$ |
 ### 2.2 Messungen
 #### 2.2.1 Messerwartungen
-Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. im falle einer kleinen Veränderung der Eingansspannung $U_{ein}$, sollte sich die Ausgangsspannung $U_{aus}$ nicht verändern.
+Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. Der Einschaltpunkt sollte bei $6.5V$ liegen Der Ausschaltpunkt bei $5.5V$.
 #### 2.2.2 Messresultate
 | Messpunkt    | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 10    |
 | ------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -91,9 +91,7 @@ yTitle: Spannung (V)
 ```
 
 #### 2.2.3 Interpretation
-Der Op
-
-
+Die Messresultate entsprechen unseren Erwartungen. Im Diagramm kann man die Schalthysterese bei $5.5V$ und $6.5V$ erkennen.
 ## 3 Optokoppler
 ### 3.1 Messaufbau
 #### 3.1.1 Schema
@@ -101,9 +99,8 @@ Der Op
 #### 3.1.2 Beschreibung
 Messaufbau gemäss Schema
 
-| Messgrösse | Messgerät   |
-| ---------- | ----------- |
-
+| Messgrösse | Messgerät |
+| ---------- | --------- |
 
 | Widerstände | Wert   |
 | ----------- | ------ |
@@ -111,7 +108,7 @@ Messaufbau gemäss Schema
 
 ### 3.2 Messungen
 #### 3.2.1 Messerwartungen
-Der OpAmp sollte eine Maximale Ausgangsspannung von 12V ausgeben. im falle einer kleinen erhöhung der Eingansspannung $U_{ein}$, sollte sich die Ausgangsspannung $U_{aus}$ nicht verändern.
+
 #### 3.2.2 Messresultate
 | Messpunkt  | 1   | 2    | 3    | 4   | 5     | 6    | 7    | 8     | 9     | 10    |
 | ---------- | --- | ---- | ---- | --- | ----- | ---- | ---- | ----- | ----- | ----- |
