@@ -49,7 +49,42 @@ $$
 \end{document}
 ```
 
-### Definitionslücke
+### Tangentensteigung
+Mit Hilfe von 2 Punkten auf einem Funktionsgraphen kann die Sekantensteigung gebildet werden 
+$$
+\begin{align}
+A(x_{0}|x_{0}^{2}) & \quad B(x_{0}+h|(x_{0}+h)^{2} \\
+\\
+m_{sek}&= \frac{(x_{0}+h)^{2}-x_{0}^{2}}{h} \\
+\end{align}
+$$
+Die Tangentensteigung kann nun aus dem [[2025-12-03 Zusammenfassung 1-3#Grenzwert|Grenzwert]] der Sekantensteigung berechnet werden wenn $h$ gegen $0$ geht.
+$$
+m_{Tan}
+$$
+
+### Ableitung
+Ableitungen lassen sich aus der Funktion folgendermassen bilden:
+$$
+\begin{align}
+f(x) &= x^{2}+3x+3 \tag{1}\\
+f'(x) &= 2x+3+0 \tag{2}
+\end{align}
+$$
+1) grundfunktion
+2) Ableitung
+Eine Ableitung wird gebildet indem man die Potenz als Faktor vor die Funktion setzt und um 1 reduziert.
+$$
+f(x) = x^{2}+3x+3 \Rightarrow f'(x)= 2x + ...
+$$
+Wird die potenz $0$ wird das x weggelassen.
+$$
+f'(x) = 2x+3
+$$
+Konstanten werden zu 0 (können weggelassen werden)
+$$
+f'(x) = 2x + 3 + \cancel{0}  
+$$
 
 
 ## Herleitungen
