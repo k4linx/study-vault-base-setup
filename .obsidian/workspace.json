@@ -11,13 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/Objektorientierte Programmierung 1.base",
-                "viewName": "Table"
+                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-10 Prüfungsinformationen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Objektorientierte Programmierung 1"
+              "icon": "lucide-file",
+              "title": "2025-12-10 Prüfungsinformationen"
             }
           }
         ]
@@ -203,8 +205,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "390d0ece70ce5c34",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "25HS/Module/oop1 - Objektorientierte Programmierung 1/Objektorientierte Programmierung 1.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-10 Prüfungsinformationen.md",
     "Home.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/bilder/FET_arten_Tabelle.png",
@@ -244,12 +247,10 @@
     "25HS/Module/emtL - Labor Elektrische Messtechnik/Labor Elektrische Messtechnik.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Allgemeine Elektrotechnik 1.base",
     "25HS/Module/konvE - Konvergenz Elektrotechnik/Konvergenz Elektrotechnik.base",
-    "25HS/Module/oop1 - Objektorientierte Programmierung 1/Objektorientierte Programmierung 1.base",
     "25HS/Module/spy - scientific python/Scientific Python.base",
     "25HS/Module/lalg1 - Lineare Algebra 1/Lineare Algebra.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-03 Zusammenfassung 9-11.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-03 Zusammenfassung 5-8.md",
-    "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-03 Zusammenfassung 1-4.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 10-11.md"
+    "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-03 Zusammenfassung 1-4.md"
   ]
 }
