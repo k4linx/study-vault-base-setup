@@ -11,15 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/Objektorientierte Programmierung 1.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-table",
+              "title": "Objektorientierte Programmierung 1"
             }
           }
         ]
@@ -205,12 +203,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "390d0ece70ce5c34",
   "lastOpenFiles": [
+    "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-10 Prüfungsinformationen.md",
+    "Home.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/bilder/FET_arten_Tabelle.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/komarator_uebertragungskennlinie.png",
     "25HS/Zeitpläne/2025-12-04.md",
-    "Home.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Messauftrag 08 Operationsverstärker - 2025-11-17.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/optokoppler.png",
