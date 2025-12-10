@@ -43,7 +43,7 @@ $$
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
     \addplot[color=red, domain=-4:2] {2*x};
-    \addplot[color=red, domain=2:4] {(2*x)+(((x-2)^2)/2)};
+    \addplot[color=red, domain=2:4] {(2*x)+((x-2)^2/2)};
 	\end{axis}
   \end{tikzpicture}
 \end{document}
