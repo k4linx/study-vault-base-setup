@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.folder.contains("25HS/Module/an1 - Analysis 1")
+views:
+  - type: table
+    name: Table
+    order:
+      - erstelldatum
+      - file.name
+      - tags
