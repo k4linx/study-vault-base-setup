@@ -15,6 +15,15 @@ b&=e^{\lambda}\\
 \lambda &= \ln(b)
 \end{align}
 $$
+### Binomische Formeln
+$$
+\begin{align}
+(a+b)^{2} &= a^2+2ab+b^2\tag{1} \\
+(a-b)^{2} &= a^{2}-2ab+b^{2}\tag{2} \\
+(a+b)(a-b) &= a^{2}-ab+ab-b^{2} = a^{2}-b^{2} \tag{3}
+\end{align}
+$$
+
 
 ## Definitionen
 ### Interval
