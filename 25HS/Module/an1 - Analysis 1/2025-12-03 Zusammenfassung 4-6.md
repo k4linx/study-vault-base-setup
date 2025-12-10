@@ -50,7 +50,7 @@ $$
 ```
 
 ### Tangentensteigung
-Mit Hilfe von 2 Punkten auf einem Funktionsgraphen kann die Sekantensteigung gebildet werden 
+Mit Hilfe von 2 Punkten auf einem Funktionsgraphen kann die Sekantensteigung gebildet werden (gezeigt an einer Parabel $x^{2}$)
 $$
 \begin{align}
 A(x_{0}|x_{0}^{2}) & \quad B(x_{0}+h|(x_{0}+h)^{2} \\
@@ -60,9 +60,13 @@ m_{sek}&= \frac{(x_{0}+h)^{2}-x_{0}^{2}}{h} \\
 $$
 Die Tangentensteigung kann nun aus dem [[2025-12-03 Zusammenfassung 1-3#Grenzwert|Grenzwert]] der Sekantensteigung berechnet werden wenn $h$ gegen $0$ geht.
 $$
-m_{Tan}
+m_{tan} = \lim_{h \rightarrow 0} \frac{(x_{0}+h)^{2}-x_{0}^{2}}{h}
 $$
-
+Vereinfachen und ausmultiplizieren
+$$
+m_{tan}= 2x_{0}
+$$
+Die Tangentensteigung ist auch Ableitung genannt
 ### Ableitung
 Ableitungen lassen sich aus der Funktion folgendermassen bilden:
 $$
@@ -71,8 +75,9 @@ f(x) &= x^{2}+3x+3 \tag{1}\\
 f'(x) &= 2x+3+0 \tag{2}
 \end{align}
 $$
-1) grundfunktion
-2) Ableitung
+$(1)$ Grundfunktion
+$(2)$ Ableitung
+
 Eine Ableitung wird gebildet indem man die Potenz als Faktor vor die Funktion setzt und um 1 reduziert.
 $$
 f(x) = x^{2}+3x+3 \Rightarrow f'(x)= 2x + ...
@@ -85,9 +90,15 @@ Konstanten werden zu 0 (können weggelassen werden)
 $$
 f'(x) = 2x + 3 + \cancel{0}  
 $$
-
-
-## Herleitungen
+#### Ableitungsregeln
+$$
+\begin{align}
+\tag{1} f(x)&=x^{n} & \quad  \Rightarrow \quad  f'(x) &= n \cdot x^{n-1} \\
+\tag{2} f(x)&=c & \quad \Rightarrow \quad f'(x) &= 0 \\
+\tag{3} f(x) &= a \cdot u(x) & \quad \Rightarrow \quad f'(x) &= a \cdot u'(x) \\
+\tag{4} f(x) &= u(x) + v(x) & \quad \Rightarrow \quad f'(x)  & = u'(x)+v'(x) \\
+\end{align}
 $$
 
-$$
+### Polynome
+
