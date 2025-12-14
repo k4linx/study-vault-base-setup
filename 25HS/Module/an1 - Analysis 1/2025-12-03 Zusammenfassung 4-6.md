@@ -7,8 +7,16 @@ tags:
 ---
 
 ## Wichtige Formeln
+### Ableitung
 $$
-
+\begin{align}
+f(x) &= ax^{n}-bx^{n}+c \\
+f'(x) &= anx^{n-1}-bnx^{n-1}+\cancel{0}
+\end{align}
+$$
+### h-methode
+$$
+\lim_{x\rightarrow x_{0}}= \frac{x^{n}-a}{x^{n}-b} \Rightarrow \lim_{h\rightarrow0} \frac{(x_{0}+h)^{n}-a}{x_{0}+h-b} \Rightarrow \lim_{h\rightarrow0} x_{0}^{n}+h = x_{0}^{n}
 $$
 
 ## Definitionen
