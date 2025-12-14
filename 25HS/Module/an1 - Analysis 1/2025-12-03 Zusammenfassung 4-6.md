@@ -105,3 +105,8 @@ $$
 
 ### Polynome
 
+### Grenzwerte mit der h-Methode
+Die h-Methode wird verwendet wenn ein Grenzwert der Form $\lim_{x\rightarrow x_{0}}f(x)$ vorliegt. Das kürzen ergibt sich mit der h-Methode von alleine.
+$$
+\lim_{x \rightarrow 2} \frac{x^{2}-4}{x-2} = \lim_{h\rightarrow0} = \frac{(2+h)^{2}-4}{2+h-2} = \lim_{h\rightarrow0} = \frac{4+4h+h^{2}-4}{h} = \lim_{h\rightarrow0} 4+h = 4
+$$
