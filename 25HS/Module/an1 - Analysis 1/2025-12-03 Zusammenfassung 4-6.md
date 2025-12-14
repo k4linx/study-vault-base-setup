@@ -18,7 +18,7 @@ $$
 f:\mathbb{D} = [0;4) \  A(x)
 \begin{cases}
 x \cdot 2 & \text{für}\ x \le 2\\
-x \cdot 2 + \frac{(x-2)^{2}}{2} & \text{für}\ x \ge 2 \\
+4+2- \frac{1}{2}(4-x)^{2} & \text{für}\ x \ge 2 \\
 \end{cases}
 \end{align}
 $$
@@ -46,7 +46,7 @@ $$
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
     \addplot[color=red, domain=-4:2] {2*x};
-    \addplot[color=red, domain=2:4] {x*2 + (x-2)^2/2};
+    \addplot[color=red, domain=2:4] {4+2-1/2 *(4-x)^2};
 	\end{axis}
   \end{tikzpicture}
 \end{document}
