@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "204d0ac9741a6aa8",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "135ead0898da0a82",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
-                "viewName": "Table"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "an1 - Analysis 1"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -203,10 +205,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "135ead0898da0a82",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "25HS/Module/an1 - Analysis 1/Analysis 1.base",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
+    "25HS/Module/an1 - Analysis 1/Analysis 1.base",
     "Home.md",
     "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 4-6.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
