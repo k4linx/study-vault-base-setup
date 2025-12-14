@@ -1,10 +1,10 @@
-filters:
-  and:
-    - file.folder.contains("konvE")
-    - file.ext == "md"
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.ext == "md"
+        - file.folder.contains("aet1")
     order:
       - erstelldatum
       - file.name

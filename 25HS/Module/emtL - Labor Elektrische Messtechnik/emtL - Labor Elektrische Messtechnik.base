@@ -1,8 +1,7 @@
 filters:
   and:
-    - and:
-        - file.folder.contains("emtL")
-        - file.ext == "md"
+    - file.ext == "md"
+    - file.folder.contains("emtL")
 views:
   - type: table
     name: Table

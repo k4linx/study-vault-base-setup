@@ -1,12 +1,11 @@
 filters:
   and:
-    - file.folder.contains("spy")
     - file.ext == "md"
+    - file.folder.contains("oop1")
 views:
   - type: table
-    name: table
+    name: Table
     order:
       - erstelldatum
       - file.name
       - tags
-    cardSize: 800

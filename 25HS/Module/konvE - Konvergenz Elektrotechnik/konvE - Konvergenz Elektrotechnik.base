@@ -1,7 +1,7 @@
 filters:
   and:
-    - file.folder.contains("lalg1")
     - file.ext == "md"
+    - file.folder.contains("konvE")
 views:
   - type: table
     name: Table
