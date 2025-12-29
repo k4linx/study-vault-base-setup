@@ -113,12 +113,44 @@ $$
 
 ### Maxima, Minima
 #### Lokales Maximum
+Wenn $f(x_{0}) \gt f(x_{0}- \varepsilon)$ und $f(x_{0}) \gt f(x_{0}+\varepsilon)$ ist $x_{0}$ ein lokales maximum
 
+```tikz
+\usepackage{pgfplots}
+
+\begin{document}
+  \begin{tikzpicture}
+	\begin{axis}[
+	no markers,
+	grid=both,
+	grid style={gray},
+	axis equal,
+	axis lines=center,
+	axis line style={-latex, thick},
+    xlabel=$x$,
+    ylabel=$y$,
+    xtick distance=1,
+	ytick distance=1,
+    enlargelimits=true,clip=true]
+    % code/plots here
+    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
+    % domain=x-axis from:to
+    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
+    \addplot[color=red, domain=-2:2] {-x^2};
+    \addplot[color=green, domain=-1:1] {0};
+    
+	\end{axis}
+  \end{tikzpicture}
+\end{document}
+```
 
 #### Lokales Minimum
-
+Wenn $f(x_{0}) \lt f(x_{0}- \varepsilon)$ und $f(x_{0}) \lt f(x_{0}+\varepsilon)$ ist $x_{0}$ ein lokales minimum
 
 #### Sattelpunkt
+Wenn $f(x_{0}) \gt f(x_{0}- \varepsilon)$ und $f(x_{0}) \lt f(x_{0}+ \varepsilon)$ ist ist $x_{0}$ ein Sattelpunkt
+Wenn $f(x_{0}) \lt f(x_{0}- \varepsilon)$ und $f(x_{0}) \gt f(x_{0}+ \varepsilon)$ ist ist $x_{0}$ ein Sattelpunkt
+
 
 ### Grenzwerte mit der h-Methode
 Die h-Methode wird verwendet wenn ein Grenzwert der Form $\lim_{x\rightarrow x_{0}}f(x)$ vorliegt. Das kürzen ergibt sich mit der h-Methode von alleine.
