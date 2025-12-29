@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 4-6.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-03 Zusammenfassung 4-6"
+              "title": "Home"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -210,6 +209,9 @@
   "lastOpenFiles": [
     "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 4-6.md",
     "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
+    "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
     "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung SW 7-9.md",
     "25HS/Zeitpläne/2025-12-04.md",
     "25HS/Zeitpläne/2025-12-03.md",
@@ -220,7 +222,6 @@
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
     "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base",
     "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Allgemeine Elektrotechnik 1.base",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/emtL - Labor Elektrische Messtechnik.base",
@@ -246,7 +247,6 @@
     "Diverses/Mathematik Auffrischungskurs/Gleichungssysteme, Ungleichungen, Betrag & Potenzen.md",
     "Diverses/Mathematik Auffrischungskurs/Gleichungen und Funktionen.md",
     "Diverses/Mathematik Auffrischungskurs/Exponentialfunktionen, Ähnlichkeit & Strahlensatz.md",
-    "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
     "Diverses/Mathematik Auffrischungskurs/Wurzeln, Logarithmen & Exponentialfunktionen.md",
     "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung SW 10-11.md",
     "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
