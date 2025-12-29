@@ -111,8 +111,8 @@ $$
 \end{align}
 $$
 
-### Polynome
-
+### Maxima, Minima
+#### Lokales Maximum
 
 
 ### Grenzwerte mit der h-Methode
