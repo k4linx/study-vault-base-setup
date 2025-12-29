@@ -115,6 +115,11 @@ $$
 #### Lokales Maximum
 
 
+#### Lokales Minimum
+
+
+#### Sattelpunkt
+
 ### Grenzwerte mit der h-Methode
 Die h-Methode wird verwendet wenn ein Grenzwert der Form $\lim_{x\rightarrow x_{0}}f(x)$ vorliegt. Das kürzen ergibt sich mit der h-Methode von alleine.
 $$
