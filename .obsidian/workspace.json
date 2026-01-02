@@ -11,13 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "25HS/Zeitpläne/Zeitpläne.base",
-                "viewName": "Table"
+                "file": "25HS/Zeitpläne/2026-01-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Zeitpläne"
+              "icon": "lucide-file",
+              "title": "2026-01-02"
             }
           }
         ]
@@ -206,15 +208,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "25HS/Zeitpläne/2025-12-04.md",
     "25HS/Zeitpläne/Zeitpläne.base",
+    "25HS/Zeitpläne/2026-01-02.md",
+    "25HS/Zeitpläne/2026-01-04.md",
+    "25HS/Zeitpläne/2026-01-03.md",
+    "25HS/Zeitpläne/2025-12-04.md",
     "Untitled 1.md",
     "25HS/Zeitpläne/2025-12-03.md",
     "25HS/Zeitpläne/2025-12-02.md",
-    "25HS/Zeitpläne/2026-01-04.md",
-    "25HS/Zeitpläne/2026-01-03.md",
     "Untitled.md",
-    "25HS/Zeitpläne/2026-01-02.md",
     "25HS/Zeitpläne/2025-12-30.md",
     "Home.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
