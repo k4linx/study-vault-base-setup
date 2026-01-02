@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Zeitpläne/2025-12-30.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-30"
+              "title": "Home"
             }
           }
         ]
@@ -207,8 +207,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "25HS/Zeitpläne/2025-12-07.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-20 - Analyse von Gleichstromkreisen 1/Analyse von Gleichstromkreisen 1 - 2025-10-20.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
+    "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 4-6.md",
     "25HS/Zeitpläne/2025-12-30.md",
+    "25HS/Zeitpläne/2025-12-07.md",
     "25HS/Zeitpläne/2025-12-06.md",
     "25HS/Zeitpläne/2025-12-04.md",
     "25HS/Zeitpläne/2025-12-05.md",
@@ -216,7 +221,6 @@
     "25HS/Zeitpläne/2025-12-02.md",
     "25HS/Module/an1 - Analysis 1/2025-12-29 Zusammenfassung 7-9.md",
     "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
-    "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 4-6.md",
     "25HS/Module/an1 - Analysis 1/2025-12-29 Zusammenfassung 10-13.md",
     "25HS/Module/an1 - Analysis 1/2025-12-29 Zusammenfassung 12-13.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
@@ -224,8 +228,6 @@
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
     "Home.md",
     "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
     "Diverses/Mathematik Auffrischungskurs/Mathematik Auffrischungskurs.base",
     "25HS/Module/spy - scientific python/spy - scientific python.base",
     "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base",
@@ -249,9 +251,6 @@
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/OpAmp_schema.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/bilder/Kennlinienfeld_n-kanal-FET.png",
     "Diverses/Mathematik Auffrischungskurs/Gleichungssysteme, Ungleichungen, Betrag & Potenzen.md",
-    "Diverses/Mathematik Auffrischungskurs/Gleichungen und Funktionen.md",
-    "Diverses/Mathematik Auffrischungskurs/Exponentialfunktionen, Ähnlichkeit & Strahlensatz.md",
-    "Diverses/Mathematik Auffrischungskurs/Wurzeln, Logarithmen & Exponentialfunktionen.md",
-    "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md"
+    "Diverses/Mathematik Auffrischungskurs/Gleichungen und Funktionen.md"
   ]
 }
