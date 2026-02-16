@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ef89620f17a0a9a3",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "35e8b3a6067f6f73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "26FS/Zeitpläne/Zeitpläne.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-table",
+              "title": "Zeitpläne"
             }
           }
         ]
@@ -79,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -206,22 +203,29 @@
       "templates:Insert template": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "390d0ece70ce5c34",
   "lastOpenFiles": [
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2026-01-05 Fragen Kolloquium.md",
+    "26FS/Module/Untitled",
+    "25HS/Zeitpläne/Zeitpläne.base",
+    "26FS/Zeitpläne/Zeitpläne.base",
     "Home.md",
+    "26FS/Zeitpläne",
+    "26FS/Module",
+    "Untitled 1.md",
+    "Untitled.base",
+    "Untitled.md",
+    "Untitled 1.base",
+    "26FS",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2026-01-05 Fragen Kolloquium.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Der einfache Gleichstromkreis 1 - 2025-09-22.md",
     "25HS/Zeitpläne/2026-01-02.md",
-    "25HS/Zeitpläne/Zeitpläne.base",
     "25HS/Zeitpläne/2026-01-04.md",
     "25HS/Zeitpläne/2026-01-03.md",
     "25HS/Zeitpläne/2025-12-04.md",
-    "Untitled 1.md",
     "25HS/Zeitpläne/2025-12-03.md",
     "25HS/Zeitpläne/2025-12-02.md",
-    "Untitled.md",
     "25HS/Zeitpläne/2025-12-30.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-20 - Analyse von Gleichstromkreisen 1/Analyse von Gleichstromkreisen 1 - 2025-10-20.md",
@@ -236,14 +240,7 @@
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-03 Zusammenfassung 1-4.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
-    "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
     "Diverses/Mathematik Auffrischungskurs/Mathematik Auffrischungskurs.base",
-    "25HS/Module/spy - scientific python/spy - scientific python.base",
-    "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base",
-    "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/Allgemeine Elektrotechnik 1.base",
-    "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/emtL - Labor Elektrische Messtechnik.base",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/bilder/FET_arten_Tabelle.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/komarator_uebertragungskennlinie.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/optokoppler.png",
