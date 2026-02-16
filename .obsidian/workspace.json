@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "26FS/Zeitpläne/Zeitpläne.base",
+                "file": "26FS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Zeitpläne"
+              "title": "an1 - Analysis 1"
             }
           }
         ]
@@ -203,22 +203,25 @@
       "templates:Insert template": false
     }
   },
-  "active": "390d0ece70ce5c34",
+  "active": "35e8b3a6067f6f73",
   "lastOpenFiles": [
-    "26FS/Module/Untitled",
-    "25HS/Zeitpläne/Zeitpläne.base",
+    "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
+    "26FS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
+    "26FS/Module/an1 - Analysis 1",
+    "26FS/Module/alg - Algebra/alg - Algebra.base",
+    "26FS/Module/aet2 - Allgemeine Elektrotechnik 2/aet2 - Allgemeine Elektrotechnik 2.base",
+    "26FS/Module/dt1 - Digitaltechnik 1/dt1 - Digitaltechnik 1.base",
+    "26FS/Module/mech - Mechanik/mech - Mechanik.base",
+    "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/oop2 - Objekt Orientierte Programmierung 2.base",
     "26FS/Zeitpläne/Zeitpläne.base",
+    "26FS/Module/dt1 - Digitaltechnik 1",
+    "26FS/Module/dt1.md",
+    "26FS/Module/an2 - Analysis 2",
     "Home.md",
-    "26FS/Zeitpläne",
-    "26FS/Module",
     "Untitled 1.md",
-    "Untitled.base",
     "Untitled.md",
-    "Untitled 1.base",
-    "26FS",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2026-01-05 Fragen Kolloquium.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Der einfache Gleichstromkreis 1 - 2025-09-22.md",
     "25HS/Zeitpläne/2026-01-02.md",
     "25HS/Zeitpläne/2026-01-04.md",
@@ -238,9 +241,6 @@
     "25HS/Module/an1 - Analysis 1/2025-12-29 Zusammenfassung 10-13.md",
     "25HS/Module/an1 - Analysis 1/2025-12-29 Zusammenfassung 12-13.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
-    "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-03 Zusammenfassung 1-4.md",
-    "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
-    "Diverses/Mathematik Auffrischungskurs/Mathematik Auffrischungskurs.base",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/bilder/FET_arten_Tabelle.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/komarator_uebertragungskennlinie.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/optokoppler.png",

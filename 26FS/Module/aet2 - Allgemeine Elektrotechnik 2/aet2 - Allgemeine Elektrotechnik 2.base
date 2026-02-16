@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "26FS/Module/aet2 - Allgemeine Elektrotechnik 2"
+        - file.ext == "md"
