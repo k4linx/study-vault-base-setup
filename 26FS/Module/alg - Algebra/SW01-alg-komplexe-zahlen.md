@@ -62,7 +62,8 @@ Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil*
 	- **Bogenmass** $\phi \in [0, 2\pi)$ oder $\phi \in (-\pi, \pi)$  
 
 ### Kartesische und Polarkoordinaten
-Bei den Kartesischen Koordinaten ist das Koordinatensystem mit Gitterlinien welche Geraden sind unterteilt. Dieses System wird 
+Bei den Kartesischen Koordinaten ist das Koordinatensystem mit Gitterlinien welche Geraden sind unterteilt. Dieses System wird verwendet wenn wir eine Zahl mit Realteil $Re(z) = x$ und Imaginärteil $Im(z) = y$ haben.
+![[SW01-alg-komplexe-zahlen_kart_koord.png#invert]]
 ## Herleitungen
 ### Cardanos Problem
 $$
