@@ -28,6 +28,8 @@ a = Re(z) \quad b = Im(z)
 $$
 Das Symbol für die Menge der Komplexen Zahlen is $\mathbb{C}$.
 
+Wenn $b=0$ ist ist $z$ eine Reelle Zahl.
+
 ### Imaginäre Einheit
 Das symbol $i$ wird für die imaginäre Einheit verwendet. 
 $$
@@ -56,3 +58,5 @@ $$
 \sqrt{5}\cdot \sqrt{-45} = \sqrt{5\cdot(-45)} = \sqrt{15^{2}\cdot(-1)} = \sqrt{15^{2}}\cdot \sqrt{-1} = 15\sqrt{-1}
 $$
 sinnvoll.
+
+### Lösung mit imaginärer Einheit
