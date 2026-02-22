@@ -33,7 +33,7 @@ In der Elektrotechnik wird, um Verwechslung zu vermeiden $i$ mit $j$ erstetzt.
 ### Cardanos Problem
 $$
 \begin{align}
-x^{2}-10x+40 &\Rightarrow (5+) \\
-&= (5+)
+x^{2}-10x+40 &\Rightarrow (5+ \sqrt{-15})^{2}- 10 \cdot (5+ \sqrt{-15})+40 \\
+&= 25 +10 \sqrt{-15} + 
 \end{align}
 $$
