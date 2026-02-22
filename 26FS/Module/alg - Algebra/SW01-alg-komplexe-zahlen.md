@@ -64,6 +64,7 @@ Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil*
 ### Kartesische und Polarkoordinaten
 Bei den Kartesischen Koordinaten ist das Koordinatensystem mit Gitterlinien welche Geraden sind unterteilt. Dieses System wird verwendet wenn wir eine Zahl mit Realteil $Re(z) = x$ und Imaginärteil $Im(z) = y$ haben.
 ![[SW01-alg-komplexe-zahlen_kart_koord.png#invert]]
+Haben wir den Betrag einer Zahl $|z|$ und das Argument $arg)$ ist es oft einfacher das Polarkoordinatensystem zu verwenden. Dies besteht aus de
 ## Herleitungen
 ### Cardanos Problem
 $$
