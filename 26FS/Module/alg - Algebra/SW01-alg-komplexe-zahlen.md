@@ -54,42 +54,9 @@ i^{n} =
 $$
 ### Komplexe Ebene
 Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil** und **Imaginärteil** jeweils als Koordinaten für $x$ und $y$ verwendet werden. Der **Reelle** Teil bildet $x$ und der **Imaginäre** Teil $y$.
-
-```tikz
-\usepackage{pgfplots}
-
-\begin{document}
-  \begin{tikzpicture}
-	\begin{axis}[
-	no markers,
-	grid=both,
-	grid style={gray},
-	axis equal,
-	axis lines=center,
-	axis line style={-latex, thick},
-    xlabel=$x$,
-    ylabel=$y$,
-    xtick distance=1,
-	ytick distance=1,
-    enlargelimits=true,clip=true]
-    % code/plots here
-    % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
-    % domain=x-axis from:to
-    % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
-		\addplot[  
-		only marks,  
-		mark=*,  
-		mark size=3pt,  
-		color=red  
-		]  
-		coordinates {(2,3)} node[pos=1.5, anchor=west] {$z=a+b\cdot i$};
-	\end{axis}
-  \end{tikzpicture}
-\end{document}
-```
-
+![[SW01-alg-komplexe-zahlen_komplexe_ebene.png#invert]]
 ### Betrag und Argument
-
+Der Betrag
 ## Herleitungen
 ### Cardanos Problem
 $$
