@@ -16,10 +16,11 @@ $$
 $$
 \begin{align}
 |z| &= \sqrt{a^{2}+b^{2}} \\
-\text{1. Quadrant} \quad \phi &= \arctan\left( \frac{b}{a} \right)
+\text{1. Quadrant} \quad \phi &= \arctan\left( \frac{b}{a} \right) \\
+\text{2. Quadrant} \quad \phi &= 180° - \arctan\left( \frac{b}{a} \right) \\
+\text{3. Quadrant} \quad \phi &= 360° - \arctan\left( \frac{b}{a} \right) \\
+\text{4. Quadrant} \quad \phi &= 180° - \arctan\left( \frac{b}{a} \right) \\
 \end{align}
-\text{2.Quadrant} \quad \phi &= 180° - \arctan\left( \frac{b}{a} \right)
-
 $$
 ## Definitionen
 
