@@ -42,7 +42,8 @@ $(\sqrt{-15})^{2}= -15$ muss sein damit der term $=0$ ist.
 Quadrieren und Wurzelziehen darf man aber nicht mehr vertauschen bei den negativen Radikanten wenn $x \lt 0$ ist.
 $$
 \begin{align}
-x \in \mathbb{R} \  \text{und} \ x \geq 0 \Rightarrow (\sqrt{x})^{2}= \sqrt{x^{2}}\
+x \in \mathbb{R} \  \text{und} \ x \geq 0 \Rightarrow (\sqrt{x})^{2}= \sqrt{x^{2}} \\
+\sqrt{-15} \cdot \sqrt{-15} = (\sqrt{-15})^{2} 
 \end{align}
 
 $$
