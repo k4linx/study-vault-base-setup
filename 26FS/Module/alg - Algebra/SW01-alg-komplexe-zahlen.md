@@ -43,8 +43,12 @@ $$
 i &= \sqrt{-1} \\
 i^{2}&= -1 \\
 i^{3}&= -i \\
-i^{4}&= 1
+i^{4}&= 1 \\
+i^{5}&= i \\
 \end{align}
+$$
+$$
+i^{n}=
 $$
 ## Herleitungen
 ### Cardanos Problem
