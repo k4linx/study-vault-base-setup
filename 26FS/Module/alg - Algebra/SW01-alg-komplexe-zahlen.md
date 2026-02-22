@@ -15,10 +15,10 @@ $$
 ### Betrag und Argument
 $$
 \begin{align}
-|z| = \sqrt{a^{2}+b^{2}} \\
-\text{1. Quadrant} \quad \phi = \arctan\left( \frac{b}{a} \right)
+|z| &= \sqrt{a^{2}+b^{2}} \\
+\text{1. Quadrant} \quad \phi &= \arctan\left( \frac{b}{a} \right)
 \end{align}
-
+\text{2.Quadrant} \quad \phi &= 180° - \arctan\left( \frac{b}{a} \right)
 
 $$
 ## Definitionen
