@@ -56,7 +56,8 @@ $$
 Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil** und **Imaginärteil** jeweils als Koordinaten für $x$ und $y$ verwendet werden. Der **Reelle** Teil bildet $x$ und der **Imaginäre** Teil $y$.
 ![[SW01-alg-komplexe-zahlen_komplexe_ebene.png#invert]]
 ### Betrag und Argument
-Der Betrag
+- Der Betrag einer Komplexen Zahl ist deren Abstand zum Koordinatenursprung (Nullpunkt). $|z| = \sqrt{a^2+b^2}$.
+Das Argument ist
 ## Herleitungen
 ### Cardanos Problem
 $$
