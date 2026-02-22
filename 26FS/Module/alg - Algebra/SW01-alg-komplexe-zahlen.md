@@ -34,6 +34,6 @@ In der Elektrotechnik wird, um Verwechslung zu vermeiden $i$ mit $j$ erstetzt.
 $$
 \begin{align}
 x^{2}-10x+40 &\Rightarrow (5+ \sqrt{-15})^{2}- 10 \cdot (5+ \sqrt{-15})+40 \\
-&= 25 +10 \sqrt{-15} + \sqrt{-15} \cdot \sqrt{-15}-50-10\sqrt{-15}+40
+&= 25 +10 \sqrt{-15} + \color{green}\sqrt{-15} \cdot \sqrt{-15} \color{red} -50-10\sqrt{-15}+40
 \end{align}
 $$
