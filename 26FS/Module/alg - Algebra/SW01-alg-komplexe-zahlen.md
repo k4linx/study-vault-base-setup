@@ -49,10 +49,14 @@ i^{5}&= i \\
 $$
 $$
 \begin{multiline}
-1 \\
-1 \\
-\end{multiline} \\
+i^{n} = 
+\end{multiline}
 $$
+### Komplexe Ebene
+
+
+### Betrag und Argument
+
 ## Herleitungen
 ### Cardanos Problem
 $$
