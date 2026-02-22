@@ -18,10 +18,15 @@ $$
 |z| &= \sqrt{a^{2}+b^{2}} \\
 \text{1. Quadrant} \quad \phi &= \arctan\left( \frac{b}{a} \right) \\
 \text{2. Quadrant} \quad \phi &= 180° - \arctan\left( \frac{b}{a} \right) \\
-\text{3. Quadrant} \quad \phi &= 360° - \arctan\left( \frac{b}{a} \right) \\
-\text{4. Quadrant} \quad \phi &= 180° - \arctan\left( \frac{b}{a} \right) \\
+\text{3. Quadrant} \quad \phi &= 180° + \arctan\left( \frac{b}{a} \right) \\
+\text{4. Quadrant} \quad \phi &= 360° - \arctan\left( \frac{b}{a} \right) \\
 \end{align}
 $$
+### Polarform
+$$
+z = |z| 
+$$
+
 ## Definitionen
 
 ### Rechenregeln Komplexe Zahlen
@@ -79,6 +84,8 @@ Bei den Kartesischen Koordinaten ist das Koordinatensystem mit **Gitterlinien**,
 ![[SW01-alg-komplexe-zahlen_kart_koord.png#invert]]
 Haben wir den Betrag einer Zahl $|z| = r$ und das Argument $\arg(z)=\phi$ ist es oft einfacher das Polarkoordinatensystem zu verwenden. $r$ wird hierbei als **Kreise** dargestellt und die Gitterlinien zum Argument sind **Halbgeraden**. 
 ![[SW01-alg-komplexe-zahlen_polar_koord.png#invert]]
+
+
 ## Herleitungen
 ### Cardanos Problem
 $$
