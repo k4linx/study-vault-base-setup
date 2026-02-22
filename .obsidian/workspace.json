@@ -4,23 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "ef89620f17a0a9a3",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "35e8b3a6067f6f73",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "26FS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
-                "viewName": "Table"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "an1 - Analysis 1"
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "81038c8a79774886",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +218,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "35e8b3a6067f6f73",
+  "active": "81038c8a79774886",
   "lastOpenFiles": [
-    "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
+    "Home.md",
     "26FS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
+    "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
     "26FS/Module/an1 - Analysis 1",
     "26FS/Module/alg - Algebra/alg - Algebra.base",
     "26FS/Module/aet2 - Allgemeine Elektrotechnik 2/aet2 - Allgemeine Elektrotechnik 2.base",
@@ -216,8 +232,6 @@
     "26FS/Zeitpläne/Zeitpläne.base",
     "26FS/Module/dt1 - Digitaltechnik 1",
     "26FS/Module/dt1.md",
-    "26FS/Module/an2 - Analysis 2",
-    "Home.md",
     "Untitled 1.md",
     "Untitled.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2026-01-05 Fragen Kolloquium.md",
