@@ -61,7 +61,8 @@ Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil*
 	- **Gradmass** $\phi \in [0°; 360°)$ oder $\phi \in (-180°;180]$ 
 	- **Bogenmass** $\phi \in [0, 2\pi)$ oder $\phi \in (-\pi, \pi)$  
 
-### Kartesische 
+### Kartesische und Polarkoordinaten
+Bei den Kartesischen Koordinaten ist das Koordinatensystem mit Gitterlinien welche Geraden sind unterteilt. Dieses System wird 
 ## Herleitungen
 ### Cardanos Problem
 $$
