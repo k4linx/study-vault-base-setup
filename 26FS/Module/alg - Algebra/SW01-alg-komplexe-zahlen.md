@@ -86,7 +86,12 @@ Haben wir den Betrag einer Zahl $|z| = r$ und das Argument $\arg(z)=\phi$ ist es
 ![[SW01-alg-komplexe-zahlen_polar_koord.png#invert]]
 
 ### Polarform
-Mit Betrag von $z$ und Argument $arg(z)$
+Mit Betrag von $z$ und Argument $arg(z)$ lässt sich die Polarform schreiben
+$$
+z = |z| \cdot \cos(\phi)+|z| \cdot sin(\phi)i = |z|\cdot (\cos(\phi) + \sin(\phi)\cdot i)
+$$
+Die Polarform liefert auch die Umrechnung zu Kartesischen Koordinaten. Wobei:
+- $$
 ## Herleitungen
 ### Cardanos Problem
 $$
