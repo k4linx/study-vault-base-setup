@@ -24,7 +24,7 @@ $$
 $$
 ### Polarform
 $$
-z = |z| 
+z = |z| \cdot \cos(\phi)+|z| \cdot sin(\phi)i = |z|\cdot (\cos(\phi))
 $$
 
 ## Definitionen
