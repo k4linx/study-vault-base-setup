@@ -30,6 +30,10 @@ i = \sqrt{-1}
 $$
 In der Elektrotechnik wird, um Verwechslung zu vermeiden $i$ mit $j$ erstetzt.
 ## Herleitungen
+### Cardanos Problem
 $$
-
+\begin{align}
+x^{2}-10x+40 = 0 \\
+= 
+\end{align}
 $$
