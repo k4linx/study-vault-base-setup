@@ -58,7 +58,9 @@ Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil*
 ### Betrag und Argument
 - Der Betrag einer Komplexen Zahl ist deren Abstand zum Koordinatenursprung (Nullpunkt). $|z| = \sqrt{a^2+b^2}$.
 - Das Argument ist der Winkel $\phi$ von der Positiven reellen Achse zum Ortsvektor von $z$. Gemessen wird dies im Gegenuhrzeigersinn. $\phi = \arctan\left( \frac{b}{a} \right)$ 
-  Gradmass $\phi \in [0°; 360°)$ oder $\phi in $
+	- **Gradmass** $\phi \in [0°; 360°)$ oder $\phi \in (-180°;180]$ 
+	- **Bogenmass** $\phi in [0, 2\pi$
+  
 ## Herleitungen
 ### Cardanos Problem
 $$
