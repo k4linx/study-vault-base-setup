@@ -24,7 +24,11 @@ $$
 $$
 ### Polarform
 $$
-z = |z| \cdot \cos(\phi)+|z| \cdot sin(\phi)i = |z|\cdot (\cos(\phi) + \sin(\phi)\cdot i)
+\begin{align} \\
+z &= |z|\cdot (\cos(\phi) + \sin(\phi)\cdot i) \\
+Re(z) &= |z| \cdot \cos(\phi) \\
+Im(z) &= |z|\cdot \sin(\phi)
+\end{align}
 $$
 
 ## Definitionen
@@ -90,13 +94,14 @@ Mit Betrag von $z$ und Argument $arg(z)$ lässt sich die Polarform schreiben
 $$
 z = |z| \cdot \cos(\phi)+|z| \cdot sin(\phi)i = |z|\cdot (\cos(\phi) + \sin(\phi)\cdot i)
 $$
-Die Polarform liefert auch die Umrechnung zu Kartesischen Koordinaten. Wobei: $$Re = |z| \cdot \cos(\phi)$$
+Die Polarform liefert auch die Umrechnung zu Kartesischen Koordinaten. Wobei: 
+$$Re = |z| \cdot \cos(\phi)$$
 und
 $$
 Im = |z|\cdot \sin(\phi)
 $$
 ergibt
-![[SW01-alg-komplexe-zahlen_umrechnung_pol_kart.png#invert|300]]
+![[SW01-alg-komplexe-zahlen_umrechnung_pol_kart.png#invert]]
 ## Herleitungen
 ### Cardanos Problem
 $$
