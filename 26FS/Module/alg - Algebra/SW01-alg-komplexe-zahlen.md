@@ -24,7 +24,7 @@ $$
 $$
 ### Polarform
 $$
-z = |z| \cdot \cos(\phi)+|z| \cdot sin(\phi)i = |z|\cdot (\cos(\phi))
+z = |z| \cdot \cos(\phi)+|z| \cdot sin(\phi)i = |z|\cdot (\cos(\phi) + \sin(\phi)\cdot i)
 $$
 
 ## Definitionen
@@ -85,7 +85,8 @@ Bei den Kartesischen Koordinaten ist das Koordinatensystem mit **Gitterlinien**,
 Haben wir den Betrag einer Zahl $|z| = r$ und das Argument $\arg(z)=\phi$ ist es oft einfacher das Polarkoordinatensystem zu verwenden. $r$ wird hierbei als **Kreise** dargestellt und die Gitterlinien zum Argument sind **Halbgeraden**. 
 ![[SW01-alg-komplexe-zahlen_polar_koord.png#invert]]
 
-
+### Polarform
+Mit Betrag von $z$ und Argument $arg(z)$
 ## Herleitungen
 ### Cardanos Problem
 $$
