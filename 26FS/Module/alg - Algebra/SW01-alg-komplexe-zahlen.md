@@ -40,8 +40,10 @@ Wird die **Imaginäre Einheit** quadriert ergibt sich $1$.
 Weiter wenn die **Imaginäre Einheit** mit irgendeiner Potenz gerechnet wird gibt sich folgendes Muster:
 $$
 \begin{align}
-i = \sqrt{-1} \\
-i^{2}= sq
+i &= \sqrt{-1} \\
+i^{2}&= -1 \\
+i^{3}&= -i \\
+i^{4}&= 1
 \end{align}
 $$
 ## Herleitungen
