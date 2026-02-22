@@ -14,7 +14,11 @@ z = a+b \sqrt{-1} = a+bi \\
 $$
 ### Betrag und Argument
 $$
-|z| = \sqrt{a^{2}+b^{2}}
+\begin{align}
+|z| = \sqrt{a^{2}+b^{2}} \\
+\text{1. Quadrant} \quad \phi = \arctan\left( \frac{b}{a} \right)
+\end{align}
+
 
 $$
 ## Definitionen
