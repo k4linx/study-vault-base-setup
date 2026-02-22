@@ -53,7 +53,7 @@ i^{n} =
 \end{multiline}
 $$
 ### Komplexe Ebene
-Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil** und **Imaginärteil** jeweils als Koordinaten für $x$ und $y$ verwendet werden.
+Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil** und **Imaginärteil** jeweils als Koordinaten für $x$ und $y$ verwendet werden. Der 
 
 ```tikz
 \usepackage{pgfplots}
