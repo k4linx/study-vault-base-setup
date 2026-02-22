@@ -76,7 +76,7 @@ Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil*
     % eg. parabel \addplot[color=red, domain=-2:2] {x^2} node[pos=1.05, anchor=west] {$y=x^2$};
     % domain=x-axis from:to
     % e.g. lineare funktion \addplot[color=red, domain=-2:2] {2*x+1} node[pos=1.05, anchor=west] {$y=2x+1$};
-    \node [left]`
+    \node [left] at (1,2)
 	\end{axis}
   \end{tikzpicture}
 \end{document}
