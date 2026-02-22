@@ -11,10 +11,24 @@ $$
 $$
 ## Definitionen
 
+### Rechenregeln Komplexe Zahlen
+- [[Rechenregeln, Gleichungen und Funktionen#3 Rechengesetze|Assoziativ, Distributiv und Kommutativgesetze]] gelten wie bei reelen Zahlen
+- $\sqrt{a} \cdot \sqrt{b} = \sqrt{a\cdot b}$ gelten nur wenn min 1 Zahl von $a, b \geq 0$ ist
+- $(\sqrt{a})^{2}=a$ für $a \in \mathbb{R}$
+
+### Form & Menge einer komplexen Zahl
+$$
+\begin{align}
+z = a+b \cdot \sqrt{-1} \quad \text{mit} \quad a,b \in \mathbb{R} \\
+\end{align}
+$$
+Das Symbol für die Menge der Komplexen Zahlen is $\mathbb{C}$.
 ### Imaginäre Einheit
+Das symbol $i$ wird für die imaginäre Einheit verwendet. 
 $$
 i = \sqrt{-1}
 $$
+In der Elektrotechnik wird, um Verwechslung zu vermeiden $i$ mit $j$ erstetzt.
 ## Herleitungen
 $$
 
