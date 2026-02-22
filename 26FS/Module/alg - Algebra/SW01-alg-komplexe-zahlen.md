@@ -6,11 +6,13 @@ tags:
 ---
 
 ## Wichtige Formeln
+### Komplexe Zahl
 $$
 \begin{align}
-z = a+b \sqrt{-1}
+z = a+b \sqrt{-1} = a+bi \\
 \end{align}
 $$
+### 
 ## Definitionen
 
 ### Rechenregeln Komplexe Zahlen
