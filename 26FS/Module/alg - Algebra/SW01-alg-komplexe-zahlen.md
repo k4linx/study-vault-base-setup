@@ -93,8 +93,10 @@ $$
 Die Polarform liefert auch die Umrechnung zu Kartesischen Koordinaten. Wobei: $$Re = |z| \cdot \cos(\phi)$$
 und
 $$
-Im = |z|\cdot sin(\phi)
+Im = |z|\cdot \sin(\phi)
 $$
+ergibt
+![[SW01-alg-komplexe-zahlen_umrechnung_pol_kart.png#invert|300]]
 ## Herleitungen
 ### Cardanos Problem
 $$
