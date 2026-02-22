@@ -12,7 +12,11 @@ $$
 z = a+b \sqrt{-1} = a+bi \\
 \end{align}
 $$
-### 
+### Betrag und Argument
+$$
+|z| = \sqrt{a^{2}+b^{2}}
+
+$$
 ## Definitionen
 
 ### Rechenregeln Komplexe Zahlen
