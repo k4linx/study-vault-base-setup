@@ -53,8 +53,7 @@ i^{n} =
 \end{multiline}
 $$
 ### Komplexe Ebene
-
-
+Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil** und **Imaginärteil** jeweils a
 ### Betrag und Argument
 
 ## Herleitungen
