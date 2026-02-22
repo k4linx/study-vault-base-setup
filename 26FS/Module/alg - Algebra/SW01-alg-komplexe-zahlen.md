@@ -22,7 +22,9 @@ $$
 z = a+b \cdot \sqrt{-1} \quad \text{mit} \quad a,b \in \mathbb{R} \\
 \end{align}
 $$
+
 Das Symbol für die Menge der Komplexen Zahlen is $\mathbb{C}$.
+
 ### Imaginäre Einheit
 Das symbol $i$ wird für die imaginäre Einheit verwendet. 
 $$
@@ -48,5 +50,6 @@ x \in \mathbb{R} \  \text{und} \ x \geq 0 \Rightarrow (\sqrt{x})^{2}= \sqrt{x^{
 $$
 Analog ist aber 
 $$
-\sqrt{5}\cdot \sqrt{-45} = \sqrt{5\cdot(-45)} = \sqrt{15^{2}\cdot(-1)} = \sqrt{15^2}
+\sqrt{5}\cdot \sqrt{-45} = \sqrt{5\cdot(-45)} = \sqrt{15^{2}\cdot(-1)} = \sqrt{15^{2}}\cdot \sqrt{-1} = 15\sqrt{-1}
 $$
+sinnvoll.
