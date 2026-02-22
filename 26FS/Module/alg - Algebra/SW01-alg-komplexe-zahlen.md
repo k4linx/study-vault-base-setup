@@ -7,7 +7,9 @@ tags:
 
 ## Wichtige Formeln
 $$
-
+\begin{align}
+z = a+b \sqrt{-1}
+\end{align}
 $$
 ## Definitionen
 
