@@ -43,7 +43,10 @@ Quadrieren und Wurzelziehen darf man aber nicht mehr vertauschen bei den negativ
 $$
 \begin{align}
 x \in \mathbb{R} \  \text{und} \ x \geq 0 \Rightarrow (\sqrt{x})^{2}= \sqrt{x^{2}} \\
-\sqrt{-15} \cdot \sqrt{-15} = (\sqrt{-15})^{2} \ne \sqrt{(-15)\cdot(-15)}=\sqrt{15 cd}
+\sqrt{-15} \cdot \sqrt{-15} = (\sqrt{-15})^{2} \ne \sqrt{(-15)\cdot(-15)}=\sqrt{15 \cdot 15} = 15
 \end{align}
-
+$$
+Analog ist aber 
+$$
+\sqrt{5}\cdot
 $$
