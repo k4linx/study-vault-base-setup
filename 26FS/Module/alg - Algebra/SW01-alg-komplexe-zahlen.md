@@ -36,6 +36,8 @@ $$
 i = \sqrt{-1}
 $$
 In der Elektrotechnik wird, um Verwechslung zu vermeiden $i$ mit $j$ erstetzt.
+
+w
 ## Herleitungen
 ### Cardanos Problem
 $$
@@ -60,3 +62,6 @@ $$
 sinnvoll.
 
 ### Lösung mit imaginärer Einheit
+$$
+x = 5 \pm \sqrt{15}\cdot i
+$$
