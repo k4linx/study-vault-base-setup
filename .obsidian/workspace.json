@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
+                "file": "26FS/Module/alg - Algebra/SW01-alg-komplexe-zahlen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Einführung & Grundlagen - 2025-09-15"
+              "title": "SW01-alg-komplexe-zahlen"
             }
           }
         ],
@@ -223,6 +223,8 @@
   },
   "active": "562c4cd27e42665f",
   "lastOpenFiles": [
+    "26FS/Module/alg - Algebra/alg - Algebra.base",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2026-01-05 Fragen Kolloquium.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
@@ -233,7 +235,6 @@
     "SW01-alg-komplexe-zahlen_polar_koord.png",
     "SW01-alg-komplexe-zahlen_kart_koord.png",
     "SW01-alg-komplexe-zahlen_komplexe_ebene.png",
-    "26FS/Module/alg - Algebra/alg - Algebra.base",
     "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
     "Diverses/Mathematik Auffrischungskurs/Gleichungssysteme, Ungleichungen, Betrag & Potenzen.md",
     "Diverses/Mathematik Auffrischungskurs/Gleichungen und Funktionen.md",
@@ -261,7 +262,6 @@
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-20 - Analyse von Gleichstromkreisen 1/Analyse von Gleichstromkreisen 1 - 2025-10-20.md",
     "25HS/Zeitpläne/2025-12-07.md",
-    "25HS/Zeitpläne/2025-12-06.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/bilder/FET_arten_Tabelle.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/komarator_uebertragungskennlinie.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/optokoppler.png",
