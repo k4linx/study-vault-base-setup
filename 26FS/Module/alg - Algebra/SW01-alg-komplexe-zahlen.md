@@ -39,7 +39,10 @@ In der Elektrotechnik wird, um Verwechslung zu vermeiden $i$ mit $j$ erstetzt.
 Wird die **Imaginäre Einheit** quadriert ergibt sich $1$.
 Weiter wenn die **Imaginäre Einheit** mit irgendeiner Potenz gerechnet wird gibt sich folgendes Muster:
 $$
-i^{0}= 
+\begin{align}
+i = \sqrt{-1} \\
+i^{2}= sq
+\end{align}
 $$
 ## Herleitungen
 ### Cardanos Problem
