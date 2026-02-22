@@ -48,7 +48,10 @@ i^{5}&= i \\
 \end{align}
 $$
 $$
-i^{n}=
+\begin{multiline}
+1 \\
+1 \\
+\end{multiline} \\
 $$
 ## Herleitungen
 ### Cardanos Problem
