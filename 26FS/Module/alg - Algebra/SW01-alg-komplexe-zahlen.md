@@ -22,7 +22,10 @@ $$
 z = a+b \cdot \sqrt{-1} \quad \text{mit} \quad a,b \in \mathbb{R} \\
 \end{align}
 $$
-
+Wobei $a$ als **Realteil** bezeichnet wird und $b$ als den **Imaginärteil** 
+$$
+a = Re(z) \quad b = Im(z)
+$$
 Das Symbol für die Menge der Komplexen Zahlen is $\mathbb{C}$.
 
 ### Imaginäre Einheit
