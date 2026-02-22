@@ -40,3 +40,6 @@ x^{2}-10x+40 &\Rightarrow (5+ \color{red}\sqrt{-15})^{2}- \color{green}10 \cdot 
 $$
 $(\sqrt{-15})^{2}= -15$ muss sein damit der term $=0$ ist.
 Quadrieren und Wurzeltziehen darf man aber nicht mehr vertauschen bei den negativen Radikanten
+$$
+x \in \mathbb{R} \  \text{und} \ x \geq 0 \Rightarrow (\sqrt{x})^{2}= \sqrt{#}
+$$
