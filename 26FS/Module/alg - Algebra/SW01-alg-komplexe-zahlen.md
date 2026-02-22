@@ -36,8 +36,8 @@ $$
 i = \sqrt{-1}
 $$
 In der Elektrotechnik wird, um Verwechslung zu vermeiden $i$ mit $j$ erstetzt.
-
-w
+Wird die **Imaginäre Einheit** quadriert ergibt sich $1$.
+Weiter wenn die **Imaginäre Einheit** mit irgendeiner Potenz Potenzie
 ## Herleitungen
 ### Cardanos Problem
 $$
