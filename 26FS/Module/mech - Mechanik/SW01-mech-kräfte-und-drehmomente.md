@@ -9,7 +9,7 @@ tags:
 ## Definitionen
 ### Kraft
 Die Kraft wird aus der Wirkung einer Aktion auf einen Körper definiert. Diese ist nur die Auswirkung von z.B. einem Stoss an einem Wagen der den Wagen ins Rollen bringt.
-Eine Kraft ist ein Vektor.
+Eine Kraft ist ein Vektor und hat immer eine Richtung.
 $$
 \begin{align}
 \vec{F} &= \begin{pmatrix}
