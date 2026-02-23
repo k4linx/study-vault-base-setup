@@ -44,6 +44,8 @@ Anders wenn sie Parallel verschoben werden. Dies ist **verboten** denn dann änd
 ![[SW01-mech-kräfte-und-drehmomente_wirklinie.png#invert]]
 ### Vektorprodukt Drehmoment
 Das Drehmoment wirkt an einem Punkt P mit einer Kraft die nicht senkrecht auf diesem Punkt wirkt. **(überarbeiten)**
+![[SW01-mech-kräfte-und-drehmomente_erklärung_drehmoment.png#invert]]
+![[SW01-mech-kräfte-und-drehmomente_erklärung_drehmomente_3d.png#invert]]
 
 ## Herleitungen
 Am Rechtwinkligen Dreieck kann man den Vektor einer Kraft mithilfe $\sin$ & $\cos$ bestimmen.
