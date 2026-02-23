@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26FS/Module/mech - Mechanik/SW01-mech-kräfte-und-drehmomente.md",
+                "file": "26FS/Module/alg - Algebra/SW01-alg-komplexe-zahlen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SW01-mech-kräfte-und-drehmomente"
+              "title": "SW01-alg-komplexe-zahlen"
             }
           }
         ]
@@ -207,12 +207,12 @@
   },
   "active": "f9647d8ce9b81461",
   "lastOpenFiles": [
+    "26FS/Module/alg - Algebra/alg - Algebra.base",
+    "26FS/Module/mech - Mechanik/SW01-mech-kräfte-und-drehmomente.md",
     "SW01-mech-kräfte-und-drehmomente_wirklinie.png",
     "SW01-mech-kräfte-und-drehmomente_vektor_am_r_dreieck.png",
     "SW01-mech-kräfte-und-drehmomente_beschreibung_vektor.png",
-    "26FS/Module/mech - Mechanik/SW01-mech-kräfte-und-drehmomente.md",
     "26FS/Module/mech - Mechanik/mech - Mechanik.base",
-    "26FS/Module/alg - Algebra/alg - Algebra.base",
     "Home.md",
     "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
     "26FS/Module/alg - Algebra/SW01-alg-komplexe-zahlen.md",
@@ -251,7 +251,6 @@
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-20 - Analyse von Gleichstromkreisen 1/Analyse von Gleichstromkreisen 1 - 2025-10-20.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/bilder/FET_arten_Tabelle.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/komarator_uebertragungskennlinie.png",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/optokoppler.png",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/opamp_schmitt-trigger.png"
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Quellen/optokoppler.png"
   ]
 }

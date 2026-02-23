@@ -30,7 +30,6 @@ Re(z) &= |z| \cdot \cos(\phi) \\
 Im(z) &= |z|\cdot \sin(\phi)
 \end{align}
 $$
-
 ## Definitionen
 
 ### Rechenregeln Komplexe Zahlen
@@ -69,11 +68,7 @@ i^{4}&= 1 \\
 i^{5}&= i \\
 \end{align}
 $$
-$$
-\begin{multiline}
-i^{n} = 
-\end{multiline}
-$$
+
 ### Komplexe Ebene
 Komplexe Zahlen lassen sich im 2D Koordinatensystem darstellen wobei **Realteil** und **Imaginärteil** jeweils als Koordinaten für $x$ und $y$ verwendet werden. Der **Reelle** Teil bildet $x$ und der **Imaginäre** Teil $y$.
 ![[SW01-alg-komplexe-zahlen_komplexe_ebene.png#invert]]
