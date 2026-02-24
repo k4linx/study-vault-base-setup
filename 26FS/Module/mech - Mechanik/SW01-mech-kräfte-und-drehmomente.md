@@ -40,13 +40,26 @@ und die Wirkungslinie
 
 ### Wirklinie
 Kräfte dürfen entlang der Wirklinie verschoben werden, Die Wirkung der Kraft ändert sich nicht.
-Anders wenn sie Parallel verschoben werden. Dies ist **verboten** denn dann ändert sich die Wirkung.
+Anders wenn sie Parallel verschoben werden. Dies ist **verboten** denn dann ändert sich die Wirkung der Kraft auf den Körper.
 ![[SW01-mech-kräfte-und-drehmomente_wirklinie.png#invert]]
 ### Vektorprodukt Drehmoment
-Das Drehmoment wirkt an einem Punkt P mit einer Kraft die nicht senkrecht auf diesem Punkt wirkt. **(überarbeiten)**
+Das Drehmoment ist die Kraft multipliziert mit deren Hebelarm $d$. Der Hebelarm ist die Kürzeste Verbindung der Wirkungslinie einer Kraft mit dem Drehpunkt $P$. $d$ schneidet die Wirklinie in einem $90°$ Winkel.
+$$
+\begin{align}
+\vec{M} = \vec{r} \times \vec{F} 
+\vec{M} = r \cdot F \cdot \sin \varphi = d \cdot F
+\end{align}
+$$
+Die Einheit des Drehmoments ist $Nm$ 
+
+In der Statik ist das Drehmoment immer 0, das bedeutet die Summe aus den Kräften $F$ multipliziert mit den Hebelarmen $d$ ist 0. Ist das Drehmoment nicht $0$ dreht sich der Körper um den Drehpunkt.
+$$
+\sum M_{P}=0 = F\cdot d- F_{2}\cdot d_{2}
+$$
 ![[SW01-mech-kräfte-und-drehmomente_erklärung_drehmoment.png#invert]]
 ![[SW01-mech-kräfte-und-drehmomente_erklärung_drehmomente_3d.png#invert]]
-
+### Rechte Hand Regel
+Mithilfe der Rechten Hand Regel kann man bestimmen ob eine Kraft ein positives ($+$) oder negatives ($-$) Vorzeichen hat
 ## Herleitungen
 Am Rechtwinkligen Dreieck kann man den Vektor einer Kraft mithilfe $\sin$ & $\cos$ bestimmen.
 ![[SW01-mech-kräfte-und-drehmomente_vektor_am_r_dreieck.png#invert]]
