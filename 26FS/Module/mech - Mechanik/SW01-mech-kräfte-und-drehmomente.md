@@ -60,6 +60,8 @@ $$
 ![[SW01-mech-kräfte-und-drehmomente_erklärung_drehmomente_3d.png#invert]]
 ### Rechte Hand Regel
 Mithilfe der Rechten Hand Regel kann man bestimmen ob eine Kraft ein positives ($+$) oder negatives ($-$) Vorzeichen hat
+![[SW01-mech-kräfte-und-drehmomente_rechte_hand_regel_1.png#invert]]
+![[SW01-mech-kräfte-und-drehmomente_rechte_hand_regel_2.png]]
 ## Herleitungen
 Am Rechtwinkligen Dreieck kann man den Vektor einer Kraft mithilfe $\sin$ & $\cos$ bestimmen.
 ![[SW01-mech-kräfte-und-drehmomente_vektor_am_r_dreieck.png#invert]]
