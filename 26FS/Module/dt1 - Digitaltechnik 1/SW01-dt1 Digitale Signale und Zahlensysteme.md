@@ -8,13 +8,11 @@ tags:
 Folien:
 ---
 
-## ⁉️ Fragen
 
----
 ## 💡 Wichtige Begriffe
 - **Binärsystem**: Zahlensystem mit Basis $2^{n}$
 - **Hexadezimalsystem**: Zahlensystem mit Basis $16^{n}$
-- 
+- **Zweierkomplement**: System um negative Binäre ganzzahlen darzustellen
 ---
 ## 📄 Zusammenfassung
 ### Binärsystem
@@ -61,33 +59,48 @@ $$
 
 $$
 
-##### 2er Komplement
+##### Subtraktion mit 2er Komplement
+Der Subtrahend wird ins [[#Zweierkomplement]] umgewandelt und dann werden die beiden Zahlen addiert.
 $$
 12-10
 $$
-Beim Zweierkomplement wird die Binärzahl zuerst invertiert.
-$$
-\begin{align}
-1100 \rightarrow 0011 \\
-1010 \rightarrow 0101
-\end{align}
-
-$$
-Danach wird eine 1 in Binär mit der gleichen Bitbreite addiert.
 $$
 \begin{array} \\
-&0011 \\
-+&0001 \\
-\hline \\
-&0100
-\end{array}
-$$
-Danach können die beiden Zahlen ganz einfach addiert werden:
-$$
-\begin{array} \\
-&0100 \\
+&1100 \\
 +&0110 \\
 \hline \\
-&1010 \rightarrow umrechnen
+&0010
 \end{array}
 $$
+Wenn es ganz links einen übertrag gibt der die Bitbreite verändert wird dieser ignoriert, dies nennt man Überlauf. 
+
+#### Zweierkomplement
+Um eine Zahl im 2er Komplement darzustellen muss diese Invertiert werden und eine 1 in der gleichen Bitbreite dazu addiert werden.
+$$
+\begin{align}
+-10_{DEZ} \rightarrow \ &1010 \\
++&0001 \\
+\hline \\
+&1011 
+\end{align}
+$$
+$1011$ ist nun unsere $-10$ im 2er Komplement.
+
+#### Festkommazahl (Fixpoint)
+Bei der Festkommazahl ist immer Festgelegt wieviele Bit vor dem Komma und wieviele nach dem Komma sind.
+$$
+4,4 \rightarrow 4 \text{bit},4 \text{bit}
+$$
+Der Wertebereich ist folgend definiert:
+$$
+2^{3}2^{2}2^{1}2^{0}. 2^{-1}2^{-2}2^{-3}2^{-4}
+$$
+Beispiel:
+
+
+#### Float IEEE 754
+
+
+#### Gray Code
+### Hexadezimalsystem
+
