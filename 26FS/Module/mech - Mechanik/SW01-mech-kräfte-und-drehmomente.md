@@ -59,7 +59,7 @@ $$
 ![[SW01-mech-kräfte-und-drehmomente_erklärung_drehmoment.png#invert]]
 ![[SW01-mech-kräfte-und-drehmomente_erklärung_drehmomente_3d.png#invert]]
 ### Rechte Hand Regel
-Mithilfe der Rechten Hand Regel kann man bestimmen ob eine Kraft ein positives ($+$) oder negatives ($-$) Vorzeichen hat
+Mithilfe der Rechten Hand Regel kann man bestimmen ob eine Kraft ein positives ($+$) oder negatives ($-$) Vorzeichen hat.
 ![[SW01-mech-kräfte-und-drehmomente_rechte_hand_regel_1.png#invert]]
 ![[SW01-mech-kräfte-und-drehmomente_rechte_hand_regel_2.png]]
 ## Herleitungen
