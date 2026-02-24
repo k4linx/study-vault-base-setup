@@ -3,8 +3,8 @@ erstelldatum: 2026-02-22
 tags:
   - alg
   - komplexe_zahlen
+Folien: algWoche01
 ---
-
 ## Wichtige Formeln
 ### Komplexe Zahl
 $$

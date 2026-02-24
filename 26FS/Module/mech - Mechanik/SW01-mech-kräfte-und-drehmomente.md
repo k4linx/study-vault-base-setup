@@ -4,6 +4,7 @@ tags:
   - drehmoment
   - kraft
   - vektoren
+Folien: 1_Kräfte und Drehmomente
 ---
 
 ## Wichtige Formeln

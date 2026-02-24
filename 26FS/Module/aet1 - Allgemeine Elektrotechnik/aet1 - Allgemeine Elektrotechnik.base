@@ -3,5 +3,5 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "26FS/Module/an1 - Analysis 1"
+        - file.folder == "26HS/Module/aet1 - Allgemeine Elektrotechnik 1"
         - file.ext == "md"
