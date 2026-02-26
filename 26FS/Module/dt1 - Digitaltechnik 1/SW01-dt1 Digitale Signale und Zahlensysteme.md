@@ -121,7 +121,15 @@ $$
 $$
 127 + 5 = 132 \overset{binary}{\longrightarrow} 10000100_{B}
 $$
-3. Eintragen in 32 Bit Gleitkommawort:
+3. Mantisse Berechnen:
+$$
+\begin{align}
+& \text{Normalisierter Wert:}\quad 1.1101001_{B} \\
+& \text{Mantisse: } \quad 1101001 \quad \text{und mit 0 auffüllen auf 23 Bit} = 110\ 0100\ 0000\ 0000\ 0000\ 0000
+\end{align}
+$$
+
+4. Eintragen in 32 Bit Gleitkommawort:
 
 | Sign | Exponent   | Mantisse                     |
 | ---- | ---------- | ---------------------------- |
