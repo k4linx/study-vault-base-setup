@@ -25,6 +25,7 @@
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
     "Zeitplandatum": "date",
-    "änderungsdatum": "date"
+    "änderungsdatum": "date",
+    "Folien": "multitext"
   }
 }

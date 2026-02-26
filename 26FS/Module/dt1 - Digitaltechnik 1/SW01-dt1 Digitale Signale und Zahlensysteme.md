@@ -6,6 +6,8 @@ tags:
   - binaer
   - hex
 Folien:
+  - slides_dt1_1_einfuehrung
+  - slides_dt1_2_zahlen
 ---
 
 
@@ -111,23 +113,24 @@ Bei signed Fixpoint ist es schwieriger, da ist das MSB das sign wobei $1$ für $
 Die Nachkommastelle wird ins [[#Zweierkomplement|2er Komplement]] konvertiert und dann werden die Ziffern zusammengerechnet. und entsprechend mit dem sign verrechnet.
 
 #### Float IEEE 754
-Die Floating Point IEEE 754 Norm wurde entwickelt um Gleitkommazahlen mit einem grossen Zahlenbereich darzustellen.
-Eine Anleitung zur Umrechnung:
+Die Floating Point IEEE 754 Norm wurde entwickelt um Gleitkommazahlen mit einem grossen Zahlenbereich darzustellen. Es gibt verschiedene Formate, aber die Schritte bleiben Gleich.
+![[SW01-dt1 Digitale Signale und Zahlensysteme_tabelle_ieee754.png#invert]]
+Eine Anleitung zur Umrechnung mit $-58.25$ ins single (32bit) Float point Format:
 1. Umwandlung in Binär und Normalisierung
 $$
 58.25 \overset{binary}{\longrightarrow} 111010.01_{B} = 1.1101001 \cdot 2^{5}
 $$
+> [!important] Tipp
+> Normalisieren bedeutet den exponent erhöhen bis eine $1$ vor dem Komma steht.
 2. Exponent berechnen:
+	Bias: $127$ = $0111 \ 1111$
+	Exponent: 5 = 0101
 $$
 127 + 5 = 132 \overset{binary}{\longrightarrow} 10000100_{B}
 $$
 3. Mantisse Berechnen:
-$$
-\begin{align}
-& \text{Normalisierter Wert:}\quad 1.1101001_{B} \\
-& \text{Mantisse: } \quad 1101001 \quad \text{und mit 0 auffüllen auf 23 Bit} = 110\ 0100\ 0000\ 0000\ 0000\ 0000
-\end{align}
-$$
+	Normalisiserter Wert: $1.1101001_{B}$
+	Mantisse: $1101001_{B}$ Rechts auffüllen auf 23 Bit mit $0$: $110\ 0100\ 0000\ 0000\ 0000\ 0000$
 
 4. Eintragen in 32 Bit Gleitkommawort:
 
