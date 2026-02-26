@@ -108,10 +108,35 @@ $$
 
 $$
 Bei signed Fixpoint ist es schwieriger, da ist das MSB das sign wobei $1$ für $-$ steht und $0$ für $+$.
-Die Nachkommastelle wird ins 2er Komplement konvertiert und dann werden die Ziffern zusammengerechnet
+Die Nachkommastelle wird ins [[#Zweierkomplement|2er Komplement]] konvertiert und dann werden die Ziffern zusammengerechnet. und entsprechend mit dem sign verrechnet.
+
 #### Float IEEE 754
 
 
 #### Gray Code
-### Hexadezimalsystem
+Der Graycode ist ein System um aufeinanderfolgende Werte nur mit einem Bit zu verändern.
+![[SW_01-dt1_gray_code.png]]
+Um den Gray Code um ein Bit zu erweitern, muss dieser nur am Höchsten Wert gespiegelt werden und das neue bit oben angehängt werden wobei das neue bit beim gespiegelten immer 1 ist und bei der ursprünglichen Länge 0.
 
+### Hexadezimalsystem
+Das Hexadezimalsystem ist ein Zahlensystem mit der Basis 16. Jede Stelle im Hexadezimalsystem kann mit 4 Bits im Binärsystem Dargestellt werden
+
+| Dezimal | Hexadezimal | Binär |
+| ------- | ----------- | ----- |
+| 0       | 0           | 0000  |
+| 1       | 1           | 0001  |
+| 2       | 2           | 0010  |
+| 3       | 3           | 0011  |
+| 4       | 4           | 0100  |
+| 5       | 5           | 0101  |
+| 6       | 6           | 0110  |
+| 7       | 7           | 0111  |
+| 8       | 8           | 1000  |
+| 9       | 9           | 1001  |
+| 10      | A           | 1010  |
+| 11      | B           | 1011  |
+| 12      | C           | 1100  |
+| 13      | D           | 1101  |
+| 14      | E           | 1110  |
+| 15      | F           | 1111  |
+Das Hexadezimalsystem ist somit viel Platzsparender auf dem Papier als das Binärsystem. Es wurde in erster Linie für die Leserlichkeit entwickelt.
