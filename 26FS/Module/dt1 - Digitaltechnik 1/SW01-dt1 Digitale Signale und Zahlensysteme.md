@@ -108,7 +108,7 @@ $$
 
 $$
 Bei signed Fixpoint ist es schwieriger, da ist das MSB das sign wobei $1$ für $-$ steht und $0$ für $+$.
-Die nachkommastelle wird ins 2er Komplement konvertiert 
+Die Nachkommastelle wird ins 2er Komplement konvertiert und dann werden die Ziffern zusammengerechnet
 #### Float IEEE 754
 
 
