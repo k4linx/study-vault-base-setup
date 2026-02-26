@@ -101,11 +101,14 @@ $$
 $$
 $1.3$ unsigned $1.101_{B}$
 $$1+0.5+0+0.125 = 1.625_{DEZ}$$
+Beim Unsigned ist es einfach da wird die Binärzahl einfach umgerechnet.
 
 $1.3$ signed $1.101_{B}$
 $$
 
 $$
+Bei signed Fixpoint ist es schwieriger, da ist das MSB das sign wobei $1$ für $-$ steht und $0$ für $+$.
+Die nachkommastelle wird ins 2er Komplement konvertiert 
 #### Float IEEE 754
 
 
