@@ -111,7 +111,22 @@ Bei signed Fixpoint ist es schwieriger, da ist das MSB das sign wobei $1$ für $
 Die Nachkommastelle wird ins [[#Zweierkomplement|2er Komplement]] konvertiert und dann werden die Ziffern zusammengerechnet. und entsprechend mit dem sign verrechnet.
 
 #### Float IEEE 754
-Die Floating Point IEEE 754 Norm wurde entwickelt um Gleitkommazahlen mit einem grossen Zahlenbereich darzustellen 
+Die Floating Point IEEE 754 Norm wurde entwickelt um Gleitkommazahlen mit einem grossen Zahlenbereich darzustellen.
+Eine Anleitung zur Umrechnung:
+1. Umwandlung in Binär und Normalisierung
+$$
+58.25 \overset{binary}{\longrightarrow} 111010.01_{B} = 1.1101001 \cdot 2^{5}
+$$
+2. Exponent berechnen:
+$$
+127 + 5 = 132 \overset{binary}{\longrightarrow} 10000100_{B}
+$$
+3. Eintragen in 32 Bit Gleitkommawort:
+
+| Sign | Exponent   | Mantisse                     |
+| ---- | ---------- | ---------------------------- |
+| 1    | 100 0010 0 | 110 0100 0000 0000 0000 0000 |
+
 
 #### Gray Code
 Der Graycode ist ein System um aufeinanderfolgende Werte nur mit einem Bit zu verändern.
