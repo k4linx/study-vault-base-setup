@@ -111,7 +111,7 @@ Bei signed Fixpoint ist es schwieriger, da ist das MSB das sign wobei $1$ für $
 Die Nachkommastelle wird ins [[#Zweierkomplement|2er Komplement]] konvertiert und dann werden die Ziffern zusammengerechnet. und entsprechend mit dem sign verrechnet.
 
 #### Float IEEE 754
-
+Die Floating Point IEEE 754 Norm wurde entwickelt um Gleitkommazahlen mit einem grossen Zahlenbereich darzustellen 
 
 #### Gray Code
 Der Graycode ist ein System um aufeinanderfolgende Werte nur mit einem Bit zu verändern.
