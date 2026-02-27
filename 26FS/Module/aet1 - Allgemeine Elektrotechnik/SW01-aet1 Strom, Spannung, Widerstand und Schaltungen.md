@@ -156,6 +156,9 @@ $$
 I_{2}= I \cdot \frac{R_{1}\cdot R_{2}}{R_{1}+R_{2}} \cdot \frac{1}{R_{1}} = I \cdot \frac{R_{2}}{R_{1}+R_{2}}
 $$
 ## Quellen, Ersatzschaltungen und Kennlinien
+### U-I-Kennlinie
+Die U-I-Kennlinie zeigt den 
+
 Jede Schaltung kann vereinfacht werden zu entweder einer Thevenin oder Norton Quelle. 
 
 | Thevenin                                                                            | Norton                                                                            |
