@@ -3,7 +3,6 @@ erstelldatum: 2026-02-27
 tags:
 Folien:
 ---
-
 ## Wichtige Formeln
 ### Ohmsches Gesetz
 $$
@@ -75,6 +74,7 @@ $$
 0 = U_{1}+U_{2}+U_{3}+U_{4}
 $$
 Es muss auf die Vorzeichen und Pfeilrichtung geachtet werden. Wenn ein Pfeil in die andere Richtung zeigt muss dessen Wert mit einem $-$ versehen werden. Hat der Wert bereits ein $-$ greift $- \cdot - = +$.
+
 ## Einfache Schaltungen von Widerständen
 ### Serienschaltung
 Werden Widerstände in Serie geschaltet, können die Werte der Widerstände summiert werden. Der Strom bleibt über Serienschaltungen überall gleich.
@@ -132,8 +132,8 @@ An einem unbelasteten Stromteiler mit zwei Zweigen suchen wir den Strom über $R
 $$
 \frac{I_{1}}{I} = \frac{G_{1}}{R_{E}} = \frac{R_{E}}{R_{1}}
 $$
-![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_stromteiler.png]]
-Somit ergibt sich die spannung:
+![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_stromteiler.png#invert]]
+Somit ergibt sich die Spannung:
 $$
 U = R_{E}\cdot I = \frac{1}{\frac{1}{R_{1}}+ \frac{1}{R_{2}}} \cdot I \ \text{oder} \ U = \frac{1}{G_{E}} \cdot I = \frac{1}{G_{1}+G_{2}}\cdot I
 $$
@@ -141,7 +141,7 @@ $I_{2}$ berechnet sich nach dem Ohmschen Gesetz aus $U$ und $R_{2}$
 $$
 I_{2}= \frac{U}{R_{2}} = \frac{1}{R_{2}}\cdot \frac{1}{\frac{1}{R_{1}} + \frac{1}{R_{2}}} \cdot I \ \text{oder} \ I_{2}= U \cdot G_{2}= G_{2}\cdot \frac{1}{G_{1}+G_{2}} \cdot I
 $$
-Umformen bzw mit gemeinsamen Nenner multiplizieren ($R_{1\cdot}R_{2}$) das geht auch mit $>2$ Widerständen:
+Mit gemeinsamen Nenner multiplizieren ($R_{1\cdot}R_{2}$) das geht auch mit $>2$ Widerständen:
 $$
 \frac{\frac{1}{R_2}}{\frac{1}{R_{1}}+ \frac{1}{R_{2}}} \cdot I\rightarrow \frac{R_{1}}{R_{2}+R_{1}} \cdot I
 $$
@@ -151,7 +151,8 @@ I_{2}= I \cdot \frac{R_{1}}{R_{2}+R_{1}}
 $$
 $R_{2}$ ist der Widerstand durch den der Gesuchte Strom fliesst. Im Zähler steht immer $R_{n}-1$ widerstände aber nie der gesuchte widerstand.
 
-Wenn die Parallelschaltung aus 2 Widerständen besteht kann auch diese Formel helfen:
+Wenn die Parallelschaltung aus 2 Widerständen besteht kann auch diese Formel genutzt werden:
 $$
 I_{2}= I \cdot \frac{R_{1}\cdot R_{2}}{R_{1}+R_{2}} \cdot \frac{1}{R_{1}} = I \cdot \frac{R_{2}}{R_{1}+R_{2}}
 $$
+## Quellen, Ersatzschaltungen und Kennlinien
