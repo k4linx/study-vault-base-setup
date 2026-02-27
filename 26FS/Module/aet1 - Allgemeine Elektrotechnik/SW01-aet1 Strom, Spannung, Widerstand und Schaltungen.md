@@ -228,3 +228,19 @@ Dann setzt man die Ableitung Null:
 $$
 0=- \frac{U_{q}^{2}(R_{L}-R_{q})}{(R_{q}+R_{L})^{3}}
 $$
+Daraus erhält man der Lastwiderstand $R_{L}$ für die maximale Leistung welcher exakt $R_{q}$ entspricht $R_{q}=R_{L}$
+setzt man diesen in die Formel für $P_{L}$ ein erhält man die Formel $P_{L_{MAX}}$:
+$$
+P_{L_{MAX}} = P_{AV} = \frac{U_{q}^{2}\cdot R_{q}}{(R_{q}+R_{q})^{2}} = \frac{U_{q}^{2} \cdot R_{q}}{2R_{q}^{2}} = \frac{U_{q}^{2}}{4R_{q}}
+$$
+Dieser Zustand nennt man Leistungsanpassung dabei gibt also die Quelle die maximal verfügbare Leistung an die Last ab. 
+
+| Spannung                                                                                | Strom                                                                                |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| $\frac{U_{q}}{2}$                                                                       | $\frac{I_{q}}{2}$                                                                    |
+| ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_pav_spannung.png#invert\|300]] | ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_pav_strom.png#invert\|300]] |
+| Da $R_{q} = R_{L}$ wird die Spannung bei 1-1' genau die hälfte sein                     | Da $R_{q} = R_{L}$ wird der Strom bei 1 genau die hälfte sein.                       |
+Das Verhältnis zwischen der Leistung $P_{L}$ und der Leistungsanpassung $P_{AV}$ kann mit der folgenden Formel bestimmt werden
+$$
+\frac{P_{L}}{P_{AV}} = \frac{4}{2+ \frac{R_{l}}{R_{q}}+ \frac{R_{q}}{R_{L}}}
+$$
