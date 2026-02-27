@@ -166,3 +166,7 @@ Um $R_{qe}$ von einem beliebigen Netzwerk zu erhalten müssen alle Quellen ausge
 - **Stromquellen** mit einem Unterbruch ersetzen
 - **Spannungsquellen** mit einem Kurzschluss ersetzen.
 Dann kann man Den R_qe mit der [[#Spannungsteiler]] oder [[#Stromteiler]] berechnen.
+Dann genügt es noch
+- Den Kurzschlussstrom $I_{KS}$ 
+- Die Leerlaufspannung $U_{LL}$
+zu bestimmen.
