@@ -197,3 +197,25 @@ U_{AP}&= \frac{U_{qe}\cdot R_{L}}{R_{qe}+R_{L}} \\
 \end{align}
 $$
 ### Zusammenschalten von Quellen
+Werden zwei Thevenin Quellen parallel geschaltet so muss zuerst der neue Quellenwiderstand berechnet werden. Parallelwiderstände mit der [[#Stromteiler]] Formel.
+![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_parallelschaltung_th.png#invert|300]]
+$$
+R_{qe}= R_{1}||R_{2} = \frac{R_{1}R_{2}}{R_{1}+R_{2}}
+$$
+Danach den Quellenstrom:
+$$
+I_{qe} = \frac{U_{1}}{R_{1}} + \frac{U_{2}}{R_{2}} = \frac{U_{1}R_{2}}{R_{1}R_{2}}+ \frac{U_{2}R_{1}}{R_{1}R_{2}}
+$$
+Aus diesen beiden Grössen kann nun die Quellenspannung $U_{qe}$ berechnet werden
+$$
+U_{qe} = R_{qe}\cdot I_{qe} = \frac{R_{1}R_{2}}{R_{1}+R_{2}}\cdot \left( \frac{U_{1}R_{2}}{R_{1}R_{2}}+ \frac{U_{2}R_{1}}{R_{1}R_{2}} \right) = \frac{U_{1}R_{2}+U_{2}R_{1}}{R_{1}R_{2}}
+$$
+
+### Quellenleistung und Leistungsanpassung
+Die Leistung der Quelle die an die Last abgegeben wird kann mit der Formel für die [[#Leistung]] berechnet werden. Wobei $I= I_{AP}=\frac{U_{q}}{R_{q}+R_{L}}$ dies ergibt zusammen folgende Formel:
+$$
+P_{L}= \frac{U_{q}^{2}}{(R_{q}+R_{L})^{2}} \cdot R_{L} = \frac{U_{q}^{2}\cdot R_{L}}{(R_{q}+R_{L})^{2}} 
+$$
+Dabei wird $P_{L} = 0$ wenn 
+- $R_{L}= 0$ ist
+- $R_{L}= \infty$ ist
