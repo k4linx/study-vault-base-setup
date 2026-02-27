@@ -85,4 +85,4 @@ $$
 $$
 ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_spannungsteiler.png#invert|300]]
 Der Strom ist in beiden widerständen gleich, deshalb kann man diesen im Beispiel ignorieren.
-Zuerst die Maschengleichung aufstellen: $$
+Zuerst die Maschengleichung aufstellen: $U_{R1}+U_{2}-U_{1}=0$
