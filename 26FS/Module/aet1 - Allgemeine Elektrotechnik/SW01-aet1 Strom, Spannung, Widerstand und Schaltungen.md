@@ -9,7 +9,7 @@ Folien:
 $$
 \begin{align}
 U &= R \cdot I\\
-I &= \frac{U}{R} \\
+I &= \frac{U}{R} = U \cdot G\\
 R &= \frac{U}{I}
 \end{align}
 $$
@@ -43,6 +43,10 @@ $$
 $$
 0 = U_{1}+U_{2}+U_{3}
 $$
+### Spannungsteiler
+$$
+U_{2}= U_{1}* \frac{R_{2}}{R_{1}+R_{2}}
+$$
 ## Grundgesetze
 ### Knotensatz
 Ein Knoten kann keine Ladungen speichern weshalb die Kontengleichung immer 0 ergeben muss.
@@ -64,7 +68,7 @@ $$
 Es muss auf die Vorzeichen und Pfeilrichtung geachtet werden. Wenn ein Pfeil in die andere Richtung zeigt muss dessen Wert mit einem $-$ versehen werden. Hat der Wert bereits ein $-$ greift $- \cdot - = +$.
 ## Einfache Schaltungen von Widerständen
 ### Serienschaltung
-Werden Widerstände in Serie geschaltet, können die Werte der Widerstände summiert werden.
+Werden Widerstände in Serie geschaltet, können die Werte der Widerstände summiert werden. Der Strom bleibt über Serienschaltungen überall gleich.
 ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_serienschaltung.png#invert]]
 So wird aus $R1, R2, R3, R4 \rightarrow RE$
 Der Maschensatz besagt die Spannung in einer Masche muss $0$ sein:
@@ -84,5 +88,35 @@ $$
 \frac{U1}{U} = \frac{R1}{RE}, \ \text{etc.}
 $$
 ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_spannungsteiler.png#invert|300]]
-Der Strom ist in beiden widerständen gleich, deshalb kann man diesen im Beispiel ignorieren.
 Zuerst die Maschengleichung aufstellen: $U_{R1}+U_{2}-U_{1}=0$
+Strom berechnen
+$$
+I_{1}= \frac{U_1}{R_{E}} = \frac{U_{1}}{R_{1}+R_{2}}
+$$
+Danach spannung $U_{2}$ aus $I_{1}$ und $R_{2}$ berechnen.
+$$
+U_{2} = R_{2}\cdot \frac{U_1}{R_{1}+R_{2}}
+$$
+umformen
+$$
+U_{2}= U_{1}\cdot \frac{R_{2}}{R_{1}+R_{2}}
+$$
+$R_{2}$ ist beim Spannungsteiler der Widerstand über welchen die gesuchte Spannung $U_{2}$ abfällt.
+
+### Parallelschaltung
+Sind Widerstände parallelgeschaltet kann der Leitwert $G$ zusammengerechnet werden. Der Leitwert ist der Kehrwert des Widerstandes. Die Spannung ist bei einer Parallelschaltung über alle Widerstände gleich.
+![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_parallelschaltung.png#invert]]
+Der Knotensatz sagt dass alle zufliessenden Ströme gleich den Abfliessenden Strömen sind. 
+$$
+I = I_{1}+I_{2}+I_{3}
+$$
+$I$ berechnet man mit dem Ohmschen gesetz $I = U \cdot G$ und lässt sich faktorisieren:
+$$
+\begin{align}
+I &= U \cdot (G_{1}+G_{2}+G_{3}) = U \cdot G_{E} = u \cdot \frac{1}{R_{E}} \\
+G_{E}&= G_{1}+G_{2}+G_{3} \\
+\frac{1}{R_{E}} &= \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}} \Rightarrow R_{E}= \frac{1}{\frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}}}
+\end{align}
+$$
+#### Stromteiler (Unbelastet)
+An einem unbelasteten Stromteiler mit
