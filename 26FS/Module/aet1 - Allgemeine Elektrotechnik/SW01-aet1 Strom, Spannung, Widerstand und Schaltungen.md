@@ -219,3 +219,4 @@ $$
 Dabei wird $P_{L} = 0$ wenn 
 - $R_{L}= 0$ ist
 - $R_{L}= \infty$ ist
+
