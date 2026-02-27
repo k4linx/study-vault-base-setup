@@ -47,6 +47,16 @@ $$
 $$
 U_{2}= U_{1}* \frac{R_{2}}{R_{1}+R_{2}}
 $$
+### Stromteiler
+#### Zwei Widerstände
+$$
+I_{2}= I \cdot \frac{R_1}{R_{2}+R_{1}}
+$$
+#### Mehr als zwei Widerstände
+$$
+I_{2}= I \cdot \frac{R_{1}R_{3}}{R_2R_{3}}
+$$
+
 ## Grundgesetze
 ### Knotensatz
 Ein Knoten kann keine Ladungen speichern weshalb die Kontengleichung immer 0 ergeben muss.
@@ -132,7 +142,7 @@ $I_{2}$ berechnet sich nach dem Ohmschen Gesetz aus $U$ und $R_{2}$
 $$
 I_{2}= \frac{U}{R_{2}} = \frac{1}{R_{2}}\cdot \frac{1}{\frac{1}{R_{1}} + \frac{1}{R_{2}}} \cdot I \ \text{oder} \ I_{2}= U \cdot G_{2}= G_{2}\cdot \frac{1}{G_{1}+G_{2}} \cdot I
 $$
-Umformen:
+Umformen bzw mit gemeinsamen Nenner multiplizieren ($R_{1\cdot}R_{2}$) das geht auch mit $>2$ Widerständen:
 $$
 \frac{\frac{1}{R_2}}{\frac{1}{R_{1}}+ \frac{1}{R_{2}}} \cdot I\rightarrow \frac{R_{1}}{R_{2}+R_{1}} \cdot I
 $$
