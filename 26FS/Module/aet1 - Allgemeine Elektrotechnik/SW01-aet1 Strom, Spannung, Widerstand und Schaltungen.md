@@ -156,3 +156,10 @@ $$
 I_{2}= I \cdot \frac{R_{1}\cdot R_{2}}{R_{1}+R_{2}} \cdot \frac{1}{R_{1}} = I \cdot \frac{R_{2}}{R_{1}+R_{2}}
 $$
 ## Quellen, Ersatzschaltungen und Kennlinien
+Jede Schaltung kann vereinfacht werden zu entweder einer Thevenin oder Norton Quelle. 
+
+| Thevenin                                                                            | Norton                                                                            |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_thevenin.png#invert\|300]] | ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_norton.png#invert\|300]] |
+![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_bel_netzwerk.png#invert]]
+Um $R_{qe}$ von einem beliebigen Netzwerk zu erhalten muss 
