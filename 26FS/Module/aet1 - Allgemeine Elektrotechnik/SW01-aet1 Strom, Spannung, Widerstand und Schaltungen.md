@@ -173,3 +173,5 @@ Dann genügt es entweder
 - Den Kurzschlussstrom $I_{KS}$ 
 - Die Leerlaufspannung $U_{LL}$
 zu bestimmen.
+
+### Belastete Quelle
