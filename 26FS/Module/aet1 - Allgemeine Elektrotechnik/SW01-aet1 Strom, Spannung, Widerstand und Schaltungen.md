@@ -54,9 +54,8 @@ I_{2}= I \cdot \frac{R_1}{R_{2}+R_{1}}
 $$
 #### Mehr als zwei Widerstände
 $$
-I_{2}= I \cdot \frac{R_{1}R_{3}}{R_2R_{3}}
+I_{2}= I \cdot \frac{R_{1}R_{3}}{R_{1}R_{3}+R_{1}R_{2}+R_{2}R_{3}}
 $$
-
 ## Grundgesetze
 ### Knotensatz
 Ein Knoten kann keine Ladungen speichern weshalb die Kontengleichung immer 0 ergeben muss.
@@ -150,7 +149,7 @@ Somit ergibt sich die Formel:
 $$
 I_{2}= I \cdot \frac{R_{1}}{R_{2}+R_{1}}
 $$
-$R_{2}$ ist der Widerstand durch den der Gesuchte Strom fliesst.
+$R_{2}$ ist der Widerstand durch den der Gesuchte Strom fliesst. Im Zähler steht immer $R_{n}-1$ widerstände aber nie der gesuchte widerstand.
 
 Wenn die Parallelschaltung aus 2 Widerständen besteht kann auch diese Formel helfen:
 $$
