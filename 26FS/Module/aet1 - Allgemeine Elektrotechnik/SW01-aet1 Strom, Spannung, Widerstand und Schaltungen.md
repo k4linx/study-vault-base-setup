@@ -162,4 +162,7 @@ Jede Schaltung kann vereinfacht werden zu entweder einer Thevenin oder Norton Qu
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_thevenin.png#invert\|300]] | ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_norton.png#invert\|300]] |
 ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_bel_netzwerk.png#invert]]
-Um $R_{qe}$ von einem beliebigen Netzwerk zu erhalten muss 
+Um $R_{qe}$ von einem beliebigen Netzwerk zu erhalten müssen alle Quellen ausgeschaltet werden d.H.
+- **Stromquellen** mit einem Unterbruch ersetzen
+- **Spannungsquellen** mit einem Kurzschluss ersetzen.
+Dann kann man Den R_qe mit der [[#Spannungsteiler]] oder [[#Stromteiler]] berechnen.
