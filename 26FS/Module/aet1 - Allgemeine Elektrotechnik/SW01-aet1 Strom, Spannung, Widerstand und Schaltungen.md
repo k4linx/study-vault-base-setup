@@ -159,7 +159,7 @@ $$
 ### U-I-Kennlinie
 Die U-I-Kennlinie zeigt den verlauf der Quellenspannung in Abhängigkeit des Quellenstroms. Diese Kennlinie ist eine Gerade. Und entspricht genau diesem Netzwerk bzw. dieser Quelle.
 ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_ui_kennlinie.png#invert|300]]
-Jede Schaltung kann vereinfacht werden zu entweder einer Thevenin oder Norton Quelle. 
+Jede Schaltung kann vereinfacht werden zu entweder einer Thevenin oder Norton Quelle. Diese beiden Ersatzschaltungen sind Gleichwertig.
 
 | Thevenin                                                                            | Norton                                                                            |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -175,3 +175,24 @@ Dann genügt es entweder
 zu bestimmen.
 
 ### Belastete Quelle
+Wenn eine Quelle mit einem Lastwiderstand belastet wird, wird eine neue Kennlinie im Graph eingetragen die Kennlinie des Widerstandes.
+![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_belastete_quelle.png#invert|300]]
+Um nun da $I_{a}$ überall im Netzerk gleich bleibt und wir $U_{a}$ suchen wird folgende Gleichung aufgestellt
+
+$$
+\begin{align}
+U_{a1} &= U_{qe}-I_{a}\cdot R_{qe} \\
+U_{a2} &= R_{L} \cdot I_{a}
+\end{align}
+$$
+Damit berechnet sich der Arbeitspunkt bei welcher die Quellenkennlinie und die Widerstandskennlinie sich kreuzen.
+
+![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_qkl_rkl.png#invert|300]]
+
+Gleichsetzen der beiden Gleichungen liefert Strom $I_{AP}$ und Spannung $U_{AP}$.
+$$
+\begin{align}
+I_{AP}&= \frac{U_{qe}}{R_{qe}+R_{L}} \\
+U_{AP}&= \frac{U_{qe}\cdot R_{L}}{R_{qe}+R_{L}} \\
+\end{align}
+$$
