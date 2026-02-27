@@ -119,4 +119,30 @@ G_{E}&= G_{1}+G_{2}+G_{3} \\
 \end{align}
 $$
 #### Stromteiler (Unbelastet)
-An einem unbelasteten Stromteiler mit
+An einem unbelasteten Stromteiler mit zwei Zweigen suchen wir den Strom über $R_2$. Aus der Parallelschaltung kennen wir dass sich der Strom proportional zum Leitwert der Widerstände aufteilt.
+$$
+\frac{I_{1}}{I} = \frac{G_{1}}{R_{E}} = \frac{R_{E}}{R_{1}}
+$$
+![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_stromteiler.png]]
+Somit ergibt sich die spannung:
+$$
+U = R_{E}\cdot I = \frac{1}{\frac{1}{R_{1}}+ \frac{1}{R_{2}}} \cdot I \ \text{oder} \ U = \frac{1}{G_{E}} \cdot I = \frac{1}{G_{1}+G_{2}}\cdot I
+$$
+$I_{2}$ berechnet sich nach dem Ohmschen Gesetz aus $U$ und $R_{2}$
+$$
+I_{2}= \frac{U}{R_{2}} = \frac{1}{R_{2}}\cdot \frac{1}{\frac{1}{R_{1}} + \frac{1}{R_{2}}} \cdot I \ \text{oder} \ I_{2}= U \cdot G_{2}= G_{2}\cdot \frac{1}{G_{1}+G_{2}} \cdot I
+$$
+Umformen:
+$$
+\frac{\frac{1}{R_2}}{\frac{1}{R_{1}}+ \frac{1}{R_{2}}} \cdot I\rightarrow \frac{R_{1}}{R_{2}+R_{1}} \cdot I
+$$
+Somit ergibt sich die Formel:
+$$
+I_{2}= I \cdot \frac{R_{1}}{R_{2}+R_{1}}
+$$
+$R_{2}$ ist der Widerstand durch den der Gesuchte Strom fliesst.
+
+Wenn die Parallelschaltung aus 2 Widerständen besteht kann auch diese Formel helfen:
+$$
+I_{2}= I \cdot \frac{R_{1}\cdot R_{2}}{R_{1}+R_{2}} \cdot \frac{1}{R_{1}} = I \cdot \frac{R_{2}}{R_{1}+R_{2}}
+$$
