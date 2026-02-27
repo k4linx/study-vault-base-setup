@@ -157,8 +157,8 @@ I_{2}= I \cdot \frac{R_{1}\cdot R_{2}}{R_{1}+R_{2}} \cdot \frac{1}{R_{1}} = I \c
 $$
 ## Quellen, Ersatzschaltungen und Kennlinien
 ### U-I-Kennlinie
-Die U-I-Kennlinie zeigt den 
-
+Die U-I-Kennlinie zeigt den verlauf der Quellenspannung in Abhängigkeit des Quellenstroms. Diese Kennlinie ist eine Gerade. Und entspricht genau diesem Netzwerk bzw. dieser Quelle.
+![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_ui_kennlinie.png#invert|300]]
 Jede Schaltung kann vereinfacht werden zu entweder einer Thevenin oder Norton Quelle. 
 
 | Thevenin                                                                            | Norton                                                                            |
@@ -169,8 +169,7 @@ Um $R_{qe}$ von einem beliebigen Netzwerk zu erhalten müssen alle Quellen ausge
 - **Stromquellen** mit einem Unterbruch ersetzen
 - **Spannungsquellen** mit einem Kurzschluss ersetzen.
 Dann kann man Den R_qe mit der [[#Spannungsteiler]] oder [[#Stromteiler]] berechnen.
-Dann genügt es noch
+Dann genügt es entweder
 - Den Kurzschlussstrom $I_{KS}$ 
 - Die Leerlaufspannung $U_{LL}$
 zu bestimmen.
-
