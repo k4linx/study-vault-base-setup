@@ -170,3 +170,4 @@ Dann genügt es noch
 - Den Kurzschlussstrom $I_{KS}$ 
 - Die Leerlaufspannung $U_{LL}$
 zu bestimmen.
+
