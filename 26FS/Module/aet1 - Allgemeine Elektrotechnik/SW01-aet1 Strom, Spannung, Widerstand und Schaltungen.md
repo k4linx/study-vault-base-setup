@@ -168,7 +168,7 @@ Jede Schaltung kann vereinfacht werden zu entweder einer Thevenin oder Norton Qu
 Um $R_{qe}$ von einem beliebigen Netzwerk zu erhalten müssen alle Quellen ausgeschaltet werden d.H.
 - **Stromquellen** mit einem Unterbruch ersetzen
 - **Spannungsquellen** mit einem Kurzschluss ersetzen.
-Dann kann man Den R_qe mit der [[#Spannungsteiler]] oder [[#Stromteiler]] berechnen.
+Dann kann man Den $R_{qe}$ mit der [[#Spannungsteiler]] oder [[#Stromteiler]] berechnen.
 Dann genügt es entweder
 - Den Kurzschlussstrom $I_{KS}$ 
 - Die Leerlaufspannung $U_{LL}$
@@ -196,3 +196,4 @@ I_{AP}&= \frac{U_{qe}}{R_{qe}+R_{L}} \\
 U_{AP}&= \frac{U_{qe}\cdot R_{L}}{R_{qe}+R_{L}} \\
 \end{align}
 $$
+### Zusammenschalten von Quellen
