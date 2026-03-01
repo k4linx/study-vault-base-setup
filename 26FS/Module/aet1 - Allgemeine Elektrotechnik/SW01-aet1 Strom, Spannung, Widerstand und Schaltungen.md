@@ -2,6 +2,8 @@
 erstelldatum: 2026-02-27
 tags:
 Folien:
+  - aet1_Folien_mitNotizen
+Seiten: 1-60
 ---
 ## Wichtige Formeln
 ### Ohmsches Gesetz
