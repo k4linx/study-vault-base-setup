@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "26FS/Module/mech - Mechanik/SW02-mech Statik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "SW02-mech Statik"
             }
           }
         ]
@@ -207,11 +207,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "26FS/Module/mech - Mechanik/mech - Mechanik.base",
+    "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
+    "26FS/Module/alg - Algebra/SW02-alg Komplexe Zahlen, Polarform, komplexe Ebene.md",
+    "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+    "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
+    "Home.md",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/aet1 - Allgemeine Elektrotechnik.base",
-    "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
     "26FS/Module/mech - Mechanik/SW02-mech Statik.md",
-    "26FS/Module/alg - Algebra/SW02-alg Komplexe Zahlen, Polarform, komplexe Ebene.md",
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_pav_strom.png",
     "SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_pav_spannung.png",
@@ -225,14 +229,11 @@
     "SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_stromteiler.png",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
-    "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
     "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
-    "26FS/Module/mech - Mechanik/mech - Mechanik.base",
     "templates/note/programming_note.md",
     "templates/note/math_note.md",
     "templates/note/note_content_template.md",
     "26FS/Module/dt1 - Digitaltechnik 1/SW01-dt1 Digitale Signale und Zahlensysteme.md",
-    "Home.md",
     "26FS/Module/dt1 - Digitaltechnik 1/dt1 - Digitaltechnik 1.base",
     "templates/note/lab_report.md",
     "26FS/Module/alg - Algebra/alg - Algebra.base",
@@ -250,7 +251,6 @@
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-29 - Der einfache Gleichstromkreis 2/Der einfache Gleichstromkreis 2 - 2025-09-29.md",
     "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
-    "25HS/Module/konvE - Konvergenz Elektrotechnik/2025-12-06 konvE SW 8-11.md",
-    "25HS/Module/konvE - Konvergenz Elektrotechnik/2025-12-06 konvE SW 1-7.md"
+    "25HS/Module/konvE - Konvergenz Elektrotechnik/2025-12-06 konvE SW 8-11.md"
   ]
 }
