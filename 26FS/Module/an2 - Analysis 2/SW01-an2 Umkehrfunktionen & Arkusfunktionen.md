@@ -8,9 +8,9 @@ Folien: an2Woche01
 ---
 
 ## Wichtige Formeln
-###
+### Ableitung der Umkehrfunktion
 $$
-
+u'(y) = \frac{1}{f'(x)}
 $$
 
 ## Definitionen
@@ -83,8 +83,4 @@ $$
 Man muss nun zuerst die Basisfunktion $f(x)$ ableiten, daraus den Kehrwert ziehen das gibt die Ableitung der Umkehrfunktion. Dann kann man einen Wert für $x$ wählen in $f(x)$ einsetzen und erhält ein $y$ welches man in $u'(x)$ einsetzten kann wobei der Wert für $x$ weiterhin in $f'(x)$ eingesetzt wird das gibt dann den $x$ wert von $u'(y)$ 
 $$
 TODO Beispiel
-$$
-## Herleitungen
-$$
-
 $$
