@@ -4,6 +4,21 @@ tags:
 Folien:
 ---
 ## Wichtige Formeln
+### Allgemeine Formel für arg(z)
+$$
+\cos(\phi) = \frac{a}{|z|} \Leftrightarrow \begin{matrix}
+\phi = \arccos\left( \frac{a}{|z|} \right) \quad \text{Wenn z über der Reellen Achse liegt} \\
+\phi = -\arccos\left( \frac{a}{|z|} \right) \quad \text{Wenn z unter der Reellen Achse liegt} \\
+\end{matrix}
+$$
+### Addition in der Komplexen Ebene
+$$
+\begin{align}
+z &= a + b i  \\
+u &= c + d \\
+z+ u &= a+ c + (b+d)i
+\end{align}
+$$
 ### Multiplikation in der komplexen Ebene
 $$
 \begin{align}
@@ -35,6 +50,18 @@ $$
 $$
 
 ## Definitionen
+### Satz über die Addition
+Die Addition in der Komplexen Ebene wird wie bei den Vektoren Komponentenweise durchgeführt. Das resultat sind die aneinandergehängten Ortsvektoren.
+$$
+\begin{align}
+z &= a + b i  \\
+u &= c + d \\
+z+ u &= a+ c + (b+d)i
+\end{align}
+$$
+![[SW02-alg Komplexe Wurzeln, Eulersche Formel_addition.png#invert|300]]
+### Drehung um den Nullpunkt
+
 ### Satz über die Multiplikation
 
 ### Komplexe Wurzeln
