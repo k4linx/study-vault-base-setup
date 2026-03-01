@@ -12,6 +12,10 @@ $$
 $$
 z = |z| \cdot e^{i \phi}
 $$
+### Grad $\Leftrightarrow$ Bogenmass
+$$
+
+$$
 
 ## Definitionen
 $$
