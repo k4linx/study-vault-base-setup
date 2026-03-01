@@ -6,7 +6,11 @@ Folien:
 ## Wichtige Formeln
 ### Eulersche Formel
 $$
-
+e^{i\phi} = cos(\phi)+i \sin(\phi) = z(\phi)
+$$
+### Polarform mit Eulerscher Formel
+$$
+z = |z| \cdot e^{i \phi}
 $$
 
 ## Definitionen
