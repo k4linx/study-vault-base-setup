@@ -4,6 +4,15 @@ tags:
 Folien:
 ---
 ## Wichtige Formeln
+### Multiplikation in der komplexen Ebene
+$$
+\begin{align}
+x &= a+bi \\
+y &= c+di  \\
+x \cdot y &= ac - bd + (ad + bc)i
+\end{align}
+$$
+
 ### cis-schreibweise
 $$
 cis(\phi) = cos(\phi)+ \sin(\phi) \cdot i
@@ -26,6 +35,10 @@ $$
 $$
 
 ## Definitionen
+### Satz über die Multiplikation
+
+### Komplexe Wurzeln
+
 ### Eulersche Formel
 Die ableitung von $z(\phi) = cos(\phi) + \sin(\phi)\cdot i$ ist:
 $$
