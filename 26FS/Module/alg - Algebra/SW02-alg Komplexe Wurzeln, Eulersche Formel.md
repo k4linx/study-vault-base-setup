@@ -61,6 +61,10 @@ z+ u &= a+ c + (b+d)i
 $$
 ![[SW02-alg Komplexe Wurzeln, Eulersche Formel_addition.png#invert|300]]
 ### Drehung um den Nullpunkt
+Mit einer Matrix $A$ welche die Spalten $\vec{a_{1}}$ und $\vec{a_{2}} = \left\brace \begin{matrix} \\ 1 \\ 0 \end{matrix}\right\brace$ 
+
+Mithilfe der Drehmatrix kann der Ortsvektor $\vec{x}$ und den Winkel $\alpha$ gedreht werden.
+
 
 ### Satz über die Multiplikation
 

@@ -21,6 +21,10 @@ $$
 
 
 ## Definitionen
+### Trigonometrischer Pythagoras
+$$
+\sin^{2}(t)+ \cos^{2}(t) = 1
+$$
 ### Gerade und Ungerade Funktionen
 Gerade Funktionen sind symmetrisch zur $y$-Achse.
 z.B. $f(-x) = f(x)$
@@ -28,4 +32,7 @@ z.B. $f(-x) = f(x)$
 Ungerade Funktionen sind symmetrisch zum Nullpunkt.
 z.B. $f(-x)=-f(x)$
 ![[SW02-an2 Trigonometrische Formeln, Arkusfunktionen_ungerade_funktion.png#invert|300]]
-##
+### Arctan als Stammfunktion
+$$
+
+$$
