@@ -67,7 +67,11 @@ $$
 1 & 0 \\
 0 & 1
 \end{pmatrix} \cdot \begin{pmatrix}
-
+\cos(\alpha) \\
+\sin(\alpha)
+\end{pmatrix} = \begin{pmatrix}
+\cos(\alpha) &-\sin(\alpha) \\
+\sin(\alpha)  &\cos(\alpha)
 \end{pmatrix}
 $$
 
