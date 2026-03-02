@@ -42,7 +42,9 @@ $$
 Wobei $r \gt 0$ ist.
 Die verschiebung lässt sich entweder über die **Phasenverschiebung** oder die **Zeitverschiebung** angeben
 - Phasenverschiebung $\varphi = - \omega t_{0}$
-- Zeitverschiebung
+- Zeitverschiebung $t_{0}=\frac{-2\pi}{T}\cdot \varphi_{0}$
+
+Aus den Additionsformeln kann man nun 
 ### Gerade und Ungerade Funktionen
 Gerade Funktionen sind symmetrisch zur $y$-Achse.
 z.B. $f(-x) = f(x)$
