@@ -37,14 +37,31 @@ $$
 ### Schwingungsüberlagerung bei gleicher Frequenz
 Wenn eine $\cos$ und $\sin$ Funktion die gleiche Kreisfrequenz $\omega = \frac{2\pi}{T}$ haben lässt sich die Summe der beiden als verschobene $\cos$ Funktion schreiben
 $$
-f(t) = r \cdot \cos(\omega t +\varphi_{0}) 
+\begin{align} \\
+f(t) &= {\color{red}a} \cdot \cos(\omega t) + {\color{blue}b} \cdot \sin(\omega t) \\
+f(t) &= r \cdot \cos(\omega t +\varphi_{0}) 
+\end{align}
 $$
 Wobei $r \gt 0$ ist.
 Die verschiebung lässt sich entweder über die **Phasenverschiebung** oder die **Zeitverschiebung** angeben
 - Phasenverschiebung $\varphi = - \omega t_{0}$
 - Zeitverschiebung $t_{0}=\frac{-2\pi}{T}\cdot \varphi_{0}$
 
-Aus den Additionsformeln kann man nun 
+Aus den [[#Additionsformeln]] kann man nun $\color{red}a$ und $\color{blue} b$ berechnen
+$$
+\begin{align}
+\color{red} a &= r \cdot \cos(\varphi_{0})  \\
+\color{blue} b &= -r \cdot sin(\varphi_0)
+\end{align}
+$$
+Führt zu:
+$$
+\begin{align}
+r \cdot \cos(\omega t + \varphi_{0}) &= r \cdot (\cos(\omega t) \cdot \cos(\varphi_{0}) - \sin(\omega t) \cdot \sin(\varphi_{0}) ) \\
+&= {\color{red} r \cdot \cos(\varphi_{0})} \cdot \cos(\omega t) - {\color{blue} r \cdot \sin(\varphi_{0})} \cdot \sin(\omega t)
+\end{align}
+$$
+$$a^{2}+b^{2} = r^{2}\cdot \underset{\underbracket{#}}{(\cos^{2}(\varphi_{0}) + \sin^{2}(\varphi_{0}))}$$ 
 ### Gerade und Ungerade Funktionen
 Gerade Funktionen sind symmetrisch zur $y$-Achse.
 z.B. $f(-x) = f(x)$
