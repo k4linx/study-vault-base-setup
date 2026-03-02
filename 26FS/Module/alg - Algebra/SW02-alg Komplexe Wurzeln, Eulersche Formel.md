@@ -66,7 +66,9 @@ $$
 \vec{x}' = A \cdot \vec{x} = \begin{pmatrix}
 1 & 0 \\
 0 & 1
-\end{pmatrix} \cdot 
+\end{pmatrix} \cdot \begin{pmatrix}
+
+\end{pmatrix}
 $$
 
 Mithilfe der Drehmatrix kann der Ortsvektor $\vec{x}$ und den Winkel $\alpha$ gedreht werden.
