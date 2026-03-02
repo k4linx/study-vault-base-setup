@@ -34,8 +34,15 @@ $$
 \sin(\alpha+\beta) = \sin(\alpha)\cdot \cos(\beta) + \cos(\alpha)\cdot \sin(\beta)
 \end{align}
 $$
-
-
+### Schwingungsüberlagerung bei gleicher Frequenz
+Wenn eine $\cos$ und $\sin$ Funktion die gleiche Kreisfrequenz $\omega = \frac{2\pi}{T}$ haben lässt sich die Summe der beiden als verschobene $\cos$ Funktion schreiben
+$$
+f(t) = r \cdot \cos(\omega t +\varphi_{0}) 
+$$
+Wobei $r \gt 0$ ist.
+Die verschiebung lässt sich entweder über die **Phasenverschiebung** oder die **Zeitverschiebung** angeben
+- Phasenverschiebung $\varphi = - \omega t_{0}$
+- Zeitverschiebung
 ### Gerade und Ungerade Funktionen
 Gerade Funktionen sind symmetrisch zur $y$-Achse.
 z.B. $f(-x) = f(x)$
