@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SW02-alg Komplexe Wurzeln, Eulersche Formel"
+              "title": "SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
     "SW02-an2 Trigonometrische Formeln, Arkusfunktionen_ungerade_funktion.png",
     "SW02-an2 Trigonometrische Formeln, Arkusfunktionen_gerade_funktion.png",
@@ -224,7 +225,6 @@
     "26FS/Module/an2 - Analysis 2/Unterlagen",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/Unterlagen/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_ui_kennlinie.png",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/Unterlagen",
-    "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/alg - Algebra/Unterlagen/SW02-alg Komplexe Wurzeln, Eulersche Formel_addition.png",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",

@@ -25,6 +25,17 @@ $$
 $$
 \sin^{2}(t)+ \cos^{2}(t) = 1
 $$
+### Additionsformeln
+Die Additionsformeln werden mit der [[SW02-alg Komplexe Wurzeln, Eulersche Formel#Drehung um den Nullpunkt|Drehmatrix]] ermittelt. $x$ hat dabei die Komponenten $\begin{pmatrix}\cos(\beta) \\ \sin(\alpha)\end{pmatrix}$, $x'$ hat die komponenten $\begin{pmatrix}\cos(\alpha + \beta) \\ \sin(\alpha + \beta)\end{pmatrix}$ 
+Die Beiden Additionsformeln sind:
+$$
+\begin{align}
+\cos(\alpha+\beta) = \cos(\alpha)\cdot \cos(\beta) - \sin(\alpha)\cdot \sin(\beta) \\
+\sin(\alpha+\beta) = \sin(\alpha)\cdot \cos(\beta) + \cos(\alpha)\cdot \sin(\beta)
+\end{align}
+$$
+
+
 ### Gerade und Ungerade Funktionen
 Gerade Funktionen sind symmetrisch zur $y$-Achse.
 z.B. $f(-x) = f(x)$
