@@ -61,7 +61,13 @@ z+ u &= a+ c + (b+d)i
 $$
 ![[SW02-alg Komplexe Wurzeln, Eulersche Formel_addition.png#invert|300]]
 ### Drehung um den Nullpunkt
-Mit einer Matrix $A$ welche die Spalten $\vec{a_{1}}$ und $\vec{a_{2}} = \left\brace \begin{matrix} \\ 1 \\ 0 \end{matrix}\right\brace$ 
+Mit einer Matrix $A$ welche die Spalten $\vec{a_{1}} = \begin{pmatrix}1 \\ 0\end{pmatrix}$ und $\vec{a_{2}} = \begin{pmatrix} 0 \\ 1 \end{pmatrix}$ kann ein Ortsvektor $\vec{x}$ um den Winkel $\alpha$ gedreht werden. dabei hat $\vec{x}$ die Komponenten $\begin{pmatrix} \cos(\alpha) \\ \sin(\alpha)\end{pmatrix}$ 
+$$
+\vec{x}' = A \cdot \vec{x} = \begin{pmatrix}
+1 & 0 \\
+0 & 1
+\end{pmatrix} \cdot 
+$$
 
 Mithilfe der Drehmatrix kann der Ortsvektor $\vec{x}$ und den Winkel $\alpha$ gedreht werden.
 
