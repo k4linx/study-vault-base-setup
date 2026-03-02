@@ -21,10 +21,11 @@ $$
 
 
 ## Definitionen
-$$
-
-$$
-## Herleitungen
-$$
-
-$$
+### Gerade und Ungerade Funktionen
+Gerade Funktionen sind symmetrisch zur $y$-Achse.
+z.B. $f(-x) = f(x)$
+![[SW02-an2 Trigonometrische Formeln, Arkusfunktionen_gerade_funktion.png#invert|300]]
+Ungerade Funktionen sind symmetrisch zum Nullpunkt.
+z.B. $f(-x)=-f(x)$
+![[SW02-an2 Trigonometrische Formeln, Arkusfunktionen_ungerade_funktion.png#invert|300]]
+##
