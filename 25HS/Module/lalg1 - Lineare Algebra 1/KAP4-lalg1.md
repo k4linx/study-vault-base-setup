@@ -17,19 +17,20 @@ Folien: Darstellung der Gerade in R2
 ### Punkt-Richtungs-Form (Parameterform)
 
 $$\vec{R} = \vec{P} + \lambda \cdot \vec{v}$$ 
-Hierbei ist \vec{P} der Stützvektor (Ortsvektor eines Punktes) und \vec{v} der Richtungsvektor.
+Hierbei ist $\vec{P}$ der Stützvektor (Ortsvektor eines Punktes) und $\vec{v}$ der Richtungsvektor.
 
 ### Normalform
 
-\vec{n} \cdot (\vec{R} - \vec{P}) = 0 Der Normalenvektor \vec{n} steht senkrecht auf der Geraden.
+$$\vec{n} \cdot (\vec{R} - \vec{P}) = 0$$ 
+Der Normalenvektor $\vec{n}$ steht senkrecht auf der Geraden.
 
 ## Definitionen
 
-- **Richtungsvektor:** Ein freier Vektor \vec{v}, der die Orientierung der Geraden festlegt.
-- **Normalenvektor:** Ein Vektor \vec{n}, der orthogonal zu jedem Richtungsvektor der Geraden verläuft.
+- **Richtungsvektor:** Ein freier Vektor $\vec{v}$, der die Orientierung der Geraden festlegt.
+- **Normalenvektor:** Ein Vektor $\vec{n}$, der orthogonal zu jedem Richtungsvektor der Geraden verläuft.
 
 ## Herleitungen
 
-- **Normalenvektor aus Koordinatenform:** Bei einer Geraden ax + by = c lässt sich der Normalenvektor unmittelbar als \vec{n} = \begin{pmatrix} a \\ b \end{pmatrix} extrahieren.
+- **Normalenvektor aus Koordinatenform:** Bei einer Geraden $ax + by = c$ lässt sich der Normalenvektor unmittelbar als $\vec{n} = \begin{pmatrix} a \\ b \end{pmatrix}$ extrahieren.
 
 **Überleitung:** Geraden und ihre Neigungswinkel führen uns direkt zur notwendigen Erweiterung durch [[Kapitel 4|Funktionen und Trigonometrie]].
