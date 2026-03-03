@@ -61,7 +61,7 @@ r \cdot \cos(\omega t + \varphi_{0}) &= r \cdot (\cos(\omega t) \cdot \cos(\varp
 &= {\color{red} r \cdot \cos(\varphi_{0})} \cdot \cos(\omega t) - {\color{blue} r \cdot \sin(\varphi_{0})} \cdot \sin(\omega t)
 \end{align}
 $$
-$$a^{2}+b^{2} = r^{2}\cdot \underset{\underbracket{#}}{(\cos^{2}(\varphi_{0}) + \sin^{2}(\varphi_{0}))}$$ 
+$$a^{2}+b^{2} = r^{2}\cdot \underset{1}{\underbrace{(\cos^{2}(\varphi_{0}) + \sin^{2}(\varphi_{0}))}} \Rightarrow r = \sqrt{a^{2}+b^{2}} \gt 0$$
 ### Gerade und Ungerade Funktionen
 Gerade Funktionen sind symmetrisch zur $y$-Achse.
 z.B. $f(-x) = f(x)$
