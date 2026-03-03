@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
+                "file": "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-03 Zusammenfassung 1-3"
+              "title": "SW02-dt1 codes, serielle datenübertragung"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
+                "file": "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-03 Zusammenfassung 1-3"
+              "title": "Backlinks for SW02-dt1 codes, serielle datenübertragung"
             }
           },
           {
@@ -114,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
+                "file": "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-12-03 Zusammenfassung 1-3"
+              "title": "Outgoing links from SW02-dt1 codes, serielle datenübertragung"
             }
           },
           {
@@ -207,10 +208,17 @@
   },
   "active": "1b5b49a6780003be",
   "lastOpenFiles": [
+    "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
+    "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
+    "25HS/Module/spy - scientific python/spy - scientific python.base",
+    "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
+    "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
     "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
     "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen/Grenzwerte, Funktionen - 2025-09-24.md",
-    "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
@@ -218,7 +226,6 @@
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP4-lalg1 Funktionen und Trigonometrie.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP10-lalg1 Lineare Abbildung.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base",
     "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-15 - Einführung Vektoren/Einführung Vektoren - 2025-09-15.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP7-lalg1 Ebenen in R3.md",
@@ -232,8 +239,6 @@
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP5-lalg1 Skalarprodukt.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP3-lalg1 Darstellung der Gerade in R2.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 1-3.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 7-9.md",
     "Untitled.base",
     "26FS/Module/mech - Mechanik/unterlagen/SW02-mech Statische Gleichgewichte_freischneiden.png",
     "26FS/Module/an2 - Analysis 2/Unterlagen/SW02-an2 Trigonometrische Formeln, Arkusfunktionen_gerade_funktion.png",
@@ -247,10 +252,6 @@
     "26FS/Module/an2 - Analysis 2/Unterlagen/SW01-an2 Umkehrfunktionen & Arkusfunktionen_arccos.png",
     "26FS/Module/an2 - Analysis 2/Unterlagen",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/Unterlagen/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_ui_kennlinie.png",
-    "26FS/Module/aet1 - Allgemeine Elektrotechnik/Unterlagen",
-    "26FS/Module/alg - Algebra/Unterlagen/SW02-alg Komplexe Wurzeln, Eulersche Formel_addition.png",
-    "26FS/Module/mech - Mechanik/mech - Mechanik.base",
-    "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
-    "26FS/Module/aet1 - Allgemeine Elektrotechnik/aet1 - Allgemeine Elektrotechnik.base"
+    "26FS/Module/alg - Algebra/Unterlagen/SW02-alg Komplexe Wurzeln, Eulersche Formel_addition.png"
   ]
 }
