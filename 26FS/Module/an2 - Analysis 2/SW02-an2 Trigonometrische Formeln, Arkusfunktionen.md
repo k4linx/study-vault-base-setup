@@ -95,7 +95,18 @@ Ungerade Funktionen sind symmetrisch zum Nullpunkt.
 z.B. $f(-x)=-f(x)$
 ![[SW02-an2 Trigonometrische Formeln, Arkusfunktionen_ungerade_funktion.png#invert|300]]
 ### Arctan als Stammfunktion
-
+Die Ableitung vom $arctan$ ist definiert als
 $$
-
+\frac{d}{dx}\arctan(x) = \frac{1}{1+y^{2}} 
+$$
+Mit der [[linearen Substitution]] kann man einfach integrale bestimmen 
+$$
+\begin{align}
+\int \frac{1}{4+7x^{2}} dx = \int\frac{1}{4} \cdot \frac{1}{1+\frac{7}{4}x^{2}}dx = \int \frac{1}{4} \cdot \frac{1}{1+\left( \sqrt{\frac{7}{4}}x \right)^{2}} dx &= \frac{\arctan\left( \sqrt{\frac{7}{4}}x \right)^{2}}{4 \sqrt{\frac{7}{4}}}   \\
+&= \frac{1}{4} \cdot \arctan\left( \sqrt{\frac{7}{4} x} \right) \cdot \frac{1}{\sqrt{\frac{7}{4}}}
+\end{align}
+$$
+Oder mit der [[Quadratischen Ergänzung]] 
+$$
+\int \frac{5}{x^{2}+2x+10} dx = \int \frac{5}{(x^{2}+2x+1)+9}dx = \frac{5}{9} \cdot \frac{1}{\left( \frac{x+1}{3} \right)^{2}+1} dx = \frac{5}{3} \arctan\left( \frac{x+1}{3} \right)
 $$
