@@ -95,6 +95,7 @@ Ungerade Funktionen sind symmetrisch zum Nullpunkt.
 z.B. $f(-x)=-f(x)$
 ![[SW02-an2 Trigonometrische Formeln, Arkusfunktionen_ungerade_funktion.png#invert|300]]
 ### Arctan als Stammfunktion
+
 $$
 
 $$
