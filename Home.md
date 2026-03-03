@@ -25,7 +25,7 @@ not done
 
 ## Unresolved Links
 ```dataview
-TABLE file.link as "Source", link as "Missing Link"
+TABLE file.link as "Source", link as "Missing Wiki Link"
 FLATTEN file.outlinks as link
-WHERE !link.file
+WHERE !link.file AND link.type = "file" AND !link.path
 ```
