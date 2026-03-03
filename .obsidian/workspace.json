@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+                "file": "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "title": "2025-12-03 Zusammenfassung 1-3"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+                "file": "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "title": "Backlinks for 2025-12-03 Zusammenfassung 1-3"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+                "file": "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "title": "Outgoing links from 2025-12-03 Zusammenfassung 1-3"
             }
           },
           {
@@ -207,8 +207,11 @@
   },
   "active": "1b5b49a6780003be",
   "lastOpenFiles": [
-    "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
+    "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
+    "25HS/Module/an1 - Analysis 1/2025-09-17 - Menge, Intervalle, Ungleichungen/Menge, Intervalle, Ungleichungen - 2025-09-17.md",
+    "25HS/Module/an1 - Analysis 1/2025-09-24 - Grenzwerte, Funktionen/Grenzwerte, Funktionen - 2025-09-24.md",
     "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+    "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP6-lalg1 Vektorprodukt.md",
@@ -231,9 +234,6 @@
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 1-3.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 7-9.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 4-6.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 10-11.md",
-    "Home.md",
     "Untitled.base",
     "26FS/Module/mech - Mechanik/unterlagen/SW02-mech Statische Gleichgewichte_freischneiden.png",
     "26FS/Module/an2 - Analysis 2/Unterlagen/SW02-an2 Trigonometrische Formeln, Arkusfunktionen_gerade_funktion.png",
@@ -251,7 +251,6 @@
     "26FS/Module/alg - Algebra/Unterlagen/SW02-alg Komplexe Wurzeln, Eulersche Formel_addition.png",
     "26FS/Module/mech - Mechanik/mech - Mechanik.base",
     "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
-    "26FS/Module/aet1 - Allgemeine Elektrotechnik/aet1 - Allgemeine Elektrotechnik.base",
-    "26FS/Module/dt1 - Digitaltechnik 1/dt1 - Digitaltechnik 1.base"
+    "26FS/Module/aet1 - Allgemeine Elektrotechnik/aet1 - Allgemeine Elektrotechnik.base"
   ]
 }
