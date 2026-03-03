@@ -23,3 +23,9 @@ not done
 
 
 
+## Unresolved Links
+```dataview
+TABLE file.link as "Source", link as "Missing Link"
+FLATTEN file.outlinks as link
+WHERE !link.file
+```
