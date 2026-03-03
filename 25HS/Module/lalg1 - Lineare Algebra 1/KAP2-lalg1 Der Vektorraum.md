@@ -27,16 +27,17 @@ $$
 
 ## Definitionen
 
-- **Ortsvektor:** Ein Vektor $\vec{A} := \vec{OA}$, der fest an den Koordinatenursprung O gebunden ist. In der Dokumentationsarchitektur werden Ortsvektoren (Punkte) mit Großbuchstaben gekennzeichnet.
-- **Allgemeiner Vektor:** Ein freies, verschiebbares Objekt (gekennzeichnet durch Kleinbuchstaben \vec{a}, \vec{b}), das durch Verschiebung im Raum invariant bleibt.
+- **Ortsvektor:** Ein Vektor $\vec{A} := \vec{OA}$, der fest an den Koordinatenursprung $O$ gebunden ist. In der Dokumentationsarchitektur werden Ortsvektoren (Punkte) mit Großbuchstaben gekennzeichnet.
+- **Allgemeiner Vektor:** Ein freies, verschiebbares Objekt (gekennzeichnet durch Kleinbuchstaben $\vec{a}, \vec{b}$), das durch Verschiebung im Raum invariant bleibt.
 - **Vektorraum:** Eine Menge von Objekten, für die die Operationen der komponentenweisen Addition und der Skalarmultiplikation abgeschlossen sind.
 
 ## Herleitungen
 
-- **Komponentenweise Addition:** In einer Orthogonalbasis wird die Summe zweier Vektoren hergeleitet, indem die jeweiligen Einträge der gleichen Dimension addiert werden: \vec{a} + \vec{b} = \begin{pmatrix} a_1 \\ \vdots \\ a_n \end{pmatrix} + \begin{pmatrix} b_1 \\ \vdots \\ b_n \end{pmatrix} = \begin{pmatrix} a_1 + b_1 \\ \vdots \\ a_n + b_n \end{pmatrix}
+- **Komponentenweise Addition:** In einer Orthogonalbasis wird die Summe zweier Vektoren hergeleitet, indem die jeweiligen Einträge der gleichen Dimension addiert werden: 
+- $$\vec{a} + \vec{b} = \begin{pmatrix} a_1 \\ \vdots \\ a_n \end{pmatrix} + \begin{pmatrix} b_1 \\ \vdots \\ b_n \end{pmatrix} = \begin{pmatrix} a_1 + b_1 \\ \vdots \\ a_n + b_n \end{pmatrix}$$
 
 **Tipp:**
 
-[!TIP] In der Standardbasis entsprechen die Koordinaten eines Punktes A(x|y|z) exakt den Komponenten seines Ortsvektors \vec{A}.
+>[!TIP] In der Standardbasis entsprechen die Koordinaten eines Punktes $A(x|y|z)$ exakt den Komponenten seines Ortsvektors $\vec{A}$.
 
 **Überleitung:** Die abstrakte Definition des Vektorraums ermöglicht nun die präzise [[Kapitel 3|Darstellung der Gerade in R2]].
