@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "SW02-alg Komplexe Wurzeln, Eulersche Formel"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for SW02-alg Komplexe Wurzeln, Eulersche Formel"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from SW02-alg Komplexe Wurzeln, Eulersche Formel"
             }
           },
           {
@@ -206,9 +206,9 @@
   },
   "active": "53f05a4520cfc415",
   "lastOpenFiles": [
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
-    "Home.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
+    "Home.md",
+    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "Untitled.base",
     "26FS/Module/mech - Mechanik/unterlagen/SW02-mech Statische Gleichgewichte_freischneiden.png",
