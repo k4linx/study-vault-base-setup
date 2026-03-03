@@ -11,10 +11,15 @@
             "id": "1b5b49a6780003be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SW01-an2 Umkehrfunktionen & Arkusfunktionen"
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for SW01-an2 Umkehrfunktionen & Arkusfunktionen"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from SW01-an2 Umkehrfunktionen & Arkusfunktionen"
             }
           },
           {
@@ -201,8 +208,10 @@
   "active": "1b5b49a6780003be",
   "lastOpenFiles": [
     "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP6-lalg1 Vektorprodukt.md",
+    "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+    "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP6-lalg1 Vektorprodukt.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP4-lalg1 Funktionen und Trigonometrie.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP10-lalg1 Lineare Abbildung.md",
@@ -224,9 +233,7 @@
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 7-9.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 4-6.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 10-11.md",
-    "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "Home.md",
-    "Ableitung.md",
     "Untitled.base",
     "26FS/Module/mech - Mechanik/unterlagen/SW02-mech Statische Gleichgewichte_freischneiden.png",
     "26FS/Module/an2 - Analysis 2/Unterlagen/SW02-an2 Trigonometrische Formeln, Arkusfunktionen_gerade_funktion.png",

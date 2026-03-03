@@ -16,7 +16,7 @@ $$
 ## Definitionen
 ### Umkehrfunktion
 Eine Funktion hat genau dann eine Umkehrfunktion wenn es zu jedem $x$-Wert genau ein $y$-wert gibt. 
-Dazu muss die Funktion streng monoton wachsen/fallen. Dies kann man mit der [[Ableitung]] der Funktion $f'(x)$ auswerten. wenn die Ableitung über das ganze Interval $f'(x) \geq 0$ oder $f'(x) \leq 0$ ist wurde die Strenge Monotonie bewiesen
+Dazu muss die Funktion streng monoton wachsen/fallen. Dies kann man mit der [[Ableitung]] der Funktion $f'(x)$ auswerten. Wenn die Ableitung über das ganze Interval $f'(x) \geq 0$ oder $f'(x) \leq 0$ ist wurde die Strenge Monotonie bewiesen:
 $$
 \begin{align}
 f(x)&=x^{2}\quad \text{mit} \quad \mathbb{D} = [0; \infty) \\
