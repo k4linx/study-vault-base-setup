@@ -5,6 +5,10 @@ Folien:
   - an2Woche02
 ---
 ## Wichtige Formeln
+### sin^2 cos^2 tan^2 
+$$
+
+$$
 ### Ableitung arcsin
 $$
 \frac{d}{dy} = \arcsin(y) = \frac{1}{\cos(x)} = \frac{1}{\sqrt{1-\sin^{2}(x)}} = \frac{1}{\sqrt{1-y^{2}}} \ \text{für} \ y \in [-1; 1]
