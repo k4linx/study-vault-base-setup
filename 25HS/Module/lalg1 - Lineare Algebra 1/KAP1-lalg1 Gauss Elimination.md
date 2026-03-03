@@ -33,8 +33,7 @@ Eine Menge von Vektoren ist linear abhängig, wenn der Nullvektor durch eine nic
 
 **Wichtige Anmerkung:**
 
->[!IMPORTANT] 
->Beim Gauss-Verfahren gilt strikt: Die Zeile, die im aktuellen Schritt zur Elimination in anderen Zeilen genutzt wird, darf selbst nicht verändert werden.
+>[!IMPORTANT] Beim Gauss-Verfahren gilt strikt: Die Zeile, die im aktuellen Schritt zur Elimination in anderen Zeilen genutzt wird, darf selbst nicht verändert werden.
 
 **Überleitung:** Nachdem die Grundlagen der Elimination etabliert sind, erweitert das nächste Kapitel den Fokus auf die strukturellen Eigenschaften des [[KAP2-lalg1 Der Vektorraum|Vektorraums]].
 
