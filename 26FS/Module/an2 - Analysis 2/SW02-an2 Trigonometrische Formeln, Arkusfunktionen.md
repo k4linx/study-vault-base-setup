@@ -19,6 +19,18 @@ $$
 \frac{d}{dy} = \arctan(y) = \frac{1}{1+y^{2}} \ \text{für}\ y \in \mathbb{R}
 $$
 
+### Schwingungsüberlagerung bei gleicher Frequenz
+$$
+f(t) = a \cdot \cos(\omega t) + b \cdot \sin(\omega t) \overset{auf}{\rightarrow} f(t) = r \cdot \cos(\omega t + \varphi_{0})
+$$
+$$
+\begin{align}
+r &= \sqrt{a^{2}+ b^{2}} \\
+b \leq 0 \ \Rightarrow \varphi &= \arccos\left( \frac{a}{r} \right) \\
+b \gt 0 \ \Rightarrow \varphi &= - \arccos\left( \frac{a}{r} \right) \Leftrightarrow 2\pi-\arccos\left( \frac{a}{r} \right)
+\end{align}
+
+$$
 
 ## Definitionen
 ### Trigonometrischer Pythagoras
@@ -62,6 +74,19 @@ r \cdot \cos(\omega t + \varphi_{0}) &= r \cdot (\cos(\omega t) \cdot \cos(\varp
 \end{align}
 $$
 $$a^{2}+b^{2} = r^{2}\cdot \underset{1}{\underbrace{(\cos^{2}(\varphi_{0}) + \sin^{2}(\varphi_{0}))}} \Rightarrow r = \sqrt{a^{2}+b^{2}} \gt 0$$
+
+![[SW02-an2 Trigonometrische Formeln, Arkusfunktionen_schwingungsüberlagerung.png#invert|300]]
+$x$ ist bekannt als $\cos(\varphi_{0})$ und $y$ is $\sin(\varphi)$ 
+$$
+\begin{align}
+x = \frac{a}{r} = \cos(\varphi) \\
+y = - \frac{b}{r} = \sin(\varphi)
+\end{align}
+$$
+Wenn nun der Punk P oberhalb der $x$-Achse liegt wird der $\arccos(x)$ verwendet um $\varphi_{0}$ zu finden. Unterhalb wird einfach der $-\arccos(x)$ verwendet. anders ausgedrückt:
+- Wenn $y \geq 0$ und $b \leq 0 \Rightarrow \arccos$
+- Wenn $y \lt 0$ und $b \gt 0 \Rightarrow -\arccos$
+
 ### Gerade und Ungerade Funktionen
 Gerade Funktionen sind symmetrisch zur $y$-Achse.
 z.B. $f(-x) = f(x)$
