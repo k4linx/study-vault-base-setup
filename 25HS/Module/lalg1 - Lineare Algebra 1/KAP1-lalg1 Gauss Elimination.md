@@ -13,7 +13,8 @@ Folien: Eliminationsverfahren I
 
 ### Linearkombination
 
-Eine Linearkombination einer Menge von Vektoren $\{\vec{a}_1, \dots, \vec{a}_N\}$ ist definiert als die Summe: $x_1\vec{a}_1 + x_2\vec{a}_2 + \dots + x_N\vec{a}_N = \sum_{i=1}^{N} x_i\vec{a}_i$ wobei die Skalare $x_1, x_2, \dots$ als Koeffizienten $(x_i \in \mathbb{R})$ bezeichnet werden.
+Eine Linearkombination einer Menge von Vektoren $\{\vec{a}_1, \dots, \vec{a}_N\}$ ist definiert als die Summe: $$x_1\vec{a}_1 + x_2\vec{a}_2 + \dots + x_N\vec{a}_N = \sum_{i=1}^{N} x_i\vec{a}_i$$ 
+wobei die Skalare $x_1, x_2, \dots$ als Koeffizienten $(x_i \in \mathbb{R})$ bezeichnet werden.
 
 ### Lineare Abhängigkeit
 
