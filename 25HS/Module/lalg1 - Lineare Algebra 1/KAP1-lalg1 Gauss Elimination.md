@@ -36,19 +36,16 @@ Eine Menge von Vektoren ist linear abhängig, wenn der Nullvektor durch eine nic
 
 **Überleitung:** Nachdem die Grundlagen der Elimination etabliert sind, erweitert das nächste Kapitel den Fokus auf die strukturellen Eigenschaften des [[Kapitel 2|Vektorraums]].
 
---------------------------------------------------------------------------------
 
 ### Kapitel 2: Der Vektorraum
 
---------------------------------------------------------------------------------
-
-erstelldatum: 2026-02-26 tags:
-
+---
+erstelldatum: 2026-02-26 
+tags:
 - lalg1
 - vektorraum
 - normierung
-
-## Folien: Der Vektorraum
+Folien: Der Vektorraum
 
 **Analytische Einleitung:** Das Konzept des Vektorraums bildet die abstrakte Hülle für mathematische Objekte, die über rein geometrische Pfeile hinausgehen. In der Ingenieurpraxis erlaubt diese Struktur die Standardisierung physikalischer Größen. Die Normierung ist hierbei ein kritischer Schritt, um Vektoren unterschiedlicher Beträge vergleichbar zu machen und Einheitsgrößen für Richtungsanalysen in Kraftfeldern oder Strömungen zu definieren.
 
