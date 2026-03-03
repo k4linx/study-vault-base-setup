@@ -25,7 +25,8 @@ not done
 
 ## Unresolved Links
 ```dataview
-TABLE file.link as "Source", link as "Missing Wiki Link"
+TABLE file.link as "Source", link as "Missing Note"
 FLATTEN file.outlinks as link
-WHERE !link.file AND link.type = "file" AND !link.path
+WHERE !link.file
+AND !regexmatch(".*\\.[A-Za-z0-9]+($|#|\\|)", link.path)
 ```
