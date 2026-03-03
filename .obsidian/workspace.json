@@ -21,10 +21,15 @@
             "id": "94741a11c5d19bce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP1-lalg1.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "KAP1-lalg1"
             }
           }
         ],
@@ -101,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP1-lalg1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for KAP1-lalg1"
             }
           },
           {
@@ -119,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP1-lalg1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from KAP1-lalg1"
             }
           },
           {
@@ -191,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +215,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "1b5b49a6780003be",
+  "active": "94741a11c5d19bce",
   "lastOpenFiles": [
+    "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base",
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP1-lalg1.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 1-3.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 7-9.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 4-6.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 10-11.md",
+    "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "Home.md",
     "Ableitung.md",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
@@ -221,7 +235,6 @@
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
-    "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "Untitled.base",
     "26FS/Module/mech - Mechanik/unterlagen/SW02-mech Statische Gleichgewichte_freischneiden.png",
     "26FS/Module/an2 - Analysis 2/Unterlagen/SW02-an2 Trigonometrische Formeln, Arkusfunktionen_gerade_funktion.png",
@@ -248,13 +261,6 @@
     "templates/note/note_content_template.md",
     "26FS/Module/dt1 - Digitaltechnik 1/dt1 - Digitaltechnik 1.base",
     "templates/note/lab_report.md",
-    "26FS/Module/alg - Algebra/alg - Algebra.base",
-    "26FS/Module/aet1 - Allgemeine Elektrotechnik 1.md",
-    "26FS/Module/dt1.md",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/2025-12-06 Kurztest Stoff zusammenfassung.md",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-11-17 - Messauftrag 08 Operationsverstärker/Messauftrag 08 Operationsverstärker - 2025-11-17.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-22 - Der einfache Gleichstromkreis 1/Der einfache Gleichstromkreis 1 - 2025-09-22.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-20 - Analyse von Gleichstromkreisen 1/Analyse von Gleichstromkreisen 1 - 2025-10-20.md",
-    "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-10-06 - Ersatzschaltbilder nach Thevenin und Norton/Ersatzschaltbilder nach Thevenin und Norton - 2025-10-06.md"
+    "26FS/Module/aet1 - Allgemeine Elektrotechnik 1.md"
   ]
 }
