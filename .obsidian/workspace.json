@@ -11,30 +11,10 @@
             "id": "1b5b49a6780003be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
-            }
-          },
-          {
-            "id": "94741a11c5d19bce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP14-lalg1 RLC-Netzwerke mit Wechselstrom.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "KAP14-lalg1 RLC-Netzwerke mit Wechselstrom"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -110,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "title": "Outgoing links"
             }
           },
           {
@@ -202,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 202.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +200,14 @@
   },
   "active": "1b5b49a6780003be",
   "lastOpenFiles": [
+    "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP6-lalg1 Vektorprodukt.md",
+    "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP4-lalg1 Funktionen und Trigonometrie.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP10-lalg1 Lineare Abbildung.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base",
+    "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-09-15 - Einführung Vektoren/Einführung Vektoren - 2025-09-15.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP7-lalg1 Ebenen in R3.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP14-lalg1 RLC-Netzwerke mit Wechselstrom.md",
@@ -229,13 +216,8 @@
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP13-lalg1 Umkehrabbildung und inverse Matrix.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP12-lalg1 Determinanten.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP11-lalg1 Python.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP10-lalg1 Lineare Abbildung.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP5-lalg1 Skalarprodukt.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP6-lalg1 Vektorprodukt.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP4-lalg1 Funktionen und Trigonometrie.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP3-lalg1 Darstellung der Gerade in R2.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/2025-12-03 Zusammenfassung SW 1-3.md",
@@ -245,9 +227,6 @@
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "Home.md",
     "Ableitung.md",
-    "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
-    "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
-    "26FS/Module/mech - Mechanik/SW02-mech Statische Gleichgewichte.md",
     "Untitled.base",
     "26FS/Module/mech - Mechanik/unterlagen/SW02-mech Statische Gleichgewichte_freischneiden.png",
     "26FS/Module/an2 - Analysis 2/Unterlagen/SW02-an2 Trigonometrische Formeln, Arkusfunktionen_gerade_funktion.png",

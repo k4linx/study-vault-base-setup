@@ -59,6 +59,7 @@ Die verschiebung lässt sich entweder über die **Phasenverschiebung** oder die 
 - Phasenverschiebung $\varphi = - \omega t_{0}$
 - Zeitverschiebung $t_{0}=\frac{-2\pi}{T}\cdot \varphi_{0}$
 
+
 Aus den [[#Additionsformeln]] kann man nun $\color{red}a$ und $\color{blue} b$ berechnen
 $$
 \begin{align}
