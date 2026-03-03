@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+                "file": "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SW02-alg Komplexe Wurzeln, Eulersche Formel"
+              "title": "SW01-aet1 Strom, Spannung, Widerstand und Schaltungen"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+                "file": "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SW02-alg Komplexe Wurzeln, Eulersche Formel"
+              "title": "Backlinks for SW01-aet1 Strom, Spannung, Widerstand und Schaltungen"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+                "file": "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SW02-alg Komplexe Wurzeln, Eulersche Formel"
+              "title": "Outgoing links from SW01-aet1 Strom, Spannung, Widerstand und Schaltungen"
             }
           },
           {
@@ -204,8 +204,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "53f05a4520cfc415",
+  "active": "d8ac2bcd537a2186",
   "lastOpenFiles": [
+    "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
+    "26FS/Module/mech - Mechanik/SW02-mech Statische Gleichgewichte.md",
+    "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
+    "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
+    "26FS/Module/dt1 - Digitaltechnik 1/SW01-dt1 Digitale Signale und Zahlensysteme.md",
+    "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
     "Home.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/2025-09-15 - Einführung & Grundlagen/Einführung & Grundlagen - 2025-09-15.md",
@@ -217,11 +223,7 @@
     "Untitled 1.base",
     "Quadratischen Ergänzung.md",
     "26FS/Module/an2 - Analysis 2/Unterlagen/SW02-an2 Trigonometrische Formeln, Arkusfunktionen_schwingungsüberlagerung.png",
-    "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/an2 - Analysis 2/Unterlagen/SW02-an2 Trigonometrische Formeln, Arkusfunktionen_ungerade_funktion.png",
-    "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
-    "26FS/Module/mech - Mechanik/SW02-mech Statische Gleichgewichte.md",
-    "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
     "26FS/Module/mech - Mechanik/unterlagen/SW02-mech Statische Gleichgewichte_würfel.png",
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW01-dt1 Digitale Signale und Zahlensysteme_tabelle_ieee754.png",
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen",
@@ -232,7 +234,6 @@
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/Unterlagen",
     "26FS/Module/alg - Algebra/Unterlagen/SW02-alg Komplexe Wurzeln, Eulersche Formel_addition.png",
     "26FS/Module/mech - Mechanik/mech - Mechanik.base",
-    "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
     "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/aet1 - Allgemeine Elektrotechnik.base",
@@ -240,7 +241,6 @@
     "templates/note/programming_note.md",
     "templates/note/math_note.md",
     "templates/note/note_content_template.md",
-    "26FS/Module/dt1 - Digitaltechnik 1/SW01-dt1 Digitale Signale und Zahlensysteme.md",
     "26FS/Module/dt1 - Digitaltechnik 1/dt1 - Digitaltechnik 1.base",
     "templates/note/lab_report.md",
     "26FS/Module/alg - Algebra/alg - Algebra.base",

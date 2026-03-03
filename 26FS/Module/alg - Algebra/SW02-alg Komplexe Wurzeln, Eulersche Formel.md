@@ -102,7 +102,3 @@ Daraus die Polarform wird nun neu
 $$
 z = |z|\cdot e^{i\phi}
 $$
-## Herleitungen
-$$
-
-$$
