@@ -38,6 +38,11 @@ Der Aufpunkt $\vec{P}$ verankert die Ebene im Raum. Die zwei Richtungsvektoren $
 Ein Vektor $\vec{n}$, der senkrecht auf der gesamten Ebene steht. Die Koeffizienten $n_1, n_2, n_3$ in der Koordinatenform entsprechen exakt den Komponenten dieses Normalenvektors.
 
 ## Herleitungen
+### Schnittmengen von Ebenen
+![[KAP7-lalg1 Ebenen in R3_schnittmengen_ebenen.png#invert]]
+- **k)** Buch (Schnittgerade)
+- **j)** Kamin (Leere Schnittmenge)
+
 ### Umwandlung von Parameterform zu Koordinatenform
 Wir nutzen das [[KAP6-lalg1 Vektorprodukt|Vektorprodukt]], um aus den beiden Richtungsvektoren $\vec{u}$ und $\vec{v}$ den Normalenvektor zu berechnen: 
 $$ \vec{n} = \vec{u} \times \vec{v} $$
