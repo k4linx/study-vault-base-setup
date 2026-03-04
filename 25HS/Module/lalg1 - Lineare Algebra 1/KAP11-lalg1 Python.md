@@ -24,7 +24,7 @@ Für numerische Berechnungen wird die Bibliothek `numpy` (oft als `np` importier
 - **Norm (Länge):** `np.linalg.norm(v)`
 - **[[KAP9-lalg1 Matrixalgebra#Matrix-Produkt (Falk-Schema)|Matrixprodukt]]:** `np.dot(A, B)` (Achtung: `A * B` rechnet nur elementweise!)
 - **Transponierte Matrix:** `A.T`
-- **Inverse Matrix:** `np.linalg.inv(A)` (Konzept aus [[KAP13-lalg1 Umkehrabbildung und inverse Matrix|Inverse Matrix]])
+- **Inverse Matrix:** `np.linalg.inv(A)` (Konzept aus [[KAP13-lalg1 Umkehrabbildung und inverse Matrix#Inverse einer $2 times 2$ Matrix|Inverse Matrix]])
 
 ## Definitionen
 ### Slicing

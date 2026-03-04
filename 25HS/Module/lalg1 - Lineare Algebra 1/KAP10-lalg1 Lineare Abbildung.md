@@ -27,7 +27,7 @@ $$ \vec{x}_{neu} = S \odot M \odot \vec{x} $$
 Eine Abbildung $\mathcal{L}$ heisst genau dann linear, wenn für alle Vektoren und einen beliebigen Skalar $\lambda \in \mathbb{R}$ gilt:
 1. **Homogenität:** $\mathcal{L}(\lambda \cdot \vec{v}) = \lambda \cdot \mathcal{L}(\vec{v})$
 2. **Additivität:** $\mathcal{L}(\vec{v} + \vec{w}) = \mathcal{L}(\vec{v}) + \mathcal{L}(\vec{w})$
-Jede [[KAP9-lalg1 Matrixalgebra#Produkt einer Matrix mit einem Vektor|Matrix-Vektor-Multiplikation]] erfüllt diese Bedingungen und ist somit zwingend linear.
+Jede [[KAP9-lalg1 Matrixalgebra#Matrix-Produkt (Falk-Schema)|Matrix-Vektor-Multiplikation]] erfüllt diese Bedingungen und ist somit zwingend linear.
 
 ### Abbildung / Funktion
 Eine Abbildung $\mathcal{L}: D \to Z$ ordnet jedem Element $x$ einer Definitionsmenge $D$ (Input/Argument) exakt ein Element $y$ einer Zielmenge $Z$ (Output/Bild) zu.
