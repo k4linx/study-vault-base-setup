@@ -18,13 +18,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
+                    "file": "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "KAP2-lalg1 Der Vektorraum"
+                  "title": "SW01-mech Kräfte und Drehmomente"
                 }
               }
             ]
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
+                "file": "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KAP2-lalg1 Der Vektorraum"
+              "title": "Backlinks for SW01-mech Kräfte und Drehmomente"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
+                "file": "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from KAP2-lalg1 Der Vektorraum"
+              "title": "Outgoing links from SW01-mech Kräfte und Drehmomente"
             }
           },
           {
@@ -231,6 +231,7 @@
   },
   "active": "c445c27daf87a626",
   "lastOpenFiles": [
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
     "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
     "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
@@ -255,7 +256,6 @@
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP5-lalg1 Skalarprodukt.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP4-lalg1 Funktionen und Trigonometrie.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP3-lalg1 Darstellung der Gerade in R2.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP1-lalg1 Eliminationsverfahren I.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/Unterlagen/KAP2-lalg1 Der Vektorraum_ortsvektor.png",
     "25HS/Module/lalg1 - Lineare Algebra 1/Unterlagen",

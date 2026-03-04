@@ -29,8 +29,8 @@ $$ \lambda \cdot \vec{v} = \begin{pmatrix} \lambda \cdot v_1 \\ \lambda \cdot v_
 Ein Vektor ist ein mathematisches Objekt, das eine Verschiebung beschreibt und vollständig durch seine **Richtung** und seinen **Betrag** (Länge) definiert ist. In der Notation werden Vektoren meist mit einem Kleinbuchstaben und einem Pfeil darüber gekennzeichnet und als Spaltenvektor geschrieben.
 $$
 \vec{a} = \begin{pmatrix}
-a_1 \\
- \\
+a_{1} \\
+a_{2} \\
 \end{pmatrix}
 $$
 **Zahlenbeispiel:**

@@ -26,7 +26,7 @@ $$
 ## Definitionen
 ### Kraft
 Die Kraft wird aus der Wirkung einer Aktion auf einen Körper definiert. Diese ist nur die Auswirkung von z.B. einem Stoss an einem Wagen der den Wagen ins Rollen bringt.
-Eine Kraft ist ein [[KAP2-lalg1 Der Vektorraum#]] und hat immer eine Richtung.
+Eine Kraft ist ein [[KAP2-lalg1 Der Vektorraum#Vektor|Vektor]] und hat immer eine Richtung.
 $$
 \begin{align}
 \vec{F} &= \begin{pmatrix}
@@ -48,7 +48,7 @@ Um einen Vektor vollständig zu beschreiben brauchen wir die Länge
 $$
 |\vec{F}| = \sqrt{F_{x}^{2}+F_{y}^{2}+F_{z}^{2}}
 $$
-die Richtung (Richtungsvektor):
+die Richtung ([[KAP2-lalg1 Der Vektorraum#Ri]]):
 $$
 \frac{\vec{F}}{|\vec{F}|}
 $$
