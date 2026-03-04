@@ -104,7 +104,7 @@ Strom berechnen
 $$
 I_{1}= \frac{U_1}{R_{E}} = \frac{U_{1}}{R_{1}+R_{2}}
 $$
-Danach spannung $U_{2}$ aus $I_{1}$ und $R_{2}$ berechnen.
+Danach pannung $U_{2}$ aus $I_{1}$ und $R_{2}$ berechnen.
 $$
 U_{2} = R_{2}\cdot \frac{U_1}{R_{1}+R_{2}}
 $$
