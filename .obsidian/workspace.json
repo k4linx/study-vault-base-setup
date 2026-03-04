@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
-                "mode": "preview",
+                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "KAP8-lalg1 Lösungen von linearen Gleichungssystemen"
+              "title": "KAP9-lalg1 Matrixalgebra"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
+                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KAP8-lalg1 Lösungen von linearen Gleichungssystemen"
+              "title": "Backlinks for KAP9-lalg1 Matrixalgebra"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
+                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from KAP8-lalg1 Lösungen von linearen Gleichungssystemen"
+              "title": "Outgoing links from KAP9-lalg1 Matrixalgebra"
             }
           },
           {
@@ -207,13 +207,13 @@
   },
   "active": "1b5b49a6780003be",
   "lastOpenFiles": [
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP14-lalg1 RLC-Netzwerke mit Wechselstrom.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP13-lalg1 Umkehrabbildung und inverse Matrix.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP12-lalg1 Determinanten.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP11-lalg1 Python.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP10-lalg1 Lineare Abbildung.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP7-lalg1 Ebenen in R3.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP6-lalg1 Vektorprodukt.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP5-lalg1 Skalarprodukt.md",
