@@ -33,7 +33,7 @@ Das Parallelepiped, welches durch drei Vektoren $\vec{a}, \vec{b}, \vec{c}$ aufg
 ### Geometrische Bedeutung und Gesetze
 - **a) Flächeninhalt:** Der Betrag des Vektorprodukts $\|\vec{a} \times \vec{b}\|$ entspricht exakt dem Flächeninhalt des Parallelogramms, das von $\vec{a}$ und $\vec{b}$ aufgespannt wird.
 - **b) Distributivität:** $\vec{a} \times (\vec{b} + \vec{c}) = \vec{a} \times \vec{b} + \vec{a} \times \vec{c}$ 
-- **c) Streckung:** $2$
+- **c) Streckung:** $\vec{a} \times (\lambda \cdot \vec{b}) = \lambda (\vec{a} \cdot \vec{b})$
 - **(d) Antikommutativität:** Beim Vertauschen der Vektoren ändert sich das Vorzeichen (die Richtung des Vektors dreht sich um) :   $$ \vec{a} \times \vec{b} = -(\vec{b} \times \vec{a}) $$
 
 ![[KAP6-lalg1 Vektorprodukt_flaeche.png#invert]]
