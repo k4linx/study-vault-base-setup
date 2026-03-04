@@ -85,11 +85,38 @@ Unicode besteht aus 17 Ebenen sogenannten Planes die mit jeweils 16-Bit beschrie
 ![[SW02-dt1 codes, serielle datenübertragung_unicode_bmp.png|500]]
 
 #### UTF-16
-UTF-16 kann die Zeichen der BMP direkt in 2 Bytes abbilden. Für zeichen die ausserhalb der BMP codiert sind wird ein 2 Bit breites Präfix angehängt also ergibt sich für die nächste plane 0x010000 bis 0x01FFFF. 
-
+UTF-16 kann die Zeichen der BMP direkt in 2 Bytes abbilden. Für Zeichen die ausserhalb der BMP codiert sind wird ein 2 Bit breites Präfix angehängt also ergibt sich für die nächsten planes 0x100000 bis 0x10FFFF. Dabei wird 0x10000 ab. So passt die Zahl garantiert in die 20 Bit Breite. dies wird dann aufgeteilt in 2 10-Bit Wörter.
+Damit der Empfänger weis das, das gesendete symbol nicht aus der BMP stammt wird dies mit einem Präfix versehen dabei erhält das erste Wort 
+- High Surrogate erhält Präfix 110110 
+$$
+11\ 0110 + xx \ xxxx \ xxxx 
+$$
+- Low Surrogate erhält Präfix 110111
+$$
+110111 + xx \ xxxx \ xxxx
+$$
+**Ein Beispiel:**
+Das Emoji 😊 in Hexadezimal geschrieben ist `0x1F60A`
+1. `0x1F60A` - `0x10000` = `0x0F60A`
+2. Umwandeln zu Binär: `0000 1111 0110 0000 1010`
+3. Aufteilen in 2 10 Bit Blöcke
+	- **High Surrogate** 00 0011 1101
+	- **Low Surrogate** 10 0000 1010
+4. Präfixe anhängen
+	-  `110110` + `00 0011 1101` = `1101 1000 0011 1101`
+	- `110111` + `10 0000 1010` = `1101 1110 0000 1010`
+5. Zurückrechnen zu Hex 
+	- Wort 1 `D83D`
+	- Wort 2 `DE0A`
 #### UTF-8
+UTF-8 ist für uns das einfachste da die meisten Bustaben und Symbole bereits in 8-Bit abgebildet werden können. UTF-8 hat eine variable Bytelänge von 1-4 Bytes
+Dabei lassen sich die ersten 127 Zeichen mit einem Byte abbilden die Nächsten werden mit einem Präfix versehen
 
-
+| Bytezahl | Präfix                              |
+| -------- | ----------------------------------- |
+| 2        | 110xxxxx 10xxxxxx                   |
+| 3        | 1110xxxx 10xxxxxx 10xxxxxx          |
+| 4        | 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx |
 ## Serielle Datenübertragung
 Um Daten Seriell zu übertragen also bit für bit muss dieses Synchronisiert werden. In unserer Sprache werden Daten mit dem Leerzeichen und Interpunktion synchronisiert. Wir Menschen wurden seit dem Kindesalter darauf trainiert Wörter mit dem Leerzeichen zu trennen.
 
@@ -188,5 +215,3 @@ Wenn nun ein [EMP](https://de.wikipedia.org/wiki/Elektromagnetischer_Impuls) ein
 Weil die Signale Betragsmässig das gleiche Signal übertragen aber mit unterschiedlichem Vorzeichen kompensieren sich die Magnetfelder der Signale. 
 
 Die Störfestigkeit kann weiter verbessert werden wenn man die Signalträger verdrillt.
-
-### RS485
