@@ -2,6 +2,14 @@
 erstelldatum: 2026-03-04
 tags:
   - lalg1
+  - skalarprodukt
+  - projektion
+  - lot
+  - spiegelung_an_gerade
+  - normierter_vektor
+  - orthogonalbasis
+  - orthonormalbasis
+  - 
 Folien: Skalarprodukt
 ---
 ## Wichtige Formeln

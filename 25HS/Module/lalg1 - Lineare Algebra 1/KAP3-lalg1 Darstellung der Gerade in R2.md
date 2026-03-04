@@ -2,6 +2,10 @@
 erstelldatum: 2026-03-04
 tags:
   - lalg1
+  - normalenvektorr2
+  - parameterform
+  - koordinatenform
+  - orthogonalität
 Folien: Darstellung der Gerade in R2
 ---
 ## Wichtige Formeln

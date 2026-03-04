@@ -2,6 +2,12 @@
 erstelldatum: 2026-03-04
 tags:
   - lalg1
+  - rechtwinkliges3eck
+  - polarkoordinaten
+  - gleichfrequenteschwingungen
+  - periode
+  - symmetrie
+  - transformation
 Folien: Funktionen und Trigonometrie
 ---
 ## Wichtige Formeln
