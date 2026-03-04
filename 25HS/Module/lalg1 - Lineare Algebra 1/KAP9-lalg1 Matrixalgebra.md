@@ -31,7 +31,7 @@ Eine Matrix ist eine rechteckige Tabelle mit Zahlen, die aus Zeilen (horizontal)
 Lineare Gleichungssysteme lassen sich elegant als Produkt einer Koeffizientenmatrix $A$ und eines Vektors der Unbekannten $\vec{x}$ darstellen: $A \odot \vec{x} = \vec{b}$. Dies baut direkt auf den Lösungsverfahren aus [[KAP8-lalg1 Lösungen von linearen Gleichungssystemen#|Lösungen von LGS]] auf.
 
 ### Spezielle Matrizen
-- **Einheitsmatrix ($\mathbb{I}$):** Besitzt lauter Einsen auf der Hauptdiagonalen und sonst nur Nullen.
+- **Einheitsmatrix ($\mathbb{I}$) oder Drehmatrix:** Besitzt lauter Einsen auf der Hauptdiagonalen und sonst nur Nullen.
 - **Nullmatrix:** Enthält ausschliesslich Nullen.
 - **Abbildungsmatrizen:** Matrizen können Transformationen in der Ebene darstellen. Z. B. beschreibt $M = \begin{pmatrix} -1 & 0 \\ 0 & -1 \end{pmatrix}$ eine Punktspiegelung am Ursprung.
 
