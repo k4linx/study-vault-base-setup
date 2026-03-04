@@ -40,6 +40,8 @@ Eine Funktion $f(x)$ kann im Koordinatensystem wie folgt transformiert werden:
 - **Verschiebung:** $f(x - c) + d$ verschiebt um $c$ in Richtung der positiven x-Achse und um $d$ in Richtung der positiven y-Achse.
 - **Skalierung:** $f(a \cdot x)$ führt zu einer Stauchung in x-Richtung (für $a > 1$), während $a \cdot f(x)$ eine Streckung in y-Richtung bewirkt.
 
+### Wichtige Grundfunktionen
+![[KAP4-lalg1 Funktionen und Trigonometrie_grundfunktionen.png#invert]]
 ## Herleitungen
 ### Beispiel zur Überlagerung von Schwingungen
 Gegeben sei die Schwingung:
