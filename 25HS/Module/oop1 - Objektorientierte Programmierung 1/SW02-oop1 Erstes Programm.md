@@ -26,7 +26,7 @@ public class HelloWorld {
 }
 ```
 
-### Wichtige Notationskonventionen in Java:
+### Wichtige Notationskonventionen in Java
 - **Case-Sensitivity:** Es wird strikt zwischen Gross- und Kleinschreibung unterschieden. Klassen beginnen immer mit Grossbuchstaben, Variablen und Methoden mit Kleinbuchstaben (CamelCase).
 - **Semikolon:** Jede Anweisung wird zwingend mit einem Strichpunkt `;` abgeschlossen.
 - **Kommentare:** Werden mit `//` für einzeilige oder `/* ... */` für mehrzeilige Kommentare geschrieben.

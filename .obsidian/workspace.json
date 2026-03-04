@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen.md",
+                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen"
+              "title": "SW02-oop1 Erstes Programm"
             }
           }
         ],
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen.md",
+                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen"
+              "title": "Graph of SW02-oop1 Erstes Programm"
             }
           }
         ]
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen.md",
+                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen"
+              "title": "Backlinks for SW02-oop1 Erstes Programm"
             }
           },
           {
@@ -190,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen.md",
+                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen"
+              "title": "Outgoing links from SW02-oop1 Erstes Programm"
             }
           },
           {
@@ -283,8 +283,8 @@
   },
   "active": "2b9834be37926f29",
   "lastOpenFiles": [
-    "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen.md",
+    "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW03-oop1 Grafik Einführung.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Untitled",
@@ -327,7 +327,6 @@
     "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
     "25HS/Module/lalg1 - Lineare Algebra 1/Unterlagen",
-    "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base",
-    "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base"
+    "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base"
   ]
 }
