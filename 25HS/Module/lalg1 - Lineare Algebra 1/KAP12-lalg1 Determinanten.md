@@ -18,7 +18,7 @@ $$ \det(\mathbf{A}) = a_{11} \cdot a_{22} - a_{12} \cdot a_{21} $$
 ### Determinante in $\mathbb{R}^{3 \times 3}$ (Regel von Sarrus)
 Für eine $3 \times 3$-Matrix berechnet man die Determinante, indem man die Produkte der Hauptdiagonalen addiert und die Produkte der Nebendiagonalen subtrahiert:
 $$ \det(\mathbf{A}) = a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{31}a_{22}a_{13} - a_{32}a_{23}a_{11} - a_{33}a_{21}a_{12} $$
-![[Pasted image 20260304120524.png]]
+![[KAP12-lalg1 Determinanten_sarrus_3x3.png#invert]]
 Alternativ entspricht dies exakt dem [[KAP6-lalg1 Vektorprodukt#Spatprodukt|Spatprodukt]] der drei Spaltenvektoren: $\det(\mathbf{A}) = [\vec{a}, \vec{b}, \vec{c}]$.
 
 ### Determinante einer Dreiecksmatrix
