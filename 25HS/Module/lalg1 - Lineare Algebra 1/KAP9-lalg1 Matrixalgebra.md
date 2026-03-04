@@ -17,6 +17,7 @@ Die Addition von Matrizen und die Multiplikation mit einem Skalar erfolgen eleme
 Das Produkt $C = A \odot B$ berechnet sich durch Skalarprodukte der Zeilen von $A$ und der Spalten von $B$. Das Element $c_{i,j}$ lautet:
 $$ c_{i,j} = \sum_{k=1}^m a_{i,k} \cdot b_{k,j} $$
 Das Matrix-Produkt ist assoziativ und distributiv, aber **nicht kommutativ** (es gilt im Allgemeinen $A \odot B \neq B \odot A$).
+![[KAP9-lalg1 Matrixalgebra_falk_schema.png#invert]]
 
 ### Gesetze für das Summenzeichen
 Beim Summenzeichen dürfen konstante Faktoren (die nicht vom Laufindex abhängen) ausgeklammert und Teilsummen aufgeteilt werden:
