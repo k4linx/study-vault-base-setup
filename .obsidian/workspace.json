@@ -16,13 +16,15 @@
                 "id": "c445c27daf87a626",
                 "type": "leaf",
                 "state": {
-                  "type": "bases",
+                  "type": "markdown",
                   "state": {
-                    "file": "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
-                    "viewName": "Table"
+                    "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
                   },
-                  "icon": "lucide-table",
-                  "title": "konvE - Konvergenz Elektrotechnik"
+                  "icon": "lucide-file",
+                  "title": "KAP2-lalg1 Der Vektorraum"
                 }
               }
             ]
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
+                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for konvE - Konvergenz Elektrotechnik"
+              "title": "Backlinks for KAP2-lalg1 Der Vektorraum"
             }
           },
           {
@@ -137,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
+                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from konvE - Konvergenz Elektrotechnik"
+              "title": "Outgoing links from KAP2-lalg1 Der Vektorraum"
             }
           },
           {
@@ -227,8 +229,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "390d0ece70ce5c34",
+  "active": "c445c27daf87a626",
   "lastOpenFiles": [
+    "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
+    "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
@@ -266,7 +270,6 @@
     "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/lalg1 - Lineare Algebra 1.base",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
-    "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
     "25HS/Module/spy - scientific python/spy - scientific python.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
