@@ -17,7 +17,6 @@ Die Addition von Matrizen und die Multiplikation mit einem Skalar erfolgen eleme
 Das Produkt $C = A \odot B$ berechnet sich durch Skalarprodukte der Zeilen von $A$ und der Spalten von $B$. Das Element $c_{i,j}$ lautet:
 $$ c_{i,j} = \sum_{k=1}^m a_{i,k} \cdot b_{k,j} $$
 Das Matrix-Produkt ist assoziativ und distributiv, aber **nicht kommutativ** (es gilt im Allgemeinen $A \odot B \neq B \odot A$).
-![[KAP9-lalg1 Matrixalgebra_falk_schema.png#invert]]
 
 ### Gesetze für das Summenzeichen
 Beim Summenzeichen dürfen konstante Faktoren (die nicht vom Laufindex abhängen) ausgeklammert und Teilsummen aufgeteilt werden:
@@ -39,8 +38,8 @@ Lineare Gleichungssysteme lassen sich elegant als Produkt einer Koeffizientenmat
 ## Herleitungen
 ### Das Falk-Schema in der Praxis
 Um beim Berechnen des Matrix-Produkts die Übersicht zu behalten, schreibt man die Matrizen in ein Raster. Das Element in der Ergebnismatrix steht genau am Schnittpunkt der verknüpften Zeile von $A$ und Spalte von $B$.
-![[abbildung_9_1_falk_schema.png]]
+![[KAP9-lalg1 Matrixalgebra_falk_schema.png#invert]]
 
 ### Geometrische Interpretation als Abbildung
 Multipliziert man die Ortsvektoren der Eckpunkte einer geometrischen Figur (wie eines Dreiecks) mit einer Abbildungsmatrix, wird die komplette Figur im Koordinatensystem transformiert. So lassen sich Streckungen, Spiegelungen oder Projektionen abbilden.
-![[abbildung_9_3_dreieck_transformationen.png]]
+![[KAP9-lalg1 Matrixalgebra_dreieck_transformationen.png#invert]]
