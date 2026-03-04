@@ -85,7 +85,7 @@ Unicode besteht aus 17 Ebenen sogenannten Planes die mit jeweils 16-Bit beschrie
 ![[SW02-dt1 codes, serielle datenübertragung_unicode_bmp.png|500]]
 
 #### UTF-16
-UTF-16 kann die Zeichen der BMP direkt in 2 Bytes abbilden. Für Zeichen die ausserhalb der BMP codiert sind wird ein 2 Bit breites Präfix angehängt also ergibt sich für die nächsten planes 0x100000 bis 0x10FFFF. Dabei wird 0x10000 ab. So passt die Zahl garantiert in die 20 Bit Breite. dies wird dann aufgeteilt in 2 10-Bit Wörter.
+UTF-16 kann die Zeichen der BMP direkt in 2 [[SW01-dt1 Digitale Signale und Zahlensysteme#Bits, Bytes etc.|Bytes]] abbilden. Für Zeichen die ausserhalb der BMP codiert sind wird ein 2 Bit breites Präfix angehängt also ergibt sich für die nächsten planes 0x100000 bis 0x10FFFF. Dabei wird 0x10000 ab. So passt die Zahl garantiert in die 20 Bit Breite. dies wird dann aufgeteilt in 2 10-Bit Wörter.
 Damit der Empfänger weis das, das gesendete symbol nicht aus der BMP stammt wird dies mit einem Präfix versehen dabei erhält das erste Wort 
 - High Surrogate erhält Präfix 110110 
 $$
@@ -96,7 +96,7 @@ $$
 110111 + xx \ xxxx \ xxxx
 $$
 **Ein Beispiel:**
-Das Emoji 😊 in Hexadezimal geschrieben ist `0x1F60A`
+Das Emoji 😊 in [[SW01-dt1 Digitale Signale und Zahlensysteme#Hexadezimalsystem|Hexadezimal]] geschrieben ist `0x1F60A`
 1. `0x1F60A` - `0x10000` = `0x0F60A`
 2. Umwandeln zu Binär: `0000 1111 0110 0000 1010`
 3. Aufteilen in 2 10 Bit Blöcke

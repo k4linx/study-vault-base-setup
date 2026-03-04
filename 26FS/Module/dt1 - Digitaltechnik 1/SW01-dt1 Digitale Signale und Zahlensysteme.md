@@ -14,7 +14,7 @@ Folien:
 ## 💡 Wichtige Begriffe
 - **Binärsystem**: Zahlensystem mit Basis $2^{n}$
 - **Hexadezimalsystem**: Zahlensystem mit Basis $16^{n}$
-- **Zweierkomplement**: System um negative Binäre ganzzahlen darzustellen
+- **Zweierkomplement**: System um negative Binäre Ganzzahlen darzustellen
 ---
 ## 📄 Zusammenfassung
 ### Binärsystem
