@@ -18,13 +18,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
+                    "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP3-lalg1 Darstellung der Gerade in R2.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "SW01-mech Kräfte und Drehmomente"
+                  "title": "KAP3-lalg1 Darstellung der Gerade in R2"
                 }
               }
             ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "richtungs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
+                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP3-lalg1 Darstellung der Gerade in R2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SW01-mech Kräfte und Drehmomente"
+              "title": "Backlinks for KAP3-lalg1 Darstellung der Gerade in R2"
             }
           },
           {
@@ -139,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
+                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP3-lalg1 Darstellung der Gerade in R2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SW01-mech Kräfte und Drehmomente"
+              "title": "Outgoing links from KAP3-lalg1 Darstellung der Gerade in R2"
             }
           },
           {
@@ -229,10 +230,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "c445c27daf87a626",
+  "active": "8df54d2867bb90f8",
   "lastOpenFiles": [
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
     "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
     "25HS/Module/konvE - Konvergenz Elektrotechnik/konvE - Konvergenz Elektrotechnik.base",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
     "25HS/Module/aet1 - Allgemeine Elektrotechnik 1/aet1 - Allgemeine Elektrotechnik 1.base",
