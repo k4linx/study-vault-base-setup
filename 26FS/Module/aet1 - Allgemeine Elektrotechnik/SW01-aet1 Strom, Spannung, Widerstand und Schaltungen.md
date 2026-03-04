@@ -1,6 +1,15 @@
 ---
 erstelldatum: 2026-02-27
 tags:
+  - uri
+  - pui
+  - kirchhoff
+  - stromteiler
+  - spannungsteiler
+  - thevenin
+  - transformation
+  - quellenleistung
+  - leistungsanpassung
 Folien:
   - aet1_Folien_mitNotizen
 Seiten: 1-60

@@ -1,7 +1,13 @@
 ---
 erstelldatum: 2026-03-01
 tags:
+  - komlexe_ebene
+  - cis_schreibweise
+  - eulersche_formel
+  - polarform
+  - komplexe_wurzeln
 Folien:
+  - algWoche02
 ---
 ## Wichtige Formeln
 ### Allgemeine Formel für arg(z)
