@@ -26,6 +26,7 @@ $$ \lambda \cdot \vec{v} = \begin{pmatrix} \lambda \cdot v_1 \\ \lambda \cdot v_
 
 ## Definitionen
 ### Vektor
+
 ### Ortsvektor
 Als Ortsvektor eines Punktes bezeichnet man einen Vektor, der vom Ursprung direkt zu diesem Punkt zeigt. Er wird meist mit Grossbuchstaben geschrieben, z. B. $\vec{A}$. Normale Vektoren (mit Kleinbuchstaben, z. B. $\vec{a}$) sind nicht an den Ursprung gebunden und können verschoben werden.
 ![[KAP2-lalg1 Der Vektorraum_ortsvektor.png#invert|300]]
