@@ -19,10 +19,10 @@ Für numerische Berechnungen wird die Bibliothek `numpy` (oft als `np` importier
 
 ### Vektor- und Matrixoperationen
 - **Vektor / Matrix erstellen:** `v = np.array([1-3])` oder `A = np.array([[1, 2], [1]])`
-- **[[KAP5-lalg1 Skalarprodukt|Skalarprodukt]]:** `np.dot(v, w)`
-- **[[KAP6-lalg1 Vektorprodukt|Kreuzprodukt]]:** `np.cross(v, w)`
+- **[[KAP5-lalg1 Skalarprodukt#Skalarprodukt|Skalarprodukt]]:** `np.dot(v, w)`
+- **[[KAP6-lalg1 Vektorprodukt#Vektorprodukt (Kreuzprodukt)|Kreuzprodukt]]:** `np.cross(v, w)`
 - **Norm (Länge):** `np.linalg.norm(v)`
-- **[[KAP9-lalg1 Matrixalgebra|Matrixprodukt]]:** `np.dot(A, B)` (Achtung: `A * B` rechnet nur elementweise!)
+- **[[KAP9-lalg1 Matrixalgebra#Matrix-Produkt (Falk-Schema)|Matrixprodukt]]:** `np.dot(A, B)` (Achtung: `A * B` rechnet nur elementweise!)
 - **Transponierte Matrix:** `A.T`
 - **Inverse Matrix:** `np.linalg.inv(A)` (Konzept aus [[KAP13-lalg1 Umkehrabbildung und inverse Matrix|Inverse Matrix]])
 

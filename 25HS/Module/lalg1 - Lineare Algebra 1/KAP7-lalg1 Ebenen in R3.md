@@ -45,7 +45,7 @@ Ein Vektor $\vec{n}$, der senkrecht auf der gesamten Ebene steht. Die Koeffizien
 - **j)** Kamin (Leere Schnittmenge)
 
 ### Umwandlung von Parameterform zu Koordinatenform
-Wir nutzen das [[KAP6-lalg1 Vektorprodukt|Vektorprodukt]], um aus den beiden Richtungsvektoren $\vec{u}$ und $\vec{v}$ den Normalenvektor zu berechnen: 
+Wir nutzen das [[KAP6-lalg1 Vektorprodukt#Vektorprodukt (Kreuzprodukt)|Vektorprodukt]], um aus den beiden Richtungsvektoren $\vec{u}$ und $\vec{v}$ den Normalenvektor zu berechnen: 
 $$ \vec{n} = \vec{u} \times \vec{v} $$
 Anschliessend kann man die Konstante $d$ bestimmen, indem man die Koordinaten des Aufpunktes in die unvollständige Koordinatengleichung einsetzt.
 
