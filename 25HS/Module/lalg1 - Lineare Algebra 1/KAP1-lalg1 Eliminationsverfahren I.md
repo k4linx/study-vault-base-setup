@@ -2,7 +2,7 @@
 erstelldatum: 2026-03-04
 tags:
   - lalg1
-  - eliminationsverfahren 1
+  - eliminationsverfahren_1
   - linearkombination
   - kollinearität
   - gauss

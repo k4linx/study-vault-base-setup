@@ -7,7 +7,7 @@ tags:
   - vektoraddition
   - ortsvektor
   - vektorraum
-  - skalare multiplikation
+  - skalare_multiplikation
 Folien: Der Vektorraum
 ---
 ## Wichtige Formeln
