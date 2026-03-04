@@ -25,7 +25,7 @@ In der Basisvektor-Darstellung mit $\vec{e}_1 \hat{=} \cos(\omega t)$ und $\vec{
   $$ \mathbf{Z}_C = \begin{pmatrix} 0 & -\frac{1}{\omega C} \\ \frac{1}{\omega C} & 0 \end{pmatrix} $$
 
 ### Gesamt-Impedanz
-Impedanzen werden in Netzwerken analog zu ohmschen Widerständen zusammengefasst (hierfür wird oft die [[KAP13-lalg1 Umkehrabbildung und inverse Matrix|Inverse Matrix]] benötigt):
+Impedanzen werden in Netzwerken analog zu ohmschen Widerständen zusammengefasst (hierfür wird oft die [[KAP13-lalg1 Umkehrabbildung und inverse Matrix#Inverse einer $2 times 2$ Matrix|Inverse Matrix]] benötigt):
 - **Serienschaltung:** $\mathbf{Z}_{tot} = \mathbf{Z}_1 + \mathbf{Z}_2$
 - **Parallelschaltung:** $\mathbf{Z}_{tot} = \left[ (\mathbf{Z}_1)^{-1} + (\mathbf{Z}_2)^{-1} \right]^{-1}$
 

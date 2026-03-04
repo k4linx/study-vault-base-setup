@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP14-lalg1 RLC-Netzwerke mit Wechselstrom.md",
+                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "KAP14-lalg1 RLC-Netzwerke mit Wechselstrom"
+              "title": "SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP14-lalg1 RLC-Netzwerke mit Wechselstrom.md",
+                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KAP14-lalg1 RLC-Netzwerke mit Wechselstrom"
+              "title": "Backlinks for SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP14-lalg1 RLC-Netzwerke mit Wechselstrom.md",
+                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from KAP14-lalg1 RLC-Netzwerke mit Wechselstrom"
+              "title": "Outgoing links from SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
             }
           },
           {
@@ -206,6 +206,7 @@
   },
   "active": "de84ba00b9f205fb",
   "lastOpenFiles": [
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP14-lalg1 RLC-Netzwerke mit Wechselstrom.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP13-lalg1 Umkehrabbildung und inverse Matrix.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP12-lalg1 Determinanten.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP11-lalg1 Python.md",
@@ -223,7 +224,6 @@
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP1-lalg1 Eliminationsverfahren I.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/Unterlagen/KAP2-lalg1 Der Vektorraum_ortsvektor.png",
     "25HS/Module/lalg1 - Lineare Algebra 1/Unterlagen",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP14-lalg1 RLC-Netzwerke mit Wechselstrom.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/Unterlagen/KAP14-lalg1 RLC-Netzwerke mit Wechselstrom_zeigerdarstellung.png",
     "25HS/Module/lalg1 - Lineare Algebra 1/Unterlagen/KAP14-lalg1 RLC-Netzwerke mit Wechselstrom_transient_stationär.png",
     "25HS/Module/lalg1 - Lineare Algebra 1/Unterlagen/KAP13-lalg1 Umkehrabbildung und inverse Matrix_nicht_injektiv.png",
