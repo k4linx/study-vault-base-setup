@@ -48,7 +48,7 @@ Um einen Vektor vollständig zu beschreiben brauchen wir die Länge
 $$
 |\vec{F}| = \sqrt{F_{x}^{2}+F_{y}^{2}+F_{z}^{2}}
 $$
-die Richtung ([[KAP2-lalg1 Der Vektorraum#]]):
+die Richtung ([[KAP3-lalg1 Darstellung der Gerade in R2#Aufpunkt und Richtungsvektor|Richtungsvektor]]):
 $$
 \frac{\vec{F}}{|\vec{F}|}
 $$

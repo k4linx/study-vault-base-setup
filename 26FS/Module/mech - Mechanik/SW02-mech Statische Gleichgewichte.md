@@ -11,7 +11,7 @@ $$
 
 ## Definitionen
 ### Trägheitsprinzip
-Solange keine äusseren Kräfte auf einen Körper wirken, bleibt ein Körper in der Ruhe oder in einer geradlinigen Bewegung.
+Solange keine äusseren [[SW01-mech Kräfte und Drehmomente#Kraft|Kräfte]] auf einen Körper wirken, bleibt ein Körper in der Ruhe oder in einer geradlinigen Bewegung.
 $$
 \begin{align} \\
 \sum_{i}\vec{F}_{i}=0 \\
