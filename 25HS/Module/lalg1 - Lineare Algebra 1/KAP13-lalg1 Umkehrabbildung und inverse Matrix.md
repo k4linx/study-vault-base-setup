@@ -64,4 +64,4 @@ Eine quadratische $n \times n$ Matrix $A$ ist genau dann invertierbar, wenn:
 
 ### Projektionen haben keine Inverse
 Projektionen verringern die Dimension (z.B. von 3D auf 2D). Dadurch gehen Informationen verloren. Da mehrere unterschiedliche Punkte auf denselben Bildpunkt abgebildet werden, ist die Abbildung nicht injektiv und kann nicht rückgängig gemacht werden.
-![[abbildung_13_1_projektion_nicht_injektiv.png]]
+![[KAP13-lalg1 Umkehrabbildung und inverse Matrix_nicht_injektiv.png#invert]]

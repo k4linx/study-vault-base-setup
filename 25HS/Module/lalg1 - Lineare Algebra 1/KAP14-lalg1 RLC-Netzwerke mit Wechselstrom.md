@@ -32,7 +32,7 @@ Impedanzen werden in Netzwerken analog zu ohmschen Widerständen zusammengefasst
 ## Definitionen
 ### Transiente und stationäre Lösung
 Wird ein Wechselstromkreis eingeschaltet, gibt es einen Einschwingvorgang (die **transiente Lösung**), der nach kurzer Zeit exponentiell abklingt. Danach schwingen Strom und Spannung stabil mit der Frequenz der Quelle weiter. Diesen Dauerzustand nennt man **stationäre Lösung**.
-![[abbildung_14_1_transient_stationaer.png]]
+![[KAP14-lalg1 RLC-Netzwerke mit Wechselstrom_transient_stationär.png]]
 
 ### Impedanz und Admittanz
 Die **Impedanz $\mathbf{Z}(\omega)$** (Wechselstromwiderstand) ist die Verallgemeinerung des ohmschen Widerstands für Wechselstrom und verknüpft Spannung und Strom:
