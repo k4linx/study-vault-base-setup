@@ -32,7 +32,7 @@ Impedanzen werden in Netzwerken analog zu ohmschen Widerständen zusammengefasst
 ## Definitionen
 ### Transiente und stationäre Lösung
 Wird ein Wechselstromkreis eingeschaltet, gibt es einen Einschwingvorgang (die **transiente Lösung**), der nach kurzer Zeit exponentiell abklingt. Danach schwingen Strom und Spannung stabil mit der Frequenz der Quelle weiter. Diesen Dauerzustand nennt man **stationäre Lösung**.
-![[KAP14-lalg1 RLC-Netzwerke mit Wechselstrom_transient_stationär.png]]
+![[KAP14-lalg1 RLC-Netzwerke mit Wechselstrom_transient_stationär.png#invert]]
 
 ### Impedanz und Admittanz
 Die **Impedanz $\mathbf{Z}(\omega)$** (Wechselstromwiderstand) ist die Verallgemeinerung des ohmschen Widerstands für Wechselstrom und verknüpft Spannung und Strom:
@@ -43,7 +43,7 @@ $$ \mathbf{Y}(\omega) = \mathbf{Z}(\omega)^{-1} $$
 ## Herleitungen & Beispiele
 ### Zeigerdarstellung
 Ein harmonischer Wechselstrom $i(t) = a \cdot \cos(\omega t) + b \cdot \sin(\omega t)$ (wie in [[KAP4-lalg1 Funktionen und Trigonometrie#Überlagerung gleichfrequenter Schwingungen|Funktionen und Trigonometrie]] behandelt) wird als Spaltenvektor $\vec{i} = \begin{pmatrix} a \\ b \end{pmatrix}$ notiert.
-![[abbildung_14_2_zeiger_strom.png]]
+![[KAP14-lalg1 RLC-Netzwerke mit Wechselstrom_zeigerdarstellung.png#invert]]
 
 ### Beispiel: Strom in einer Serienschaltung berechnen
 Gegeben sei eine Serienschaltung aus Widerstand $R_1 = 0.5 \, \Omega$ und Induktivität $L = 0.8 \text{ H}$. Die Quellspannung ist $u_q(t) = 6 \cdot \cos(\omega t)$ V mit $\omega = \frac{2\pi}{6} \text{ s}^{-1} \approx 1.047 \text{ s}^{-1}$.
