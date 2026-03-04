@@ -5,7 +5,7 @@ tags:
   - eliminationsverfahren 1
   - linearkombination
   - kollinearität
-  - Gauss
+  - gauss
 Folien: Eliminationsverfahren I
 ---
 ## Wichtige Formeln

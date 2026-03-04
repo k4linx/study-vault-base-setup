@@ -2,6 +2,12 @@
 erstelldatum: 2026-03-04
 tags:
   - lalg1
+  - verbindungsvektor
+  - norm
+  - vektoraddition
+  - ortsvektor
+  - vektorraum
+  - skalare multiplikation
 Folien: Der Vektorraum
 ---
 ## Wichtige Formeln
