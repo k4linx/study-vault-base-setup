@@ -2,9 +2,9 @@
 erstelldatum: 2026-03-04
 tags:
   - lalg1
-  - rechtwinkliges3eck
+  - rechtwinkliges_3eck
   - polarkoordinaten
-  - gleichfrequenteschwingungen
+  - gleichfrequente_schwingungen
   - periode
   - symmetrie
   - transformation
