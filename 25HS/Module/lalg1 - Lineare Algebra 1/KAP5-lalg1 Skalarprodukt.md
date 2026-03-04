@@ -13,6 +13,7 @@ tags:
 Folien: Skalarprodukt
 ---
 ## Wichtige Formeln
+![[KAP5-lalg1 Skalarprodukt_projektion_spiegelung.png#invert]]
 ### Skalarprodukt
 Für zwei Vektoren $\vec{a}$ und $\vec{b}$, die den Winkel $\varphi$ einschliessen, lässt sich das Skalarprodukt auf zwei Arten berechnen (geometrisch und in einer Orthonormalbasis komponentenweise):
 $$ \vec{a} \odot \vec{b} = \|\vec{a}\| \cdot \|\vec{b}\| \cdot \cos(\varphi) $$

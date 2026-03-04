@@ -32,10 +32,10 @@ Das Parallelepiped, welches durch drei Vektoren $\vec{a}, \vec{b}, \vec{c}$ aufg
 ## Herleitungen
 ### Geometrische Bedeutung und Gesetze
 - **Flächeninhalt:** Der Betrag des Vektorprodukts $\|\vec{a} \times \vec{b}\|$ entspricht exakt dem Flächeninhalt des Parallelogramms, das von $\vec{a}$ und $\vec{b}$ aufgespannt wird.
-- **Antikommutativität:** Beim Vertauschen der Vektoren ändert sich das Vorzeichen (die Richtung des Vektors dreht sich um): 
+- **(d) Antikommutativität:** Beim Vertauschen der Vektoren ändert sich das Vorzeichen (die Richtung des Vektors dreht sich um) : 
   $$ \vec{a} \times \vec{b} = -(\vec{b} \times \vec{a}) $$
-- **Distributivität:** $\vec{a} \times (\vec{b} + \vec{c}) = \vec{a} \times \vec{b} + \vec{a} \times \vec{c}$
-
+- **b) Distributivität:** $\vec{a} \times (\vec{b} + \vec{c}) = \vec{a} \times \vec{b} + \vec{a} \times \vec{c}$ 
+![[KAP6-lalg1 Vektorprodukt_flaeche.png#invert]]
 ### Beispiel zur praktischen Berechnung
 Wir suchen das Vektorprodukt von $\vec{a} = \begin{pmatrix} 1 \\ 2 \\ 3 \end{pmatrix}$ und $\vec{b} = \begin{pmatrix} 4 \\ 5 \\ 6 \end{pmatrix}$.
 Man rechnet komponentenweise über Kreuz (zweite mal dritte minus dritte mal zweite, etc.):
