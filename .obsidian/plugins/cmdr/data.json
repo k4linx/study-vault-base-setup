@@ -2,7 +2,14 @@
   "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
-  "editorMenu": [],
+  "editorMenu": [
+    {
+      "id": "editor:insert-table",
+      "icon": "lucide-table",
+      "name": "Insert table",
+      "mode": "any"
+    }
+  ],
   "fileMenu": [],
   "leftRibbon": [],
   "rightRibbon": [],
