@@ -1,87 +1,86 @@
 ---
-erstelldatum: 2026-03-04
+erstelldatum: 2026-03-05
 tags:
-  - erstes_programm
+  - erstes programm
   - variablen
   - datentypen
-  - berechnungen
-  - kontrollstrukturen
+  - kontrollanweisungen
 Folien:
   - 02_ErstesProgramm.pdf
 ---
 
-## Einführung
-Dieser Foliensatz gibt eine kurze Übersicht über die ersten praktischen Schritte in Java. Es wird der Weg von imperativen Anweisungen (Schritt-für-Schritt-Rezepte) über prozedurale Elemente (ausgelagerte Funktionen) bis hin zum objektorientierten Denken aufgezeigt. Zudem werden die grundlegenden Bausteine wie Syntax-Konventionen, Variablen, Datentypen, Berechnungen und erste Kontrollstrukturen (If-Else, Schleifen) eingeführt. 
-
 ## Erstes Programm und Grundbausteine
-Ein Programm ist im Kern eine Aneinanderreihung von Anweisungen an den Rechner (Algorithmus). In Java sieht das klassische Einsteigerprogramm wie folgt aus:
+
+### Was ist ein Programm?
+Ein Programm ist im Grunde eine Art Rezept, also eine Aneinanderreihung von Anweisungen, die dem Rechner sagen, was er tun soll (Algorithmus). Dabei bedient man sich imperativer Sprachelemente. Wenn sich wiederholende Vorgänge in Unterprogramme, Funktionen oder Methoden ausgelagert werden, spricht man von prozeduralen Sprachelementen.
+
+### Hello World und Notationskonventionen
+Jedes Java-Programm benötigt zwingend mindestens eine Klasse, welche als Bauplan dient. Um das Programm auszuführen, wird zudem die `main`-Methode als Haupteinstiegspunkt benötigt.
 
 ```java
 public class HelloWorld {
-    // main-Methode ist der Haupteinstiegspunkt des Programms
+    // Haupteinstiegspunkt des Programms
     public static void main(String[] args) {
-        // Ausgabe auf der Konsole
+        // Textausgabe auf der Konsole
         System.out.println("Hello World"); 
     }
 }
-```
+````
 
-### Wichtige Notationskonventionen in Java
-- **Case-Sensitivity:** Es wird strikt zwischen Gross- und Kleinschreibung unterschieden. Klassen beginnen immer mit Grossbuchstaben, Variablen und Methoden mit Kleinbuchstaben (CamelCase).
-- **Semicolon:** Jede Anweisung wird zwingend mit einem Strichpunkt `;` abgeschlossen.
-- **Kommentare:** Werden mit `//` für einzeilige oder `/* ... */` für mehrzeilige Kommentare geschrieben.
+Die Programmierung in Java unterliegt strengen Notationskonventionen:
 
-**Übersetzen und Ausführen:** Der geschriebene Code (`.java`) wird mittels Compiler (`javac`) in sogenannten Byte-Code übersetzt (`.class`). Dieser wird anschliessend vom Interpreter (`java`) über die Java Virtual Machine ausgeführt.
+- **Case-Sensitivity:** Gross- und Kleinschreibung wird strikt unterschieden.
+- **Namensgebung:** Klassen beginnen immer mit einem Grossbuchstaben. Objekte, Variablen und Methoden beginnen mit Kleinbuchstaben (üblicherweise im CamelCase-Format). Die Namen dürfen Ziffern und Underscores enthalten, müssen aber mit einem Buchstaben beginnen.
+- **Semikolon:** Jeder Befehl (Statement) wird mit einem Strichpunkt `;` abgeschlossen.
+- **Kommentare:** Einzeilige Kommentare werden mit `//` eingeleitet, mehrzeilige Blöcke mit `/* ... */`.
 
-Hilfreiche Shortcuts in der Eclipse IDE erleichtern dabei die Arbeit:
+Übersetzen und Ausführen
 
-- `Ctrl + Space`: Autovervollständigung
-- `Shift + Ctrl + F`: Code automatisch formatieren
-- `Shift + Ctrl + O`: Import-Anweisungen organisieren
+Der in einer für Menschen lesbaren Sprache verfasste Quellcode (`.java`) wird vom Compiler (dem Befehl `javac`) in einen plattformunabhängigen Byte-Code (`.class` Datei) übersetzt. Der Interpreter (Befehl `java`) startet anschliessend die Java Virtual Machine (JVM), welche diesen Byte-Code ausführt. IDEs wie Eclipse erleichtern diese Arbeitsschritte extrem und bieten zudem hilfreiche Tastenkürzel (z. B. `Shift + Ctrl + F` zum automatischen Formatieren des Codes).
 
-Variablen und Datentypen
+Variablen und Berechnungen
 
-Variablen dienen als "Speicherboxen" für Werte. Da Java statisch typisiert ist, muss der Datentyp bei der Deklaration eindeutig festgelegt werden.
+Deklaration und Primitive Datentypen
 
-**Primitive Datentypen:**
-- `int` (32 Bit), `long` (64 Bit), `short` (16 Bit), `byte` (8 Bit) für Ganzzahlen.
-- `double` (64 Bit) und `float` (32 Bit) für Kommazahlen.
-- `boolean` (1 Bit) für Wahrheitswerte (`true` oder `false`).
+Variablen fungieren als Platzhalter oder "Speicherboxen" für Werte. Weil Java statisch typisiert ist, muss der Datentyp einer Variablen bereits während der Compilierzeit eindeutig feststehen. Zu den wichtigsten primitiven Datentypen gehören:
+
+- **Ganzzahlen:** `int` (32 Bit) und `long` (64 Bit). Sie werden im Zweierkomplement gespeichert.
+- **Gleitkommazahlen:** `float` (32 Bit) und `double` (64 Bit, Standard in Java).
+- **Wahrheitswerte:** `boolean` (1 Bit, `true` oder `false`).
 
 ```java
-// Deklaration und direkte Wertzuweisung
-int laenge = 20;
-int breite = 10;
-float beliebigerFloat = 12.3e23f;
+// Variablendeklaration
+int laenge, breite, flaeche;
 
-// Konstanten werden mit 'final' deklariert
+// Wertzuweisung
+double kommaZahl = 42.42;
+
+// Konstanten werden mit dem Keyword 'final' deklariert
 final double g = 9.81;
 ```
 
-### Berechnungen und Type-Casting
-In Java gelten die üblichen mathematischen Regeln (Punkt- vor Strichrechnung, Klammern zuerst). Besondere Vorsicht ist bei der **Ganzzahldivision** geboten: Werden zwei Integer geteilt, werden die Kommastellen abgeschnitten! Für den Rest einer Division nutzt man den Modulo-Operator `%`.
-$$
-Rest= Divisor \bmod 
-$$
+Typkonvertierung (Type-Casting) und Konsolenausgabe
 
-**Typkonvertierung (Type-Casting):** Möchte man beispielsweise einen `float`-Wert in eine `int`-Variable speichern, muss man dies explizit angeben, da es zu Datenverlust (Abschneiden der Kommastellen) kommt:
+Wenn ein Datentyp in einen anderen mit einem kleineren Wertebereich umgewandelt wird (z. B. von `float` zu `int`), muss dies **explizit** angegeben werden. Dieser Vorgang ist oft verlustbehaftet, da Kommastellen einfach abgeschnitten werden.
 
-```java
+```
 float fWert = 3.9f;
-// Explizites Casting nötig
-int i = (int) fWert; // i wird 3
+// Explizites Casten ist hier zwingend notwendig
+int i = (int) fWert; // Das Resultat ist 3
 ```
 
-**Vorsicht bei Strings:** Der `+` Operator verbindet Strings (Concatenation).
+Bei Konsolenausgaben mit `System.out.println` werden Variablen und Strings mit einem `+` Zeichen verknüpft (Concatenation). Soll dazwischen jedoch mathematisch gerechnet werden, müssen zwingend Klammern gesetzt werden!
 
-- `System.out.println("Resultat: " + 1 + 2);` gibt `Resultat: 12` aus.
-- `System.out.println("Resultat: " + (1 + 2));` gibt `Resultat: 3` aus.
+- Ohne Klammern: `"Resultat: " + 1 + 2` führt zur Ausgabe `Resultat: 12`
+- Mit Klammern: `"Resultat: " + (1 + 2)` führt zur korrekten Ausgabe `Resultat: 3`
 
-Kontrollanweisungen (Fallunterscheidungen und Schleifen)
+Kontrollanweisungen
 
-Um den Programmablauf zu steuern, werden Bedingungen (`if`, `else`) und Schleifen (z.B. `while`, `for`) eingesetzt. Bedingungen prüfen auf Wahrheitswerte, wobei auf Gleichheit mit == geprüft wird.
+If-Else Bedingung
 
-```java
+Kontrollstrukturen erlauben es, bestimmte Programmteile nur dann auszuführen, wenn definierte Bedingungen (Conditions) erfüllt sind. Das einfachste Konstrukt hierfür ist die `if-else` Anweisung. **Achtung:** Um primitive Variablen auf exakte Gleichheit zu prüfen, verwendet man das doppelte Gleichheitszeichen `==` (ein einfaches `=` ist rein für Wertzuweisungen reserviert).
+
+```
 int alter = 19;
 
 if (alter > 18) {
@@ -90,3 +89,5 @@ if (alter > 18) {
     System.out.println("Sorry, Sie dürfen nicht rein!");
 }
 ```
+
+![[uml_aktivitaetsdiagramm_if_else.png]]
