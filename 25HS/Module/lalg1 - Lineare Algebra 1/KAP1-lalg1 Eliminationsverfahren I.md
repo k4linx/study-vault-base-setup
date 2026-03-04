@@ -2,6 +2,10 @@
 erstelldatum: 2026-03-04
 tags:
   - lalg1
+  - eliminationsverfahren 1
+  - linearkombination
+  - kollinearität
+  - Gauss
 Folien: Eliminationsverfahren I
 ---
 ## Wichtige Formeln

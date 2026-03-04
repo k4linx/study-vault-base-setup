@@ -1,28 +1,41 @@
 ---
-
-erstelldatum: 2026-02-26 
+erstelldatum: 2026-03-04
 tags:
-- lalg1
-- skalarprodukt
-- orthogonalitaet
+  - lalg1
 Folien: Skalarprodukt
 ---
-
-**Analytische Einleitung:** Das Skalarprodukt ist die zentrale Operation zur Bestimmung physikalischer Arbeit (W = \vec{F} \cdot \vec{s}) und zur Projektion von Vektoren. Es erlaubt Ingenieuren, die Orthogonalität zweier Größen mit einer einzigen skalaren Kennzahl zu bewerten, was für Stabilitätsuntersuchungen und Optimierungsprobleme unerlässlich ist.
-
 ## Wichtige Formeln
+### Skalarprodukt
+Für zwei Vektoren $\vec{a}$ und $\vec{b}$, die den Winkel $\varphi$ einschliessen, lässt sich das Skalarprodukt auf zwei Arten berechnen (geometrisch und in einer Orthonormalbasis komponentenweise):
+$$ \vec{a} \odot \vec{b} = \|\vec{a}\| \cdot \|\vec{b}\| \cdot \cos(\varphi) $$
+$$ \vec{a} \odot \vec{b} = a_1b_1 + a_2b_2 + \dots + a_Nb_N $$
 
-### Definition des Skalarprodukts
+### Projektion und Lot
+Der Vektor $\vec{b}$ lässt sich in einen Vektor $\vec{f}$ (parallel zu $\vec{a}$, die **Projektion** bzw. der Schatten) und einen Vektor $\vec{h}$ (senkrecht zu $\vec{a}$, das **Lot**) zerlegen, sodass $\vec{b} = \vec{f} + \vec{h}$.
+$$ \vec{f} = \frac{\vec{b} \odot \vec{a}}{\vec{a} \odot \vec{a}} \cdot \vec{a} $$
+$$ \vec{h} = \vec{b} - \vec{f} $$
 
-$$\vec{a} \cdot \vec{b} = |\vec{a}| \cdot |\vec{b}| \cdot \cos(\phi) = \sum_{i=1}^{N} a_i b_i$$
+### Spiegelung an einer Geraden (durch den Ursprung)
+Projiziert man einen Punkt $\vec{P}$ auf den [[KAP3-lalg1 Darstellung der Gerade in R2|Normalenvektor]] $\vec{n}$ einer Geraden, erhält man $\vec{h} = \frac{\vec{P} \odot \vec{n}}{\vec{n} \odot \vec{n}} \cdot \vec{n}$. Der an der Geraden gespiegelte Punkt $\vec{P}''$ berechnet sich dann durch:
+$$ \vec{P}'' = \vec{P} - 2\vec{h} $$
 
 ## Definitionen
+### Normierter Vektor
+Ein Vektor, der durch seine eigene [[KAP2-lalg1 Der Vektorraum|Norm]] (Länge) geteilt wird, hat die Länge 1 und heisst normiert: $\frac{\vec{a}}{\|\vec{a}\|}$.
 
-- **Orthogonalität:** Zwei Vektoren sind orthogonal, wenn ihr Skalarprodukt Null ergibt ($\vec{a} \cdot \vec{b} = 0$).
-- **Projektion:** Die Komponente eines Vektors $\vec{a}$ in die Richtung eines anderen Vektors, oft normiert auf einen Einheitsvektor.
+### Orthogonal- und Orthonormalbasis
+Eine Basis aus linear unabhängigen Vektoren heisst **orthogonal**, wenn alle Basisvektoren rechtwinklig aufeinander stehen (ihr Skalarprodukt ist 0). Haben alle diese Basisvektoren zusätzlich die Länge 1, handelt es sich um eine **Orthonormalbasis**.
 
 ## Herleitungen
+### Berechnung des Zwischenwinkels
+Mithilfe des Skalarprodukts kann der Winkel $\varphi$ zwischen zwei Vektoren bestimmt werden, indem man die geometrische Definition umformt:
+$$ \varphi = \arccos\left( \frac{\vec{a} \odot \vec{b}}{\|\vec{a}\| \cdot \|\vec{b}\|} \right) $$
 
-- **Winkelberechnung:** Der eingeschlossene Winkel $\phi$ zwischen zwei Vektoren wird über das Skalarprodukt hergeleitet:$\cos(\phi) = \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| \cdot |\vec{b}|}$
+**Beispiel:** 
+Für $\vec{a} = \begin{pmatrix} 1 \\ 0 \end{pmatrix}$ und $\vec{b} = \begin{pmatrix} 1 \\ 1 \end{pmatrix}$ gilt komponentenweise $\vec{a} \odot \vec{b} = 1 \cdot 1 + 0 \cdot 1 = 1$.
+Ihre Längen sind $\|\vec{a}\| = 1$ und $\|\vec{b}\| = \sqrt{1^2 + 1^2} = \sqrt{2}$. 
+Der Winkel ist somit:
+$$ \varphi = \arccos\left(\frac{1}{1 \cdot \sqrt{2}}\right) = 45^\circ $$
 
-**Überleitung:** Während das Skalarprodukt Skalare liefert, erzeugt das [[Kapitel 6|Vektorprodukt]] neue vektorielle Größen im Raum.
+### Rechengesetze des Skalarprodukts
+Das Skalarprodukt ist kommutativ ($\vec{a} \odot \vec{b} = \vec{b} \odot \vec{a}$), distributiv ($(\vec{b} + \vec{c}) \odot \vec{a} = \
