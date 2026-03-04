@@ -1,30 +1,39 @@
 ---
-erstelldatum: 2026-02-26 
+erstelldatum: 2026-02-26
 tags:
-- lalg1
-- trigonometrie
-- winkelfunktionen
+  - lalg1
 Folien: Funktionen und Trigonometrie
 ---
-
-**Analytische Einleitung:** Winkelfunktionen fungieren als Bindeglied zwischen vektorieller Abstraktion und geometrischer Realität. In technischen Disziplinen wie dem Maschinenbau ist die Zerlegung von Kräften mittels Sinus und Cosinus eine tägliche Notwendigkeit, um Resultierende in orthogonalen Systemen exakt zu bestimmen.
-
 ## Wichtige Formeln
+### Relationen am rechtwinkligen Dreieck
+Für ein rechtwinkliges Dreieck mit Ankathete $A$, Gegenkathete $G$ und Hypotenuse $H$ gilt:
+$$ \sin(\alpha) = \frac{G}{H}, \quad \cos(\alpha) = \frac{A}{H}, \quad \tan(\alpha) = \frac{G}{A} $$
 
-### Projektion mittels Winkelfunktionen
-
-In einem rechtwinkligen Dreieck gilt für die Komponenten eines Vektors 
-$$
-\vec{a}: a_x = |\vec{a}| \cdot \cos(\alpha), \quad a_y = |\vec{a}| \cdot \sin(\alpha)
-$$
+### Allgemeine harmonische Schwingung
+Eine Schwingung lässt sich als allgemeine Sinusfunktion darstellen:
+$$ f(t) = A \cdot \sin(\omega \cdot t + \varphi) $$
+Dabei ist $A$ die Amplitude, $\omega$ die Kreisfrequenz (mit der Periode $T = \frac{2\pi}{\omega}$) und $\varphi$ der Nullphasenwinkel.
 
 ## Definitionen
+### Funktion (Abbildung)
+Eine Funktion ordnet jedem Element $x$ einer Definitionsmenge genau ein Element $y$ einer Zielmenge zu: $x \mapsto y = f(x)$. 
 
-- **Einheitskreis:** Ein Kreis mit Radius $r=1$, an dem trigonometrische Funktionen als Koordinaten definiert werden.
-- **Bogenmaß:** Ein Verhältnismaß (Bogenlänge zu Radius), wobei $2\pi$ einem Vollkreis von $360^\circ$ entspricht.
+### Symmetrie und Periode
+Eine Funktion $f(t)$ ist:
+- **periodisch** mit Periode $T$, falls $f(t + T) = f(t)$.
+- **symmetrisch** (gerade), falls $f(-t) = f(t)$.
+- **antisymmetrisch** (ungerade), falls $f(-t) = -f(t)$.
+
+### Transformationen
+Die Grundfunktion $f(x)$ kann im Koordinatensystem wie folgt manipuliert werden:
+- **Verschiebung:** $f(x - c) + d$ verschiebt den Graphen um $c$ nach rechts (positive $x$-Achse) und $d$ nach oben.
+- **Spiegelung:** $-f(x)$ spiegelt an der $x$-Achse, $f(-x)$ spiegelt an der $y$-Achse.
+- **Skalierung:** $a \cdot f(x)$ streckt den Graphen in $y$-Richtung (für $a > 1$). $f(a \cdot x)$ staucht den Graphen in $x$-Richtung.
 
 ## Herleitungen
-
-- **Vektorkomponenten aus Polarform:** Die Umrechnung von Betrag $|\vec{a}|$ und Winkel $\alpha$ in kartesische Komponenten basiert auf der Definition am Einheitskreis.
-
-**Überleitung:** Die Verknüpfung von Winkeln und Vektoren findet ihre Vollendung im [[Kapitel 5|Skalarprodukt]].
+### Beispiel zu Transformationen
+Gegeben sei die Funktion $f(x) = x^2$. Wir suchen die Gleichung $g(x)$ für eine Parabel, die um 3 Einheiten nach rechts und 2 Einheiten nach unten verschoben sowie an der $x$-Achse gespiegelt wurde.
+1. Verschiebung nach rechts: $f(x - 3) = (x - 3)^2$
+2. Verschiebung nach unten: $(x - 3)^2 - 2$
+3. Spiegelung an der $x$-Achse (gesamten Term negieren):
+$$ g(x) = - \left( (x - 3)^2 - 2 \right) = -(x - 3)^2 + 2 $$
