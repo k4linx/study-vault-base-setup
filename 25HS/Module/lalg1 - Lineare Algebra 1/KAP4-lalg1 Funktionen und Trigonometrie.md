@@ -1,5 +1,5 @@
 ---
-erstelldatum: 2026-02-26
+erstelldatum: 2026-03-04
 tags:
   - lalg1
 Folien: Funktionen und Trigonometrie
@@ -7,33 +7,41 @@ Folien: Funktionen und Trigonometrie
 ## Wichtige Formeln
 ### Relationen am rechtwinkligen Dreieck
 Für ein rechtwinkliges Dreieck mit Ankathete $A$, Gegenkathete $G$ und Hypotenuse $H$ gilt:
-$$ \sin(\alpha) = \frac{G}{H}, \quad \cos(\alpha) = \frac{A}{H}, \quad \tan(\alpha) = \frac{G}{A} $$
+$$ \sin(\alpha) = \frac{G}{H}; \quad \cos(\alpha) = \frac{A}{H}; \quad \tan(\alpha) = \frac{G}{A} $$
 
-### Allgemeine harmonische Schwingung
-Eine Schwingung lässt sich als allgemeine Sinusfunktion darstellen:
-$$ f(t) = A \cdot \sin(\omega \cdot t + \varphi) $$
-Dabei ist $A$ die Amplitude, $\omega$ die Kreisfrequenz (mit der Periode $T = \frac{2\pi}{\omega}$) und $\varphi$ der Nullphasenwinkel.
+### Polarkoordinaten
+Ein Vektor $\vec{w}$ kann über seine [[KAP2-lalg1 Der Vektorraum#Norm (Länge) eines Vektors|Länge]] $r$ und den eingeschlossenen Winkel $\varphi$ (gemessen im Gegenuhrzeigersinn ab der x-Achse) definiert werden:
+$$ \vec{w} = r \cdot \begin{pmatrix} \cos(\varphi) \\ \sin(\varphi) \end{pmatrix} $$
+
+### Überlagerung gleichfrequenter Schwingungen
+Eine Summe aus Sinus- und Kosinus-Schwingungen mit gleicher Kreisfrequenz $\omega$ kann zu einer einzigen Kosinus-Schwingung zusammengefasst werden:
+$$ f(t) = a \cdot \cos(\omega \cdot t) + b \cdot \sin(\omega \cdot t) = A \cdot \cos(\omega \cdot t + \varphi) $$
+Dabei ist die Amplitude $A = \sqrt{a^2 + b^2}$ und der Nullphasenwinkel berechnet sich (für $a > 0$) als $\varphi = -\arctan\left(\frac{b}{a}\right)$.
 
 ## Definitionen
 ### Funktion (Abbildung)
-Eine Funktion ordnet jedem Element $x$ einer Definitionsmenge genau ein Element $y$ einer Zielmenge zu: $x \mapsto y = f(x)$. 
+Eine Zuordnung $x \mapsto y = f(x)$ heisst Funktion. Dabei ist $x$ die freie Variable (das Argument bzw. der Input) und $y$ die abhängige Variable (der Funktionswert bzw. der Output).
 
-### Symmetrie und Periode
-Eine Funktion $f(t)$ ist:
-- **periodisch** mit Periode $T$, falls $f(t + T) = f(t)$.
-- **symmetrisch** (gerade), falls $f(-t) = f(t)$.
-- **antisymmetrisch** (ungerade), falls $f(-t) = -f(t)$.
+### Periode und Symmetrie
+Eine Funktion $f(t)$ heisst:
+- **periodisch** mit Periode $T$, falls $f(t + T) = f(t)$
+- **symmetrisch** (gerade), falls $f(-t) = f(t)$
+- **antisymmetrisch** (ungerade), falls $f(-t) = -f(t)$
 
 ### Transformationen
-Die Grundfunktion $f(x)$ kann im Koordinatensystem wie folgt manipuliert werden:
-- **Verschiebung:** $f(x - c) + d$ verschiebt den Graphen um $c$ nach rechts (positive $x$-Achse) und $d$ nach oben.
-- **Spiegelung:** $-f(x)$ spiegelt an der $x$-Achse, $f(-x)$ spiegelt an der $y$-Achse.
-- **Skalierung:** $a \cdot f(x)$ streckt den Graphen in $y$-Richtung (für $a > 1$). $f(a \cdot x)$ staucht den Graphen in $x$-Richtung.
+Eine Funktion $f(x)$ kann im Koordinatensystem wie folgt transformiert werden:
+- **Spiegelung:** $-f(x)$ an der x-Achse, $f(-x)$ an der y-Achse.
+- **Verschiebung:** $f(x - c) + d$ verschiebt um $c$ in Richtung der positiven x-Achse und um $d$ in Richtung der positiven y-Achse.
+- **Skalierung:** $f(a \cdot x)$ führt zu einer Stauchung in x-Richtung (für $a > 1$), während $a \cdot f(x)$ eine Streckung in y-Richtung bewirkt.
 
 ## Herleitungen
-### Beispiel zu Transformationen
-Gegeben sei die Funktion $f(x) = x^2$. Wir suchen die Gleichung $g(x)$ für eine Parabel, die um 3 Einheiten nach rechts und 2 Einheiten nach unten verschoben sowie an der $x$-Achse gespiegelt wurde.
-1. Verschiebung nach rechts: $f(x - 3) = (x - 3)^2$
-2. Verschiebung nach unten: $(x - 3)^2 - 2$
-3. Spiegelung an der $x$-Achse (gesamten Term negieren):
-$$ g(x) = - \left( (x - 3)^2 - 2 \right) = -(x - 3)^2 + 2 $$
+### Beispiel zur Überlagerung von Schwingungen
+Gegeben sei die Schwingung:
+$$ f(t) = \frac{5\sqrt{3}}{2} \cdot \cos(t) + \frac{5}{2} \cdot \sin(t) $$
+Hier ist $a = \frac{5\sqrt{3}}{2}$ und $b = \frac{5}{2}$. Die Frequenz ist $\omega = 1$.
+Wir berechnen die resultierende Amplitude $A$:
+$$ A = \sqrt{\left(\frac{5\sqrt{3}}{2}\right)^2 + \left(\frac{5}{2}\right)^2} = \sqrt{\frac{75}{4} + \frac{25}{4}} = \sqrt{\frac{100}{4}} = \sqrt{25} = 5 $$
+Wir berechnen den Phasenwinkel $\varphi$:
+$$ \varphi = -\arctan\left(\frac{2.5}{2.5 \cdot \sqrt{3}}\right) = -\arctan\left(\frac{1}{\sqrt{3}}\right) = -\frac{\pi}{6} $$
+Zusammengefasst lautet die Schwingung also:
+$$ f(t) = 5 \cdot \cos\left(t - \frac{\pi}{6}\right) $$

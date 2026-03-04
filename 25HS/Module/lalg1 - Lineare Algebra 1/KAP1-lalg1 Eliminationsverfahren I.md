@@ -6,7 +6,7 @@ Folien: Eliminationsverfahren I
 ---
 ## Wichtige Formeln
 ### Linearkombination
-Eine Linearkombination von Objekten (wie Vektoren, mehr dazu in [[Kapitel 2|Der Vektorraum]]) ist die Summe dieser Objekte, jeweils multipliziert mit reellen Koeffizienten $x_i$:
+Eine Linearkombination von Objekten (wie Vektoren, mehr dazu in [[KAP2-lalg1 Der Vektorraum|Der Vektorraum]]) ist die Summe dieser Objekte, jeweils multipliziert mit reellen Koeffizienten $x_i$:
 $$ x_1\vec{a}_1 + x_2\vec{a}_2 + \dots + x_N\vec{a}_N $$
 
 ### Lineares Gleichungssystem (Dreiecksform)
