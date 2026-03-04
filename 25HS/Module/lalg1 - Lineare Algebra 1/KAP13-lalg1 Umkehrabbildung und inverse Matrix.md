@@ -38,7 +38,7 @@ Eine Abbildung $L: D \to Z$ ordnet Elementen aus $D$ Elemente in $Z$ zu.
 - **Injektiv:** Jedem Zielwert wird *höchstens* ein Ausgangswert zugeordnet ($x_1 \neq x_2 \implies L(x_1) \neq L(x_2)$).
 - **Surjektiv:** Jeder Zielwert wird *mindestens* einmal getroffen.
 - **Bijektiv:** Die Abbildung ist sowohl injektiv als auch surjektiv. **Nur bijektive Abbildungen besitzen eine eindeutige Umkehrabbildung (Inverse).**
-
+![[KAP13-lalg1 Umkehrabbildung und inverse Matrix_inj_bij_sur.png#invert]]
 ### Kern (Nullraum) einer Abbildung
 Der Kern (oder Nullraum) umfasst alle Vektoren $\vec{x}$, die durch die Matrix $A$ auf den Nullvektor abgebildet werden:
 $$ A \odot \vec{x} = \vec{0} $$
