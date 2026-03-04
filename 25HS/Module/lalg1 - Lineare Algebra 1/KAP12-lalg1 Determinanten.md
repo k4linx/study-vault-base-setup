@@ -18,7 +18,7 @@ $$ \det(\mathbf{A}) = a_{11} \cdot a_{22} - a_{12} \cdot a_{21} $$
 ### Determinante in $\mathbb{R}^{3 \times 3}$ (Regel von Sarrus)
 Für eine $3 \times 3$-Matrix berechnet man die Determinante, indem man die Produkte der Hauptdiagonalen addiert und die Produkte der Nebendiagonalen subtrahiert:
 $$ \det(\mathbf{A}) = a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{31}a_{22}a_{13} - a_{32}a_{23}a_{11} - a_{33}a_{21}a_{12} $$
-![[abbildung_12_3_sarrus.png]]
+![[Pasted image 20260304120524.png]]
 Alternativ entspricht dies exakt dem [[KAP6-lalg1 Vektorprodukt#Spatprodukt|Spatprodukt]] der drei Spaltenvektoren: $\det(\mathbf{A}) = [\vec{a}, \vec{b}, \vec{c}]$.
 
 ### Determinante einer Dreiecksmatrix
@@ -38,7 +38,7 @@ $$ x_k = \frac{\det(\vec{A}_1, \dots, \vec{b}, \dots, \vec{A}_n)}{\det(\mathbf{A
 ## Definitionen
 ### Geometrische Bedeutung
 Die Determinante berechnet den (orientierten) Flächeninhalt (in 2D), das Volumen (in 3D) oder Hypervolumen (in $N$D), das von den Spaltenvektoren der Matrix aufgespannt wird, inklusive eines Vorzeichens.
-![[abbildung_12_1_determinante_flaeche.png]]
+![[KAP12-lalg1 Determinanten_flaeche.png#invert]]
 
 ### Linearität der Determinante
 Die Determinante ist linear in Bezug auf jede einzelne Spalte (oder Zeile). Das bedeutet:
