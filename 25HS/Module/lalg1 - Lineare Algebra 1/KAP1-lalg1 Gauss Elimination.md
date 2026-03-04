@@ -1,38 +1,43 @@
 ---
-erstelldatum: 2026-02-26 
+erstelldatum: 2026-02-26
 tags:
-- lalg1
-- gauss-elimination
-- lineare-abhaengigkeit
+  - lalg1
+  - eliminationsverfahren
+
 Folien: Eliminationsverfahren I
 ---
-
-**Analytische Einleitung:** Das Gauss-Verfahren ist weit mehr als ein rein algorithmischer Rechenweg; es fungiert als fundamentales Werkzeug zur Dekonstruktion komplexer linearer Abhängigkeiten innerhalb technischer Systeme. Für Ingenieure – etwa in der Baustatik oder Systemanalyse – ist die Fähigkeit, ein System in die Dreiecksform zu überführen, essenziell, um die strukturelle Integrität von Modellen zu prüfen und effiziente Lösungen für hochdimensionale Gleichungssysteme zu finden.
-
 ## Wichtige Formeln
-
-### Linearkombination
-
-Eine Linearkombination einer Menge von Vektoren $\{\vec{a}_1, \dots, \vec{a}_N\}$ ist definiert als die Summe: $$x_1\vec{a}_1 + x_2\vec{a}_2 + \dots + x_N\vec{a}_N = \sum_{i=1}^{N} x_i\vec{a}_i$$ 
-wobei die Skalare $x_1, x_2, \dots$ als Koeffizienten $(x_i \in \mathbb{R})$ bezeichnet werden.
-
-### Lineare Abhängigkeit
-
-Eine Menge von Vektoren ist linear abhängig, wenn der Nullvektor durch eine nicht-triviale Linearkombination darstellbar ist: \sum_{i=1}^{N} x_i\vec{a}_i = \vec{0} \text{ mit mindestens einem } x_i \neq 0
+### Lineares Gleichungssystem in Dreiecksform
+Um ein lineares Gleichungssystem (LGS) zu lösen, bringt man es mit dem Gauss-Verfahren in die Dreiecksform (die Koeffizienten unter der Hauptdiagonalen sind Null). Danach löst man es durch Rückwärtseinsetzen von unten nach oben [1]:
+$$
+\begin{vmatrix} 
+x & +2y & +3z & = 8 \\ 
+ & 2y & +4z & = 14 \\ 
+ & & 5z & = 10 
+\end{vmatrix}
+$$
 
 ## Definitionen
+### Linearkombination
+Eine Linearkombination von Objekten (wie Vektoren, mehr dazu in [[Kapitel 2|Der Vektorraum]]) ist die Summe dieser Objekte, jeweils multipliziert mit reellen Koeffizienten $x_i$ [2]:
+$$x_1\vec{a}_1 + x_2\vec{a}_2 + \dots + x_N\vec{a}_N$$
 
-- **Kollinear:** Zwei Vektoren \vec{a} und \vec{b} heißen kollinear, wenn sie parallel oder antiparallel verlaufen, d. h. \vec{a} = \lambda\vec{b} für ein \lambda \in \mathbb{R}.
-- **Komplanar:** Drei oder mehr Vektoren im \mathbb{R}^3 werden als komplanar bezeichnet, wenn sie in derselben Ebene liegen und somit linear abhängig sind.
-- **Dreiecksform (Zeilenstufenform):** Ein Zustand eines Gleichungssystems, bei dem alle Koeffizienten unterhalb der Hauptdiagonale verschwinden.
+### Lineare Abhängigkeit und Komplanarität
+Eine Menge von Vektoren ist linear abhängig, wenn eine Linearkombination den Nullvektor $\vec{0}$ ergibt, wobei mindestens einer der Koeffizienten $x_i \neq 0$ ist [2]. Drei oder mehr Vektoren im $\mathbb{R}^3$, die linear abhängig sind, nennt man komplanar (sie liegen in einer gemeinsamen Ebene) [2].
 
-## Herleitungen
+### Kollinearität
+Zwei Vektoren $\vec{a}$ und $\vec{b}$ sind kollinear (parallel), wenn es eine reelle Zahl $\lambda$ gibt, sodass gilt [3]:
+$$\vec{a} = \lambda \cdot \vec{b}$$
 
-- **Gauss-Verfahren:** Die systematische Elimination von Komponenten erfolgt durch Zeilenoperationen. Dabei wird eine Pivot-Zeile ausgewählt, um die darunterliegenden Einträge derselben Spalte zu annullieren.
-- **Rückwärtseinsetzen:** Sobald die Dreiecksform erreicht ist, wird das System gelöst, indem die unterste Gleichung nach der ersten Unbekannten aufgelöst und dieser Wert sukzessive von unten nach oben substituiert wird.
+## Herleitungen & Beispiele
+### Überprüfung auf Kollinearität
+Um zu prüfen, ob zwei Vektoren kollinear sind, sucht man den passenden Skalierungsfaktor $\lambda$ [1].
 
-**Wichtige Anmerkung:**
-
->[!IMPORTANT] Beim Gauss-Verfahren gilt strikt: Die Zeile, die im aktuellen Schritt zur Elimination in anderen Zeilen genutzt wird, darf selbst nicht verändert werden.
-
-**Überleitung:** Nachdem die Grundlagen der Elimination etabliert sind, erweitert das nächste Kapitel den Fokus auf die strukturellen Eigenschaften des [[KAP2-lalg1 Der Vektorraum|Vektorraums]].
+**Beispiel:**
+Gegeben sind die Vektoren
+$$ \vec{a} = \begin{pmatrix} -3 \\ 1 \\ 8 \end{pmatrix}, \quad \vec{b} = \begin{pmatrix} x \\ -4 \\ z \end{pmatrix} $$
+Wir suchen $x$ und $z$, damit $\vec{a}$ und $\vec{b}$ kollinear sind [1]. 
+Da die $y$-Komponente von $\vec{a}$ den Wert $1$ hat und bei $\vec{b}$ den Wert $-4$, muss der Skalierungsfaktor $\lambda = -4$ sein. 
+Daraus folgt für die anderen Komponenten: 
+$x = -3 \cdot (-4) = 12$ 
+$z = 8 \cdot (-4) = -32$
