@@ -27,6 +27,7 @@ $$ \lambda \cdot \vec{v} = \begin{pmatrix} \lambda \cdot v_1 \\ \lambda \cdot v_
 ## Definitionen
 ### Ortsvektor
 Als Ortsvektor eines Punktes bezeichnet man einen Vektor, der vom Ursprung direkt zu diesem Punkt zeigt. Er wird meist mit Grossbuchstaben geschrieben, z. B. $\vec{A}$. Normale Vektoren (mit Kleinbuchstaben, z. B. $\vec{a}$) sind nicht an den Ursprung gebunden und können verschoben werden.
+![[KAP2-lalg1 Der Vektorraum_ortsvektor.png#invert|300]]
 
 ### Vektorraum
 Ein Vektorraum über $\mathbb{R}$ ist eine Menge $V$, für die eine Addition und eine skalare Multiplikation definiert sind (Linearkombinationen davon haben wir bereits in [[KAP1-lalg1 Eliminationsverfahren I#Linearkombination|Eliminationsverfahren I]] behandelt). Wichtige Eigenschaften sind die Abgeschlossenheit (Ergebnisse bleiben in $V$), die Existenz eines neutralen Elements (Nullvektor $\vec{0}$) und eines Gegenvektors ($-\vec{v}$) sowie Assoziativ-, Kommutativ- und Distributivgesetze. Neben Vektoren bilden z.B. auch Polynome einen Vektorraum.
