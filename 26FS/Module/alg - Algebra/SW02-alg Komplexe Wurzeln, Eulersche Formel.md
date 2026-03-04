@@ -83,7 +83,7 @@ Mithilfe der [[KAP9-lalg1 Matrixalgebra#Spezielle Matrizen|Drehmatrix]] kann der
 ### Komplexe Wurzeln
 
 ### Eulersche Formel
-Die ableitung von $z(\phi) = cos(\phi) + \sin(\phi)\cdot i$ ist:
+Die [[Ableitung]] von $z(\phi) = cos(\phi) + \sin(\phi)\cdot i$ ist:
 $$
 \frac{d}{d \phi} = (\cos(\phi)+ \sin(\phi)i) = -sin(\phi) + \cos(\phi)i = i (\cos(\phi)+i \sin(\phi)) \Rightarrow \frac{d}{d \phi}z(\phi) = i \cdot z(\phi)
 $$
