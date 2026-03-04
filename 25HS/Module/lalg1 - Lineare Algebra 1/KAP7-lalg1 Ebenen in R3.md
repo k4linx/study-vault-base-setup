@@ -11,6 +11,7 @@ tags:
 Folien: Ebenen in R3
 ---
 ## Wichtige Formeln
+![[KAP7-lalg1 Ebenen in R3_darstellung_der_ebene_in_r3.png#invert]]
 ### Parameterdarstellung einer Ebene
 Eine Ebene im $\mathbb{R}^3$ wird durch einen Aufpunkt $\vec{P}$ und zwei nicht-kollineare Richtungsvektoren $\vec{u}$ und $\vec{v}$ aufgespannt ($\lambda, \nu \in \mathbb{R}$):
 $$ \vec{x} = \vec{P} + \lambda\vec{u} + \nu\vec{v} $$
