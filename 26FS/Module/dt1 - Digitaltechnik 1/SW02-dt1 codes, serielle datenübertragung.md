@@ -80,6 +80,9 @@ $$
 A = \underset{Spalte}{0100} \ \underset{Zeile}{0001}
 $$
 ### Unicode
+Unicode hat eine Bitbreite von 21 Bits damit lassen sich alle Schriftzeichen der Welt inkl. Emojis darstellen.
+Unicode besteht aus 17 Ebenen sogenannten Planes die mit jeweils 16-Bit beschrieben werden. Die Ebene 0 nennt sich BMP Basic Multilingual Plane, diese bildet schon einen grossteil der Schriftzeichen ab.
+
 
 
 #### UTF-16
