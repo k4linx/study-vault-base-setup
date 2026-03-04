@@ -62,7 +62,7 @@ riv = mnull(Ae[:,0:-1]) # Nimmt nur die Koeffizienten (ohne Konstanten) für den
 
 Gleichungen symbolisch lösen
 
-Wir wollen die Gleichung −90+15x+15x2=0 lösen:
+Wir wollen die Gleichung $−90+15x+15x2=0$ lösen:
 
 ```python
 import sympy as sym
