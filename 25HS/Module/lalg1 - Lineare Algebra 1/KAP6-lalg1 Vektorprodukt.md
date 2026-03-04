@@ -13,7 +13,7 @@ Folien: Vektorprodukt
 Das Vektorprodukt $\vec{c} = \vec{a} \times \vec{b}$ von zwei Vektoren im $\mathbb{R}^3$, die den Winkel $\varphi$ einschliessen, liefert einen Vektor mit der Länge:
 $$ \|\vec{c}\| = \|\vec{a}\| \cdot \|\vec{b}\| \cdot \sin(\varphi) $$
 *Praktische Berechnung:* Man schreibt die ersten beiden Komponenten unten an die Vektoren hin, streicht die erste Zeile und berechnet zeilenweise über Kreuz die Differenzen (z.B. $a_2b_3 - a_3b_2$).
-![[KAP6-lalg1 Vektorprodukt_kreuzprodukt.png]]
+![[KAP6-lalg1 Vektorprodukt_kreuzprodukt.png#invert]]
 
 ### Spatprodukt
 Das Spatprodukt kombiniert Vektor- und [[KAP5-lalg1 Skalarprodukt#Skalarprodukt|Skalarprodukt]]:

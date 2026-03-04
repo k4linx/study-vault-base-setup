@@ -25,12 +25,12 @@ $$ \vec{f} = \frac{\vec{b} \odot \vec{a}}{\vec{a} \odot \vec{a}} \cdot \vec{a} $
 $$ \vec{h} = \vec{b} - \vec{f} $$
 
 ### Spiegelung an einer Geraden (durch den Ursprung)
-Projiziert man einen Punkt $\vec{P}$ auf den [[KAP3-lalg1 Darstellung der Gerade in R2|Normalenvektor]] $\vec{n}$ einer Geraden, erhält man $\vec{h} = \frac{\vec{P} \odot \vec{n}}{\vec{n} \odot \vec{n}} \cdot \vec{n}$. Der an der Geraden gespiegelte Punkt $\vec{P}''$ berechnet sich dann durch:
+Projiziert man einen Punkt $\vec{P}$ auf den [[KAP3-lalg1 Darstellung der Gerade in R2#Normalenvektor in $ mathbb{R} 2$|Normalenvektor]] $\vec{n}$ einer Geraden, erhält man $\vec{h} = \frac{\vec{P} \odot \vec{n}}{\vec{n} \odot \vec{n}} \cdot \vec{n}$. Der an der Geraden gespiegelte Punkt $\vec{P}''$ berechnet sich dann durch:
 $$ \vec{P}'' = \vec{P} - 2\vec{h} $$
 
 ## Definitionen
 ### Normierter Vektor
-Ein Vektor, der durch seine eigene [[KAP2-lalg1 Der Vektorraum|Norm]] (Länge) geteilt wird, hat die Länge 1 und heisst normiert: $\frac{\vec{a}}{\|\vec{a}\|}$.
+Ein Vektor, der durch seine eigene [[KAP2-lalg1 Der Vektorraum#Norm (Länge) eines Vektors|Norm]] (Länge) geteilt wird, hat die Länge 1 und heisst normiert: $\frac{\vec{a}}{\|\vec{a}\|}$.
 
 ### Orthogonal- und Orthonormalbasis
 Eine Basis aus linear unabhängigen Vektoren heisst **orthogonal**, wenn alle Basisvektoren rechtwinklig aufeinander stehen (ihr Skalarprodukt ist 0). Haben alle diese Basisvektoren zusätzlich die Länge 1, handelt es sich um eine **Orthonormalbasis**.
