@@ -1,14 +1,12 @@
 ---
 erstelldatum: 2026-03-01
 tags:
+  - traegheitsprinzip
+  - reaktionsprinzip
+  - freischneiden
 Folien:
   - 2_Statische_Gleichgewichte
 ---
-## Wichtige Formeln
-$$
-
-$$
-
 ## Definitionen
 ### Trägheitsprinzip
 Solange keine äusseren [[SW01-mech Kräfte und Drehmomente#Kraft|Kräfte]] auf einen Körper wirken, bleibt ein Körper in der Ruhe oder in einer geradlinigen Bewegung.
