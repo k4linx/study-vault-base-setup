@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "25HS/Module/lalg1 - Lineare Algebra 1/KAP2-lalg1 Der Vektorraum.md",
-                "mode": "preview",
-                "source": false,
+                "mode": "source",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
