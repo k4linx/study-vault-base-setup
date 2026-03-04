@@ -45,7 +45,7 @@
               "state": {
                 "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "richtungs",
+                "query": "tag:Kontrollstrukturen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7ef6205f6aa8b852",
