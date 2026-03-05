@@ -63,7 +63,7 @@ Typkonvertierung (Type-Casting) und Konsolenausgabe
 
 Wenn ein Datentyp in einen anderen mit einem kleineren Wertebereich umgewandelt wird (z. B. von `float` zu `int`), muss dies **explizit** angegeben werden. Dieser Vorgang ist oft verlustbehaftet, da Kommastellen einfach abgeschnitten werden.
 
-```
+```java
 float fWert = 3.9f;
 // Explizites Casten ist hier zwingend notwendig
 int i = (int) fWert; // Das Resultat ist 3
@@ -80,7 +80,7 @@ If-Else Bedingung
 
 Kontrollstrukturen erlauben es, bestimmte Programmteile nur dann auszuführen, wenn definierte Bedingungen (Conditions) erfüllt sind. Das einfachste Konstrukt hierfür ist die `if-else` Anweisung. **Achtung:** Um primitive Variablen auf exakte Gleichheit zu prüfen, verwendet man das doppelte Gleichheitszeichen `==` (ein einfaches `=` ist rein für Wertzuweisungen reserviert).
 
-```
+```java
 int alter = 19;
 
 if (alter > 18) {
