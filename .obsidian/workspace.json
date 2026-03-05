@@ -11,15 +11,12 @@
             "id": "c445c27daf87a626",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "SW01-oop1 Einführung_bytecode_jvm.png"
               },
-              "icon": "lucide-file",
-              "title": "SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "icon": "lucide-image",
+              "title": "SW01-oop1 Einführung_bytecode_jvm"
             }
           }
         ]
@@ -89,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+                "file": "SW01-oop1 Einführung_bytecode_jvm.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -112,12 +109,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0918251805370018,
+                  "scale": 0.8560484607291875,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "title": "Graph of SW01-oop1 Einführung_bytecode_jvm"
             }
           }
         ]
@@ -140,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+                "file": "SW01-oop1 Einführung_bytecode_jvm.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "title": "Backlinks for SW01-oop1 Einführung_bytecode_jvm"
             }
           },
           {
@@ -159,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+                "file": "SW01-oop1 Einführung_bytecode_jvm.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "title": "Outgoing links from SW01-oop1 Einführung_bytecode_jvm"
             }
           },
           {
@@ -252,18 +249,19 @@
   },
   "active": "c445c27daf87a626",
   "lastOpenFiles": [
+    "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
+    "26FS/Module/alg - Algebra/alg - Algebra.base",
+    "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
-    "26FS/Module/alg - Algebra/alg - Algebra.base",
     "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
     "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/oop2 - Objekt Orientierte Programmierung 2.base",
     "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/SW03-oop2.md",
     "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/SW02-oop2.md",
     "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/SW01-oop2.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP3-lalg1 Darstellung der Gerade in R2.md",
-    "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW01-oop1 Einführung.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen.md",
@@ -275,7 +273,6 @@
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Objektorientierte Programmierung 1.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-03 Zusammenfassung 1-4.md",
     "26FS/Module/an2 - Analysis 2/SW03-an2 Volumen und Mittelwertberechnung mit Integralen.md",
-    "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
     "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
     "26FS/Module/mech - Mechanik/SW02-mech Statische Gleichgewichte.md",
     "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",

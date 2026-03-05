@@ -254,7 +254,7 @@ Dabei wird $P_{L} = 0$ wenn
 - $R_{L}= 0$ ist
 - $R_{L}= \infty$ ist
 
-Um nun $P_{L_{MAX}}$ zu erhalten muss die Ableitung von $P_{L}$ gebildet werden:
+Um nun $P_{L_{MAX}}$ zu erhalten muss die [[Ableitung]] von $P_{L}$ gebildet werden:
 $$
 \frac{d}{dx}\left( \frac{U^{2}R_{L}}{(R_{q}+R_{L})^{2}} \right)= - \frac{U_{q}^{2}(R_{L}-R_{q})}{(R_{q}+R_{L})^{3}}
 $$
