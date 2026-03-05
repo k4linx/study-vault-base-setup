@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
+                "file": "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SW02-oop1 Erstes Programm"
+              "title": "SW01-aet1 Strom, Spannung, Widerstand und Schaltungen"
             }
           }
         ],
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
+                "file": "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SW02-oop1 Erstes Programm"
+              "title": "Graph of SW01-aet1 Strom, Spannung, Widerstand und Schaltungen"
             }
           }
         ]
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
+                "file": "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SW02-oop1 Erstes Programm"
+              "title": "Backlinks for SW01-aet1 Strom, Spannung, Widerstand und Schaltungen"
             }
           },
           {
@@ -190,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
+                "file": "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SW02-oop1 Erstes Programm"
+              "title": "Outgoing links from SW01-aet1 Strom, Spannung, Widerstand und Schaltungen"
             }
           },
           {
@@ -283,8 +283,8 @@
   },
   "active": "2b9834be37926f29",
   "lastOpenFiles": [
-    "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW01-oop1 Einführung.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW02-oop1 Erstes Programm.md",
+    "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW01-oop1 Einführung.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW03-oop1 Grafik Einführung.md",

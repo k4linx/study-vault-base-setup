@@ -66,6 +66,24 @@ $$
 $$
 I_{2}= I \cdot \frac{R_{1}R_{3}}{R_{1}R_{3}+R_{1}R_{2}+R_{2}R_{3}}
 $$
+### Belastete Quelle
+$$
+\begin{align}
+U_{a1} &= U_{qe}-I_{a}\cdot R_{qe} \\
+U_{a2} &= R_{L} \cdot I_{a}
+\end{align}
+$$
+### Quellenleistung
+$$
+\begin{align} \\
+P_{L_{MAX}} &= P_{AV} = \frac{U_{q}^{2}}{4R_{q}} \\
+P_{L_{MAX}} &= P_{AV} = \frac{I_{q}^{2}}{4R_{q}}
+\end{align}
+$$
+### Leistungsanpassung
+$$
+\frac{P_{L}}{P_{AV}} = \frac{4}{2+ \frac{R_{l}}{R_{q}}+ \frac{R_{q}}{R_{L}}}
+$$
 ## Grundgesetze
 ### Knotensatz
 Ein Knoten kann keine Ladungen speichern weshalb die Kontengleichung immer 0 ergeben muss.
@@ -175,6 +193,7 @@ Jede Schaltung kann vereinfacht werden zu entweder einer Thevenin oder Norton Qu
 | Thevenin                                                                            | Norton                                                                            |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_thevenin.png#invert\|300]] | ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_norton.png#invert\|300]] |
+Um von Thevenin nach Norton und umgekehrt zu wandeln wird das [[#Ohmsches Gesetz|Ohmsche Gesetz]] angewendet.
 ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_bel_netzwerk.png#invert]]
 Um $R_{qe}$ von einem beliebigen Netzwerk zu erhalten müssen alle Quellen ausgeschaltet werden d.H.
 - **Stromquellen** mit einem Unterbruch ersetzen
@@ -242,7 +261,10 @@ $$
 Daraus erhält man der Lastwiderstand $R_{L}$ für die maximale Leistung welcher exakt $R_{q}$ entspricht $R_{q}=R_{L}$
 setzt man diesen in die Formel für $P_{L}$ ein erhält man die Formel $P_{L_{MAX}}$:
 $$
-P_{L_{MAX}} = P_{AV} = \frac{U_{q}^{2}\cdot R_{q}}{(R_{q}+R_{q})^{2}} = \frac{U_{q}^{2} \cdot R_{q}}{2R_{q}^{2}} = \frac{U_{q}^{2}}{4R_{q}}
+\begin{align}
+P_{L_{MAX}} = P_{AV} &= \frac{U_{q}^{2}\cdot R_{q}}{(R_{q}+R_{q})^{2}} = \frac{U_{q}^{2} \cdot R_{q}}{2R_{q}^{2}} = \frac{U_{q}^{2}}{4R_{q}} \\
+P_{L_{MAX}} = P_{AV} &= \frac{I_{q}^{2}}{4R_{q}}
+\end{align}
 $$
 Dieser Zustand nennt man Leistungsanpassung dabei gibt also die Quelle die maximal verfügbare Leistung an die Last ab. 
 
