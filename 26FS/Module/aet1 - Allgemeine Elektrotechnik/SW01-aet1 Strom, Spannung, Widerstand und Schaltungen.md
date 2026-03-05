@@ -108,7 +108,7 @@ Es muss auf die Vorzeichen und Pfeilrichtung geachtet werden. Wenn ein Pfeil in 
 ## Einfache Schaltungen von Widerständen
 ### Serienschaltung
 Werden Widerstände in Serie geschaltet, können die Werte der Widerstände summiert werden. Der Strom bleibt über Serienschaltungen überall gleich.
-![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_serienschaltung.png#invert]]
+![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_serienschaltung.png#invert|637]]
 So wird aus $R1, R2, R3, R4 \rightarrow RE$
 Der Maschensatz besagt die Spannung in einer Masche muss $0$ sein:
 $$
