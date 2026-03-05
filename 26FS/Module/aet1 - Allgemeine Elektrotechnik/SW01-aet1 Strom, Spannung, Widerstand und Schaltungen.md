@@ -10,6 +10,7 @@ tags:
   - transformation
   - quellenleistung
   - leistungsanpassung
+  - norton
 Folien:
   - aet1_Folien_mitNotizen
 Seiten: 1-60
@@ -190,10 +191,13 @@ Die U-I-Kennlinie zeigt den verlauf der Quellenspannung in Abhängigkeit des Que
 ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_ui_kennlinie.png#invert|300]]
 Jede Schaltung kann vereinfacht werden zu entweder einer Thevenin oder Norton Quelle. Diese beiden Ersatzschaltungen sind Gleichwertig.
 
-| Thevenin                                                                            | Norton                                                                            |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_thevenin.png#invert\|300]] | ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_norton.png#invert\|300]] |
-Um von Thevenin nach Norton und umgekehrt zu wandeln wird das [[#Ohmsches Gesetz|Ohmsche Gesetz]] angewendet.
+| Thevenin                                                                                 | Norton                                                                            |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_thevenin.png#invert\|300]]      | ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_norton.png#invert\|300]] |
+| Parallel geschaltete Widerstände Streichen da U-Quelle abgeschaltet ein Kurzschluss ist. | Serienwiderstände streichen da I-Quelle abgeschaltet ein Unterbruch ist.          |
+Um von Thevenin nach Norton und umgekehrt zu wandeln wird das [[#Ohmsches Gesetz|Ohmsche Gesetz]] angewendet. 
+Nach der Elimination von überflüssigen Widerständen kann eine Quelle ganz einfach umgewandelt werden.
+
 ![[SW01-aet1 Strom, Spannung, Widerstand und Schaltungen_bel_netzwerk.png#invert]]
 Um $R_{qe}$ von einem beliebigen Netzwerk zu erhalten müssen alle Quellen ausgeschaltet werden d.H.
 - **Stromquellen** mit einem Unterbruch ersetzen
