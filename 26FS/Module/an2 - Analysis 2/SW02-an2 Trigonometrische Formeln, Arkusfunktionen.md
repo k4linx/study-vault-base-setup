@@ -80,7 +80,7 @@ r \cdot \cos(\omega t + \varphi_{0}) &= r \cdot (\cos(\omega t) \cdot \cos(\varp
 $$
 $$a^{2}+b^{2} = r^{2}\cdot \underset{1}{\underbrace{(\cos^{2}(\varphi_{0}) + \sin^{2}(\varphi_{0}))}} \Rightarrow r = \sqrt{a^{2}+b^{2}} \gt 0$$
 
-![[SW02-an2 Trigonometrische Formeln, Arkusfunktionen_schwingungsüberlagerung.png#invert|300]]
+![[SW02-an2 Trigonometrische Formeln, Arkusfunktionen_schwingungsüberlagerung.png#invert|402]]
 $x$ ist bekannt als $\cos(\varphi_{0})$ und $y$ is $\sin(\varphi)$ 
 $$
 \begin{align}
