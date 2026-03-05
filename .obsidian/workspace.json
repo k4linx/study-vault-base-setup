@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "SW01-oop1 Einführung_bytecode_jvm.png"
+                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen/SW01-oop1 Einführung_bytecode_jvm.png"
               },
               "icon": "lucide-image",
               "title": "SW01-oop1 Einführung_bytecode_jvm"
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SW01-oop1 Einführung_bytecode_jvm.png",
+                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen/SW01-oop1 Einführung_bytecode_jvm.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW01-oop1 Einführung_bytecode_jvm.png",
+                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen/SW01-oop1 Einführung_bytecode_jvm.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SW01-oop1 Einführung_bytecode_jvm.png",
+                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen/SW01-oop1 Einführung_bytecode_jvm.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -247,8 +247,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "c445c27daf87a626",
+  "active": "390d0ece70ce5c34",
   "lastOpenFiles": [
+    "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
     "26FS/Module/alg - Algebra/alg - Algebra.base",
     "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
@@ -267,8 +268,7 @@
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW03-oop1 Grafik Einführung.md",
-    "25HS/Module/oop1 - Objektorientierte Programmierung 1/Untitled",
-    "SW01-oop1 Einführung_bytecode_jvm.png",
+    "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen/SW01-oop1 Einführung_bytecode_jvm.png",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP1-lalg1 Eliminationsverfahren I.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Objektorientierte Programmierung 1.base",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/2025-12-03 Zusammenfassung 1-4.md",
