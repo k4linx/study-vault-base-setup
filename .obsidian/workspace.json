@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43cb932750f56848",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "26FS/Zeitpläne/Zeitpläne.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Zeitpläne"
-            }
-          },
-          {
             "id": "93d32c4b472a3101",
             "type": "leaf",
             "state": {
@@ -30,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,7 +244,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "93d32c4b472a3101",
+  "active": "390d0ece70ce5c34",
   "lastOpenFiles": [
     "26FS/Zeitpläne/Zeitpläne.base",
     "25HS/Zeitpläne/Zeitpläne.base",
