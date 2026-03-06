@@ -11,18 +11,27 @@
             "id": "43cb932750f56848",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/2025-12-06 Kurztest Stoff zusammenfassung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "26FS/Zeitpläne/Zeitpläne.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "2025-12-06 Kurztest Stoff zusammenfassung"
+              "icon": "lucide-table",
+              "title": "Zeitpläne"
+            }
+          },
+          {
+            "id": "93d32c4b472a3101",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/2025-12-06 Kurztest Stoff zusammenfassung.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -117,7 +125,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-12-06 Kurztest Stoff zusammenfassung"
+              "title": "Graph view"
             }
           }
         ]
@@ -250,10 +258,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "43cb932750f56848",
+  "active": "93d32c4b472a3101",
   "lastOpenFiles": [
-    "25HS/Zeitpläne/2026-01-03.md",
+    "26FS/Zeitpläne/Zeitpläne.base",
+    "25HS/Zeitpläne/Zeitpläne.base",
+    "25HS/Zeitpläne/2026-01-04.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-06 emtL Kurztest 2/2025-12-06 Kurztest Stoff zusammenfassung.md",
+    "25HS/Zeitpläne/2026-01-03.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/7TrigonometrieBis7-5.pdf",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
@@ -285,11 +296,8 @@
     "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/oop2 - Objekt Orientierte Programmierung 2.base",
     "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/SW03-oop2.md",
     "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/SW02-oop2.md",
-    "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/SW01-oop2.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP3-lalg1 Darstellung der Gerade in R2.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Objektorientierte Programmierung 1.base",
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW02-dt1 codes, serielle datenübertragung_ascii_tabelle.png",
-    "26FS/Module/dt1 - Digitaltechnik 1/dt1 - Digitaltechnik 1.base",
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW02-dt1 codes, serielle datenübertragung_unicode_bmp.png",
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW02-dt1 codes, serielle datenübertragung_hamming_fehlererkennung.png",
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW02-dt1 codes, serielle datenübertragung_hamming.png",
