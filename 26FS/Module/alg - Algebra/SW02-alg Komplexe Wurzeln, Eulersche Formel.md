@@ -17,7 +17,7 @@ $$
 \phi = -\arccos\left( \frac{a}{|z|} \right) \quad \text{Wenn z unter der Reellen Achse liegt} \\
 \end{matrix}
 $$
-### Addition in der Komplexen Ebene
+ ### Addition in der Komplexen Ebene
 $$
 \begin{align}
 z &= a + b i  \\
