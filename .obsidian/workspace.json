@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+                "file": "Diverses/Cheatsheets/Mardown Cheatsheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "title": "Mardown Cheatsheet"
             }
           }
         ]
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+                "file": "Diverses/Cheatsheets/Mardown Cheatsheet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -117,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
+              "title": "Graph of Mardown Cheatsheet"
             }
           }
         ]
@@ -252,11 +252,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+    "Diverses/Cheatsheets/Mardown Cheatsheet.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP11-lalg1 Python.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
-    "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
     "26FS/Module/alg - Algebra/alg - Algebra.base",
@@ -284,7 +285,6 @@
     "26FS/Module/mech - Mechanik/SW02-mech Statische Gleichgewichte.md",
     "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
     "26FS/Module/dt1 - Digitaltechnik 1/SW02-dt1 codes, serielle datenübertragung.md",
-    "26FS/Module/dt1 - Digitaltechnik 1/SW01-dt1 Digitale Signale und Zahlensysteme.md",
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW02-dt1 codes, serielle datenübertragung_ascii_tabelle.png",
     "26FS/Module/dt1 - Digitaltechnik 1/dt1 - Digitaltechnik 1.base",
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW02-dt1 codes, serielle datenübertragung_unicode_bmp.png",
