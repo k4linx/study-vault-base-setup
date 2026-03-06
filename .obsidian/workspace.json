@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+                "file": "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SW02-alg Komplexe Wurzeln, Eulersche Formel"
+              "title": "SW03 Zeiger und Wechselstromkreise"
             }
           }
         ]
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+                "file": "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -117,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SW02-alg Komplexe Wurzeln, Eulersche Formel"
+              "title": "Graph of SW03 Zeiger und Wechselstromkreise"
             }
           }
         ]
@@ -252,8 +252,10 @@
   },
   "active": "93d32c4b472a3101",
   "lastOpenFiles": [
-    "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+    "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
+    "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
+    "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
     "26FS/Module/alg - Algebra/alg - Algebra.base",
     "26FS/Zeitpläne/Zeitpläne.base",
     "25HS/Zeitpläne/Zeitpläne.base",
@@ -279,11 +281,9 @@
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP11-lalg1 Python.md",
     "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
-    "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen/SW01-oop1 Einführung_bytecode_jvm.png",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen",
-    "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
     "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
     "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/oop2 - Objekt Orientierte Programmierung 2.base",
     "26FS/Module/oop2 - Objekt Orientierte Programmierung 2/SW03-oop2.md",
