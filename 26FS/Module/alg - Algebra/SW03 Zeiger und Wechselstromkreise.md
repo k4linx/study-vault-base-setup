@@ -79,6 +79,7 @@ Daraus ergibt sich $Û = R \cdot Î$ in der Zeigerdarstellung $\underline{U} = R
 
 #### Impedanz der Spule
 
+
 ### Ableitung der harmonische Schwingung
 Aus der Analysis kennen wir die [[Ableitung|Ableitungsregeln]] der Sinus Cosinus Schwingungen. Auch wissen wir das der Cosinus eine um $\frac{pi}{2}$ nach links verschobene Sinusschwingung ist. mit diesem Wissen können wir entsprechend ableiten und umwandeln.
 $$

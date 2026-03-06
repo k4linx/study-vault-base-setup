@@ -34,7 +34,7 @@
       {
         "id": "15d7df7ad5856df9",
         "type": "tabs",
-        "dimension": 77.80244173140954,
+        "dimension": 68.47946725860156,
         "children": [
           {
             "id": "390d0ece70ce5c34",
@@ -81,7 +81,7 @@
       {
         "id": "7ef6205f6aa8b852",
         "type": "tabs",
-        "dimension": 22.197558268590456,
+        "dimension": 31.520532741398444,
         "children": [
           {
             "id": "2405071d87ac9282",
@@ -91,7 +91,7 @@
               "state": {
                 "file": "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -102,7 +102,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -112,7 +112,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8560484607291875,
+                  "scale": 1.037866988995389,
                   "close": true
                 }
               },
@@ -250,7 +250,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "93d32c4b472a3101",
+  "active": "2405071d87ac9282",
   "lastOpenFiles": [
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
