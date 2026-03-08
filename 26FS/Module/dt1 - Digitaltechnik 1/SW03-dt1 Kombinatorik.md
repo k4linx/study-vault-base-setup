@@ -21,9 +21,12 @@ Die obige [[Funktion]] hat 3 eingangsvariablen $A, B, C$ und eine Ausgangsvariab
 Die Wahrheitstabelle zeigt die Kombination der Eingänge und deren Ausgangswert.
 ![[SW03-dt1 Kombinatorik_wahrheitstabelle.png#invert|254]]
 ### Minterme
-Minterme sind alle Kombinationen der Eingänge die in der Wahrheitstabelle eine 
+Minterme sind alle Kombinationen der Eingänge die in der Wahrheitstabelle eine $1$ ergeben.
 ### ODER Normalform
-Die ODER Normalform besteht aus allen Mintermen.
+Die ODER Normalform besteht aus allen Mintermen. Aus der obigen Wahrheitstabelle ergibt sich die Normalform:
+$$
+Y = A \cdot B
+$$
 ## Schaltzeichen
 Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschiedene Normen.
 
