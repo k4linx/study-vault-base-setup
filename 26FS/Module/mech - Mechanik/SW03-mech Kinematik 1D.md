@@ -14,7 +14,7 @@ v(t) = \frac{\triangle x}{\triangle t}
 $$
 ### Ort
 $$
-x(t) = 
+x(t) = r
 $$
 
 ## Definitionen
