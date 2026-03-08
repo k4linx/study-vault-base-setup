@@ -35,4 +35,5 @@ Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschi
 ![[SW03-dt1 Kombinatorik_abgeleitete_funktionen.png#invert]]
 
 ### Stufigkeit
-Eine logische Schaltung hat stufen die eine Aus
+Eine logische Schaltung hat stufen die eine Auskunft über die Komplexität gibt.
+>[!info] Die Stufe gibt an wieviele Operationen verkettet werden.
