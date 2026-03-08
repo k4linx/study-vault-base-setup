@@ -24,3 +24,7 @@ Die Wahrheitstabelle zeigt die Kombination der Eingänge und deren Ausgangswert.
 
 ### Schaltzeichen
 Das Schaltzeichen ist die Grafische Darstellung der Schaltung. 
+
+|                                      |     |
+| ------------------------------------ | --- |
+| ![[Pasted image 20260308161446.png]] |     |
