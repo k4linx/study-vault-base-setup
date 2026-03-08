@@ -77,8 +77,12 @@ $A \cdot (\overline{A} + B) = \underset{0}{(A \cdot \overline{A})}+ (A \cdot B) 
 $A + (\overline{A} \cdot B) = \underset{1}{(A + \overline{A})} \cdot (A + B) = A + B$
 #### Rechengesetze
 In der Boolschen Algebra gelten die [[Rechenregeln, Gleichungen und Funktionen#3 Rechengesetze|Rechengesetze]] ebenfalls.
-**Assoziativgesetz**
+##### Assoziativgesetz
 $(A \cdot B) \cdot C = A \cdot B \cdot C = A \cdot (B \cdot C)$
 $(A + B)+ C = A+B+C = A+(B+C)$
-**Kommutativgesetze**
-$A $
+
+##### Kommutativgesetz
+$A \cdot B = B \cdot A$
+$A+B = B+A$
+
+##### Distributivgesetz
