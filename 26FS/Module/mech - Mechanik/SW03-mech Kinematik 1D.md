@@ -23,12 +23,10 @@ $$
 $$
 x(t) = 
 $$
-
 ## Definitionen
 ### Der Ort $x(t)$
-Der Ort beschreibt die Position zu einem Zeitpunkt $t$. In einem x-t-Diagramm kann der Ort in Abhängigkeit von der Zeit dargestellt werden.
+Der Ort beschreibt die Position zu einem Zeitpunkt $t$. In einem x-t-Diagramm kann der Ort in Abhängigkeit von der Zeit dargestellt werden. 
 ![[SW03-mech Kinematik 1D_xt_diagram.png#invert|373]]
-
 #### Die Verschiebung
 Im obigen Diagramm sieht man die Position $x_{1}(2.00s)$ bei $11.3 cm$ und die Position $x_{2}(4.26s)$ bei $-2.1cm$. um nun die Verschiebung zu berechnen wird $x_{2}-x_{1}$ gerechnet. das ergibt delta $\triangle$:
 $$
@@ -40,7 +38,9 @@ Die Strecke wird von Richtungsänderungen nicht beeinflusst. Um die zurückgeleg
 
 ### Die Geschwindigkeit $v$
 Die Geschwindigkeit ist die Änderung des Ortes Pro Zeit. deren Einheit ist $\frac{m}{s}$ 
+
 >[!hint] Die Maximale Geschwindigkeit ist die **Lichtgeschwindigkeit** $c = 2.998 \cdot 10^{8} \frac{m}{s}$. Das heisst berechnete Geschwindigkeiten sind immer kleiner als die Lichtgeschwindigkeit. Also eine einfache Kontrolle ob die Berechnung richtig ist :) 
+
 #### Die mittlere Geschwindigkeit $\langle v \rangle$
 Die Mittlere Geschwindigkeit ist das Verhältnis der Verschiebung $x$ zur Zeit $t$ im Interval $[t_{1}, t_{2}]$ 
 $$
@@ -50,11 +50,12 @@ $$
 Die Momentangeschwindigkeit zeigt den zeitlichen Verlauf der Geschwindigkeit. 
 $$
 v(4.26) = \frac{x_{2}-x_{1}}{t_{2}-t_{1}} = \frac{\triangle x}{\triangle t} = \frac{7.4cm}{0.26s} = 28.5 \frac{cm}{s}
-$$Das ist gleich die Steigung des Dreiecks aus $\triangle x$ und $\triangle t$ je kleiner der Abstand zum Punkt $t_{2}$ desto genauer wird die Momentangeschwindigkeit. Die Momentangeschwindigkeit ist also die [[Ableitung]] des Ort $x$ nach der Zeit $t$.
+$$
+Das ist gleich die Steigung des Dreiecks aus $\triangle x$ und $\triangle t$ je kleiner der Abstand zum Punkt $t_{2}$ desto genauer wird die Momentangeschwindigkeit. Die Momentangeschwindigkeit ist also die [[Ableitung]] des Ort $x$ nach der Zeit $t$.
 
 ### Die Schnelligkeit $\dot{s}$
 #### Die Mittlere Schnelligkeit $\langle \dot{s} \rangle$
-Die Mittlere Schnelligkeit ist das Verhältnis der zurückgelegten Strecke $\triangle s$ und der Zeit $\triangle t$ im Zeitinterval $[t_{1}, t_{2}]$. Die Einheit ist $\frac{m}{s}$
+Die Mittlere Schnelligkeit ist das Verhältnis der zurückgelegten Strecke $\triangle s$ und der Zeit $\triangle t$ im Zeit Intervall $[t_{1}, t_{2}]$. Die Einheit ist $\frac{m}{s}$
 $$
 \langle \dot{s} \rangle = \frac{\triangle s}{\triangle t}
 $$

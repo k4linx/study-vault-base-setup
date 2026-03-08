@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
+                "file": "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SW01-mech Kräfte und Drehmomente"
+              "title": "SW03-mech Kinematik 1D"
             }
           }
         ]
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
+                "file": "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SW01-mech Kräfte und Drehmomente"
+              "title": "Graph of SW03-mech Kinematik 1D"
             }
           }
         ]
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen/SW01-oop1 Einführung_bytecode_jvm.png",
+                "file": "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SW01-oop1 Einführung_bytecode_jvm"
+              "title": "Backlinks for SW03-mech Kinematik 1D"
             }
           },
           {
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen/SW01-oop1 Einführung_bytecode_jvm.png",
+                "file": "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SW01-oop1 Einführung_bytecode_jvm"
+              "title": "Outgoing links from SW03-mech Kinematik 1D"
             }
           },
           {
@@ -227,13 +227,11 @@
               "title": "Reminders"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 202.5,
-    "collapsed": true
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,11 +250,11 @@
   },
   "active": "a15b9052a6e06a47",
   "lastOpenFiles": [
-    "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
-    "26FS/Module/alg - Algebra/Unterlagen/SW03 Zeiger und Wechselstromkreise_parallelschaltung_impedanz.png",
     "Ableitung.md",
-    "26FS/Module/mech - Mechanik/SW02-mech Statische Gleichgewichte.md",
+    "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
     "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
+    "26FS/Module/mech - Mechanik/SW02-mech Statische Gleichgewichte.md",
+    "26FS/Module/alg - Algebra/Unterlagen/SW03 Zeiger und Wechselstromkreise_parallelschaltung_impedanz.png",
     "Home.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
