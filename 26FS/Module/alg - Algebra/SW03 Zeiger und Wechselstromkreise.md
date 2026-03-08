@@ -5,6 +5,13 @@ tags:
   - zeigerdarstellung
   - ac_strom
   - impedanz
+  - kondensator
+  - spule
+  - widerstand
+  - festzeiger
+  - rotationszeiger
+  - serienschaltung
+  - parallelschaltung
 Folien:
   - algWoche03
 ---

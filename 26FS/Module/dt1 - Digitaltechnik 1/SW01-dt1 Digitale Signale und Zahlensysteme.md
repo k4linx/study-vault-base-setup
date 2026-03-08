@@ -1,7 +1,6 @@
 ---
 erstelldatum: 2026-02-24
 tags:
-  - dt1
   - zahlensysteme
   - binaer
   - hex

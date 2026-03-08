@@ -11,6 +11,8 @@ tags:
   - quellenleistung
   - leistungsanpassung
   - norton
+  - serienschaltung
+  - parallelschaltung
 Folien:
   - aet1_Folien_mitNotizen
 Seiten: 1-60

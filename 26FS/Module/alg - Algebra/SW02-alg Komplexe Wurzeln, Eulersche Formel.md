@@ -6,6 +6,12 @@ tags:
   - eulersche_formel
   - polarform
   - komplexe_wurzeln
+  - argument
+  - grad_bogenmass
+  - falk-schema
+  - potenzgesetze
+  - eulersche_zahl
+  - ableitung
 Folien:
   - algWoche02
 ---

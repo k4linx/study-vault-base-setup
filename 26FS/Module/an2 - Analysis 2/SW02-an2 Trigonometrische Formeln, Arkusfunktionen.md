@@ -1,6 +1,13 @@
 ---
 erstelldatum: 2026-03-01
 tags:
+  - arcsin
+  - arccos
+  - arctan
+  - ableitung
+  - gleichfrequente_schwingungen
+  - pythagoras
+  - drehmatrix
 Folien:
   - an2Woche02
 ---

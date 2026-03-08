@@ -4,6 +4,10 @@ tags:
   - an2
   - umkehrfunktionen
   - Arkusfunktionen
+  - ableitung
+  - sin
+  - cos
+  - tan
 Folien: an2Woche01
 ---
 

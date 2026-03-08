@@ -4,6 +4,8 @@ tags:
   - traegheitsprinzip
   - reaktionsprinzip
   - freischneiden
+  - kraft
+  - drehmoment
 Folien:
   - 2_Statische_Gleichgewichte
 ---

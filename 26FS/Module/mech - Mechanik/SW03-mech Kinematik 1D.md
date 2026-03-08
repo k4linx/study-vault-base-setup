@@ -7,6 +7,8 @@ tags:
   - ort
   - geschwindigkeit
   - beschleunigung
+  - integral
+  - ableitung
 Folien:
   - 3_Kinematik_1D
 ---
@@ -32,7 +34,6 @@ $$
 >3. Um von einer bekannten Geschwindigkeit zur Beschleunigung zu kommen muss die Funktion einmal [[Ableitung|abgeleitet]] werden.
 >4. Um von der Beschleunigung zum Ort zu kommen muss die Funktion zweimal [[Integral|integriert]] werden.
 >![[SW03-mech Kinematik 1D_xva(t)<->xva(t).png|400]]
-
 ## Definitionen
 ### Der Ort $x(t)$
 Der Ort beschreibt die Position zu einem Zeitpunkt $t$. In einem x-t-Diagramm kann der Ort in Abhängigkeit von der Zeit dargestellt werden. 

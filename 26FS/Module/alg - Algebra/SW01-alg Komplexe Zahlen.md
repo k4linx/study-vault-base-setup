@@ -3,6 +3,11 @@ erstelldatum: 2026-02-22
 tags:
   - alg
   - komplexe_zahlen
+  - wurzeln
+  - betrag
+  - argument
+  - polarform
+  - rechengesetze
 Folien: algWoche01
 ---
 ## Wichtige Formeln
