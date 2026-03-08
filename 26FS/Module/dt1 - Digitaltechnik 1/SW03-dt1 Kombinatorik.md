@@ -97,4 +97,7 @@ $$
 \end{align}
 $$
 ### Shannon
-Shannon hat weiter verallgemeinert, Bei einer Schaltung aus UND und ODER verknüpfungen können alle Variablen verallgemeinert und die Operatoren getauscht werden, die neue Funktion ist die Negation der ursprünglichen Funktion.
+Shannon hat weiter verallgemeinert, Bei einer Schaltung aus UND und ODER verknüpfungen können alle Variablen verallgemeinert und die Operatoren getauscht werden, die neue Funktion ist die Negation der ursprünglichen Funktion
+$$
+Y = \overline{A \cdot B \cdot C +((\overline{A} \cdot B + \overline{A}))}
+$$
