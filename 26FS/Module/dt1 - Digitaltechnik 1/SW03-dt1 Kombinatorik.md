@@ -62,7 +62,7 @@ $$
 - $A + 0 = A$
 - $A+1 = 1$
 - $A+\overline{A}= 1$
-- $A$
+- $A + A = A$
 Das Neutrale Element bei der ODER Funktion ist $0$
 
 **UND**
@@ -75,4 +75,5 @@ Das Neutrale Element der UND Funktion ist $1$
 #### Reduktionsformeln
 $A \cdot (\overline{A} + B) = \underset{0}{(A \cdot \overline{A})}+ (A \cdot B) = A \cdot B$
 $A + (\overline{A} \cdot B) = \underset{1}{(A + \overline{A})} \cdot (A + B) = A + B$
-
+#### Assoziativgesetz
+In der Boolschen Algebra gild das [[ Assoziativgesetz ebenfalls
