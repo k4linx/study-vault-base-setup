@@ -36,6 +36,10 @@ Die Geschwindigkeit ist die Änderung des Ortes Pro Zeit.
 #### Die mittlere Geschwindigkeit $\langle v \rangle$
 
 #### Die Momentangeschwindigkeit $v(t)$
+Die Momentangeschwindigkeit zeigt den zeitlichen Verlauf der Geschwindigkeit. 
+$$
+v(4.26) = \frac{x_{2}-x_{1}}{t_{2}-t_{1}} = \frac{\triangle x}{\triangle t} = \frac{7.4cm}{0.26s} = 28.5 \frac{cm}{s}
+$$ Das ist gleich die Steigung des Dreiecks aus $\triangle x$ und $\triangle t$ je kleiner der Abstand zum Punkt $t_{2}$ desto genauer wird die Momentangeschwindigkeit.
 
 ### Die Schnelligkeit $\dot{s}$
 ## Herleitungen
