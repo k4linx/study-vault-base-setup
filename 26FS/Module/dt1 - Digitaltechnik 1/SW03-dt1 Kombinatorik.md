@@ -11,18 +11,17 @@ $$
 
 $$
 
-## Definitionen
-### Schaltfunktion
+## Schaltfunktion
 Die Schaltfunktion ist die Algebraische Darstellung der Schaltung. 
 $$
 Y = f(A,B,C)
 $$
 Die obige [[Funktion]] hat 3 eingangsvariablen $A, B, C$ und eine Ausgangsvariable $Y$. 
-### Funktionstabelle (Wahrheitstabelle)
+## Funktionstabelle (Wahrheitstabelle)
 Die Wahrheitstabelle zeigt die Kombination der Eingänge und deren Ausgangswert.
 ![[SW03-dt1 Kombinatorik_wahrheitstabelle.png#invert|254]]
 
-### Schaltzeichen
+## Schaltzeichen
 Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschiedene Normen.
 
 | IEC Norm                                      | ANSI Norm                                  |
@@ -41,4 +40,5 @@ Eine logische Schaltung hat stufen die eine Auskunft über die Komplexität gibt
 - **Zweistufig:** $Y = (\overline{A} \cdot \overline{B}) + (A \cdot B)$
 - **Dreistufig:** $Y = ((\overline{A} \cdot \overline{B})+ (A \cdot B)) \cdot C$
 
-## Rechenrege
+## Rechenregeln der Schaltalgebra
+### Prioritäten der Operati
