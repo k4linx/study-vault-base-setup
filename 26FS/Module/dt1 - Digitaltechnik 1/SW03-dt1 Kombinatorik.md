@@ -68,4 +68,8 @@ Das Neutrale Element bei der ODER Funktion ist $0$
 - $A \cdot 0 = 0$
 - $A \cdot 1 = A$
 - $A \cdot \overline{A}= 0$
-Das Neutrale Element der UND F
+Das Neutrale Element der UND Funktion ist $1$
+
+#### Reduktionsformeln
+$A \cdot (\overline{A} + B) =  = A \cdot B$
+$$
