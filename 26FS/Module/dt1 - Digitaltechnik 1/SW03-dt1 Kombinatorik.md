@@ -12,10 +12,15 @@ $$
 $$
 
 ## Definitionen
+### Schaltfunktion
+Die Schaltfunktion ist die Algebraische Darstellung der Schaltung. 
 $$
+Y = f(A,B,C)
+$$
+Die obige [[Funktion]] hat 3 eingangsvariablen $A, B, C$ und eine Ausgangsvariable $Y$. 
+### Funktionstabelle (Wahrheitstabelle)
+Die Wahrheitstabelle zeigt die Kombination der Eingänge und deren Ausgangswert.
+![[SW03-dt1 Kombinatorik_wahrheitstabelle.png#invert|254]]
 
-$$
-## Herleitungen
-$$
-
-$$
+### Schaltzeichen
+Das Schaltzeichen ist die Grafische Darstellung der Schaltung. 
