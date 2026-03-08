@@ -88,7 +88,7 @@ Mithilfe der [[KAP9-lalg1 Matrixalgebra#Spezielle Matrizen|Drehmatrix]] kann der
 
 
 ### Satz über die Multiplikation
-Bei der multiplikation werden die Beträge von zwei komplexen Zahlen multipliziert und die argumente addiert.
+Bei der Multiplikation werden die Beträge von zwei komplexen Zahlen multipliziert und die argumente addiert.
 $$
 \arg(x \cdot y) = \arg(x) + \arg(y)
 $$
@@ -98,6 +98,7 @@ $$
 $$
 
 ### Komplexe Wurzeln
+Mit dem [[#Satz über die Multiplikation]] kann ganz schnell eine Wurzel der komplexen Zahl in der [[SW01-alg Komplexe Zahlen#Polarform|Polarform]] gefunden werden
 
 ### Eulersche Formel
 Die [[Ableitung]] von $z(\phi) = cos(\phi) + \sin(\phi)\cdot i$ ist:
