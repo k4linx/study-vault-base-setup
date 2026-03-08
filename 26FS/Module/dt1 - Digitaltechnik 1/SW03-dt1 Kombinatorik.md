@@ -86,3 +86,5 @@ $A \cdot B = B \cdot A$
 $A+B = B+A$
 
 ##### Distributivgesetz
+$A \cdot (B + C) = (A \cdot B)+(A \cdot C)$
+$A+(B \cdot C)= (A + B)\cdot(A+C)$
