@@ -30,7 +30,10 @@ $$
 \begin{align}
 x &= a+bi \\
 y &= c+di  \\
-x \cdot y &= ac - bd + (ad + bc)i
+x \cdot y &= ac - bd + (ad + bc)i \\ \\
+
+\arg(x \cdot y) &= \arg(x) + \arg(y) \\
+|x \cdot y| &= |x| \cdot |y|
 \end{align}
 $$
 
@@ -86,6 +89,14 @@ Mithilfe der [[KAP9-lalg1 Matrixalgebra#Spezielle Matrizen|Drehmatrix]] kann der
 
 ### Satz über die Multiplikation
 Bei der multiplikation werden die Beträge von zwei komplexen Zahlen multipliziert und die argumente addiert.
+$$
+\arg(x \cdot y) = \arg(x) + \arg(y)
+$$
+und
+$$
+|x \cdot y| = |x| \cdot |y|
+$$
+
 ### Komplexe Wurzeln
 
 ### Eulersche Formel
