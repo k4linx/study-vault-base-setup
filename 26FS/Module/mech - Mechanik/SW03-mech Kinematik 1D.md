@@ -19,8 +19,17 @@ $$
 
 ## Definitionen
 ### Der Ort $x(t)$
-Der Ort beschreibt die Position zu einem Zeitpunkt $t$. 
+Der Ort beschreibt die Position zu einem Zeitpunkt $t$. In einem x-t-Diagramm kann der Ort in Abhängigkeit von der Zeit dargestellt werden.
+![[SW03-mech Kinematik 1D_xt_diagram.png#invert|373]]
 
+#### Die Verschiebung
+Im obigen Diagramm sieht man die Position $x_{1}(2.00s)$ bei $11.3 cm$ und die Position $x_{2}(4.26s)$ bei $-2.1cm$. um nun die Verschiebung zu berechnen wird $x_{2}-x_{1}$ gerechnet. das ergibt delta $\triangle$:
+$$
+\triangle x = -2.1 - 11.3 = 13.4cm
+$$
+Wenn Richtungsänderungen auftreten, beeinflusst dies die Verschiebung.
+#### Die Strecke $s$
+Die Strecke wird von Richtungsänderungen nicht beeinflusst. Um die zurückgelegte Strecke zu berechnen wird die 
 $$
 
 $$
