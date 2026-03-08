@@ -88,7 +88,7 @@ Mithilfe der [[KAP9-lalg1 Matrixalgebra#Spezielle Matrizen|Drehmatrix]] kann der
 
 
 ### Satz über die Multiplikation
-Bei der Multiplikation werden die Beträge von zwei komplexen Zahlen multipliziert und die argumente addiert.
+Bei der Multiplikation werden die Beträge von zwei komplexen Zahlen multipliziert und die Argumente addiert.
 $$
 \arg(x \cdot y) = \arg(x) + \arg(y)
 $$
@@ -121,13 +121,14 @@ z^{2}&= 9 \cdot cis(130°) \\
 &= 9 \cdot cis(490°) \Rightarrow z = 3 \cdot cis(245)
 \end{align}
 $$
-Allgemein bedeutet das $z^{n} = y$ hat genau $n-1$ komplexe Wurzeln:
+**Allgemein** bedeutet das $z^{n} = y$ hat genau $n-1$ komplexe Wurzeln:
 $$
-z_{k}= ^{n}\sqrt{|y|} \cdot cis(\phi_{k}) \ n \phi_{k}= 360k + \arg(y) \Rightarrow \phi = \frac{360k}{n}, \ k \in {0,n-1}
+\begin{align}
+z_{k}&= ^{n}\sqrt{|y|} \cdot cis(\phi_{k})  \\
+n \phi_{k}&= 360k + \arg(y) \Rightarrow \phi_k = \frac{360k+\arg(y)}{n}, \quad k \in {0,n-1}
+\end{align}
 $$
-
 Ist $y \in \mathbb{R}$ kann es sein dass die Gleichung auch reelle Lösungen hat.
-
 ### Eulersche Formel
 Die [[Ableitung]] von $z(\phi) = cos(\phi) + \sin(\phi)\cdot i$ ist:
 $$

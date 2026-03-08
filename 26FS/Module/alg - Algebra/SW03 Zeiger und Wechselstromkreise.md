@@ -29,6 +29,30 @@ $$
 \underline{A} = a \cdot e^{i \varphi}
 $$
 
+### Impedanz
+#### Widerstand R
+$$
+R = \underline{Z} = \frac{\underline{U}}{\underline{I}}
+$$
+#### Kondensator
+$$
+\underline{Z} = \frac{1}{i \omega C} = -\frac{i}{\omega C}
+$$
+#### Spule
+$$
+\underline{Z} = i \omega L
+$$
+#### Serienschaltung
+![[SW03 Zeiger und Wechselstromkreise_serienschaltung_impedanz.png#invert|637]]
+$$
+\underline{Z}_{AB}= \underline{Z}_{1}+\underline{Z}_{2}
+$$
+#### Parallelschaltung
+![[SW03 Zeiger und Wechselstromkreise_parallelschaltung_impedanz.png#invert|460]]
+$$
+\frac{1}{\underline{Z}_{AB}} = \frac{1}{\underline{Z}_{1}} + \frac{1}{\underline{Z}_{2}} \Leftrightarrow \underline{Z_{AB}} = \frac{\underline{Z}_{1}+\underline{Z}_{2}}{\underline{Z}_{1}+\underline{Z}_{2}}
+$$
+
 ## Definitionen
 ### harmonische Schwingung
 Mit der [[SW02-alg Komplexe Wurzeln, Eulersche Formel#Eulersche Formel|Eulerschen Formel]] kann eine Harmonische Schwingung zu einer Komplexen Schwingung aufgeblasen, zum rechnen ist dies aber oft einfacher. dies nennt man den [[#Rotierender Zeiger|rotierenden Zeiger]] kurz Zeiger.
@@ -75,7 +99,7 @@ I(t) = Î \cdot \sin(\omega t + \varphi) \Rightarrow U(t) =  Û\cdot R \cdot \si
 $$
 Daraus ergibt sich $Û = R \cdot Î$ in der Zeigerdarstellung $\underline{U} = R\cdot \underline{I} \Rightarrow R = \frac{\underline{U}}{\underline{I}} = \underline{Z}$. Dieses $\underline{Z}$ nennt man die [[Impedanz]] 
 #### Impedanz des Kondensators
-
+Die Impedanz des Kondensators 
 
 #### Impedanz der Spule
 
