@@ -68,6 +68,7 @@ Die Einheit ist $\frac{m}{s}$
 
 ### Die Beschleunigung $a$
 Die Beschleunigung ist die Änderung pro Zeit der Geschwindigkeit. Die einheit der Beschleunigung ist $\frac{m}{s^{2}}$. 
+
 #### Die Momentanbeschleunigung $a(t)$
 Die Momentanbeschleunigung ist die [[Ableitung]] der Momentangeschwindigkeit $v(t)$
 $$
