@@ -19,14 +19,25 @@ $$
 $$
 v(t) = \lim_{t_{1}\rightarrow t} = \frac{x(t)-x(t_{1})}{t-t_{1}} = \lim_{\triangle t \rightarrow 0} \frac{\triangle x}{\triangle t}
 $$
+$$
+v(t) = \int a(t) dt + v_{0}
+$$
 ### Ort
 $$
-
+x(t) = \int v(t) dt + x_{0}
 $$
 ## Definitionen
 ### Der Ort $x(t)$
 Der Ort beschreibt die Position zu einem Zeitpunkt $t$. In einem x-t-Diagramm kann der Ort in Abhängigkeit von der Zeit dargestellt werden. 
 ![[SW03-mech Kinematik 1D_xt_diagram.png#invert|373]]
+Ist nun eine Beschleunigung oder eine Geschwindigkeit bekannt und daraus muss der Ort berechnet werden so kann dies mit einem [[Integral]] berechnet werden
+$$
+y(t) = \int v(t)dt + C 
+$$
+Die Integrationskonstante $C$ ist hierbei $y_{0}$ daraus folgt das fertige Integral
+$$
+y(t) = \int v(t) dt + y_{0}
+$$
 #### Die Verschiebung
 Im obigen Diagramm sieht man die Position $x_{1}(2.00s)$ bei $11.3 cm$ und die Position $x_{2}(4.26s)$ bei $-2.1cm$. um nun die Verschiebung zu berechnen wird $x_{2}-x_{1}$ gerechnet. das ergibt delta $\triangle$:
 $$
@@ -52,6 +63,15 @@ $$
 v(4.26) = \frac{x_{2}-x_{1}}{t_{2}-t_{1}} = \frac{\triangle x}{\triangle t} = \frac{7.4cm}{0.26s} = 28.5 \frac{cm}{s}
 $$
 Das ist gleich die Steigung des Dreiecks aus $\triangle x$ und $\triangle t$ je kleiner der Abstand zum Punkt $t_{2}$ desto genauer wird die Momentangeschwindigkeit. Die Momentangeschwindigkeit ist also die [[Ableitung]] des Ort $x$ nach der Zeit $t$.
+
+Ist nun die Beschleunigung bekannt kann die Geschwindigkeit $v(t)$ mithilfe eines [[Integrals]] berechnet werden
+$$
+v(t) = \int a(t) dt + C
+$$
+Nun muss noch die Konstante $C$ berechnet werden wobei diese die Anfangsgeschwindigkeit $v_{0}$ ist. Also sieht unser Integral folgendermassen aus:
+$$
+v(t) = \int a(t) dt + v_{0}
+$$
 
 ### Die Schnelligkeit $\dot{s}$
 #### Die Mittlere Schnelligkeit $\langle \dot{s} \rangle$
