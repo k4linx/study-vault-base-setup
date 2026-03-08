@@ -41,4 +41,10 @@ Eine logische Schaltung hat stufen die eine Auskunft über die Komplexität gibt
 - **Dreistufig:** $Y = ((\overline{A} \cdot \overline{B})+ (A \cdot B)) \cdot C$
 
 ## Rechenregeln der Schaltalgebra
-### Prioritäten der Operati
+### Prioritäten der Operatoren
+1. Invertierung
+2. UND-Verknüpfung
+3. ODER-Verknüpfung
+4. EXOR, EXNOR und Implikationen
+
+### Boolsche A
