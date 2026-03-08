@@ -77,4 +77,5 @@ $A \cdot (\overline{A} + B) = \underset{0}{(A \cdot \overline{A})}+ (A \cdot B) 
 $A + (\overline{A} \cdot B) = \underset{1}{(A + \overline{A})} \cdot (A + B) = A + B$
 #### Assoziativgesetz
 In der Boolschen Algebra gild das [[Rechenregeln, Gleichungen und Funktionen#3 Rechengesetze|Assoziativgesetz]] ebenfalls.
-$(A cdo)$
+$(A \cdot B) \cdot C = A \cdot B \cdot C = A \cdot (B \cdot C)$
+$(A + B)+ C = A+B+C = A+(B+C)$
