@@ -96,3 +96,5 @@ $$
 \overline{A + B} \Leftrightarrow \overline{A} \cdot \overline{B}
 \end{align}
 $$
+### Shannon
+Shannon hat weiter verallgemeinert, 
