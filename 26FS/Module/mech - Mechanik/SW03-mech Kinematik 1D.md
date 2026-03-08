@@ -37,7 +37,7 @@ Die Geschwindigkeit ist die Änderung des Ortes Pro Zeit.
 
 #### Die Momentangeschwindigkeit $v(t)$
 
-### Die Schnelligkeit $$
+### Die Schnelligkeit $\dot{s}$
 ## Herleitungen
 $$
 
