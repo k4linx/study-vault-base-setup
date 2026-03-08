@@ -20,13 +20,15 @@ Die obige [[Funktion]] hat 3 eingangsvariablen $A, B, C$ und eine Ausgangsvariab
 ## Funktionstabelle (Wahrheitstabelle)
 Die Wahrheitstabelle zeigt die Kombination der Eingänge und deren Ausgangswert.
 ![[SW03-dt1 Kombinatorik_wahrheitstabelle.png#invert|254]]
-### Minterme
+### Minterme/Maxterme
 Minterme sind alle Kombinationen der Eingänge die in der Wahrheitstabelle eine $1$ ergeben.
-### ODER Normalform
+### ODER Normalform (Disjunktive Normalform DNF)
 Die ODER Normalform besteht aus allen Mintermen. Aus der obigen Wahrheitstabelle ergibt sich die Normalform:
 $$
 Y = A \cdot B
 $$
+### UND Normalform (Konjunktive Normalform KNF)
+Die UND Normalform besteht aus allen Max
 ## Schaltzeichen
 Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschiedene Normen.
 
