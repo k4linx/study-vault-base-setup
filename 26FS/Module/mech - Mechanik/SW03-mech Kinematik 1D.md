@@ -18,6 +18,9 @@ x(t) =
 $$
 
 ## Definitionen
+### Der Ort $x(t)$
+Der Ort beschreibt die Position zu einem Zeitpunkt $t$ 
+
 $$
 
 $$
