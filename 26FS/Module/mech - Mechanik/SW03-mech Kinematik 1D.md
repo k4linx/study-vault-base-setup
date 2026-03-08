@@ -33,7 +33,8 @@ Die Strecke wird von Richtungsänderungen nicht beeinflusst. Um die zurückgeleg
 
 ### Die Geschwindigkeit $v(t)$
 Die Geschwindigkeit ist die Änderung des Ortes Pro Zeit. 
-#### Die mittlere Geschwindigkeit $$
+#### Die mittlere Geschwindigkeit $\langle v \rangle$
+
 ## Herleitungen
 $$
 
