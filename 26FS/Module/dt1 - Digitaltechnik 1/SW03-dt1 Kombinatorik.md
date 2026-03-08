@@ -91,5 +91,8 @@ $A+(B \cdot C)= (A + B)\cdot(A+C)$
 ### De Morgan
 De Morgan hat herausgefunden das eine unterbrochene Negation den Operator wechselt:
 $$
-\overline{A}
+\begin{align}
+\overline{A \cdot B} \Leftrightarrow \overline{A} + \overline{B} \\
+\overline{A + B} \Leftrightarrow \overline{A} \cdot \overline{B}
+\end{align}
 $$
