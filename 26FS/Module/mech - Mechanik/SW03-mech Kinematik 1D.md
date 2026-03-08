@@ -13,15 +13,15 @@ Folien:
 ## Wichtige Formeln
 ### Beschleunigung
 $$
-a(t) = \frac{\triangle v}{\triangle t}
+a(t) = \frac{v(t)-v(t_{1})}{t-t_{1}}=\frac{dv}{dt}(t)
 $$
 ### Geschwindigkeit
 $$
-v(t) = \frac{\triangle x}{\triangle t}
+v(t) = \lim_{t_{1}\rightarrow t} = \frac{x(t)-x(t_{1})}{t-t_{1}} = \lim_{\triangle t \rightarrow 0} \frac{\triangle x}{\triangle t}
 $$
 ### Ort
 $$
-x(t) = 
+
 $$
 ## Definitionen
 ### Der Ort $x(t)$
@@ -79,3 +79,9 @@ Die Mittlere Beschleunigung ergibt sich aus dem $\triangle v$ und $\triangle t$:
 $$
 \langle a \rangle = \frac{v(t_{2})-v(t_{1})}{t_{2}-t_{1}} = \frac{\triangle v}{\triangle t}
 $$
+Wenn die zweite [[Ableitung]] $\frac{d^{2}x}{dt^{2}} > 0$ ist hat x eine Konvexe Krümmung.
+![[SW03-mech Kinematik 1D_konvex.png#invert|282]]
+Ist die Ableitung $\frac{d^{2}x}{dt^{2}} < 0$ hat x eine Konkave Krümmung.
+![[SW03-mech Kinematik 1D_konkave.png#invert]]
+An folgendem Graph sind die Krümmungsarten gut ersichtlich:
+![[SW03-mech Kinematik 1D_konkav_konvex.png#invert]]
