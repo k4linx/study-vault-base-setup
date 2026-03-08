@@ -29,10 +29,10 @@ $$
 $$
 Wenn Richtungsänderungen auftreten, beeinflusst dies die Verschiebung.
 #### Die Strecke $s$
-Die Strecke wird von Richtungsänderungen nicht beeinflusst. Um die zurückgelegte Strecke zu berechnen wird die 
-$$
+Die Strecke wird von Richtungsänderungen nicht beeinflusst. Um die zurückgelegte Strecke zu berechnen wird der Weg aufsummiert. 
 
-$$
+### Die Geschwindigkeit $v(t)$
+Die Geschwindigkeit ist die Änderung des Ortes Pro Zeit. 
 ## Herleitungen
 $$
 
