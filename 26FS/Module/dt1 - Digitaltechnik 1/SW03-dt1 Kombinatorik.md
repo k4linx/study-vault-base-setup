@@ -20,6 +20,7 @@ Die obige [[Funktion]] hat 3 eingangsvariablen $A, B, C$ und eine Ausgangsvariab
 ## Funktionstabelle (Wahrheitstabelle)
 Die Wahrheitstabelle zeigt die Kombination der Eingänge und deren Ausgangswert.
 ![[SW03-dt1 Kombinatorik_wahrheitstabelle.png#invert|254]]
+### ODER Normalform
 
 ## Schaltzeichen
 Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschiedene Normen.
@@ -100,7 +101,7 @@ $$
 Shannon hat weiter verallgemeinert, Bei einer Schaltung aus UND und ODER verknüpfungen können alle Variablen verallgemeinert und die Operatoren getauscht werden, die neue Funktion ist die Negation der ursprünglichen Funktion
 $$
 \begin{align}
-Y = \overline{A \cdot B \cdot C +((\overline{A} \cdot B + \overline{A} \cdot B \cdot \overline{C}) \cdot D)} \\
-\overline{Y} = \overline{A} + \overline{B}+ \overline{C} \cdot ((A + \overline{B} \cdot A + \overline{B} + C) + \cdot \overline{D})
+Y &= \overline{A \cdot B \cdot C +((\overline{A} \cdot B + \overline{A} \cdot B \cdot \overline{C}) \cdot D)} \\
+\overline{Y} &= \overline{A} + \overline{B}+ \overline{C} \cdot ((A + \overline{B} \cdot A + \overline{B} + C) + \cdot \overline{D})
 \end{align}
 $$
