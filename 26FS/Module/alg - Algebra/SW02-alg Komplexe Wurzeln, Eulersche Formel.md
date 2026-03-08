@@ -120,15 +120,20 @@ $$
 z^{2}&= 9 \cdot cis(130°) \\
 &= 9 \cdot cis(490°) \Rightarrow z = 3 \cdot cis(245)
 \end{align}
-
 $$
+Allgemein bedeutet das $z^{n} = y$ hat genau $n-1$ komplexe Wurzeln:
+$$
+z_{k}= ^{n}\sqrt{|y|} \cdot cis(\phi_{k}) \ n \phi_{k}= 360k + \arg(y), \ k \in {0,n-1}
+$$
+
+Ist $y \in \mathbb{R}$ kann es sein dass die Gleichung auch reelle Lösungen hat.
 
 ### Eulersche Formel
 Die [[Ableitung]] von $z(\phi) = cos(\phi) + \sin(\phi)\cdot i$ ist:
 $$
 \frac{d}{d \phi} = (\cos(\phi)+ \sin(\phi)i) = -sin(\phi) + \cos(\phi)i = i (\cos(\phi)+i \sin(\phi)) \Rightarrow \frac{d}{d \phi}z(\phi) = i \cdot z(\phi)
 $$
-Dies ist bereits aus der Analysis bekannt nämlich von der [[Eulerschen zahl]].
+Dies ist bereits aus der Analysis bekannt nämlich von der [[Eulerschen Zahl]].
 $$
 \frac{d}{d \phi} e^{\lambda\phi}= \lambda \cdot e^{\lambda\phi}
 $$
