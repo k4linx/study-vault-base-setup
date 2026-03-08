@@ -62,6 +62,10 @@ $$
 - $A + 0 = A$
 - $A+1 = 1$
 - $A+\overline{A}= 1$
+Das Neutrale Element bei der ODER Funktion ist $0$
+
 **UND**
 - $A \cdot 0 = 0$
-- $A \cdot 1 = 1$
+- $A \cdot 1 = A$
+- $A \cdot \overline{A}= 0$
+Das Neutrale Element der UND F
