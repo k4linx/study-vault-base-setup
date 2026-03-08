@@ -88,3 +88,8 @@ $A+B = B+A$
 ##### Distributivgesetz
 $A \cdot (B + C) = (A \cdot B)+(A \cdot C)$
 $A+(B \cdot C)= (A + B)\cdot(A+C)$
+### De Morgan
+De Morgan hat herausgefunden das eine unterbrochene Negation den Operator wechselt:
+$$
+\overline{A}
+$$
