@@ -47,4 +47,5 @@ Eine logische Schaltung hat stufen die eine Auskunft über die Komplexität gibt
 3. ODER-Verknüpfung
 4. EXOR, EXNOR und Implikationen
 
-### Boolsche A
+### Boolsche Axiome
+- Eine ODER Funktion liefert genau dann 0 wenn alle Eingänge 0 sind
