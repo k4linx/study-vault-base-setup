@@ -98,7 +98,30 @@ $$
 $$
 
 ### Komplexe Wurzeln
-Mit dem [[#Satz über die Multiplikation]] kann ganz schnell eine Wurzel der komplexen Zahl in der [[SW01-alg Komplexe Zahlen#Polarform|Polarform]] gefunden werden
+Mit dem [[#Satz über die Multiplikation]] kann ganz schnell eine Wurzel der komplexen Zahl in der [[SW01-alg Komplexe Zahlen#Polarform|Polarform]] gefunden werden.
+**Beispiel**
+$$
+z^{2}=9 \cdot cis(130°)
+$$
+für $z$ gilt nun also:
+$$
+z= 3 \cdot cis(65)
+$$
+weil
+$$
+\begin{align}
+|z^{2}|&= 3^{2}= 9 \\
+\arg(z^{2}) &= 65° + 65° = 130° 
+\end{align}
+$$
+$z$ hat noch eine zweite Lösung welche $\leq 360°$ ist. Dazu nimmt man den bekannten winkel von $z^{2}$ und addiert $360°$:
+$$
+\begin{align}
+z^{2}&= 9 \cdot cis(130°) \\
+&= 9 \cdot cis(490°) \Rightarrow z = 3 \cdot cis(245)
+\end{align}
+
+$$
 
 ### Eulersche Formel
 Die [[Ableitung]] von $z(\phi) = cos(\phi) + \sin(\phi)\cdot i$ ist:
