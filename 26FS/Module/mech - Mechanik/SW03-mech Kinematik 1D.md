@@ -6,7 +6,7 @@ Folien:
 ## Wichtige Formeln
 ### Beschleunigung
 $$
-a(t)
+a(t) = \frac{\triangle v}{\triangle t}
 $$
 ### Geschwindigkeit
 $$
