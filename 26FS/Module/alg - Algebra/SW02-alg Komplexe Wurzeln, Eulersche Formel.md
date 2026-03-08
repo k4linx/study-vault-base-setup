@@ -123,7 +123,7 @@ z^{2}&= 9 \cdot cis(130°) \\
 $$
 Allgemein bedeutet das $z^{n} = y$ hat genau $n-1$ komplexe Wurzeln:
 $$
-z_{k}= ^{n}\sqrt{|y|} \cdot cis(\phi_{k}) \ n \phi_{k}= 360k + \arg(y), \ k \in {0,n-1}
+z_{k}= ^{n}\sqrt{|y|} \cdot cis(\phi_{k}) \ n \phi_{k}= 360k + \arg(y) \Rightarrow \phi = \frac{360k}{n}, \ k \in {0,n-1}
 $$
 
 Ist $y \in \mathbb{R}$ kann es sein dass die Gleichung auch reelle Lösungen hat.
