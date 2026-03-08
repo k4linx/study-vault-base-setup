@@ -75,7 +75,10 @@ Das Neutrale Element der UND Funktion ist $1$
 #### Reduktionsformeln
 $A \cdot (\overline{A} + B) = \underset{0}{(A \cdot \overline{A})}+ (A \cdot B) = A \cdot B$
 $A + (\overline{A} \cdot B) = \underset{1}{(A + \overline{A})} \cdot (A + B) = A + B$
-#### Assoziativgesetz
-In der Boolschen Algebra gild das [[Rechenregeln, Gleichungen und Funktionen#3 Rechengesetze|Assoziativgesetz]] ebenfalls.
+#### Rechengesetze
+In der Boolschen Algebra gelten die [[Rechenregeln, Gleichungen und Funktionen#3 Rechengesetze|Rechengesetze]] ebenfalls.
+**Assoziativgesetz**
 $(A \cdot B) \cdot C = A \cdot B \cdot C = A \cdot (B \cdot C)$
 $(A + B)+ C = A+B+C = A+(B+C)$
+**Kommutativgesetze**
+$A $
