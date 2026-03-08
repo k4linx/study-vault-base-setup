@@ -35,6 +35,9 @@ Die Strecke wird von Richtungsänderungen nicht beeinflusst. Um die zurückgeleg
 Die Geschwindigkeit ist die Änderung des Ortes Pro Zeit. 
 #### Die mittlere Geschwindigkeit $\langle v \rangle$
 
+#### Die Momentangeschwindigkeit $v(t)$
+
+### Die Schnelligkeit $$
 ## Herleitungen
 $$
 
