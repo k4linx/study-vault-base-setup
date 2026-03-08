@@ -31,8 +31,9 @@ $$
 ### UND Normalform (Konjunktive Normalform KNF)
 Die UND Normalform besteht aus allen [[#Minterme/Maxterme|Maxtermen]]. Aus der obigen Wahrheitstabelle ergibt sich die Normalform:
 $$
-Y = (\overline{A + B) \cdot (A+)
+Y = (\overline{A} + \overline{B}) \cdot (\overline{A}+ B) \cdot (A + \overline{B})
 $$
+Diese 
 ## Schaltzeichen
 Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschiedene Normen.
 
