@@ -1,7 +1,14 @@
 ---
 erstelldatum: 2026-03-02
 tags:
+  - v-t
+  - a-t
+  - x-t
+  - ort
+  - geschwindigkeit
+  - beschleunigung
 Folien:
+  - 3_Kinematik_1D
 ---
 ## Wichtige Formeln
 ### Beschleunigung

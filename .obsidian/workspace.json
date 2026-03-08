@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "cbf5ae22585cdad2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "a15b9052a6e06a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "SW01-mech Kräfte und Drehmomente"
             }
           }
         ]
@@ -89,9 +89,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -117,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of SW01-mech Kräfte und Drehmomente"
             }
           }
         ]
@@ -250,20 +250,24 @@
       "templates:Insert template": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a15b9052a6e06a47",
   "lastOpenFiles": [
     "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
+    "26FS/Module/alg - Algebra/Unterlagen/SW03 Zeiger und Wechselstromkreise_parallelschaltung_impedanz.png",
+    "Ableitung.md",
+    "26FS/Module/mech - Mechanik/SW02-mech Statische Gleichgewichte.md",
+    "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
+    "Home.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW03-an2 Volumen und Mittelwertberechnung mit Integralen.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
-    "SW03-mech Kinematik 1D_xt_diagram.png",
+    "26FS/Module/mech - Mechanik/unterlagen/SW03-mech Kinematik 1D_xt_diagram.png",
     "26FS/Module/mech - Mechanik/mech - Mechanik.base",
     "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
-    "SW03 Zeiger und Wechselstromkreise_parallelschaltung_impedanz.png",
-    "SW03 Zeiger und Wechselstromkreise_serienschaltung_impedanz.png",
+    "26FS/Module/alg - Algebra/Unterlagen/SW03 Zeiger und Wechselstromkreise_serienschaltung_impedanz.png",
     "Eulerschen zahl.md",
     "Diverses/Mathematik Auffrischungskurs/Gleichungssysteme, Ungleichungen, Betrag & Potenzen.md",
     "26FS/Module/alg - Algebra/alg - Algebra.base",
@@ -283,12 +287,7 @@
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
     "25HS/Module/konvE - Konvergenz Elektrotechnik/2025-12-06 konvE SW 1-7.md",
     "Diverses/Cheatsheets/Math cheatsheet.md",
-    "Home.md",
     "Diverses/Cheatsheets/TikZ cheatsheet.md",
-    "Diverses/Cheatsheets/Mardown Cheatsheet.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP11-lalg1 Python.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen/SW01-oop1 Einführung_bytecode_jvm.png",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen",
     "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",
