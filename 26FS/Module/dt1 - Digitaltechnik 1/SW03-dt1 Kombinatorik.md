@@ -36,4 +36,5 @@ Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschi
 
 ### Stufigkeit
 Eine logische Schaltung hat stufen die eine Auskunft über die Komplexität gibt.
->[!info] Die Stufe gibt an wieviele Operationen verkettet werden.
+>[!info] Die Stufe gibt an wieviele Operationen verkettet werden. Invertierte Ein-/Ausgänge werden nicht als Stufe gezählt.
+- **Einstufig:** $Y $
