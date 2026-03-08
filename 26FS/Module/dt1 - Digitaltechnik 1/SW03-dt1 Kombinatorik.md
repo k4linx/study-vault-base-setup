@@ -53,4 +53,8 @@ Eine logische Schaltung hat stufen die eine Auskunft über die Komplexität gibt
 
 ### Rechenregeln
 #### Doppelte Negation
-
+Eine Doppelte Negation ergibt wieder den Ursprünglichen Wert:
+$$
+A = \overline{\overline{A}}
+$$
+#### Absorptionsgesetze
