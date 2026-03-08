@@ -33,7 +33,7 @@ Die UND Normalform besteht aus allen [[#Minterme/Maxterme|Maxtermen]]. Aus der o
 $$
 Y = (\overline{A} + \overline{B}) \cdot (\overline{A}+ B) \cdot (A + \overline{B})
 $$
-Diese Normalform lässt sich noch vereinfachen (siehe Beispiel [[#Volladdierer]])
+Diese Normalform lässt sich noch vereinfachen (siehe Beispiel [[#Volladdierer DNF|Volladdierer]])
 ## Schaltzeichen
 Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschiedene Normen.
 
@@ -118,5 +118,28 @@ Y &= \overline{A \cdot B \cdot C +((\overline{A} \cdot B + \overline{A} \cdot B 
 \end{align}
 $$
 
-## Volladdierer
+## Volladdierer DNF
+
+| A   | B   | C   | Y     |                                |
+| --- | --- | --- | ----- | ------------------------------ |
+| 0   | 0   | 0   | 0     |                                |
+| 0   | 0   | 1   | 0     |                                |
+| 0   | 1   | 0   | 0     |                                |
+| 0   | 1   | 1   | ==1== | $\overline{A} \cdot B \cdot C$ |
+| 1   | 0   | 0   | 0     |                                |
+| 1   | 0   | 1   | ==1== | $A \cdot \overline{B} \cdot C$ |
+| 1   | 1   | 0   | ==1== | $A \cdot B \cdot \overline{C}$ |
+| 1   | 1   | 1   | ==1== | $A \cdot B \cdot C$            |
+Aus den Mintermen kann nun die DNF gebaut werden
+$$
+Y = (\overline{A} \cdot B \cdot C)+(A \cdot \overline{B} \cdot C)+(A \cdot B \cdot \overline{C})+(A \cdot B \cdot C)
+$$
+Solange nun nur ein Unterschied in den Termen existiert können sie einer nach dem anderen Zusammengefasst werden. Der letzte Term $(A \cdot B \cdot C)$ kann aufgrund der [[#Absorptionsgesetze]] so oft hinten angehängt werden wie man will.
+$$
+\begin{align}
+Y &= A \cdot B \cdot  \cancel{\underset{1}{(C + \overline{C})} }+ A \cdot C \cdot \cancel{\underset{1}{(B + \overline{B})}} + B \cdot C \cdot \cancel{\underset{1}{(A + \overline{A})}} \\
+Y &= A \cdot B + A \cdot C + B \cdot C
+\end{align}
+$$
+>[!info] Bei der KNF ist es dasselbe nur mit ODER 
 

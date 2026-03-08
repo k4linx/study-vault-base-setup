@@ -203,12 +203,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,14 +225,15 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "a15b9052a6e06a47",
+  "active": "c9333317a6660490",
   "lastOpenFiles": [
+    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
+    "26FS/Module/dt1 - Digitaltechnik 1/SW03-dt1 Kombinatorik.md",
     "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
     "Diverses/Mathematik Auffrischungskurs/Gleichungssysteme, Ungleichungen, Betrag & Potenzen.md",
     "Diverses/Mathematik Auffrischungskurs/Gleichungen und Funktionen.md",
     "Diverses/Mathematik Auffrischungskurs/Exponentialfunktionen, Ähnlichkeit & Strahlensatz.md",
     "Diverses/Mathematik Auffrischungskurs/Ähnlichkeit, Strahlensatz & Sinussatz.md",
-    "26FS/Module/dt1 - Digitaltechnik 1/SW03-dt1 Kombinatorik.md",
     "SW03-dt1 Kombinatorik_abgeleitete_funktionen.png",
     "SW03-dt1 Kombinatorik_grundfunktionen.png",
     "SW03-dt1 Kombinatorik.png",
@@ -257,7 +257,6 @@
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW03-an2 Volumen und Mittelwertberechnung mit Integralen.md",
-    "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "26FS/Module/mech - Mechanik/mech - Mechanik.base",
     "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
     "Eulerschen zahl.md",
