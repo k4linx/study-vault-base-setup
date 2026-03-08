@@ -48,4 +48,9 @@ Eine logische Schaltung hat stufen die eine Auskunft über die Komplexität gibt
 4. EXOR, EXNOR und Implikationen
 
 ### Boolsche Axiome
-- Eine ODER Funktion liefert genau dann 0 wenn alle Eingänge 0 sind
+- Eine ODER Funktion liefert genau dann 0 wenn alle Eingänge 0 sind.
+- Eine UND Funktion liefert genau dann 1 wenn alle Eingänge 1 sind.
+
+### Rechenregeln
+#### Doppelte Negation
+
