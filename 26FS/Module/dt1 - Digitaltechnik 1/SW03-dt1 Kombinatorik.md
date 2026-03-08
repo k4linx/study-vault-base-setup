@@ -24,12 +24,15 @@ Die Wahrheitstabelle zeigt die Kombination der Eingänge und deren Ausgangswert.
 Minterme sind alle Kombinationen der Eingänge die in der Wahrheitstabelle eine $1$ ergeben.
 Maxterme sind alle Kombinationen der Eingänge die in der Wahrheitstabelle eine 0 ergeben.
 ### ODER Normalform (Disjunktive Normalform DNF)
-Die ODER Normalform besteht aus allen[[#Minterme/Maxterme|Mintermen]] . Aus der obigen Wahrheitstabelle ergibt sich die Normalform:
+Die ODER Normalform besteht aus allen [[#Minterme/Maxterme|Mintermen]]. Aus der obigen Wahrheitstabelle ergibt sich die Normalform:
 $$
 Y = A \cdot B
 $$
 ### UND Normalform (Konjunktive Normalform KNF)
-Die UND Normalform besteht aus allen [[#Minterme/Maxterme|Maxtermen]] 
+Die UND Normalform besteht aus allen [[#Minterme/Maxterme|Maxtermen]]. Aus der obigen Wahrheitstabelle ergibt sich die Normalform:
+$$
+Y = (\overline{A + B) \cdot (A+)
+$$
 ## Schaltzeichen
 Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschiedene Normen.
 
