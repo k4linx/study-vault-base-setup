@@ -28,7 +28,11 @@ Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschi
 | IEC Norm                                      | ANSI Norm                                  |
 | --------------------------------------------- | ------------------------------------------ |
 | ![[SW03-dt1 Kombinatorik_und_iec.png#invert]] | ![[SW03-dt1 Kombinatorik_ANSI.png#invert]] |
+## Schaltfunktionen
 ### Grundfunktionen
 ![[SW03-dt1 Kombinatorik_grundfunktionen.png#invert]]
 ### Abgeleitete Funktionen
 ![[SW03-dt1 Kombinatorik_abgeleitete_funktionen.png#invert]]
+
+### Stufigkeit
+Eine logische Schaltung hat stufen die eine Aus
