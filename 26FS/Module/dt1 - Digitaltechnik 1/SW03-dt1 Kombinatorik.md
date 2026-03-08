@@ -33,7 +33,7 @@ Die UND Normalform besteht aus allen [[#Minterme/Maxterme|Maxtermen]]. Aus der o
 $$
 Y = (\overline{A} + \overline{B}) \cdot (\overline{A}+ B) \cdot (A + \overline{B})
 $$
-Diese 
+Diese Normalform lässt sich noch vereinfachen (siehe Beispiel [[#Volladdierer]])
 ## Schaltzeichen
 Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschiedene Normen.
 
@@ -117,3 +117,6 @@ Y &= \overline{A \cdot B \cdot C +((\overline{A} \cdot B + \overline{A} \cdot B 
 \overline{Y} &= \overline{A} + \overline{B}+ \overline{C} \cdot ((A + \overline{B} \cdot A + \overline{B} + C) + \cdot \overline{D})
 \end{align}
 $$
+
+## Volladdierer
+
