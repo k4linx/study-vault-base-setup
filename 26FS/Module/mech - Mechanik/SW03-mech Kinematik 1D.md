@@ -32,16 +32,31 @@ Wenn Richtungsänderungen auftreten, beeinflusst dies die Verschiebung.
 Die Strecke wird von Richtungsänderungen nicht beeinflusst. Um die zurückgelegte Strecke zu berechnen wird der Weg aufsummiert. 
 
 ### Die Geschwindigkeit $v(t)$
-Die Geschwindigkeit ist die Änderung des Ortes Pro Zeit. 
+Die Geschwindigkeit ist die Änderung des Ortes Pro Zeit. deren Einheit ist $\frac{m}{s}$
 #### Die mittlere Geschwindigkeit $\langle v \rangle$
-
+Die Mittlere Geschwindigkeit ist das Verhältnis der Verschiebung $x$ zur Zeit $t$ im Interval $[t_{1}, t_{2}]$ 
+$$
+\langle v \rangle = \frac{\triangle x}{\triangle t}
+$$
 #### Die Momentangeschwindigkeit $v(t)$
 Die Momentangeschwindigkeit zeigt den zeitlichen Verlauf der Geschwindigkeit. 
 $$
 v(4.26) = \frac{x_{2}-x_{1}}{t_{2}-t_{1}} = \frac{\triangle x}{\triangle t} = \frac{7.4cm}{0.26s} = 28.5 \frac{cm}{s}
 $$Das ist gleich die Steigung des Dreiecks aus $\triangle x$ und $\triangle t$ je kleiner der Abstand zum Punkt $t_{2}$ desto genauer wird die Momentangeschwindigkeit. Die Momentangeschwindigkeit ist also die [[Ableitung]] des Ort $x$ nach der Zeit $t$.
 
-### Die Schnelligkeit $\dot{s}$
+#### Die Mittlere Schnelligkeit $\langle \dot{s} \rangle$
+Die Mittlere Schnelligkeit ist das Verhältnis der zurückgelegten Strecke $\triangle s$ und der Zeit $\triangle t$ im Zeitinterval $[t_{1}, t_{2}]$. Die Einheit ist $\frac{m}{s}$
+$$
+\langle \dot{s} \rangle = \frac{\triangle s}{\triangle t}
+$$
+#### Die Schnelligkeit $\dot{s}$
+Die Schnelligkeit ist nichts anderes als der Betrag der Geschwindigkeit:
+$$
+\dot{s}(t) = |v(t)|
+$$
+Die Einheit ist $\frac{m}{s}$
+
+### Die Beschleunigung
 ## Herleitungen
 $$
 
