@@ -11,15 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "SW01-aet1 Strom, Spannung, Widerstand und Schaltungen"
+              "icon": "lucide-table",
+              "title": "an1 - Analysis 1"
             }
           }
         ]
@@ -89,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
+                "file": "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SW01-aet1 Strom, Spannung, Widerstand und Schaltungen"
+              "title": "Graph of an1 - Analysis 1"
             }
           }
         ]
@@ -251,8 +249,10 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "390d0ece70ce5c34",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/aet1 - Allgemeine Elektrotechnik.base",
     "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
@@ -292,12 +292,10 @@
     "26FS/Module/alg - Algebra/alg - Algebra.base",
     "26FS/Zeitpläne/Zeitpläne.base",
     "25HS/Zeitpläne/Zeitpläne.base",
-    "25HS/Zeitpläne/2026-01-04.md",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/7TrigonometrieBis7-5.pdf",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
     "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
     "25HS/Module/spy - scientific python/spy - scientific python.base",
-    "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen",
-    "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base"
+    "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen"
   ]
 }
