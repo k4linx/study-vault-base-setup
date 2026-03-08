@@ -5,12 +5,6 @@ tags:
 Folien:
   - slides_dt1_5_kombinatorik1
 ---
-## Wichtige Formeln
-### Assoziativgesetz
-$$
-
-$$
-
 ## Schaltfunktion
 Die Schaltfunktion ist die Algebraische Darstellung der Schaltung. 
 $$
