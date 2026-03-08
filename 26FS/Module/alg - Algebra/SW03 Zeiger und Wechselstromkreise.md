@@ -1,6 +1,10 @@
 ---
 erstelldatum: 2026-03-04
 tags:
+  - harmonische_schwingungen
+  - zeigerdarstellung
+  - ac_strom
+  - impedanz
 Folien:
   - algWoche03
 ---

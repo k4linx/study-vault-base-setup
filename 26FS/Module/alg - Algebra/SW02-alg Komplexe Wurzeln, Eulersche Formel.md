@@ -84,7 +84,7 @@ $$
 \end{pmatrix}
 $$
 
-Mithilfe der [[KAP9-lalg1 Matrixalgebra#Spezielle Matrizen|Drehmatrix]] kann der Ortsvektor $\vec{x}$ und den Winkel $\alpha$ gedreht werden. Dazu verwendet man das [[KAP9-lalg1 Matrixalgebra#Matrix-Produkt (Falk-Schema)|Falk Schema]] verwendet.
+Mithilfe der [[KAP9-lalg1 Matrixalgebra#Spezielle Matrizen|Drehmatrix]] kann der Ortsvektor $\vec{x}$ und den Winkel $\alpha$ gedreht werden. Dazu verwendet man das [[KAP9-lalg1 Matrixalgebra#Matrix-Produkt (Falk-Schema)|Falk Schema]].
 
 
 ### Satz über die Multiplikation
