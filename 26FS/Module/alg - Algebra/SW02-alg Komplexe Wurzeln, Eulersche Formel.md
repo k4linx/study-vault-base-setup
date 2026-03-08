@@ -85,7 +85,7 @@ Mithilfe der [[KAP9-lalg1 Matrixalgebra#Spezielle Matrizen|Drehmatrix]] kann der
 
 
 ### Satz über die Multiplikation
-
+Bei der multiplikation werden die Beträge von zwei komplexen Zahlen multipliziert und die argumente addiert.
 ### Komplexe Wurzeln
 
 ### Eulersche Formel
