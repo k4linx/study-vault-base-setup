@@ -19,7 +19,8 @@ $$
 
 ## Definitionen
 ### Der Ort $x(t)$
-Der Ort beschreibt die Position zu einem Zeitpunkt $t$. Um den Ort bestimmen 
+Der Ort beschreibt die Position zu einem Zeitpunkt $t$. Um den Ort bestimmen zu können muss:
+- ein
 
 $$
 
