@@ -71,5 +71,5 @@ Das Neutrale Element bei der ODER Funktion ist $0$
 Das Neutrale Element der UND Funktion ist $1$
 
 #### Reduktionsformeln
-$A \cdot (\overline{A} + B) = \underset{(A \cdot \overline{A}) + (A \cdot B)}{} = A \cdot B$
-$$
+$A \cdot (\overline{A} + B) = \underset{0}{(A \cdot \overline{A})}+ (A \cdot B) = A \cdot B$
+$A + (\overline{A} \cdot B) = (A + \overline{A}) \cdot (A + B) $
