@@ -31,7 +31,7 @@ $$
 >2. Um von einer bekannten Geschwindigkeit zum Ort zu kommen muss die Funktion einmal [[Integral|integriert]] werden.
 >3. Um von einer bekannten Geschwindigkeit zur Beschleunigung zu kommen muss die Funktion einmal [[Ableitung|abgeleitet]] werden.
 >4. Um von der Beschleunigung zum Ort zu kommen muss die Funktion zweimal [[Integral|integriert]] werden.
->
+>![[SW03-mech Kinematik 1D_xva(t)<->xva(t).png|400]]
 
 ## Definitionen
 ### Der Ort $x(t)$
