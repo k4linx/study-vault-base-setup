@@ -6,7 +6,15 @@ Folien:
 ## Wichtige Formeln
 ### Beschleunigung
 $$
-a(t) = 
+a(t)
+$$
+### Geschwindigkeit
+$$
+v(t) = \frac{\triangle x}{\triangle t}
+$$
+### Ort
+$$
+x(t) = 
 $$
 
 ## Definitionen
