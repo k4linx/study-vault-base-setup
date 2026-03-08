@@ -23,8 +23,12 @@ Die Wahrheitstabelle zeigt die Kombination der Eingänge und deren Ausgangswert.
 ![[SW03-dt1 Kombinatorik_wahrheitstabelle.png#invert|254]]
 
 ### Schaltzeichen
-Das Schaltzeichen ist die Grafische Darstellung der Schaltung. 
+Das Schaltzeichen ist die Grafische Darstellung der Schaltung. Es gibt 2 verschiedene Normen.
 
-|                                      |     |
-| ------------------------------------ | --- |
-| ![[Pasted image 20260308161446.png]] |     |
+| IEC Norm                                      | ANSI Norm                                  |
+| --------------------------------------------- | ------------------------------------------ |
+| ![[SW03-dt1 Kombinatorik_und_iec.png#invert]] | ![[SW03-dt1 Kombinatorik_ANSI.png#invert]] |
+### Grundfunktionen
+![[SW03-dt1 Kombinatorik_grundfunktionen.png#invert]]
+### Abgeleitete Funktionen
+![[SW03-dt1 Kombinatorik_abgeleitete_funktionen.png#invert]]
