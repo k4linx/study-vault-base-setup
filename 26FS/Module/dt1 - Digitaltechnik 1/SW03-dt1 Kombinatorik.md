@@ -58,3 +58,10 @@ $$
 A = \overline{\overline{A}}
 $$
 #### Absorptionsgesetze
+**ODER**
+- $A + 0 = A$
+- $A+1 = 1$
+- $A+\overline{A}= 1$
+**UND**
+- $A \cdot 0 = 0$
+- $A \cdot 1 = 1$
