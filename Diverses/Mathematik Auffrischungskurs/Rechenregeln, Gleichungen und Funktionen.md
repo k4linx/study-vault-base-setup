@@ -40,7 +40,7 @@ erstelldatum: 2025-08-18
 > [!abstract] Distributivgesetz: 
 > $$a*(b+c)= a*b+a*c = ab+ac $$
 > > [!important] Wichtig
-> > **Wichtig:** beim Distributivgesetz ist immer [[Rechenregeln, Gleichungen und Funktionen#Punkt vor Strich|Punkt vor Strich]] operieren.
+> > **Wichtig:** beim Distributivgesetz ist immer **Punkt vor Strich** operieren.
 
 ### Weitere Regeln:
 

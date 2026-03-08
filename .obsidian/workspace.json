@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diverses/Organisatorisch/Studienmodelle und Ihre Unterschiede.md",
+                "file": "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Studienmodelle und Ihre Unterschiede"
+              "title": "Outline of SW03-mech Kinematik 1D"
             }
           },
           {
@@ -203,8 +203,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -226,12 +226,23 @@
               "icon": "clock",
               "title": "Reminders"
             }
+          },
+          {
+            "id": "c9333317a6660490",
+            "type": "leaf",
+            "state": {
+              "type": "broken-links-view",
+              "state": {},
+              "icon": "unlink",
+              "title": "Broken links"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,19 +256,24 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "callout-manager:Insert Callout": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "broken-links:View broken links": false
     }
   },
   "active": "a15b9052a6e06a47",
   "lastOpenFiles": [
-    "Ableitung.md",
-    "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
+    "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
+    "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
     "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
     "26FS/Module/mech - Mechanik/SW02-mech Statische Gleichgewichte.md",
+    "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
+    "Ableitung.md",
     "26FS/Module/alg - Algebra/Unterlagen/SW03 Zeiger und Wechselstromkreise_parallelschaltung_impedanz.png",
     "Home.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
-    "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW03-an2 Volumen und Mittelwertberechnung mit Integralen.md",
@@ -283,9 +299,6 @@
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/SW05-oop1 Variablen und Berechnungen, Kontrollanweisungen.md",
     "25HS/Module/an1 - Analysis 1/2025-12-03 Zusammenfassung 1-3.md",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-09-14 - 01 Gleichstrommessgeräte/01 Gleichstrommessgeräte - 2025-09-14.md",
-    "25HS/Module/konvE - Konvergenz Elektrotechnik/2025-12-06 konvE SW 1-7.md",
-    "Diverses/Cheatsheets/Math cheatsheet.md",
-    "Diverses/Cheatsheets/TikZ cheatsheet.md",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen/SW01-oop1 Einführung_bytecode_jvm.png",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen",
     "26FS/Module/an2 - Analysis 2/an2 - Analysis 2.base",

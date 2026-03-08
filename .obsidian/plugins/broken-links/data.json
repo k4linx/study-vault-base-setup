@@ -1,0 +1,40 @@
+{
+  "version": "1.2.2",
+  "previousVersion": "1.0.0",
+  "groupBy": 0,
+  "expandedFolderItems": [
+    "25HS",
+    "25HS/Module",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker",
+    "25HS/Module/lalg1 - Lineare Algebra 1",
+    "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
+    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
+    "Diverses",
+    "Diverses/Mathematik Auffrischungskurs",
+    "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
+    "26FS",
+    "26FS/Module",
+    "26FS/Module/aet1 - Allgemeine Elektrotechnik",
+    "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
+    "26FS/Module/alg - Algebra",
+    "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+    "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
+    "26FS/Module/an2 - Analysis 2",
+    "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
+    "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
+    "26FS/Module/mech - Mechanik",
+    "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md"
+  ],
+  "expandedFileItems": [],
+  "expandedLinkItems": [],
+  "folderSort": 0,
+  "fileSort": 3,
+  "linkSort": 3,
+  "linkFilter": {
+    "filterString": "",
+    "matchCase": false
+  },
+  "ignoredFolders": [],
+  "consolidateLinks": false
+}

@@ -257,7 +257,7 @@ Die Messerwartungen decken sich mit den Gemessenen Resultaten. Auch die Frequenz
 <div class="page-break" style="page-break-before: always;"></div>
 
 #### 3.1.2 Beschreibung
-Die beiden Versuchsaufbauten aus den [[#1. Invertierender Verstärker|Versuch 1]] und [[#2. Invertierender Verstärker|Versuch 2]] wurden zur Klarheit erneut dargestellt. In diesem Kapitel werden nun auf den [[#1. Invertierender Verstärker|Versuchen 1]] und [[#2. Invertierender Verstärker|2]] aufbauend  die Beträge der Gemessenen Resultate bei $1kHz$ dargestellt.
+Die beiden Versuchsaufbauten aus den [[#1. Invertierender Verstärker|Versuch 1]] und [[#2. Nichtinvertierender Verstärker|Versuch 2]] wurden zur Klarheit erneut dargestellt. In diesem Kapitel werden nun auf den [[#1. Invertierender Verstärker|Versuchen 1]] und [[#2. Nichtinvertierender Verstärker|2]] aufbauend  die Beträge der Gemessenen Resultate bei $1kHz$ dargestellt.
 
 | Schaltung      | Invertierend (R2=1kΩ) | Invertierend (R2=10kΩ) | Nichtinvertierend (R2=1kΩ) | Nichtinvertierend (R2=10kΩ) |
 | -------------- | --------------------- | ---------------------- | -------------------------- | --------------------------- |

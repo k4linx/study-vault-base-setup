@@ -28,7 +28,7 @@ $$ \sum_{i=1}^n (a_i + b_i) = \sum_{i=1}^n a_i + \sum_{i=1}^n b_i $$
 Eine Matrix ist eine rechteckige Tabelle mit Zahlen, die aus Zeilen (horizontal) und Spalten (vertikal) besteht. Eine Matrix heisst **quadratisch**, wenn sie exakt gleich viele Zeilen wie Spalten besitzt ($n \times n$).
 
 ### Koeffizientenmatrix
-Lineare Gleichungssysteme lassen sich elegant als Produkt einer Koeffizientenmatrix $A$ und eines Vektors der Unbekannten $\vec{x}$ darstellen: $A \odot \vec{x} = \vec{b}$. Dies baut direkt auf den Lösungsverfahren aus [[KAP8-lalg1 Lösungen von linearen Gleichungssystemen#|Lösungen von LGS]] auf.
+Lineare Gleichungssysteme lassen sich elegant als Produkt einer Koeffizientenmatrix $A$ und eines Vektors der Unbekannten $\vec{x}$ darstellen: $A \odot \vec{x} = \vec{b}$. Dies baut direkt auf den Lösungsverfahren aus [[KAP8-lalg1 Lösungen von linearen Gleichungssystemen|Lösungen von LGS]] auf.
 
 ### Spezielle Matrizen
 - **Einheitsmatrix ($\mathbb{I}$) oder Drehmatrix:** Besitzt lauter Einsen auf der Hauptdiagonalen und sonst nur Nullen.
