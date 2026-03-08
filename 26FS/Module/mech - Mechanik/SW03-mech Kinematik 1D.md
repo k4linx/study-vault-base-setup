@@ -17,7 +17,7 @@ a(t) = \frac{v(t)-v(t_{1})}{t-t_{1}}=\frac{dv}{dt}(t)
 $$
 ### Geschwindigkeit
 $$
-v(t) = \lim_{t_{1}\rightarrow t} = \frac{x(t)-x(t_{1})}{t-t_{1}} = \lim_{\triangle t \rightarrow 0} \frac{\triangle x}{\triangle t}
+v(t) = \lim_{t_{1}\rightarrow t} = \frac{x(t)-x(t_{1})}{t-t_{1}} = \lim_{\triangle t \rightarrow 0} \frac{\triangle x}{\triangle t} = \frac{dx}{dt}(t)
 $$
 $$
 v(t) = \int a(t) dt + v_{0}
@@ -26,6 +26,13 @@ $$
 $$
 x(t) = \int v(t) dt + x_{0}
 $$
+>[!summary] 
+>1. Um von einem bekannten Ort zur Beschleunigung zu kommen muss die Ortsfunktion 2 mal [[Ableitung|abgeleitet]] werden. 
+>2. Um von einer bekannten Geschwindigkeit zum Ort zu kommen muss die Funktion einmal [[Integral|integriert]] werden.
+>3. Um von einer bekannten Geschwindigkeit zur Beschleunigung zu kommen muss die Funktion einmal [[Ableitung|abgeleitet]] werden.
+>4. Um von der Beschleunigung zum Ort zu kommen muss die Funktion zweimal [[Integral|integriert]] werden.
+>
+
 ## Definitionen
 ### Der Ort $x(t)$
 Der Ort beschreibt die Position zu einem Zeitpunkt $t$. In einem x-t-Diagramm kann der Ort in Abhängigkeit von der Zeit dargestellt werden. 
@@ -64,7 +71,7 @@ v(4.26) = \frac{x_{2}-x_{1}}{t_{2}-t_{1}} = \frac{\triangle x}{\triangle t} = \f
 $$
 Das ist gleich die Steigung des Dreiecks aus $\triangle x$ und $\triangle t$ je kleiner der Abstand zum Punkt $t_{2}$ desto genauer wird die Momentangeschwindigkeit. Die Momentangeschwindigkeit ist also die [[Ableitung]] des Ort $x$ nach der Zeit $t$.
 
-Ist nun die Beschleunigung bekannt kann die Geschwindigkeit $v(t)$ mithilfe eines [[Integrals]] berechnet werden
+Ist nun die Beschleunigung bekannt kann die Geschwindigkeit $v(t)$ mithilfe eines [[Integral|Integrals]] berechnet werden
 $$
 v(t) = \int a(t) dt + C
 $$
