@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
             }
           }
         ]
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of SW02-an2 Trigonometrische Formeln, Arkusfunktionen"
             }
           }
         ]
@@ -253,6 +253,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
     "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
@@ -280,7 +281,6 @@
     "26FS/Module/mech - Mechanik/unterlagen/SW03-mech Kinematik 1D_konkave.png",
     "26FS/Module/mech - Mechanik/unterlagen/SW03-mech Kinematik 1D_konvex.png",
     "26FS/Module/mech - Mechanik/mech - Mechanik.base",
-    "Home.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
     "Diverses/Mathematik Auffrischungskurs/Rechenregeln, Gleichungen und Funktionen.md",
     "Diverses/Mathematik Auffrischungskurs/Gleichungssysteme, Ungleichungen, Betrag & Potenzen.md",

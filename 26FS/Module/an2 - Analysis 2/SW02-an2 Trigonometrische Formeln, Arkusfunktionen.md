@@ -12,9 +12,9 @@ Folien:
   - an2Woche02
 ---
 ## Wichtige Formeln
-### sin^2 cos^2 tan^2 
+### $\sin^{2}, \cos^{2}\tan^{2}$
 $$
-
+\sin^{2}=
 $$
 ### Ableitung arcsin
 $$
