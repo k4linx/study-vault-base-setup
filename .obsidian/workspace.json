@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "6458f670f552dfe4",
@@ -253,6 +254,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "SW05-an1 Tangentensteigung, Ableitung_sekantensteigung.png",
     "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
     "Home.md",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
@@ -292,7 +294,6 @@
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW03-dt1 Kombinatorik_or.png",
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW03-dt1 Kombinatorik_not.png",
     "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW03-dt1 Kombinatorik_or_wh.png",
-    "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
     "26FS/Module/alg - Algebra/alg - Algebra.base",
     "26FS/Zeitpläne/Zeitpläne.base",
     "25HS/Zeitpläne/Zeitpläne.base",
