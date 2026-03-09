@@ -95,10 +95,8 @@ $$
 \dot{s}(t) = |v(t)|
 $$
 Die Einheit ist $\frac{m}{s}$
-
 ### Die Beschleunigung $a$
 Die Beschleunigung ist die Änderung pro Zeit der Geschwindigkeit. Die Einheit der Beschleunigung ist $\frac{m}{s^{2}}$. 
-
 #### Die Momentanbeschleunigung $a(t)$
 Die Momentanbeschleunigung ist die [[Ableitung]] der Momentangeschwindigkeit $v(t)$
 $$
