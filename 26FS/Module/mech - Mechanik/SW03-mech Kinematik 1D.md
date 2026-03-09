@@ -19,7 +19,7 @@ a(t) = \frac{v(t)-v(t_{1})}{t-t_{1}}=\frac{dv}{dt}(t)
 $$
 ### Geschwindigkeit
 $$
-v(t) = \lim_{t_{1}\rightarrow t} = \frac{x(t)-x(t_{1})}{t-t_{1}} = \lim_{\triangle t \rightarrow 0} \frac{\triangle x}{\triangle t} = \frac{dx}{dt}(t)
+v(t) = \lim_{t_{1}\rightarrow t} = \frac{x(t)-x(t_{1})}{t-t_{1}} = \lim_{\Delta t \rightarrow 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt}(t)
 $$
 $$
 v(t) = \int a(t) dt + v_{0}
@@ -49,9 +49,9 @@ $$
 y(t) = \int v(t) dt + y_{0}
 $$
 #### Die Verschiebung
-Im obigen Diagramm sieht man die Position $x_{1}(2.00s)$ bei $11.3 cm$ und die Position $x_{2}(4.26s)$ bei $-2.1cm$. um nun die Verschiebung zu berechnen wird $x_{2}-x_{1}$ gerechnet. das ergibt delta $\triangle$:
+Im obigen Diagramm sieht man die Position $x_{1}(2.00s)$ bei $11.3 cm$ und die Position $x_{2}(4.26s)$ bei $-2.1cm$. um nun die Verschiebung zu berechnen wird $x_{2}-x_{1}$ gerechnet. das ergibt delta $\Delta$:
 $$
-\triangle x = -2.1 - 11.3 = 13.4cm
+\Delta x = -2.1 - 11.3 = 13.4cm
 $$
 Wenn Richtungsänderungen auftreten, beeinflusst dies die Verschiebung.
 #### Die Strecke $s$
@@ -65,14 +65,14 @@ Die Geschwindigkeit ist die Änderung des Ortes Pro Zeit. deren Einheit ist $\fr
 #### Die mittlere Geschwindigkeit $\langle v \rangle$
 Die Mittlere Geschwindigkeit ist das Verhältnis der Verschiebung $x$ zur Zeit $t$ im Interval $[t_{1}, t_{2}]$ 
 $$
-\langle v \rangle = \frac{\triangle x}{\triangle t}
+\langle v \rangle = \frac{\Delta x}{\Delta t}
 $$
 #### Die Momentangeschwindigkeit $v(t)$
 Die Momentangeschwindigkeit zeigt den zeitlichen Verlauf der Geschwindigkeit. 
 $$
-v(4.26) = \frac{x_{2}-x_{1}}{t_{2}-t_{1}} = \frac{\triangle x}{\triangle t} = \frac{7.4cm}{0.26s} = 28.5 \frac{cm}{s}
+v(4.26) = \frac{x_{2}-x_{1}}{t_{2}-t_{1}} = \frac{\Delta x}{\Delta t} = \frac{7.4cm}{0.26s} = 28.5 \frac{cm}{s}
 $$
-Das ist gleich die Steigung des Dreiecks aus $\triangle x$ und $\triangle t$ je kleiner der Abstand zum Punkt $t_{2}$ desto genauer wird die Momentangeschwindigkeit. Die Momentangeschwindigkeit ist also die [[Ableitung]] des Ort $x$ nach der Zeit $t$.
+Das ist gleich die Steigung des Dreiecks aus $\Delta x$ und $\Delta t$ je kleiner der Abstand zum Punkt $t_{2}$ desto genauer wird die Momentangeschwindigkeit. Die Momentangeschwindigkeit ist also die [[Ableitung]] des Ort $x$ nach der Zeit $t$.
 
 Ist nun die Beschleunigung bekannt kann die Geschwindigkeit $v(t)$ mithilfe eines [[Integral|Integrals]] berechnet werden
 $$
@@ -85,9 +85,9 @@ $$
 
 ### Die Schnelligkeit $\dot{s}$
 #### Die Mittlere Schnelligkeit $\langle \dot{s} \rangle$
-Die Mittlere Schnelligkeit ist das Verhältnis der zurückgelegten Strecke $\triangle s$ und der Zeit $\triangle t$ im Zeit Intervall $[t_{1}, t_{2}]$. Die Einheit ist $\frac{m}{s}$
+Die Mittlere Schnelligkeit ist das Verhältnis der zurückgelegten Strecke $\Delta s$ und der Zeit $\Delta t$ im Zeit Intervall $[t_{1}, t_{2}]$. Die Einheit ist $\frac{m}{s}$
 $$
-\langle \dot{s} \rangle = \frac{\triangle s}{\triangle t}
+\langle \dot{s} \rangle = \frac{\Delta s}{\Delta t}
 $$
 #### Die momentane Schnelligkeit $\dot{s}$
 Die Schnelligkeit ist nichts anderes als der Betrag der Geschwindigkeit:
@@ -103,9 +103,9 @@ $$
 a(t) = \frac{dv}{dt}(t) = v'(t) = x''(t)
 $$
 #### Die mittlere Beschleunigung $\langle a \rangle$
-Die Mittlere Beschleunigung ergibt sich aus dem $\triangle v$ und $\triangle t$:
+Die Mittlere Beschleunigung ergibt sich aus dem $\Delta v$ und $\Delta t$:
 $$
-\langle a \rangle = \frac{v(t_{2})-v(t_{1})}{t_{2}-t_{1}} = \frac{\triangle v}{\triangle t}
+\langle a \rangle = \frac{v(t_{2})-v(t_{1})}{t_{2}-t_{1}} = \frac{\Delta v}{\Delta t}
 $$
 Wenn die zweite [[Ableitung]] $\frac{d^{2}x}{dt^{2}} > 0$ ist hat x eine Konvexe Krümmung.
 ![[SW03-mech Kinematik 1D_konvex.png#invert|282]]
