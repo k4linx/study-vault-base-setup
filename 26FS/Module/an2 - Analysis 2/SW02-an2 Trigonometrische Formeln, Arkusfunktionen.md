@@ -12,9 +12,12 @@ Folien:
   - an2Woche02
 ---
 ## Wichtige Formeln
-### $\sin^{2}, \cos^{2}\tan^{2}$
+### $\sin^{2}, \cos^{2}$
 $$
-\sin^{2}=
+\begin{align}
+\sin^{2}(\alpha)= \frac{1}{2} - \frac{1}{2} \cos(2\alpha) \\
+\cos^{2}(\alpha) = \frac{1}{2} + \frac{1}{2} \cos(2 \alpha)
+\end{align}
 $$
 ### Ableitung arcsin
 $$
@@ -45,6 +48,7 @@ $$
 ---
 ## Definitionen
 ### Trigonometrischer Pythagoras
+Der Trigonometrische Pythagoras ist wie der normale Pythagoras aber mit sinus und cosinus
 $$
 \sin^{2}(t)+ \cos^{2}(t) = 1
 $$
