@@ -11,13 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
-                "viewName": "Table"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "an1 - Analysis 1"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -87,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of an1 - Analysis 1"
+              "title": "Graph of Home"
             }
           }
         ]
@@ -251,12 +253,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.md",
     "26FS/Module/aet1 - Allgemeine Elektrotechnik/SW01-aet1 Strom, Spannung, Widerstand und Schaltungen.md",
-    "26FS/Module/aet1 - Allgemeine Elektrotechnik/aet1 - Allgemeine Elektrotechnik.base",
-    "26FS/Module/alg - Algebra/SW03 Zeiger und Wechselstromkreise.md",
-    "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
     "26FS/Module/alg - Algebra/SW01-alg Komplexe Zahlen.md",
+    "26FS/Module/alg - Algebra/SW02-alg Komplexe Wurzeln, Eulersche Formel.md",
+    "26FS/Module/alg - Algebra/SW03-alg Zeiger und Wechselstromkreise.md",
     "26FS/Module/an2 - Analysis 2/SW01-an2 Umkehrfunktionen & Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW02-an2 Trigonometrische Formeln, Arkusfunktionen.md",
     "26FS/Module/an2 - Analysis 2/SW03-an2 Volumen und Mittelwertberechnung mit Integralen.md",
@@ -266,10 +266,19 @@
     "26FS/Module/mech - Mechanik/SW03-mech Kinematik 1D.md",
     "26FS/Module/mech - Mechanik/SW02-mech Statische Gleichgewichte.md",
     "26FS/Module/mech - Mechanik/SW01-mech Kräfte und Drehmomente.md",
-    "SW03-mech Kinematik 1D_xva(t)<->xva(t).png",
-    "SW03-mech Kinematik 1D_konkav_konvex.png",
-    "SW03-mech Kinematik 1D_konkave.png",
-    "SW03-mech Kinematik 1D_konvex.png",
+    "templates/note/math_note.md",
+    "templates/note/note_content_template.md",
+    "templates/note/programming_note.md",
+    "25HS/Module/an1 - Analysis 1/SW05-an1 Tangentensteigung, Ableitung.md",
+    "26FS/Module/mech - Mechanik/unterlagen/SW03-mech Kinematik 1D_konkav_konvex.png",
+    "25HS/Module/an1 - Analysis 1/Unterlagen",
+    "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW03-dt1 Kombinatorik.png",
+    "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
+    "Untitled.md",
+    "26FS/Module/aet1 - Allgemeine Elektrotechnik/aet1 - Allgemeine Elektrotechnik.base",
+    "26FS/Module/mech - Mechanik/unterlagen/SW03-mech Kinematik 1D_xva(t)<->xva(t).png",
+    "26FS/Module/mech - Mechanik/unterlagen/SW03-mech Kinematik 1D_konkave.png",
+    "26FS/Module/mech - Mechanik/unterlagen/SW03-mech Kinematik 1D_konvex.png",
     "26FS/Module/mech - Mechanik/mech - Mechanik.base",
     "Home.md",
     "Diverses/Cheatsheets/LaTex Cheatsheet.md",
@@ -278,24 +287,17 @@
     "Diverses/Mathematik Auffrischungskurs/Gleichungen und Funktionen.md",
     "Diverses/Mathematik Auffrischungskurs/Exponentialfunktionen, Ähnlichkeit & Strahlensatz.md",
     "Diverses/Mathematik Auffrischungskurs/Ähnlichkeit, Strahlensatz & Sinussatz.md",
-    "SW03-dt1 Kombinatorik_abgeleitete_funktionen.png",
-    "SW03-dt1 Kombinatorik_grundfunktionen.png",
-    "SW03-dt1 Kombinatorik.png",
-    "SW03-dt1 Kombinatorik_or.png",
-    "SW03-dt1 Kombinatorik_not.png",
-    "SW03-dt1 Kombinatorik_or_wh.png",
+    "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW03-dt1 Kombinatorik_abgeleitete_funktionen.png",
+    "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW03-dt1 Kombinatorik_grundfunktionen.png",
+    "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW03-dt1 Kombinatorik_or.png",
+    "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW03-dt1 Kombinatorik_not.png",
+    "26FS/Module/dt1 - Digitaltechnik 1/Unterlagen/SW03-dt1 Kombinatorik_or_wh.png",
     "25HS/Module/emtL - Labor Elektrische Messtechnik/2025-12-01 - Messauftrag 09 Analoger Operationsverstärker/Messauftrag 09 Analoger Operationsverstärker - 2025-12-01.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP8-lalg1 Lösungen von linearen Gleichungssystemen.md",
-    "25HS/Module/lalg1 - Lineare Algebra 1/KAP9-lalg1 Matrixalgebra.md",
-    "Ableitung.md",
-    "Eulerschen zahl.md",
     "26FS/Module/alg - Algebra/alg - Algebra.base",
     "26FS/Zeitpläne/Zeitpläne.base",
     "25HS/Zeitpläne/Zeitpläne.base",
     "Diverses/Mathematik Auffrischungskurs/Unterlagen/7TrigonometrieBis7-5.pdf",
     "25HS/Module/oop1 - Objektorientierte Programmierung 1/oop1 - Objektorientierte Programmierung 1.base",
-    "25HS/Module/an1 - Analysis 1/an1 - Analysis 1.base",
-    "25HS/Module/spy - scientific python/spy - scientific python.base",
-    "25HS/Module/oop1 - Objektorientierte Programmierung 1/Unterlagen"
+    "25HS/Module/spy - scientific python/spy - scientific python.base"
   ]
 }

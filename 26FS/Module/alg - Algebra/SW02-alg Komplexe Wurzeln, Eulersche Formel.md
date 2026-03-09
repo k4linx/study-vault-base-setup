@@ -64,6 +64,7 @@ $$
 \end{align}
 $$
 
+---
 ## Definitionen
 ### Satz über die Addition
 Die Addition in der Komplexen Ebene wird wie bei den Vektoren Komponentenweise durchgeführt. Das resultat sind die aneinandergehängten Ortsvektoren.
@@ -155,3 +156,4 @@ Daraus die Polarform wird nun neu
 $$
 z = |z|\cdot e^{i\phi}
 $$
+---

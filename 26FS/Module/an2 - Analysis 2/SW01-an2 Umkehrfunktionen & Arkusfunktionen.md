@@ -16,7 +16,7 @@ Folien: an2Woche01
 $$
 u'(y) = \frac{1}{f'(x)}
 $$
-
+---
 ## Definitionen
 ### Umkehrfunktion
 Eine Funktion hat genau dann eine Umkehrfunktion wenn es zu jedem $x$-Wert genau ein $y$-wert gibt. 

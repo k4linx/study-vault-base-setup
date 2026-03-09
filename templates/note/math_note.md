@@ -9,11 +9,10 @@ $$
 
 $$
 
+---
 ## Definitionen
 $$
 
 $$
-## Herleitungen
-$$
 
-$$
+---

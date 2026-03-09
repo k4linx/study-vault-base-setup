@@ -35,8 +35,8 @@ Re(z) &= |z| \cdot \cos(\phi) \\
 Im(z) &= |z|\cdot \sin(\phi)
 \end{align}
 $$
+---
 ## Definitionen
-
 ### Rechenregeln Komplexe Zahlen
 - [[Rechenregeln, Gleichungen und Funktionen#3 Rechengesetze|Assoziativ, Distributiv und Kommutativgesetze]] gelten wie bei reelen Zahlen
 - $\sqrt{a} \cdot \sqrt{b} = \sqrt{a\cdot b}$ gelten nur wenn min 1 Zahl von $a, b \geq 0$ ist
@@ -102,6 +102,8 @@ Im = |z|\cdot \sin(\phi)
 $$
 ergibt
 ![[SW01-alg-komplexe-zahlen_umrechnung_pol_kart.png#invert]]
+
+---
 ## Herleitungen
 ### Cardanos Problem
 $$
@@ -129,3 +131,4 @@ sinnvoll.
 $$
 x = 5 \pm \sqrt{15}\cdot i
 $$
+---

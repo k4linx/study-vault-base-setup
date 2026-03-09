@@ -23,6 +23,7 @@ $$
 \vec{M} = r \cdot F \cdot \sin \varphi
 \end{align}
 $$
+---
 ## Definitionen
 ### Kraft
 Die Kraft wird aus der Wirkung einer Aktion auf einen Körper definiert. Diese ist nur die Auswirkung von z.B. einem Stoss an einem Wagen der den Wagen ins Rollen bringt.

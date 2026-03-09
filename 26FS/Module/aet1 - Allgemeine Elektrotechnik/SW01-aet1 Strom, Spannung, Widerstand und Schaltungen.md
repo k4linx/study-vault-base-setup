@@ -87,6 +87,7 @@ $$
 $$
 \frac{P_{L}}{P_{AV}} = \frac{4}{2+ \frac{R_{l}}{R_{q}}+ \frac{R_{q}}{R_{L}}}
 $$
+---
 ## Grundgesetze
 ### Knotensatz
 Ein Knoten kann keine Ladungen speichern weshalb die Kontengleichung immer 0 ergeben muss.
@@ -283,3 +284,4 @@ Das Verhältnis zwischen der Leistung $P_{L}$ und der Leistungsanpassung $P_{AV}
 $$
 \frac{P_{L}}{P_{AV}} = \frac{4}{2+ \frac{R_{l}}{R_{q}}+ \frac{R_{q}}{R_{L}}}
 $$
+---

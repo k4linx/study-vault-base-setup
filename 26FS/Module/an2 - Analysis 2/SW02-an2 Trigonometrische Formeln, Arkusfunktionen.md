@@ -42,7 +42,7 @@ b \gt 0 \ \Rightarrow \varphi &= - \arccos\left( \frac{a}{r} \right) \Leftrighta
 \end{align}
 
 $$
-
+---
 ## Definitionen
 ### Trigonometrischer Pythagoras
 $$
@@ -123,3 +123,5 @@ $$
 \int \frac{5}{x^{2}+2x+10} dx = \int \frac{5}{(x^{2}+2x+1)+9}dx = \frac{5}{9} \cdot \frac{1}{\left( \frac{x+1}{3} \right)^{2}+1} dx = \frac{5}{3} \arctan\left( \frac{x+1}{3} \right)
 $$
 Wenn nun eine $-9$ erschienen wäre, müsste man die [[Partialbruchzerlegung]] anwenden, da das [[Polynom]] 2 Nullstellen hätte.
+
+---

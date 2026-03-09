@@ -3,18 +3,10 @@ erstelldatum: <% tp.date.now("YYYY-MM-DD") %>
 tags:
 Folien:
 ---
+## Wichtige Begriffe
 
-## ⁉️ Fragen
-
----
-## 💡 Wichtige Begriffe
 
 ---
-## 📄 Zusammenfassung
+## Zusammenfassung
 
 ---
-## ✅ ToDo
-
----
-## 📕 Quellen
-- 

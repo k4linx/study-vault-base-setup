@@ -10,12 +10,12 @@ Folien:
 ---
 
 
-## 💡 Wichtige Begriffe
+## Wichtige Begriffe
 - **Binärsystem**: Zahlensystem mit Basis $2^{n}$
 - **Hexadezimalsystem**: Zahlensystem mit Basis $16^{n}$
 - **Zweierkomplement**: System um negative Binäre Ganzzahlen darzustellen
 ---
-## 📄 Zusammenfassung
+## Zusammenfassung
 ### Binärsystem
 Im Binären Zahlensystem werden Zahlen mit $1$ und $0$ dargestellt. $\micro$chips und Computer rechnen nur im Binärsystem. Wobei $1$ ein "High" und $0$ ein "Low darstellt".
 #### Bits, Bytes etc.

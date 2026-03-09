@@ -64,6 +64,7 @@ $$
 \frac{1}{\underline{Z}_{AB}} = \frac{1}{\underline{Z}_{1}} + \frac{1}{\underline{Z}_{2}} \Leftrightarrow \underline{Z_{AB}} = \frac{\underline{Z}_{1}+\underline{Z}_{2}}{\underline{Z}_{1}+\underline{Z}_{2}}
 $$
 
+---
 ## Definitionen
 ### harmonische Schwingung
 Mit der [[SW02-alg Komplexe Wurzeln, Eulersche Formel#Eulersche Formel|Eulerschen Formel]] kann eine Harmonische Schwingung zu einer Komplexen Schwingung aufgeblasen, zum rechnen ist dies aber oft einfacher. dies nennt man den [[#Rotierender Zeiger|rotierenden Zeiger]] kurz Zeiger.
@@ -145,3 +146,5 @@ $$
 [[Ableitung|Ableiten]] einer Harmonischen Schwingung bedeutet die Amplitude mit der Kreisfrequenz $\omega$ multiplizieren und mit der Phase $\frac{pi}{2}$ erhöhen.
 Anders ausgedrückt:
 Die Amplitude wächst um den Faktor $\omega$ und die Phase verschiebt sich um $\frac{pi}{2}$
+
+---
